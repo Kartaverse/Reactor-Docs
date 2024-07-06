@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 04.16 PM
+Atom to Markdown.py - v1.6 2024-07-06 04.30 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -20,8 +20,8 @@ Step 1. Open the "Script > Atomz > Markdown Create" menu item. The Console windo
 Todo
 -----
 - List the suggested donation URL
-- Add support for InstallScripts
-- Add support for Atom Dependency tags
+- List if there is an InstallScript/UninstallScript
+- Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
 
 """
 
@@ -183,29 +183,25 @@ def MarkdownCreate(folder):
 							fAtom.write("___\n\n")
 
 							fAtom.write("## Author\n")
-							fAtom.write(" : " + author + "\n\n")
+							fAtom.write(author + "\n\n")
 
 							fAtom.write("## Version\n")
-							fAtom.write(" : v" + str(version) + "\n\n")
+							fAtom.write(str(version) + "\n\n")
 
 							fAtom.write("## Category\n")
-							fAtom.write(" : " + str(cat) + "\n")
-							fAtom.write("___\n\n")
+							fAtom.write(str(cat) + "\n")
+
+							fAtom.write("\n___\n\n")
 
 							fAtom.write("## Description\n")
 							fAtom.write(str(html))
 
 							#print("[Atomz][Info]", name, "v" + str(version), "by", author)
-							#print(html)
-
 							#print("[Atom][Dict Contents]")
 							#print(atomDict)
-							# allFiles
-							# winFiles
-							# macFiles
-							# linuxFiles
 
-							fAtom.write("___\n\n")
+							fAtom.write("\n\n___\n\n")
+
 							fAtom.write("## Dependencies\n\n")
 							#print("\n[Deploy][All]")
 							allDependencies = GetValue("Dependencies", atomDict, {})
@@ -222,9 +218,7 @@ def MarkdownCreate(folder):
 							# Check the active operating system (Darwin, Windows, Linux)
 							hostOS = platform.system()
 
-							fAtom.write("\n___\n\n")
 							fAtom.write("## Deploy\n\n")
-							
 
 							#print("\n[Deploy][All]")
 							allDeploy = GetValue("Deploy", atomDict, {})
@@ -243,41 +237,38 @@ def MarkdownCreate(folder):
 							deployMac = GetValue("Mac", allDeploy, {})
 							deployWindows = GetValue("Windows", allDeploy, {})
 
-							if hostOS == "Linux":
-								if deployLinux:
-									fAtom.write("\n### Linux\n\n")
-								#print("\n[Deploy][Linux]")
-								for key in deployLinux:
-									file = deployLinux[key]
-									try:
-										#print("\t[Install]", file)
-										fAtom.write("> " + str(file) + "  \n")
-									except Exception as error:
-										print("\t[Install Error]", error)
+							if deployLinux:
+								fAtom.write("\n### Linux\n\n")
+							#print("\n[Deploy][Linux]")
+							for key in deployLinux:
+								file = deployLinux[key]
+								try:
+									#print("\t[Install]", file)
+									fAtom.write("> " + str(file) + "  \n")
+								except Exception as error:
+									print("\t[Install Error]", error)
 
-							if hostOS == "Darwin":
-								if deployMac:
-									fAtom.write("\n### macOS\n\n")
-								#print("\n[Deploy][Mac]")
-								for key in deployMac:
-									file = deployMac[key]
-									try:
-										#print("\t[Install]", file)
-										fAtom.write("> " + str(file) + "  \n")
-									except Exception as error:
-										print("\t[Install Error]", error)
+							if deployMac:
+								fAtom.write("\n### macOS\n\n")
+							#print("\n[Deploy][Mac]")
+							for key in deployMac:
+								file = deployMac[key]
+								try:
+									#print("\t[Install]", file)
+									fAtom.write("> " + str(file) + "  \n")
+								except Exception as error:
+									print("\t[Install Error]", error)
 
-							if hostOS == "Windows":
-								if deployWindows:
-									fAtom.write("\n### Windows\n\n")
-								#print("\n[Deploy][Windows]")
-								for key in deployWindows:
-									file = deployWindows[key]
-									try:
-										#print("\t[Install]", file)
-										fAtom.write("> " + str(file) + "  \n")
-									except Exception as error:
-										print("\t[Install Error]", error)
+							if deployWindows:
+								fAtom.write("\n### Windows\n\n")
+							#print("\n[Deploy][Windows]")
+							for key in deployWindows:
+								file = deployWindows[key]
+								try:
+									#print("\t[Install]", file)
+									fAtom.write("> " + str(file) + "  \n")
+								except Exception as error:
+									print("\t[Install Error]", error)
 					endTimer = datetime.datetime.now()
 					elapsedTime = (endTimer - startTimer).total_seconds()
 					mins, secs = divmod(elapsedTime, 60)
