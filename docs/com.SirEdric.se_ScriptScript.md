@@ -1,0 +1,43 @@
+# ScriptScript
+___
+
+## Author
+ : Eric 'SirEdric' Westphal
+
+## Version
+ : v0.95
+
+## Category
+ : Scripts/Comp
+___
+
+## Description
+<h1 align="center"><sup>&#91;se&#93;</sup>SrciptScript </h1> <h3 align="center"> Comp Script Framework</h3>
+<p>Many times one has to do *really* simple things in script. Like setting all Loaders to postMultiply by Alpha.
+Normally, this are just three lines like 
+<pre>if tool.PostMultiplyByAlpha then
+    tool.PostMultiplyByAlpha&#91;1&#93; = 1
+end
+</pre>
+But to actually share stuff like that with a larger team, one has to write all that shizbang for comp:, toollist(), flow, maybe a Dialog, and of course an Undo event.
+So instead of three lines you end up with 50.<br>
+Now here comes ScriptScript into play.<br>
+A home for all those snippets and small routines. Along with documentation for your co-workers.
+You can keep the dialogue open on the second monitor, as it will always pick the current comp.
+Large monster-scripts could be called externally from this dialogue as well, but primarily ScriptScript is for those nifty little every day tidbits.<br>
+While this is still in Beta, development will go on.<br>
+
+For up to date information on the latest and greatest
+follow the thread on WSL here: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1887&p=14478#p14478<br><br>
+</p>___
+
+## Dependencies
+
+
+___
+
+## Deploy
+
+### Common (No Architecture)
+
+> Scripts/Comp/SirEdric/se_ScriptScript.lua  

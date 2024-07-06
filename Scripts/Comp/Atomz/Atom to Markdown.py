@@ -1,10 +1,8 @@
 # Reactor Git Repo Location
-repoPath = "$HOME/Documents/Git/Reactor4"
-#repoPath = "$HOME/Documents/Git/Reactor/"
-
+repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 04.02 PM
+Atom to Markdown.py - v1.6 2024-07-06 04.16 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -165,13 +163,6 @@ def MarkdownCreate(folder):
 					mdFileName = dirName + ".md"
 					mdAtomName = dirName
 
-					endTimer = datetime.datetime.now()
-					elapsedTime = (endTimer - startTimer).total_seconds()
-					mins, secs = divmod(elapsedTime, 60)
-					timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
-					#print(atomFilepath, "->", mdFilepath, timeFormatted)
-					print(mdFileName, timeFormatted)
-
 					atomDict = bmd.readfile(atomFilepath)
 					if atomDict is None:
 						print("[Atom][Atom Parsing Error]")
@@ -287,6 +278,12 @@ def MarkdownCreate(folder):
 										fAtom.write("> " + str(file) + "  \n")
 									except Exception as error:
 										print("\t[Install Error]", error)
+					endTimer = datetime.datetime.now()
+					elapsedTime = (endTimer - startTimer).total_seconds()
+					mins, secs = divmod(elapsedTime, 60)
+					timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
+					#print(atomFilepath, "->", mdFilepath, timeFormatted)
+					print(mdFileName, timeFormatted)
 	print("-------------------------------------")
 
 if __name__ == "__main__":

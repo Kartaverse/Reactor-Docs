@@ -1,0 +1,53 @@
+# Switch Anything
+___
+
+## Author
+ : Jacob Danell
+
+## Version
+ : v1.01
+
+## Category
+ : Tools/Flow
+___
+
+## Description
+<center><h2>Switch Anything</h2></center>
+<p>Switch between different inputs of any kind.</p>
+
+<p>Current working input-types:
+<ul>
+	<li>Image</li>
+	<li>Mask</li>
+	<li>3D</li>
+	<li>Material</li>
+</ul>
+</p>
+<p>If any other type of input is needed, simply add them under InMode in the code.</p>
+<p>Sadly particle-node-switching doesn't work because the way they are built.</p>
+
+<p>For more info, please check:</p>
+
+<br>WSL thread: <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?t=5321">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=5321</a></br>
+
+
+<p>
+Changelog:<br/>
+v1.0.1, 2022-02-24:<br />
+- Fixed faulty output<br />
+- Had to remove Particle type as it didn't work<br />
+<br />
+v1.0, 2022-02-03:<br />
+- First release!<br />
+</p>___
+
+## Dependencies
+
+
+___
+
+## Deploy
+
+### Common (No Architecture)
+
+> Fuses/Flow/SwitchAnything.fuse  

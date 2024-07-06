@@ -1,0 +1,210 @@
+# KartaVR Tools | Legacy Conversion
+___
+
+## Author
+ : Andrew Hazelden
+
+## Version
+ : v5.73
+
+## Category
+ : Legacy/Tools/VR
+___
+
+## Description
+<p>The KartaVR legacy Conversion nodes allow you to remap panoramic imagery.</p>
+	
+<p>These nodes are mainly relevant for Fusion (Free) v9 and Fusion Studio v9 users. The newer Kartaverse DCTL fuses offer updated, GPU accelerated alternatives to many of these macros.</p>___
+
+## Dependencies
+
+
+___
+
+## Deploy
+
+### Common (No Architecture)
+
+> Macros/KartaVR/Conversion/Angular2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/Angular2CubicFaces.setting  
+> Macros/KartaVR/Conversion/Angular2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/Angular2Equirectangular.setting  
+> Macros/KartaVR/Conversion/Angular2MeshUV.bmp  
+> Macros/KartaVR/Conversion/Angular2MeshUV.setting  
+> Macros/KartaVR/Conversion/Cubemap3x22CubicFaces.bmp  
+> Macros/KartaVR/Conversion/Cubemap3x22CubicFaces.setting  
+> Macros/KartaVR/Conversion/CubicFaces2Cubemap3x2.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2Cubemap3x2.setting  
+> Macros/KartaVR/Conversion/CubicFaces2Cylindrical.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2Cylindrical.setting  
+> Macros/KartaVR/Conversion/CubicFaces2Domemaster180.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2Domemaster180.setting  
+> Macros/KartaVR/Conversion/CubicFaces2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2Equirectangular.setting  
+> Macros/KartaVR/Conversion/CubicFaces2FacebookCubemap3x2.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2FacebookCubemap3x2.setting  
+> Macros/KartaVR/Conversion/CubicFaces2FacebookVerticalStrip.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2FacebookVerticalStrip.setting  
+> Macros/KartaVR/Conversion/CubicFaces2GearVRMono.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2GearVRMono.setting  
+> Macros/KartaVR/Conversion/CubicFaces2GearVRStereo.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2GearVRStereo.setting  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalCross.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalCross.setting  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalStrip.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalStrip.setting  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalTee.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2HorizontalTee.setting  
+> Macros/KartaVR/Conversion/CubicFaces2MeshUV.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2MeshUV.setting  
+> Macros/KartaVR/Conversion/CubicFaces2MrCube1Map.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2MrCube1Map.setting  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalCross.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalCross.setting  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalStrip.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalStrip.setting  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalTee.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2VerticalTee.setting  
+> Macros/KartaVR/Conversion/CubicFaces2YouTube180.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2YouTube180.setting  
+> Macros/KartaVR/Conversion/CubicFaces2YouTubeCubemap3x2.bmp  
+> Macros/KartaVR/Conversion/CubicFaces2YouTubeCubemap3x2.setting  
+> Macros/KartaVR/Conversion/Cylindrical2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/Cylindrical2CubicFaces.setting  
+> Macros/KartaVR/Conversion/Domemaster2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/Domemaster2Equirectangular.setting  
+> Macros/KartaVR/Conversion/Equirectangular2Angular.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2Angular.setting  
+> Macros/KartaVR/Conversion/Equirectangular2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2CubicFaces.setting  
+> Macros/KartaVR/Conversion/Equirectangular2Cylindrical.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2Cylindrical.setting  
+> Macros/KartaVR/Conversion/Equirectangular2Domemaster180.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2Domemaster180.setting  
+> Macros/KartaVR/Conversion/Equirectangular2Domemaster220.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2Domemaster220.setting  
+> Macros/KartaVR/Conversion/Equirectangular2Fisheye.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2Fisheye.setting  
+> Macros/KartaVR/Conversion/Equirectangular2InverseAngular.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2InverseAngular.setting  
+> Macros/KartaVR/Conversion/Equirectangular2InverseDomemaster180.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2InverseDomemaster180.setting  
+> Macros/KartaVR/Conversion/Equirectangular2InverseDomemaster220.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2InverseDomemaster220.setting  
+> Macros/KartaVR/Conversion/Equirectangular2MeshUV.bmp  
+> Macros/KartaVR/Conversion/Equirectangular2MeshUV.setting  
+> Macros/KartaVR/Conversion/EquirectangularStereo2FisheyeStereo.bmp  
+> Macros/KartaVR/Conversion/EquirectangularStereo2FisheyeStereo.setting  
+> Macros/KartaVR/Conversion/EquirectangularStereo2GearVRStereo.bmp  
+> Macros/KartaVR/Conversion/EquirectangularStereo2GearVRStereo.setting  
+> Macros/KartaVR/Conversion/FacebookCubemap3x22CubicFaces.bmp  
+> Macros/KartaVR/Conversion/FacebookCubemap3x22CubicFaces.setting  
+> Macros/KartaVR/Conversion/FacebookCubemap3x2Stereo2CubicFacesStereo.bmp  
+> Macros/KartaVR/Conversion/FacebookCubemap3x2Stereo2CubicFacesStereo.setting  
+> Macros/KartaVR/Conversion/FacebookCubemap3x2Stereo2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/FacebookCubemap3x2Stereo2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/FacebookVerticalStrip2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/FacebookVerticalStrip2CubicFaces.setting  
+> Macros/KartaVR/Conversion/FacebookVerticalStrip2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/FacebookVerticalStrip2Equirectangular.setting  
+> Macros/KartaVR/Conversion/Fisheye2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/Fisheye2Equirectangular.setting  
+> Macros/KartaVR/Conversion/FisheyeStereo2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/FisheyeStereo2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/FisheyeStereoDisparity2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/FisheyeStereoDisparity2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/GearVRMono2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/GearVRMono2CubicFaces.setting  
+> Macros/KartaVR/Conversion/GearVRMono2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/GearVRMono2Equirectangular.setting  
+> Macros/KartaVR/Conversion/GearVRStereo2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/GearVRStereo2CubicFaces.setting  
+> Macros/KartaVR/Conversion/GearVRStereo2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/GearVRStereo2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/HorizontalCross2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/HorizontalCross2CubicFaces.setting  
+> Macros/KartaVR/Conversion/HorizontalStrip2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/HorizontalStrip2CubicFaces.setting  
+> Macros/KartaVR/Conversion/HorizontalTee2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/HorizontalTee2CubicFaces.setting  
+> Macros/KartaVR/Conversion/MRCube1HorizontalStrip2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/MRCube1HorizontalStrip2CubicFaces.setting  
+> Macros/KartaVR/Conversion/MeshUV2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/MeshUV2Equirectangular.setting  
+> Macros/KartaVR/Conversion/MeshUV2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/MeshUV2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/Rectilinear2Equirectangular.bmp  
+> Macros/KartaVR/Conversion/Rectilinear2Equirectangular.setting  
+> Macros/KartaVR/Conversion/RectilinearStereo2EquirectangularStereo.bmp  
+> Macros/KartaVR/Conversion/RectilinearStereo2EquirectangularStereo.setting  
+> Macros/KartaVR/Conversion/VerticalCross2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/VerticalCross2CubicFaces.setting  
+> Macros/KartaVR/Conversion/VerticalStrip2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/VerticalStrip2CubicFaces.setting  
+> Macros/KartaVR/Conversion/VerticalTee2CubicFaces.bmp  
+> Macros/KartaVR/Conversion/VerticalTee2CubicFaces.setting  
+> Macros/KartaVR/Conversion/YouTubeCubemap3x22CubicFaces.bmp  
+> Macros/KartaVR/Conversion/YouTubeCubemap3x22CubicFaces.setting  
+> Macros/KartaVR/Conversion/YouTubeCubemap3x22Equirectangular.bmp  
+> Macros/KartaVR/Conversion/YouTubeCubemap3x22Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/Angular2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/Angular2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/Angular2MeshUV.setting  
+> Templates/Fusion/KartaVR/Conversion/Cubemap3x22CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2Cubemap3x2.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2Cylindrical.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2Domemaster180.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2FacebookCubemap3x2.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2FacebookVerticalStrip.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2GearVRMono.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2GearVRStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2HorizontalCross.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2HorizontalStrip.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2HorizontalTee.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2MeshUV.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2MrCube1Map.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2VerticalCross.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2VerticalStrip.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2VerticalTee.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2YouTube180.setting  
+> Templates/Fusion/KartaVR/Conversion/CubicFaces2YouTubeCubemap3x2.setting  
+> Templates/Fusion/KartaVR/Conversion/Cylindrical2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/Domemaster2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2Angular.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2Cylindrical.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2Domemaster180.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2Domemaster220.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2Fisheye.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2InverseAngular.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2InverseDomemaster180.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2InverseDomemaster220.setting  
+> Templates/Fusion/KartaVR/Conversion/Equirectangular2MeshUV.setting  
+> Templates/Fusion/KartaVR/Conversion/EquirectangularStereo2FisheyeStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/EquirectangularStereo2GearVRStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/FacebookCubemap3x22CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/FacebookCubemap3x2Stereo2CubicFacesStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/FacebookCubemap3x2Stereo2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/FacebookVerticalStrip2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/FacebookVerticalStrip2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/Fisheye2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/FisheyeStereo2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/FisheyeStereoDisparity2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/GearVRMono2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/GearVRMono2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/GearVRStereo2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/GearVRStereo2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/HorizontalCross2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/HorizontalStrip2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/HorizontalTee2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/MRCube1HorizontalStrip2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/MeshUV2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/MeshUV2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/Rectilinear2Equirectangular.setting  
+> Templates/Fusion/KartaVR/Conversion/RectilinearStereo2EquirectangularStereo.setting  
+> Templates/Fusion/KartaVR/Conversion/VerticalCross2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/VerticalStrip2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/VerticalTee2CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/YouTubeCubemap3x22CubicFaces.setting  
+> Templates/Fusion/KartaVR/Conversion/YouTubeCubemap3x22Equirectangular.setting  

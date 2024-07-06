@@ -1,0 +1,45 @@
+# Forum Utilities
+___
+
+## Author
+ : We Suck Less
+
+## Version
+ : v1.9
+
+## Category
+ : Scripts/We Suck Less
+___
+
+## Description
+<h2>We Suck Less Forum Utilities</h2>
+
+<p>Tools that help make you a better user of the We Suck Less Fusion forum.</p>
+
+<p>The Copy Nodes To Codebox Snippet script lets you copy a selection of Fusion nodes to your clipboard, formatted as a <b>Codebox</b> tagged snippet for pasting in the We Suck Less post editor, with a dated filename.</p>
+
+<p>It doesn't do much else but it's really handy for quickly sharing something!</p>
+
+<p>The included Config file maps the function to CTRL-SHIFT-C in Fusion, and adds the action to Fusion's Edit menu.</p>
+
+<p>The Search WSL script lets you quickly search for answers on WSL using the "Edit &gt; Search WSL" menu item. The Config file maps the function to the Shift+Control+F (Win/Linux) or Shift+Command+F (macOS) hotkey.</p>
+
+<h3>We Suck Less companion topics:</h3>
+
+<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1863</p>
+<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=3074</p>
+
+___
+
+## Dependencies
+
+
+___
+
+## Deploy
+
+### Common (No Architecture)
+
+> Config/WeSuckLess.fu  
+> Scripts/Comp/We Suck Less/Copy Nodes To Codebox Snippet.lua  
+> Scripts/Comp/We Suck Less/Search WSL.lua  
