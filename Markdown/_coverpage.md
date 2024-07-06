@@ -4,9 +4,9 @@
 
 # Reactor Docs
 
-> Allows you to easily search through all Reactor atom packages
+> This site allows you to easily search through all the Reactor atom package content.
 
-- Generated with Fusion Studio 19
+- Generated with Fusion Studio 19 and the "Atom to Markdown" script.
 
 [GitHub](https://github.com/Kartaverse/Reactor-Docs)
 [Get Started](#reactor-atom-packages)
