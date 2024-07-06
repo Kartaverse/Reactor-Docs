@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 04.41 PM
+Atom to Markdown.py - v1.6 2024-07-06 04.50 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -19,10 +19,12 @@ Step 1. Open the "Script > Atomz > Markdown Create" menu item. The Console windo
 
 Todo
 -----
+- Add collapsible "sidebar" Reactor category hierarchies
 - List the suggested donation URL
 - List if there is an InstallScript/UninstallScript
-- Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
 - Add a URL link to WSL Reactor gitlab repo resources when clicking on deployed files
+- Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
+
 """
 
 import os, shutil, datetime, math, re, csv, platform
