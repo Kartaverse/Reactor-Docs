@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ ___
 <p>Step 2. Re-open the Reactor window and browse to the "Reactor" Repo and select the "Collection" Category.</p>
 <p>Step 3. Click on the "Transfer Atom Settings" file and then press the "Install" or "Update" buttons.</p>
 
-<p>You will have to hit the "Okay" button to continue the installation process as each of the Reactor Atoms are installed that have a "Suggested Donation" field active.</p>___
-
-## Dependencies
-
+<p>You will have to hit the "Okay" button to continue the installation process as each of the Reactor Atoms are installed that have a "Suggested Donation" field active.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

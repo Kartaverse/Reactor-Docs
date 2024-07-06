@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>Don't adjust anything apart from the Number of Samples before you press Match Reference. After that you can disconnect the reference image and use the gradient separately.</p>
 
 <p>by Gregory Chalenko<br>
-http://www.compositing.ru</p>___
-
-## Dependencies
-
+http://www.compositing.ru</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

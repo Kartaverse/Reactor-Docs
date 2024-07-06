@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
-A script that allows you to set the color of tools as you add them.___
-
-## Dependencies
-
+A script that allows you to set the color of tools as you add them.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

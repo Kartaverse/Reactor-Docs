@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v4.5
+4.5
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
@@ -22,12 +23,11 @@ ___
 https://www.steakunderwater.com/VFXPedia/96.0.243.189/index8206.html?title=Settings_and_Macros/BlurredEdgesRestoration_Description</p>
 
 <p>by Gregory Chalenko<br>
-http://www.compositing.ru/Research/Tools/BlurredEdgesRestoration/</p>___
-
-## Dependencies
-
+http://www.compositing.ru/Research/Tools/BlurredEdgesRestoration/</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

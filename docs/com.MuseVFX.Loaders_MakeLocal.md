@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v2.5
+2.5
 
 ## Category
- : Scripts
+Scripts
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 	<p>The script, which will be found in the /Reactor/Deploy/Scripts/Support folder, is easily modified for use in your pipeline. Instructions are in the comments at the beginning of the Loader_MakeLocal.lua file.</p>
 	<p>Without customization, the script will copy assets to a sub-folder called 'elements' in the same folder as the .comp file. The composition must be saved before the button will work.</p>
 	<p>Because the script is designed to run only from the button, it does not show up in any of the typical script menus within Fusion.</p>
-	<p>As a part of the installation process, this Atom will attempt to detect existing Loader default setting files, and if any are found, it will insert the button into those instead of creating a new default. When removed, the button is deleted from all setting files, but any installed Defaults will not be removed, in case you have made additional changes later.___
-
-## Dependencies
-
+	<p>As a part of the installation process, this Atom will attempt to detect existing Loader default setting files, and if any are found, it will insert the button into those instead of creating a new default. When removed, the button is deleted from all setting files, but any installed Defaults will not be removed, in case you have made additional changes later.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

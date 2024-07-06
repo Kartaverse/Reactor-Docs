@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Composite
+Tools/Composite
+
 ___
 
 ## Description
-<p>Merges up to 64 inputs with independent Blend controls. Look for it in the Composite category.</p>___
-
-## Dependencies
-
+<p>Merges up to 64 inputs with independent Blend controls. Look for it in the Composite category.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Noah Hähnel
+Noah Hähnel
 
 ## Version
- : v2.06
+2.06
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -34,12 +35,11 @@ It also contains many more features. Including:
 </ul>
 
 Any isues, feature requests or other messages can be reported to me by contacting me through any of the channels listed on my 
-<a href="https://noahhaehnel.com/">website.</a> I hope this script saves you as much time as it has saved me.___
-
-## Dependencies
-
+<a href="https://noahhaehnel.com/">website.</a> I hope this script saves you as much time as it has saved me.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

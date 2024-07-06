@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Komkom Doorn
+Komkom Doorn
 
 ## Version
- : v26.0
+26.0
 
 ## Category
- : Comps/Krokodove
+Comps/Krokodove
+
 ___
 
 ## Description
@@ -34,12 +35,11 @@ You can also access the Krokodove Showcase Fusion .comp files using the &quot;Re
 <p><a href="https://www.facebook.com/krokodove">https://www.facebook.com/krokodove</a></p>
 
 <h2>Email:</h2>
-<p><a href="mailto:raf@komkomdoorn.com">raf@komkomdoorn.com</a></p>___
-
-## Dependencies
-
+<p><a href="mailto:raf@komkomdoorn.com">raf@komkomdoorn.com</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

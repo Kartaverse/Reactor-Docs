@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Tom Berakis
+Tom Berakis
 
 ## Version
- : v2.1
+2.1
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -80,14 +81,13 @@ Supported commands:
 <pre>  /for selected set Center to {0.3,0.7}</pre>
 
 <p>Get the selected tools' names for use with /for commands and scripting:</p>
-<pre>  /for selected id</pre>___
+<pre>  /for selected id</pre>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

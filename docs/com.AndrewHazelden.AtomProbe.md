@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ You can also run this tool from a terminal window using the following type of sy
 
 <pre>
 fuscript -x 'fusion = bmd.scriptapp("Fusion", "localhost");if fusion ~= nil then app = fusion;composition = fu.CurrentComp;comp = composition;SetActiveComp(comp) else print("&#91;Error&#93; Please open up the Fusion GUI before running this tool.") end' -l lua "/Library/Application Support/Blackmagic Design/Fusion/Reactor/Deploy/Scripts/Comp/Andrew Hazelden/Atom Probe Console.lua"
-</pre>___
-
-## Dependencies
-
+</pre>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

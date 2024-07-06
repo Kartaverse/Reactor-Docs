@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : SirEdric
+SirEdric
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -49,12 +50,11 @@ a LineThickness of 10 and MaterialBoost of at least 2 is recommended.</p>
 	<li>Massive improvements for the materials and modification options.</li>
 	<li>Option to create text-labels on the atoms.</li>
 	<li>General improvements.</li>
-</ul>___
-
-## Dependencies
-
+</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

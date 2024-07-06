@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.03
+1.03
 
 ## Category
- : Kartaverse/KartaVP/Tools
+Kartaverse/KartaVP/Tools
+
 ___
 
 ## Description
@@ -31,12 +32,11 @@ ___
 <h2>For More Info:</h2>
 <h3>Kartaverse PT Docs</h3>
 <p><a href="https://github.com/Kartaverse/PT-Data-Nodes-Docs">https://github.com/Kartaverse/PT-Data-Nodes-Docs</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

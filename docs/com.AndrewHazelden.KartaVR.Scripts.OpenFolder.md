@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
-<p>The KartaVR Open Folder scripts make it easy to access the KartaVR tools.</p>___
-
-## Dependencies
-
+<p>The KartaVR Open Folder scripts make it easy to access the KartaVR tools.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR
+Kartaverse/KartaVR
+
 ___
 
 ## Description
-<p>The KartaVR Bonus atom includes two desktop patterns, a set of Linux icons for KartaVR, a KartaVR Fusion window layout, and a legacy Fusion 9 era "FFmpeg video encoding intool script"</p>___
-
-## Dependencies
-
+<p>The KartaVR Bonus atom includes two desktop patterns, a set of Linux icons for KartaVR, a KartaVR Fusion window layout, and a legacy Fusion 9 era "FFmpeg video encoding intool script"</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

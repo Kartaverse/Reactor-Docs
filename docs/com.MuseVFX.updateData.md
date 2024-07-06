@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
 <p>Presents a GUI for easily adding, deleting, or changing CustomData stored in the comp.</p>
 
-<p>by Bryan Ray for MuseVFX</p>___
-
-## Dependencies
-
+<p>by Bryan Ray for MuseVFX</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

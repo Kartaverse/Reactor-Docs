@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : SirEdric
+SirEdric
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps/Templates
+Comps/Templates
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <h3 align="center"> Motion Graphics Template</h3>
 
-<p>A setup using <b>Displace3D</b> and <b>Replicate3D</b> to turn any silhouette or icon into animated blocky structures.</p>___
-
-## Dependencies
-
+<p>A setup using <b>Displace3D</b> and <b>Replicate3D</b> to turn any silhouette or icon into animated blocky structures.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

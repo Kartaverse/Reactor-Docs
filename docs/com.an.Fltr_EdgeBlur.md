@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Nguyễn Tuấn An
+Nguyễn Tuấn An
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Blur
+Tools/Blur
+
 ___
 
 ## Description
-<p>You only need to use the "Blur Size" knob most of the time, Quite ideal for lazy people like me.</p>___
-
-## Dependencies
-
+<p>You only need to use the "Blur Size" knob most of the time, Quite ideal for lazy people like me.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

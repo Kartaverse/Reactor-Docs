@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.72
+1.72
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
-Switch between the available inputs.___
-
-## Dependencies
-
+Switch between the available inputs.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

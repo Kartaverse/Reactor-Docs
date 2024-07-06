@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
 <p>The KartaVR legacy Z360 tools allow for depthmap based 360VR 6DoF omni-stereo 3D workflows to be done in Fusion. The overall Z360 approach is also known as "RGBD" if you are using other VR tools.</p>
 
-<p>The source footage for Z360 workflows is an over/under formatted LatLong image that has a color panorama on the top of the frame, and a greyscale depthmap panorama on the bottom of the frame. It is possible for you to use external depthmap generators to prepare the z-depth data required by Z360.</p>___
-
-## Dependencies
-
+<p>The source footage for Z360 workflows is an over/under formatted LatLong image that has a color panorama on the top of the frame, and a greyscale depthmap panorama on the bottom of the frame. It is possible for you to use external depthmap generators to prepare the z-depth data required by Z360.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

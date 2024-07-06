@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>Blurs an image at the edge of an input matte. Access it at Macros &gt; Effect &gt; MT_EdgeBlur.</p>___
-
-## Dependencies
-
+<p>Blurs an image at the edge of an input matte. Access it at Macros &gt; Effect &gt; MT_EdgeBlur.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

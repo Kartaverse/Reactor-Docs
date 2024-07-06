@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 	<h3>We Suck Less companion topic:</h3>
 	<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=447</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

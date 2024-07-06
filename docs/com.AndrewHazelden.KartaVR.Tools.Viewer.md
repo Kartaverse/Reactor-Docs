@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
 <p>The KartaVR legacy viewer nodes make it easy to playback immersive imagery in dozens of panoramic image projections inside of Fusion.</p>
 
 <p>This package is relevant for Fusion v9 (Free) and Fusion Studio v9 users. If you are running Fusion Studio v17-19+, or Resolve v17-19+ you should consider using the newer "kvrViewer" DCTL fuse that is available in Reactor.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

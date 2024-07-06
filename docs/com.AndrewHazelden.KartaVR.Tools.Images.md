@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Kartaverse/KartaVR
+Kartaverse/KartaVR
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 <a href="file://Reactor:/Deploy/Macros/KartaVR/Images/">Reactor:/Deploy/Macros/KartaVR/Images/</a></p>
 
 <p>Note: <i>The media assets that included in this atom package are used extensively in the Kartaverse example Fusion .comp files.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

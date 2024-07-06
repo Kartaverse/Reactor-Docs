@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v4.0
+4.0
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ ___
 <p>2. Select an .atom file from an Explorer/Finder/Nautilus desktop folder browsing window.</p>
 
 <p>3. Drag the .atom file to the Fusion Nodes view. The Reactor atom document will be opened up automatically in the "Atom Package Editor" window for editing and review.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

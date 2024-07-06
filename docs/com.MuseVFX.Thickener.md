@@ -2,23 +2,23 @@
 ___
 
 ## Author
- : Joe Laude/MuseVFX
+Joe Laude/MuseVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
 <p>This macro performs an iterative Merge operation. Useful for increasing the opacity of translucent elements such as smoke. Find it in Macros &gt; Effect.</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : JiPi
+JiPi
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Shaders
+Shaders
+
 ___
 
 ## Description
@@ -128,12 +129,11 @@ ___
             <li><a href="https://youtu.be/4R7ZVMyKLnY">Fire Water</a>,</li>
             <li><a href="https://youtu.be/oyndG0pLEQQ">Shadertoyparade</a> all by <a href="https://nmbr73.github.io/Shadertoys/Site/Profiles/JiPi.html" style="color:#a05050; ">JiPi</a></li>
           </ul>
-        </p>___
-
-## Dependencies
-
+        </p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

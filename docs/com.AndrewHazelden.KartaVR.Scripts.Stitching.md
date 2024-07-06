@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
-<p>The KartaVR stitching tools make it easier to stitch live action panoramic imagery in Fusion and Resolve. You can import PTGui v10 .pts files as nodes in your composite.</p>___
-
-## Dependencies
-
+<p>The KartaVR stitching tools make it easier to stitch live action panoramic imagery in Fusion and Resolve. You can import PTGui v10 .pts files as nodes in your composite.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

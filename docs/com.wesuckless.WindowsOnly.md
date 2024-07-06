@@ -2,25 +2,29 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Testing
+Testing
+
 ___
 
 ## Description
-Testing platform specific deploy.___
-
-## Dependencies
-
+Testing platform specific deploy.
 
 ___
+
+## Dependencies
 
 ## Deploy
 
 ### Common (No Architecture)
 
 > Scripts/Comp/WindowsOnly_Shared.lua  
+
+### Windows
+
+> Scripts/Comp/WindowsOnly.lua  

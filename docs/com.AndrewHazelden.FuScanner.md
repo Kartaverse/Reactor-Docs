@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v3.141
+3.141
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 <p>The [x] Show Duplicate checkbox at the top of the window filters the tree view contents so you only see .fu files that have matching (duplicate) filenames. This makes it easy to see when you have multiple .fu files installed that have the same base filename on disk.</p>
 
 <p>Single click on a row to copy the filepath to your clipboard. Double click on a row to open the containing folder. Scroll the Tree view horizontally to the right to see the extra columns.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

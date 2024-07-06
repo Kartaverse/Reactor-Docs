@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Komkom Doorn
+Komkom Doorn
 
 ## Version
- : v7.2
+7.2
 
 ## Category
- : Tools/Plugins
+Tools/Plugins
+
 ___
 
 ## Description
@@ -39,18 +40,25 @@ ___
 <p>https://www.facebook.com/krokodove</p>
 
 <h2>Email:</h2>
-<p>raf@komkomdoorn.com</p>___
-
-## Dependencies
-
+<p>raf@komkomdoorn.com</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
 ### Common (No Architecture)
 
 
+### Linux
+
+> Plugins/Krokodove.plugin  
+
 ### macOS
+
+> Plugins/Krokodove.plugin  
+
+### Windows
 
 > Plugins/Krokodove.plugin  

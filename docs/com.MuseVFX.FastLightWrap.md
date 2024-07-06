@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Stefan Bredereck/MuseVFX
+Stefan Bredereck/MuseVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>A quick and easy light wrap macro. Access it through Macros &gt; Effect &gt; MT_FastLightWrap.</p>___
-
-## Dependencies
-
+<p>A quick and easy light wrap macro. Access it through Macros &gt; Effect &gt; MT_FastLightWrap.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

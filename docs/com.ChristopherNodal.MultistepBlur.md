@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Christopher Nodal
+Christopher Nodal
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Blur
+Tools/Blur
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 <p>Blur and glow effects are built in several steps, with controls to tweak the diffusion bias.</p>
 <p>Indispensible for photographic effects and much faster and more versatile than having to build the setup yourself with multiple blur or glow nodes.</p>
 <br>
-<p>We Suck Less topic: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1916</p>___
-
-## Dependencies
-
+<p>We Suck Less topic: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1916</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,23 +2,23 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Comps
+Legacy/Comps
+
 ___
 
 ## Description
 <p>The KartaVR Legacy Example Comps will get you up to speed with node based VR content creation workflows in Fusion 9 (Free) and Fusion Studio v9.</p>
-<p>A DaVinci Resolve compatible "KartaVR Example Comps.drp" project is included in the same folder as the Fusion Standalone centric .comp files.</p>___
-
-## Dependencies
-
+<p>A DaVinci Resolve compatible "KartaVR Example Comps.drp" project is included in the same folder as the Fusion Standalone centric .comp files.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

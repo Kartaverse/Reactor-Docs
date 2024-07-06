@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v0.3
+0.3
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=3117">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=3117</a>
 
-<p>With many thanks to Peter Loveday and Eric Westphal for support and inspiration.</p>___
-
-## Dependencies
-
+<p>With many thanks to Peter Loveday and Eric Westphal for support and inspiration.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

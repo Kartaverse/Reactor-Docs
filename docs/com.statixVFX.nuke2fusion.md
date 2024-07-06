@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : statixVFX
+statixVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
 <p>nuke2fusion is a set of defaults for Fusion that make transitioning from Nuke easier. It was created by statixVFX.</p>
 
 <p>The nuke2fusion GitHub page is located at:<br>
-https://github.com/statixVFX/nuke2fusion</p>___
-
-## Dependencies
-
+https://github.com/statixVFX/nuke2fusion</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

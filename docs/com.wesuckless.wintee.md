@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.01
+1.01
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -38,12 +39,11 @@ The Wintee atom was packaged by Andrew Hazelden.</p>
 
 <h2>For More Information:</h2>
 <p>https://code.google.com/archive/p/wintee/</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -54,7 +54,18 @@ ___
 > Bin/wintee/source/wintee.c  
 > Bin/wintee/source/wtee.ide  
 
+### Linux
+
+> Bin/wintee/docs/LICENSE.txt  
+> Bin/wintee/docs/readme.txt  
+
 ### macOS
 
+> Bin/wintee/docs/LICENSE.txt  
+> Bin/wintee/docs/readme.txt  
+
+### Windows
+
+> Bin/wintee/bin/wtee.exe  
 > Bin/wintee/docs/LICENSE.txt  
 > Bin/wintee/docs/readme.txt  

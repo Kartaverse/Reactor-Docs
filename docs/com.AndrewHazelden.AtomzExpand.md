@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.6
+1.6
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ ___
 </ul>
 
 <p>If you would like to provide feedback on the evolution of zipped Reactor Atomz Package workflows, please check out the <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?t=6115">development thread on the Steakunderwater forum</a>.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

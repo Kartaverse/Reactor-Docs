@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Tom Berakis
+Tom Berakis
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Filter
+Tools/Filter
+
 ___
 
 ## Description
-Temporal Filter Fuse___
-
-## Dependencies
-
+Temporal Filter Fuse
 
 ___
+
+## Dependencies
 
 ## Deploy
 

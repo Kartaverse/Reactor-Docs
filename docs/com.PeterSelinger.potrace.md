@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Peter Selinger
+Peter Selinger
 
 ## Version
- : v1.15
+1.15
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <h2>License</h2>
 
-<p>GPL v2</p>___
-
-## Dependencies
-
+<p>GPL v2</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -36,7 +36,17 @@ ___
 > Bin/potrace/docs/mkbitmap.1  
 > Bin/potrace/docs/potrace.1  
 
+### Linux
+
+> Bin/potrace/bin/mkbitmap  
+> Bin/potrace/bin/potrace  
+
 ### macOS
 
 > Bin/potrace/bin/mkbitmap  
 > Bin/potrace/bin/potrace  
+
+### Windows
+
+> Bin/potrace/bin/mkbitmap.exe  
+> Bin/potrace/bin/potrace.exe  

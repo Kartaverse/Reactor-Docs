@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 	<p>Updated to v1.1 as a replacement of the standard Wireless link, with added control to go to the connected source node.</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

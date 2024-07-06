@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : YourName
+YourName
 
 ## Version
- : v3.1
+3.1
 
 ## Category
- : Tools/Metadata
+Tools/Metadata
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 <p>This fuse overrides the one that ships with Fusion. There is no need to delete the old one. </p>
 <hr>
 <p>by Bryan Ray<br>
-<a href=http://www.bryanray.name>www.bryanray.name</a></p>___
-
-## Dependencies
-
+<a href=http://www.bryanray.name>www.bryanray.name</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

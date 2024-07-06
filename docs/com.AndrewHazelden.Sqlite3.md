@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v3.23
+3.23
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -72,18 +73,30 @@ cam8.mp4    Sm2MpVideoClip  ad9b2904-c5a9-4e3a-a579-b8f5c3998c50
 cam5.mp4    Sm2MpVideoClip  2d18b9c7-f1f1-4bae-b3e5-8dcbe6cc1d65
 cam1.mp4    Sm2MpVideoClip  2d002633-2e23-4169-a938-d7291f7c15c3
 cam4.mp4    Sm2MpVideoClip  97841817-6456-4784-9362-7455e835197b
-</pre>___
-
-## Dependencies
-
+</pre>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
 ### Common (No Architecture)
 
 
+### Linux
+
+> Bin/sqlite3/LICENSE.txt  
+
 ### macOS
 
 > Bin/sqlite3/LICENSE.txt  
+
+### Windows
+
+> Bin/sqlite3/LICENSE.txt  
+> Bin/sqlite3/sqldiff.exe  
+> Bin/sqlite3/sqlite3.def  
+> Bin/sqlite3/sqlite3.dll  
+> Bin/sqlite3/sqlite3.exe  
+> Bin/sqlite3/sqlite3_analyzer.exe  

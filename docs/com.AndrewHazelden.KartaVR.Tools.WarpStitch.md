@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Tools
+Kartaverse/KartaVR/Tools
+
 ___
 
 ## Description
@@ -30,12 +31,11 @@ ___
 
 <h2>Under the Bridge Example</h2>
 <p>The "Under the Bridge" example stitching comp is now available as a separate atom package in Reactor. This streamlines the installation of the WarpStitch Ultra fuse.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

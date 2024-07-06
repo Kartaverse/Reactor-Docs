@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
-A simple brightness Fuse.___
-
-## Dependencies
-
+A simple brightness Fuse.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

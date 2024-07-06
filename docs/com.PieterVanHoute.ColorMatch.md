@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ Very handy helper for balance grades or matching screen colours across a sequenc
 We Suck Less companion topic:
 
 
-https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=3072___
-
-## Dependencies
-
+https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=3072
 
 ___
+
+## Dependencies
 
 ## Deploy
 

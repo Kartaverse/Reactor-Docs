@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : HeiBa
+HeiBa
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ When using in DaVinci Resolve, manually copy the generated image's save path her
 
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

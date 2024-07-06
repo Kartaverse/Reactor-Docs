@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 <h2>FuScript IDE GitHub Page</h2>
 
 <p>https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

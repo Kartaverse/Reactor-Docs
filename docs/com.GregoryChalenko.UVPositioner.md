@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Deep Pixel
+Tools/Deep Pixel
+
 ___
 
 ## Description
@@ -43,12 +44,11 @@ ___
 <p>by Gregory Chalenko<br>
 <a href="http://www.compositing.ru/Research/">http://www.compositing.ru/Research/</a></p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

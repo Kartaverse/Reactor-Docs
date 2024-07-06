@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR legacy filters allow you to use blurs, color correctors, defocus, displacements, glows, sharpen, and unsharpen filters without getting edge of frame seam artifacts on the left and right side of LatLong imagery.</p>___
-
-## Dependencies
-
+<p>The KartaVR legacy filters allow you to use blurs, color correctors, defocus, displacements, glows, sharpen, and unsharpen filters without getting edge of frame seam artifacts on the left and right side of LatLong imagery.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

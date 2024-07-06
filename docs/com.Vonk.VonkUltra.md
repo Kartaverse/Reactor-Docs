@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.8
+1.8
 
 ## Category
- : Kartaverse/Vonk Ultra
+Kartaverse/Vonk Ultra
+
 ___
 
 ## Description
@@ -38,6 +39,8 @@ The <a href="https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7Ty
 <a href="file://Reactor:/Deploy/Docs/Kartaverse/Vonk Ultra/Vonk Ultra Data Nodes.pdf">Reactor:/Deploy/Docs/Kartaverse/Vonk Ultra/Vonk Ultra Data Nodes.pdf</p>
 
 <p>If you would like to provide feedback on the evolution of the Vonk data nodes, please check out the <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=41165#p41165">development thread on the Steakunderwater forum</a>.</p>
+
+
 
 ___
 
@@ -70,9 +73,6 @@ ___
 > com.Vonk.FusionVector  
 > com.Vonk.FusionYAML  
 > com.Vonk.Scripts  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

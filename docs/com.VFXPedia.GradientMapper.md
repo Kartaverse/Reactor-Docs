@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : VFXPedia
+VFXPedia
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 <p>Tip: In some cases, you might want to preserve the luminance of the original image while just replacing the colours. This can be easily done by using bright colours, then using a Channel Booleans tool to multiply the result of the GradientMapper with the Luminance of its source.</p>
 
 <p>VFXPedia Page - Settings and Macros > GradientMapper Description:<br>
-https://www.steakunderwater.com/VFXPedia/96.0.243.189/index0127.html?title=Settings_and_Macros/GradientMapper_Description</p>___
-
-## Dependencies
-
+https://www.steakunderwater.com/VFXPedia/96.0.243.189/index0127.html?title=Settings_and_Macros/GradientMapper_Description</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

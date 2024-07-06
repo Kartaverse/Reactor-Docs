@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Mask
+Tools/Mask
+
 ___
 
 ## Description
-<p>ml_Lightwrap creates an exponential Lightwrap mask.</p>___
-
-## Dependencies
-
+<p>ml_Lightwrap creates an exponential Lightwrap mask.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

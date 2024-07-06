@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v2.2
+2.2
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
@@ -49,12 +50,11 @@ Now you can use Time Machine to retime that motion, effectively looping, reversi
 	
 <h3>We Suck Less companion topic:</h3>
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=74</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

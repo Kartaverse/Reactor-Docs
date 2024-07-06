@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR Photogrammetry fuse makes it easy to extract footage from quilted view layouts that are popular in lightfield based workflows.</p>___
-
-## Dependencies
-
+<p>The KartaVR Photogrammetry fuse makes it easy to extract footage from quilted view layouts that are popular in lightfield based workflows.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : ShadowMakerSdR - Sander de Regt
+ShadowMakerSdR - Sander de Regt
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/3D
+Tools/3D
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ The sources don't have to be Locators3D, they can actually be any 3D tool that o
 This means that you can also use this tool to position an object between three other objects as well. <br>
 But for positioning something on a plane, Locators3D are the way to go.<br><br> 
 Version 2 now supports aligning objects to the virtual plane as well. <br><br>
-Since the resulting orientation can be flipped depending on which order you select your points in, there are X/Y/Z controls to compensate for these misalignments.___
-
-## Dependencies
-
+Since the resulting orientation can be flipped depending on which order you select your points in, there are X/Y/Z controls to compensate for these misalignments.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

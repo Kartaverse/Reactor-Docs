@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v3.12
+3.12
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -64,12 +65,11 @@ Suggestions and PR's are appreciated: https://github.com/movalex/fusion</p>
 <li>fix Resolve 17+ compatibility (omit __flags data)</li>
 </ul>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Microsoft
+Microsoft
 
 ## Version
- : v2019.0
+2019.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -28,14 +29,30 @@ ___
 <p><a href="https://docs.microsoft.com/en-us/dotnet/framework/">https://docs.microsoft.com/en-us/dotnet/framework/</a></p>
 
 <h2>Windows Installer 3.1</h2>
-<p><a href="https://support.microsoft.com/en-gb/help/893803/windows-installer-3-1-v2-3-1-4000-2435-is-available">https://support.microsoft.com/en-gb/help/893803/windows-installer-3-1-v2-3-1-4000-2435-is-available</a></p>___
-
-## Dependencies
-
+<p><a href="https://support.microsoft.com/en-gb/help/893803/windows-installer-3-1-v2-3-1-4000-2435-is-available">https://support.microsoft.com/en-gb/help/893803/windows-installer-3-1-v2-3-1-4000-2435-is-available</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
 ### Common (No Architecture)
 
+
+### Windows
+
+> Bin/Windows/Visual C++ Redistributable/dotNetFx35_ReadMe.htm  
+> Bin/Windows/Visual C++ Redistributable/dotNetFx35_setup.exe  
+> Bin/Windows/Visual C++ Redistributable/dotNetFx45_ReadMe.htm  
+> Bin/Windows/Visual C++ Redistributable/dotNetFx45_setup.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x64.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x86.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x64.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x86.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x64.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x86.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x64.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x86.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x64.exe  
+> Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x86.exe  

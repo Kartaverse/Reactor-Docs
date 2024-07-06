@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pirates of Confusion
+Pirates of Confusion
 
 ## Version
- : v1.02
+1.02
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ This is only the Lite version with very basic functionality and some limitations
 Blitz Fx is and will be completely free for you to use commercially as you please.<br>
 No gold donation needed, although a bottle of Rum is always welcome.<br><br>
 Beta builds will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty: 
-<a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>___
-
-## Dependencies
-
+<a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

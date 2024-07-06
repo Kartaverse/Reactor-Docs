@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eyeon
+Eyeon
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
@@ -80,12 +81,11 @@ https://www.steakunderwater.com/VFXPedia/96.0.243.189/index8be6.html?title=Eyeon
 <p>A reimplementation of the Merge tool as a Fuse. Good example of the Image:Merge() method.</p>
 
 <h3>FuseTransform.Fuse</h3>
-<p>A reimplementation of the Transform tool as a Fuse. Good example of the Image:Transform() method.</p>___
-
-## Dependencies
-
+<p>A reimplementation of the Transform tool as a Fuse. Good example of the Image:Transform() method.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

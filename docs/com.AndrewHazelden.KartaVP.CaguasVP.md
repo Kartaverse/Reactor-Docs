@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden and Robert Moreno
+Andrew Hazelden and Robert Moreno
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVP/Comps
+Kartaverse/KartaVP/Comps
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ ___
 <h2>Requirements</h2>
 <p>Kartaverse "PT" data nodes, "Vonk Ultra", and "kvrViewer" from the Reactor Package Manager.</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

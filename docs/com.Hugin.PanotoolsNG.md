@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Hugin
+Hugin
 
 ## Version
- : v2014.0
+2014.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 <p>GNU GPL v2<br>
 
 <h2>For More Information:</h2>
-<p>https://sourceforge.net/projects/hugin/files/</p>___
-
-## Dependencies
-
+<p>https://sourceforge.net/projects/hugin/files/</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -44,6 +44,10 @@ ___
 > Bin/panotoolsNG/docs/panotools/README  
 > Bin/panotoolsNG/docs/panotools/stitch.txt  
 > Bin/panotoolsNG/docs/smartblend-hugin-windows-readme.txt  
+
+### Linux
+
+> Bin/panotoolsNG/docs/LICENCE_VIGRA  
 
 ### macOS
 
@@ -387,3 +391,236 @@ ___
 > Bin/panotoolsNG/bin/tiffdump  
 > Bin/panotoolsNG/bin/vig_optimize  
 > Bin/panotoolsNG/docs/LICENCE_VIGRA  
+
+### Windows
+
+> Bin/panotoolsNG/bin/.ExifTool_config  
+> Bin/panotoolsNG/bin/Half.dll  
+> Bin/panotoolsNG/bin/Iex-2_2.dll  
+> Bin/panotoolsNG/bin/IexMath-2_2.dll  
+> Bin/panotoolsNG/bin/IlmImf-2_2.dll  
+> Bin/panotoolsNG/bin/IlmImfUtil-2_2.dll  
+> Bin/panotoolsNG/bin/IlmThread-2_2.dll  
+> Bin/panotoolsNG/bin/Imath-2_2.dll  
+> Bin/panotoolsNG/bin/PTBatcherGUI.exe  
+> Bin/panotoolsNG/bin/PTblender.exe  
+> Bin/panotoolsNG/bin/PTcrop.exe  
+> Bin/panotoolsNG/bin/PTinfo.exe  
+> Bin/panotoolsNG/bin/PTmasker.exe  
+> Bin/panotoolsNG/bin/PTmender.exe  
+> Bin/panotoolsNG/bin/PToptimizer.exe  
+> Bin/panotoolsNG/bin/PTroller.exe  
+> Bin/panotoolsNG/bin/PTtiff2psd.exe  
+> Bin/panotoolsNG/bin/PTtiffdump.exe  
+> Bin/panotoolsNG/bin/PTuncrop.exe  
+> Bin/panotoolsNG/bin/_hsi.pyd  
+> Bin/panotoolsNG/bin/align_image_stack.exe  
+> Bin/panotoolsNG/bin/autooptimiser.exe  
+> Bin/panotoolsNG/bin/boost_filesystem-vc120-mt-1_58.dll  
+> Bin/panotoolsNG/bin/boost_system-vc120-mt-1_58.dll  
+> Bin/panotoolsNG/bin/calibrate_lens_gui.exe  
+> Bin/panotoolsNG/bin/celeste.dll  
+> Bin/panotoolsNG/bin/celeste_standalone.exe  
+> Bin/panotoolsNG/bin/checkpto.exe  
+> Bin/panotoolsNG/bin/collect_data_enblend.bat  
+> Bin/panotoolsNG/bin/collect_data_enfuse.bat  
+> Bin/panotoolsNG/bin/cpclean.exe  
+> Bin/panotoolsNG/bin/cpfind.exe  
+> Bin/panotoolsNG/bin/deghosting_mask.exe  
+> Bin/panotoolsNG/bin/enblend.exe  
+> Bin/panotoolsNG/bin/enblend_droplet.bat  
+> Bin/panotoolsNG/bin/enblend_droplet_360.bat  
+> Bin/panotoolsNG/bin/enfuse.exe  
+> Bin/panotoolsNG/bin/enfuse_align_droplet.bat  
+> Bin/panotoolsNG/bin/enfuse_auto_droplet.bat  
+> Bin/panotoolsNG/bin/enfuse_droplet.bat  
+> Bin/panotoolsNG/bin/enfuse_droplet_360.bat  
+> Bin/panotoolsNG/bin/exiftool.exe  
+> Bin/panotoolsNG/bin/exiftool_enblend_args.txt  
+> Bin/panotoolsNG/bin/exiftool_enfuse_args.txt  
+> Bin/panotoolsNG/bin/exiv2.dll  
+> Bin/panotoolsNG/bin/freeglut.dll  
+> Bin/panotoolsNG/bin/fulla.exe  
+> Bin/panotoolsNG/bin/geocpset.exe  
+> Bin/panotoolsNG/bin/glew32.dll  
+> Bin/panotoolsNG/bin/hpi.py  
+> Bin/panotoolsNG/bin/hsi.py  
+> Bin/panotoolsNG/bin/hugin.exe  
+> Bin/panotoolsNG/bin/hugin_executor.exe  
+> Bin/panotoolsNG/bin/hugin_hdrmerge.exe  
+> Bin/panotoolsNG/bin/hugin_lensdb.exe  
+> Bin/panotoolsNG/bin/hugin_python_interface.dll  
+> Bin/panotoolsNG/bin/hugin_stitch_project.exe  
+> Bin/panotoolsNG/bin/huginbase.dll  
+> Bin/panotoolsNG/bin/huginbasewx.dll  
+> Bin/panotoolsNG/bin/huginlines.dll  
+> Bin/panotoolsNG/bin/icpfind.exe  
+> Bin/panotoolsNG/bin/icpfindlib.dll  
+> Bin/panotoolsNG/bin/jpeg.dll  
+> Bin/panotoolsNG/bin/lcms2.dll  
+> Bin/panotoolsNG/bin/libexpat.dll  
+> Bin/panotoolsNG/bin/libfftw-3.3.dll  
+> Bin/panotoolsNG/bin/libpng16.dll  
+> Bin/panotoolsNG/bin/libtiff.dll  
+> Bin/panotoolsNG/bin/linefind.exe  
+> Bin/panotoolsNG/bin/localfeatures.dll  
+> Bin/panotoolsNG/bin/msvcp120.dll  
+> Bin/panotoolsNG/bin/msvcr120.dll  
+> Bin/panotoolsNG/bin/nona.exe  
+> Bin/panotoolsNG/bin/pano13.dll  
+> Bin/panotoolsNG/bin/pano_modify.exe  
+> Bin/panotoolsNG/bin/pano_trafo.exe  
+> Bin/panotoolsNG/bin/panoinfo.exe  
+> Bin/panotoolsNG/bin/pto_gen.exe  
+> Bin/panotoolsNG/bin/pto_lensstack.exe  
+> Bin/panotoolsNG/bin/pto_mask.exe  
+> Bin/panotoolsNG/bin/pto_merge.exe  
+> Bin/panotoolsNG/bin/pto_move.exe  
+> Bin/panotoolsNG/bin/pto_template.exe  
+> Bin/panotoolsNG/bin/pto_var.exe  
+> Bin/panotoolsNG/bin/smartblend-hugin.bat  
+> Bin/panotoolsNG/bin/sqlite3.dll  
+> Bin/panotoolsNG/bin/tca_correct.exe  
+> Bin/panotoolsNG/bin/unique_filename.bat  
+> Bin/panotoolsNG/bin/vcomp110.dll  
+> Bin/panotoolsNG/bin/vcomp120.dll  
+> Bin/panotoolsNG/bin/verdandi.exe  
+> Bin/panotoolsNG/bin/vig_optimize.exe  
+> Bin/panotoolsNG/bin/vigraimpex.dll  
+> Bin/panotoolsNG/bin/wxbase30u_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxbase30u_xml_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_adv_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_aui_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_core_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_gl_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_html_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_qa_vc_custom.dll  
+> Bin/panotoolsNG/bin/wxmsw30u_xrc_vc_custom.dll  
+> Bin/panotoolsNG/bin/zlib.dll  
+> Bin/panotoolsNG/docs/LICENCE_VIGRA  
+> Bin/panotoolsNG/share/hugin/data/celeste.model  
+> Bin/panotoolsNG/share/hugin/data/default.setting  
+> Bin/panotoolsNG/share/hugin/data/hugin_exiftool_copy.arg  
+> Bin/panotoolsNG/share/hugin/data/plugins-templates/dual_use.py  
+> Bin/panotoolsNG/share/hugin/data/plugins-templates/plugin_skeleton.py  
+> Bin/panotoolsNG/share/hugin/data/plugins/README_woa.txt  
+> Bin/panotoolsNG/share/hugin/data/plugins/crop_cp.py  
+> Bin/panotoolsNG/share/hugin/data/plugins/shooting_pattern.py  
+> Bin/panotoolsNG/share/hugin/data/plugins/top_five.py  
+> Bin/panotoolsNG/share/hugin/data/plugins/woa.py  
+> Bin/panotoolsNG/share/hugin/xrc/about.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/batch_frame.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/batch_menu.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/batch_toolbar.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/cp_editor_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/cp_list_frame.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/cpdetector_dialog.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/data/COPYING  
+> Bin/panotoolsNG/share/hugin/xrc/data/about.htm  
+> Bin/panotoolsNG/share/hugin/xrc/data/add_project.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/add_projects.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/autocrop_tool.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/center_pano.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/crop_tool.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/crop_tool_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/cursor_cp_pick.cur  
+> Bin/panotoolsNG/share/hugin/xrc/data/dedication.htm  
+> Bin/panotoolsNG/share/hugin/xrc/data/drag_tool.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/drag_tool_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/druid.control.128.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/druid.images.128.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/druid.lenses.128.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/druid.optimize.128.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/druid.stitch.128.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/edit_add.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/filenew.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/fileopen.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/filesave.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/filesaveas.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/fit_pano.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/gl_preview.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/gl_preview_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/hugin.ico  
+> Bin/panotoolsNG/share/hugin/xrc/data/hugin.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/hugin_help_en_EN.chm  
+> Bin/panotoolsNG/share/hugin/xrc/data/hugin_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/identify_tool.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/identify_tool_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/info.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/intro.htm  
+> Bin/panotoolsNG/share/hugin/xrc/data/keyboard_pl.html  
+> Bin/panotoolsNG/share/hugin/xrc/data/list.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/logo.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/optimize.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/output_blended_fused.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/output_fused_blended.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/output_hdr.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/output_normal.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/pause.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/photometric.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_auto_update.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_control_point_tool.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_control_point_tool_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_layout.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_layout_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_num_transform.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_show_all.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_show_none.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_white_balance.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/preview_white_balance_small.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/ptbatcher.ico  
+> Bin/panotoolsNG/share/hugin/xrc/data/ptbatcher.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/pto_icon.ico  
+> Bin/panotoolsNG/share/hugin/xrc/data/pto_icon.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/redo.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/reload.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/remove_project.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/skip.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/splash.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/sponsors.htm  
+> Bin/panotoolsNG/share/hugin/xrc/data/start.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/stop.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/straighten_pano.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/tips.txt  
+> Bin/panotoolsNG/share/hugin/xrc/data/transparent.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/undo.png  
+> Bin/panotoolsNG/share/hugin/xrc/data/upstream.txt  
+> Bin/panotoolsNG/share/hugin/xrc/dlg_warning.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/edit_script_dialog.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/image_variable_dlg.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/images_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/lenscal_frame.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/lensdb_dialogs.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/main_frame.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/main_menu.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/main_tool.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/mask_editor_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/optimize_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/optimize_photo_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/pano_panel.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/pref_dialog.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/preview_frame.xrc  
+> Bin/panotoolsNG/share/hugin/xrc/reset_dialog.xrc  
+> Bin/panotoolsNG/share/locale/ca_ES/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/ca_ES@valencia/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/cs_CZ/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/da/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/de/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/en_GB/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/es/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/eu/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/fi/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/fr/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/hu/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/it/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/ja/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/nl/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/pl/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/pt_BR/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/ro/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/ru/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/sk/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/sv/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/zh_CN/LC_MESSAGES/hugin.mo  
+> Bin/panotoolsNG/share/locale/zh_TW/LC_MESSAGES/hugin.mo  

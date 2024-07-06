@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps
+Comps
+
 ___
 
 ## Description
 <p>A 100% procedural VHS emulation effect. <a href="https://www.youtube.com/watch?v=GtmmFQwmVkA">Hop to YouTube</a> for a quick tutorial.</p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v0.6
+0.6
 
 ## Category
- : Tools/IO
+Tools/IO
+
 ___
 
 ## Description
@@ -28,12 +29,11 @@ ___
 An introduction video covering the EXRIO Fuse development on We Suck Less. Fusion needs a simpler Loader.</p>
 
 <h2>Disclaimer</h2>
-<p>This is not even alpha code. You are free to use it, but at your own peril. Come join the dev effort on We Suck Less!</p>___
-
-## Dependencies
-
+<p>This is not even alpha code. You are free to use it, but at your own peril. Come join the dev effort on We Suck Less!</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

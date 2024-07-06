@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eric 'SirEdric' Westphal
+Eric 'SirEdric' Westphal
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Scripts/Tool
+Scripts/Tool
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 	
 <p align="center">Perfect for unnumbered or oddly numbered images that should come in as a sequence in Fusion without renaming the actual files, this script creates an <b>IFL</b> (Image File List) from all images of the same type within one folder.</p>
 
-<p align="center">Simply load any of the images and <b>run this ToolScript directly on the Loader</b>.</p>___
-
-## Dependencies
-
+<p align="center">Simply load any of the images and <b>run this ToolScript directly on the Loader</b>.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

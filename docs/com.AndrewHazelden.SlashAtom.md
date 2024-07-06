@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -23,14 +24,13 @@ Step 2. To quickly open the Atomizer GUI type in:</p>
 
 <p>Alternatively, to open a specific Atom file for editing add the filepath to the end of the command:</p>
 
-<pre>/atom Reactor:/Atoms/Reactor/com.AndrewHazelden.Atomizer.atom</pre>___
+<pre>/atom Reactor:/Atoms/Reactor/com.AndrewHazelden.Atomizer.atom</pre>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

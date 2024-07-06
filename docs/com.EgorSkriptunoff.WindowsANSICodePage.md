@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Egor Skriptunoff
+Egor Skriptunoff
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <h2>For More Information</h2>
 <p><a href="https://gist.github.com/Egor-Skriptunoff/44a88f64f9a497919db4ad8c28259a8f">https://gist.github.com/Egor-Skriptunoff/44a88f64f9a497919db4ad8c28259a8f</a>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

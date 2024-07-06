@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : nuroku
+nuroku
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/IO
+Tools/IO
+
 ___
 
 ## Description
@@ -84,12 +85,11 @@ Also, it seems that there are cases where it does not work properly when using t
 <hr />
 <h1>License</h1>
 <p>This project is licensed under the GNU General Public License v3.0 (GPL-3.0) license.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

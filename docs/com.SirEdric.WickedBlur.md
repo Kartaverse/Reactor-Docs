@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : SirEdric
+SirEdric
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps/Templates
+Comps/Templates
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <h3 align="center">Motion Graphics Template</h3>
 
-<p>A setup using <b>VectorMotionBlur</b> and <b>CustomVertex3D</b> to generate some spooky looking blur and displacement.</p>___
-
-## Dependencies
-
+<p>A setup using <b>VectorMotionBlur</b> and <b>CustomVertex3D</b> to generate some spooky looking blur and displacement.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

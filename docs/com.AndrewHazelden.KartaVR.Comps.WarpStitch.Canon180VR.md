@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Comps
+Kartaverse/KartaVR/Comps
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 <h1>Example Footage License</h1>
 
 <p>The Canon EOS 180VR media used in this example composite features Keeley Ann Turner sitting in a DeLorean car at CES 2022. The footage was photographed by Hugh Hou (<a href="https://www.youtube.com/hughhoufilm">https://www.youtube.com/hughhoufilm</a>). This content is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

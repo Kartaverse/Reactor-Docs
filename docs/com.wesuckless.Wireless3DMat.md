@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Blazej Floch
+Blazej Floch
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
-Brutally Simple Fuse - used to wirelessly connect one part of a composition with another - now for 3D materials!___
-
-## Dependencies
-
+Brutally Simple Fuse - used to wirelessly connect one part of a composition with another - now for 3D materials!
 
 ___
+
+## Dependencies
 
 ## Deploy
 

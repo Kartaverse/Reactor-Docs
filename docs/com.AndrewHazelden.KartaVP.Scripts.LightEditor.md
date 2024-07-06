@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVP/Scripts
+Kartaverse/KartaVP/Scripts
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 
 <p>Requirements:<br>
 Resolve/Fusion v16-19+ is required to use this script due to the use of icon resources in the ui.Tree list view.<br>
-Python v3.6+ is required as well.</p>___
-
-## Dependencies
-
+Python v3.6+ is required as well.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

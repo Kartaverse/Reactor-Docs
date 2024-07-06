@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : eyeon Software
+eyeon Software
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps
+Comps
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 
 <p>Originally developed by Robert Zeltsch for Eyeon Software.</p>
 
-<p>Follow the thread on WSL here:<br> https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=2014</p>___
-
-## Dependencies
-
+<p>Follow the thread on WSL here:<br> https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=2014</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

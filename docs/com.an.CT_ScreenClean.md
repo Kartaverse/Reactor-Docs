@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Nguyễn Tuấn An
+Nguyễn Tuấn An
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
-<p>This is a simple replica of Xavier Bourque PxF_ScreenClean tool found in other VFX software for keying using the Customtool node.</p>___
-
-## Dependencies
-
+<p>This is a simple replica of Xavier Bourque PxF_ScreenClean tool found in other VFX software for keying using the Customtool node.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

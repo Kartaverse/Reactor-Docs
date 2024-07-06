@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : SirEdric
+SirEdric
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 <p>A pimped Background tool offering conversion from RGB to Hex and vice versa.</p>
 
 <p>Watch a short tutorial on how to use this comp on YouTube:<br>
-https://www.youtube.com/watch?v=A1sGqq_kaxY</p>___
-
-## Dependencies
-
+https://www.youtube.com/watch?v=A1sGqq_kaxY</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

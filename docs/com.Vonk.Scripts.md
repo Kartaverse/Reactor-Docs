@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.7
+1.7
 
 ## Category
- : Kartaverse/Vonk Ultra/Scripts
+Kartaverse/Vonk Ultra/Scripts
+
 ___
 
 ## Description
@@ -16,15 +17,14 @@ ___
 
 <p>Open-Source License<br>
 The Vonk scripts are licensed under a GPL v3 license.</p>
+
+
 ___
 
 ## Dependencies
 
 > com.AndrewHazelden.JSONFromFile.DragDrop  
 > com.AndrewHazelden.vTextFromFile.DragDrop  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

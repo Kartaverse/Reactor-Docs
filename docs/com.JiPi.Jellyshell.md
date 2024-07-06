@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : JiPi
+JiPi
 
 ## Version
- : v0.3
+0.3
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
@@ -57,12 +58,11 @@ If you can use it very well, it would be great if you supported WSL ( <a href="h
 	<li></li>
 	<li></li>
 	<li></li>
-</ul>___
-
-## Dependencies
-
+</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

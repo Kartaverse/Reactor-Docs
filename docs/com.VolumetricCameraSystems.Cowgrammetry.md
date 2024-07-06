@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Volumetric Camera Systems
+Volumetric Camera Systems
 
 ## Version
- : v5.0
+5.0
 
 ## Category
- : Legacy/Comps
+Legacy/Comps
+
 ___
 
 ## Description
@@ -44,14 +45,13 @@ Burnaby, BC, Canada</p>
 <p>Email: me@tobiaschen.com<br>
 Web: http://www.VolumetricCameraSystems.com</p>
 
+
+
 ___
 
 ## Dependencies
 
 > com.StefanIhringer.srgb_rec709_viewshaders  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

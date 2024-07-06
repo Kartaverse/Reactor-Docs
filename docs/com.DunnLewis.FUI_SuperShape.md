@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Dunn Lewis
+Dunn Lewis
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
 <p>With this Fuse you can design & animate Circle UI elements and much more. Have Fun.</p>
 
 <p>Based on the Supershapes (Superformula)<br>
-Written by Paul Bourke http://paulbourke.net/geometry/supershape/</p>___
-
-## Dependencies
-
+Written by Paul Bourke http://paulbourke.net/geometry/supershape/</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

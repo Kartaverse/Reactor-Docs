@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.7
+1.7
 
 ## Category
- : Kartaverse/Vonk Ultra/Modifiers
+Kartaverse/Vonk Ultra/Modifiers
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -55,6 +55,15 @@ ___
 > Modules/Lua/vcryptomatte_utilities.lua  
 > Modules/Lua/vtest_cryptomatte_utilities.lua  
 
+### Linux
+
+> Fuses/Kartaverse/Vonk Ultra/Image/IO/vImageFromClipboard.fuse  
+
 ### macOS
 
+> Fuses/Kartaverse/Vonk Ultra/Image/IO/vImageFromClipboard.fuse  
+
+### Windows
+
+> Fuses/Kartaverse/Vonk Ultra/Image/IO/Clipboard2bmp.exe  
 > Fuses/Kartaverse/Vonk Ultra/Image/IO/vImageFromClipboard.fuse  

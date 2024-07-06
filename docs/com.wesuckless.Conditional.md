@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v0.1
+0.1
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
-Conditional Modifier Fuse___
-
-## Dependencies
-
+Conditional Modifier Fuse
 
 ___
+
+## Dependencies
 
 ## Deploy
 

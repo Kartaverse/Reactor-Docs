@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Viewshaders
+Viewshaders
+
 ___
 
 ## Description
 <p>Simple linear-to-sRGB and linear-to-Rec709 viewshaders with Nuke-like gain/gamma sliders.</p>
     <p>Updated to universal fuse with Fusion/Resolve 17+ support by Alexey Bogomolov</p>
 
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

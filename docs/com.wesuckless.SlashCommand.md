@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 <p>If your custom SlashCommand script was called "foo.lua" or "foo.py", then you would run it in the console using:</p>
 <pre>/foo &lt;options&gt;</pre>
 
-<p>SlashCommand .lua scripts work by reading the args[] value that is passed to the script from the Console view. This allows the script to decode each of the parameters that are passed to it.</p>___
-
-## Dependencies
-
+<p>SlashCommand .lua scripts work by reading the args[] value that is passed to the script from the Console view. This allows the script to decode each of the parameters that are passed to it.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

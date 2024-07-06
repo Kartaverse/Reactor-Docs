@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Blazej Floch
+Blazej Floch
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -37,12 +38,11 @@ ___
 <p>If the JSON file can not be loaded, or the field is not found a default value can be supplied. It will be returned as fallback by the modifier.</p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

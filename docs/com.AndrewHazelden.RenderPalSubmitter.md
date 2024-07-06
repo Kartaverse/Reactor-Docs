@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Legacy/Bin
+Legacy/Bin
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ https://www.renderpal.com/download/renderpal-v2
 <p>Open up the "Reactor:/Deploy/Docs/RenderPal Submitter/README.html" help file to learn how to customize this tool.</p>
 
 <p>The Fusion 9 based "RenderPal" menu entry that you can customize is located at "Reactor:/Deploy/Config/Submit to RenderPal.fu".</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

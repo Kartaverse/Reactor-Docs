@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Zash
+Zash
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ Lua-CBOR is licensed using the MIT license.</p>
 <p><a href="https://github.com/Zash/lua-cbor">https://github.com/Zash/lua-cbor</a><p>
 
 <p><a href="http://cbor.io/">http://cbor.io/</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

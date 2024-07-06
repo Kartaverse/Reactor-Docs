@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Nguyễn Tuấn An
+Nguyễn Tuấn An
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
-<p>This is a simple replica of the Inpaint tool found in many VFX software for prep/paint using the cleanplate node.</p>___
-
-## Dependencies
-
+<p>This is a simple replica of the Inpaint tool found in many VFX software for prep/paint using the cleanplate node.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

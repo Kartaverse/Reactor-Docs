@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Legacy/Tools/IO
+Legacy/Tools/IO
+
 ___
 
 ## Description
@@ -67,12 +68,11 @@ ___
 
 <h2>Verbose (Checkbox)</h2>
 
-<p>Print debugging information like the raw cURL download data.</p>___
-
-## Dependencies
-
+<p>Print debugging information like the raw cURL download data.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

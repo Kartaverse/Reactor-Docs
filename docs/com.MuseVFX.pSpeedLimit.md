@@ -2,23 +2,23 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Particles
+Tools/Particles
+
 ___
 
 ## Description
 <p>Creates an upper bound on particles' velocity. Find it in the category Macros &gt; Particles.</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

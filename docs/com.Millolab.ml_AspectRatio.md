@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v2.01
+2.01
 
 ## Category
- : Tools/Transform
+Tools/Transform
+
 ___
 
 ## Description
-<p>Use ml_AspectRato to automatically set the aspect ratio of your footage.</p>___
-
-## Dependencies
-
+<p>Use ml_AspectRato to automatically set the aspect ratio of your footage.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

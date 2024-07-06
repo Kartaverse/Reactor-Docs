@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
-Time3D Fuse. A Time Stretcher for 3D scenes.___
-
-## Dependencies
-
+Time3D Fuse. A Time Stretcher for 3D scenes.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

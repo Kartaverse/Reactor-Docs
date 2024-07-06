@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun/Console
+Fun/Console
+
 ___
 
 ## Description
@@ -43,12 +44,11 @@ ___
 <p>Brainfuck Example 1 (Hello World):</p>
 
 <pre>bfq ++++++++++[&gt;+++++++&gt;++++++++++&gt;+++&gt;+&lt;&lt;&lt;&lt;-]&gt;++.&gt;+.+++++++..+++.&gt;++.&lt;&lt;+++++++++++++++.&gt;.+++.------.--------.&gt;+.&gt;.</pre>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Menus
+Menus
+
 ___
 
 ## Description
@@ -31,12 +32,11 @@ You can use the "File &gt; Close Comps To Left" menu item.
 <h3>Close Comps To Right</h3>
 
 You can use the "File &gt; Close Comps To Right" menu item.
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

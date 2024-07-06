@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaLink/Scripts
+Kartaverse/KartaLink/Scripts
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ ___
 <p>Step 3. Select the footage you would like to batch process by clicking on the tree view row entries in the Media Command window. At the moment you need to click on the actual "text" words on the row to toggle the "selected" checkbox state.</p>
 
 <p>Step 4. Choose a script you would like to run on the selected media using the "Command Script" ComboMenu, then press the "Go" button.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

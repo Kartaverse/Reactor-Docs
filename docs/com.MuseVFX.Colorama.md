@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Dan DeEtremont/MuseVFX
+Dan DeEtremont/MuseVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>Maps a repeating hue wheel to the brightness values of an image. Access it at Macros &gt; Effect &gt; MT_Colorama.</p>___
-
-## Dependencies
-
+<p>Maps a repeating hue wheel to the brightness values of an image. Access it at Macros &gt; Effect &gt; MT_Colorama.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

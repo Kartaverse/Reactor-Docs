@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR masking tools make it easier to work with panoramic imagery, do circualar and cropped fisheye masking, stereo split view masking, and to work with PTGui exported raster painted masks.</p>___
-
-## Dependencies
-
+<p>The KartaVR masking tools make it easier to work with panoramic imagery, do circualar and cropped fisheye masking, stereo split view masking, and to work with PTGui exported raster painted masks.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

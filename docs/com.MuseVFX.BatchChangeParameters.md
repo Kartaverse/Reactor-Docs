@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v4.3
+4.3
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -71,12 +72,11 @@ ___
 <li>Modernized Lua for counting tables using #table</li>
 </ul>
 </li>
-</ul>___
-
-## Dependencies
-
+</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

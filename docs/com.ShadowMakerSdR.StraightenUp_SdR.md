@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sander de Regt - ShadowMaker SdR
+Sander de Regt - ShadowMaker SdR
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Transform
+Tools/Transform
+
 ___
 
 ## Description
@@ -22,12 +23,11 @@ ___
 https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=2277</p>
 
 <p>StraigthenUP YouTube Video:<br>
-https://www.youtube.com/watch?v=y2nWTsthVnQ</p>___
-
-## Dependencies
-
+https://www.youtube.com/watch?v=y2nWTsthVnQ</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

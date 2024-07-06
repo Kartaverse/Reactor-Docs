@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Nguyễn Tuấn An
+Nguyễn Tuấn An
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>Using the characteristic of Fusion Glow node to make a Lightwrap.</p>___
-
-## Dependencies
-
+<p>Using the characteristic of Fusion Glow node to make a Lightwrap.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

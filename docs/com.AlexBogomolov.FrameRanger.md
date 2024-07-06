@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ Save multiple IN/OUT render ranges and switch with doubleclick.</p>
 </ul>
 <p><em>Copyright:</em> Alexey Bogomolov (mail@abogomolov.com)</p>
 <p><em>License:</em> <a href="https://mit-license.org/">MIT</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

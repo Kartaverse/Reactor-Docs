@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : BryanRay
+BryanRay
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Tracking
+Tools/Tracking
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 
 <p>If you want to matchmove instead of stabilizing, click the Export Destabilizer button to create a copy of the node that applies the data in reverse. There is, unfortunately, no way to determine what order controls appear in when creating a node by script, so the controls in the Destabilizer will appear in a random order.</p>
 
-<p>WSL thread: <a href=https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1492&p=18725>FlexiTrack: A stabilize helper macro</a>. https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1492&p=18725</p>___
-
-## Dependencies
-
+<p>WSL thread: <a href=https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1492&p=18725>FlexiTrack: A stabilize helper macro</a>. https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1492&p=18725</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Olaf Matthes
+Olaf Matthes
 
 ## Version
- : v1.5
+1.5
 
 ## Category
- : Tools/IO
+Tools/IO
+
 ___
 
 ## Description
@@ -63,18 +64,25 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER <br /
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING <br />
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER <br />
 DEALINGS IN THE SOFTWARE.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
 ### Common (No Architecture)
 
 
+### Linux
+
+> Plugins/Cinewrangler_CineForm.plugin  
+
 ### macOS
+
+> Plugins/Cinewrangler_CineForm.plugin  
+
+### Windows
 
 > Plugins/Cinewrangler_CineForm.plugin  

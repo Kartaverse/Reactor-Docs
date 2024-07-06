@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andromeda Girl & Andrew Hazelden
+Andromeda Girl & Andrew Hazelden
 
 ## Version
- : v1.21
+1.21
 
 ## Category
- : Shaders
+Shaders
+
 ___
 
 ## Description
@@ -31,6 +32,8 @@ ___
 
 <p>(<i>If you would like to take part in the KickAss ShaderZ project, check out the WSL forum page for the shader collection.</i>)</p>
 
+
+
 ___
 
 ## Dependencies
@@ -45,9 +48,6 @@ ___
 > com.wesuckless.Wireless  
 > com.wesuckless.Wireless3D  
 > com.wesuckless.Wireless3DMat  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

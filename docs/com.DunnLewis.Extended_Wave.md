@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Dunn Lewis
+Dunn Lewis
 
 ## Version
- : v1.01
+1.01
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <ul>
 	<li>Added : Delay Start Time</li>
   <li>Added : Reverse</li>
-</ul>___
-
-## Dependencies
-
+</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

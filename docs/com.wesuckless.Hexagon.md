@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
-Hexagon Fuse___
-
-## Dependencies
-
+Hexagon Fuse
 
 ___
+
+## Dependencies
 
 ## Deploy
 

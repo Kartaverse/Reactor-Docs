@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -51,12 +52,11 @@ ___
 <p>Changelog:
 <br>v1.0, 2020-09-24:
 <br>First release!
-</p>___
-
-## Dependencies
-
+</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -64,5 +64,9 @@ ___
 
 
 ### macOS
+
+> Plugins/ColorAnalyzer.plugin  
+
+### Windows
 
 > Plugins/ColorAnalyzer.plugin  

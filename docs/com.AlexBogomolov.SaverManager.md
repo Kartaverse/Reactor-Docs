@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v1.22
+1.22
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -22,14 +23,13 @@ ___
 	<li>set saver in/out</li>
 </ul>
 
+
+
 ___
 
 ## Dependencies
 
 > com.AlexBogomolov.LoaderFromSaver  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

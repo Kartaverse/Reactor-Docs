@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
 <p>A comprehensive tool for precise despilling and fringe color correction.</p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

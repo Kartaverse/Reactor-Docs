@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -26,12 +27,11 @@ Changelog:<br/>
 v1.0, 2024-01-09:<br/>
 - First release!<br/>
 <br/>
-com.JacobDanell.GroundCheckModifier.zip___
-
-## Dependencies
-
+com.JacobDanell.GroundCheckModifier.zip
 
 ___
+
+## Dependencies
 
 ## Deploy
 

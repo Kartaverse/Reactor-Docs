@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>ml_Kaleidoscope lets you create beautiful evolving patterns.</p>___
-
-## Dependencies
-
+<p>ml_Kaleidoscope lets you create beautiful evolving patterns.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

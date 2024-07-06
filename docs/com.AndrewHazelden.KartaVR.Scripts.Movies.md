@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
@@ -25,14 +26,13 @@ ___
 <p>The "Convert Movies to Image Sequences" script allows you to batch convert a folder of movie files into individually named image sequences and extracted audio files. This is handy if you want to work reliable in Fusion with a series of Loader nodes (and image sequences) in your composite but the project you are doing has provided you with a large folder of MP4/ProRes clips you need to transcode.</p>
 
 <p>This script is an integral tool if you want to work with video sourced media in a PTGui Pro based 360VR pipeline. The workflow combination of the "Convert Movies to Image Sequences" script, KartaVR's "Batch Builder Extractor/Creator" scripts, and PTGui Pro's Batch Builder tool can be an effective and affordable way to stitch 360VR footage coming from fisheye or rectilinear image projections, without falling into the typical trap of having to pay for high-cost, subscription only, 360VR video stitching tools...</p>
+
+
 ___
 
 ## Dependencies
 
 > com.wesuckless.ffmpeg  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
 <p>A macro that creates noise similar to After Effects' "Blocky" style Fractal Noise.Find it at Macros &gt; Creator &gt; MT_FractalBlocks.</p>
 
 <p>For more information:<br>
-http://www.bryanray.name/wordpress/fractal-blocks-for-blackmagic-fusion/</p>___
-
-## Dependencies
-
+http://www.bryanray.name/wordpress/fractal-blocks-for-blackmagic-fusion/</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

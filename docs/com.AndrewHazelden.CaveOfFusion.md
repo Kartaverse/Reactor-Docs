@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Legacy/Fun/Menus
+Legacy/Fun/Menus
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ ___
 <p>Drag a copy of "Fusion.exe" from Fusion 6.4 onto the Mac based Keka file archiver tool. It will save out a folder full of the resources that it can extract.</p>
 
 <p>"The Cave of Fusion" strings are located at:<br>
-.rsrc/3081/string.txt (The text is visible between Lines 25 - 47)</p>___
-
-## Dependencies
-
+.rsrc/3081/string.txt (The text is visible between Lines 25 - 47)</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

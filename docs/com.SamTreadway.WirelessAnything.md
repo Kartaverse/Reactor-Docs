@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sam Treadway
+Sam Treadway
 
 ## Version
- : v1.5
+1.5
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 		<p>Installed Files:</p>
 		<ul>
 			<li>Fuses/Flow/WirelessAnything.fuse</li>
-		</ul>___
-
-## Dependencies
-
+		</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

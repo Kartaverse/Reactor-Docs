@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Dunn Lewis
+Dunn Lewis
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>http://rosettacode.org/wiki/Voronoi_diagram#Lua</p>
 
 <h2>For More Information:</h2>
-<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1175</p>___
-
-## Dependencies
-
+<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1175</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

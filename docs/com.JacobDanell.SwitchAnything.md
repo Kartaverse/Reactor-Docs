@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.01
+1.01
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -39,12 +40,11 @@ v1.0.1, 2022-02-24:<br />
 <br />
 v1.0, 2022-02-03:<br />
 - First release!<br />
-</p>___
-
-## Dependencies
-
+</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.1
+5.1
 
 ## Category
- : Kartaverse/KartaVR/Tools/Metadata
+Kartaverse/KartaVR/Tools/Metadata
+
 ___
 
 ## Description
@@ -52,12 +53,11 @@ ___
 
 <h2>Verbose (Checkbox)</h2>
 
-<p>Prints the raw metadata info to the Fusion Console.</p>___
-
-## Dependencies
-
+<p>Prints the raw metadata info to the Fusion Console.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

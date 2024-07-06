@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v2.1
+2.1
 
 ## Category
- : Tools/Blur
+Tools/Blur
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 https://www.steakunderwater.com/VFXPedia/96.0.243.189/indexf504.html?title=Settings_and_Macros/DirectionalBlurFromPathGamma_Description</p>
 
 <p>by Gregory Chalenko<br>
-http://www.compositing.ru</p>___
-
-## Dependencies
-
+http://www.compositing.ru</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

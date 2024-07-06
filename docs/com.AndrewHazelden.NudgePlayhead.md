@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Hotkeys
+Hotkeys
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <p>You can step through inbetween and real keyframes in the Viewer and Flow areas in Fusion using the Control+Alt+[ and Control+Alt+] hotkeys on Windows/Linux, and the Command+Option+[ and  Command+Option+] hotkeys on MacOS.</p>
 
-<p>You can step through inbetween keyframes in the Viewer and Flow areas in Fusion using the Control+Alt+Meta+[ and Control+Alt+Meta+] hotkeys on Windows/Linux, and the Control+Option+Command+[ and Control+Option+Command+] hotkeys on MacOS.</p>___
-
-## Dependencies
-
+<p>You can step through inbetween keyframes in the Viewer and Flow areas in Fusion using the Control+Alt+Meta+[ and Control+Alt+Meta+] hotkeys on Windows/Linux, and the Control+Option+Command+[ and Control+Option+Command+] hotkeys on MacOS.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

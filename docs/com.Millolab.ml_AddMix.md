@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Composite
+Tools/Composite
+
 ___
 
 ## Description
-<p> A Fusion rendition of the old AddMix node from Nuke. <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>___
-
-## Dependencies
-
+<p> A Fusion rendition of the old AddMix node from Nuke. <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

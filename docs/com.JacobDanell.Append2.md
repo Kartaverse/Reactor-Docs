@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Composite
+Tools/Composite
+
 ___
 
 ## Description
@@ -38,12 +39,11 @@ ___
 <p>Changelog:</p>
 <br>v2.0, 2022-12-16:</br>
 <br>* Now works as a tool instead of a generator</br>
-<br>* The nodes length of time is dynamically being calculated using RegionChanged</br>___
-
-## Dependencies
-
+<br>* The nodes length of time is dynamically being calculated using RegionChanged</br>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Laurens Bekaert & Kristof Indeherberge
+Laurens Bekaert & Kristof Indeherberge
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
-This Fuse converts Z-depth to camera point or camera plane___
-
-## Dependencies
-
+This Fuse converts Z-depth to camera point or camera plane
 
 ___
+
+## Dependencies
 
 ## Deploy
 

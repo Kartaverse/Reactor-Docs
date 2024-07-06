@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v3.1
+3.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -35,15 +36,14 @@ ___
 
 <h2>Copyright Notice</h2>
 <p>This script was originally created as a custom pipeline tool that was included with the KartaVR for Fusion toolset. It is not authorized for public re-distribution outside of WSL Reactor.</p>
+
+
 ___
 
 ## Dependencies
 
 > com.wesuckless.ffmpeg  
 > com.wesuckless.wintee  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

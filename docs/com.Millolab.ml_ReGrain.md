@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Tools/Film
+Tools/Film
+
 ___
 
 ## Description
-<p>ReGrain helps you automatically regrain your comps <a href="https://www.youtube.com/watch?v=V8WzFYE5dY8">Hop to YouTube</a> for a quick tutorial.</p>___
-
-## Dependencies
-
+<p>ReGrain helps you automatically regrain your comps <a href="https://www.youtube.com/watch?v=V8WzFYE5dY8">Hop to YouTube</a> for a quick tutorial.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

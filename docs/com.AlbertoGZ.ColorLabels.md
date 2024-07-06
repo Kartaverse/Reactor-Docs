@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : AlbertoGZ
+AlbertoGZ
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -24,12 +25,11 @@ the code of ui.ColorPicker snippet example from Greg Bovine.
 <ol>
 	<li>Run the script, then select nodes what you want assign color and hit the button Assign Color. You can assign colors from presets palette directly by hit its colored button.</li>
 	<li>Press Store Mode button to enter in store mode, then you can store the color selected in the color picker simply pressing the colored button where you want store the color. </li>
-</ol>___
-
-## Dependencies
-
+</ol>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

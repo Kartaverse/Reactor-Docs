@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sander de Regt - ShadowMaker SdR
+Sander de Regt - ShadowMaker SdR
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Transform
+Tools/Transform
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 
 <p>Its usage is hopefully self explanatory: Use the on-screen controls or the screw controls to set the image boundaries and use the Show Result button to apply what you have done. By default your cropped image will retain its position coordinates and resolution but if you want to, you can use the autocrop button, to cut off the parts you longer need. The reset button will restore the image to its original resolution</p> 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.8
+1.8
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -28,12 +29,11 @@ ___
 	
 	<p>Draws the center of lens flares or star-shaped glints that can be positioned anywhere in your picture. The effect is meant to supplement Fusion's Hotspot tool and the FlareCircle Fuse.</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : David Kohen | Learn Now FX
+David Kohen | Learn Now FX
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ ___
 <br>David Kohen</br>
 <br>
 <a href="https://learnnowfx.com">Learn Now FX</a></br>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

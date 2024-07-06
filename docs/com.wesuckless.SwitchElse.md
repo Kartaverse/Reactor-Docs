@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Chad Capeland & Stefan Ihringer
+Chad Capeland & Stefan Ihringer
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
-Switch between the available inputs, fallback to Else if the Switch input is nil.___
-
-## Dependencies
-
+Switch between the available inputs, fallback to Else if the Switch input is nil.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

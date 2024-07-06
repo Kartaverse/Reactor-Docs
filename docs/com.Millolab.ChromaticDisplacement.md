@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.5
+1.5
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
 <p>Inspired by RedGiant's Chromatic Displacement plugin, it's a ready to use set of tools to achieve a wide range of complex displacement effects.</p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Stefan Ihringer, Dan Florino
+Stefan Ihringer, Dan Florino
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 	<p>Draws a lightning bolt that can also be animated. You can define its level of detail and the "jagginess" (amount of deviation from a straight line). The lightning starts with a certain thickness and gets thinner towars the end. It can also create a defined number of branches.</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

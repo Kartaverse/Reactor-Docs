@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
@@ -32,12 +33,11 @@ ___
 <p>Changelog:
 <br>v1.0, 2020-09-24:
 <br>First release!
-</p>___
-
-## Dependencies
-
+</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

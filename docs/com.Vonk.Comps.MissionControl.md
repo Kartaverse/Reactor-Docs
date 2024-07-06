@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.43
+1.43
 
 ## Category
- : Kartaverse/Vonk Ultra/Comps
+Kartaverse/Vonk Ultra/Comps
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 <p>Open-Source License<br>
 The example is licensed under a GPL v3 license.</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

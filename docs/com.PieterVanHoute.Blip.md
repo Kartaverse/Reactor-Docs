@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -33,12 +34,11 @@ ___
 
 <h3>We Suck Less companion topic:</h3>
 
-<p><a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3485">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3485</a></p>___
-
-## Dependencies
-
+<p><a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3485">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3485</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

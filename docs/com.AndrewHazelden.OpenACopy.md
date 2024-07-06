@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Menus
+Menus
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>The Alt+O or Option+O hotkey can be used to run the "Open a Copy" command. Alternatively, you can use the "File &gt; Open a Copy" menu item.</p>
 
 <p>When the copy is made, the file is automatically created with a unique filename. If the current comp was called "Example.comp" it would become "Example Copy.comp". If the destination filename already exists on disk then the filename is incremented to the next available unique filename like "Example Copy 2.comp", or "Example Copy 3.comp", etc...</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

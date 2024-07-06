@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Warp
+Tools/Warp
+
 ___
 
 ## Description
 <p>Converts a single face of a cube map to a latlong (equirectangular) panorama image. Slow. But useful to fix skydomes and matte paintings. Appears in Warp menu.</p>
 
 <p>Companion topic on WSL:<br>
-https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=799</p>___
-
-## Dependencies
-
+https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=799</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

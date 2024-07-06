@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -46,14 +47,13 @@ Step 2. To run a terminal command type in:</p>
 <pre>/shell nautilus ./</pre>
 
 <p>Run wget to download a file (Mac/Linux):</p>
-<pre>/shell wget 'https://www.steakunderwater.com/wesuckless/images/smilies/icon_e_smile.gif'</pre>___
+<pre>/shell wget 'https://www.steakunderwater.com/wesuckless/images/smilies/icon_e_smile.gif'</pre>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

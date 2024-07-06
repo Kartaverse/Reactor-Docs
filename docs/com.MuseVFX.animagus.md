@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Tool
+Scripts/Tool
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 	3) Add a keyframe to all animated inputs at the current frame.<br>
 	4) Add animation to all animatable inputs (and set a key at the current frame)</p>
 
-<p>by Bryan Ray for Muse VFX</p>___
-
-## Dependencies
-
+<p>by Bryan Ray for Muse VFX</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

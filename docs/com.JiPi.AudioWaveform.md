@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : JiPi
+JiPi
 
 ## Version
- : v1.9
+1.9
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
@@ -101,12 +102,11 @@ The seed frames are output directly, the "missing" are calculated.<p>
 <p><font color="white">If you use the elongation within an expression of another fuse, this is only operated if the AudioWaveform is connected to the active network.
 Contrary to the Connect_To functionality. Workaround would be to add an input in the target fuse (edit controls) and fill it with Connect_to,
 then an expression can be entered at the target input.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

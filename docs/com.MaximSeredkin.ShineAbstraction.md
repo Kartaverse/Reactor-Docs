@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Maxim Seredkin
+Maxim Seredkin
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps
+Comps
+
 ___
 
 ## Description
@@ -23,15 +24,14 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?p=13465#p13465
 
 <p>Watch the finished "Wire v10" animation on VIMEO:<br>
 https://vimeo.com/252500998</p>
+
+
 ___
 
 ## Dependencies
 
 > com.KomkomDoorn.Krokodove  
 > com.StefanIhringer.XfChroma  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

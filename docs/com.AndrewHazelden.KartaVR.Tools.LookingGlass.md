@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR LookingGlassRenderer3D macro allows you to render out lightfield imagery in a 16 view (4x4) quilted view layout using Fusion's 3D system.</p>___
-
-## Dependencies
-
+<p>The KartaVR LookingGlassRenderer3D macro allows you to render out lightfield imagery in a 16 view (4x4) quilted view layout using Fusion's 3D system.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

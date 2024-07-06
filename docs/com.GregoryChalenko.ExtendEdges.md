@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Filter
+Tools/Filter
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 https://www.steakunderwater.com/VFXPedia/96.0.243.189/indexe0a0.html?title=Settings_and_Macros/DepthDefocus_Description</p>
 
 <p>by Gregory Chalenko<br>
-http://www.compositing.ru</p>___
-
-## Dependencies
-
+http://www.compositing.ru</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

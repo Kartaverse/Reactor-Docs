@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
 <p>A collection of Python script code snippets that work with Fusion.</p>
 
 <p>There is a companion "Python Script Snippets for Fusion TDs" tutorial series available on the We Suck Less website:<br>
-https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1633</p>___
-
-## Dependencies
-
+https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1633</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

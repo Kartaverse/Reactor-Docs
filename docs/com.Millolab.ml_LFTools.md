@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.01
+1.01
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>Use LFTools to create beautiful Lens Flares inside of Fusion. Special Thanks to Steve Watson for the LinearCloner Fuse. <a href="https://www.youtube.com/watch?v=7j7aaYboh_E">Hop to YouTube</a> for a quick tutorial.</p>___
+<p>Use LFTools to create beautiful Lens Flares inside of Fusion. Special Thanks to Steve Watson for the LinearCloner Fuse. <a href="https://www.youtube.com/watch?v=7j7aaYboh_E">Hop to YouTube</a> for a quick tutorial.</p>
+
+___
 
 ## Dependencies
 
 > com.SteveWatson.LinearCloner  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

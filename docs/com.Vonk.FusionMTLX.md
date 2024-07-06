@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Kartaverse/Vonk Ultra/Modifiers
+Kartaverse/Vonk Ultra/Modifiers
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

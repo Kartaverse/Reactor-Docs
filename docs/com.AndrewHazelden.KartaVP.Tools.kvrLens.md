@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVP/Tools
+Kartaverse/KartaVP/Tools
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ Reactor:/Deploy/Bin/Kartaverse/LUT/</p>
 <h2>Open Source Software License</h2>
 <p>GPL v3 License</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

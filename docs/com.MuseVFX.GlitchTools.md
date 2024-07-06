@@ -2,23 +2,23 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
 <p>A collection of macros to simulate transmission glitches in analog and digital signals. Find them in Macros &gt; Effect &gt; Glitch.</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

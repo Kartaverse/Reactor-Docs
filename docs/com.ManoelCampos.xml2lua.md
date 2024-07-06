@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Manoel Campos
+Manoel Campos
 
 ## Version
- : v1.52
+1.52
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 XML 2 Lua is licensed using the MIT license.</p>
 
 <p>Acknowledgements<br>
-By <a href="http://about.me/manoelcampos">Manoel Campos da Silva Filho</a> and <a href="mailto:paulc@passtheaardvark.com">Paul Chakravarti</a>.</p>___
-
-## Dependencies
-
+By <a href="http://about.me/manoelcampos">Manoel Campos da Silva Filho</a> and <a href="mailto:paulc@passtheaardvark.com">Paul Chakravarti</a>.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

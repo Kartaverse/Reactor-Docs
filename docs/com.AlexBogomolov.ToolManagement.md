@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v1.32
+1.32
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -53,12 +54,11 @@ The main difference between them: <code>Tool Tagger</code> uses comp data to sto
 <p><em>Version:</em> v.1.3 - &#91;2020/12/08&#93;</p>
 <i>update v1.31</i>: fix Resolve 17 compatibility (omit __flags data)<li>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

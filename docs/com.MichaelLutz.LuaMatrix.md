@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Michael Lutz
+Michael Lutz
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ Lua Matrix is licensed using the MIT license.</p>
 By Michael Lutz (original author), David Manura (maintainer).<br>
 Bug fixes/comments: Geoff Richards, SatheeshJM, Martin Ossmann, and others.</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

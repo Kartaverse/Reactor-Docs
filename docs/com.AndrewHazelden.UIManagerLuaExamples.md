@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v4.5
+4.5
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
 <p>A collection of Lua and Python UI Manager script examples that provide hands on training for mastering the built-in GUI building system in Fusion v9-18+ and Resolve v15-18+.</p>
 
 <p>There is a companion "Building GUIs With Fusion's UI Manager" tutorial series:<br>
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=10463#p10463">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=10463#p10463</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=10463#p10463">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=10463#p10463</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

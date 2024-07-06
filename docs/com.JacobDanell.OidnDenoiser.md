@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Filter
+Tools/Filter
+
 ___
 
 ## Description
@@ -41,12 +42,11 @@ ___
 <br>An error message will now show in the console telling you what went wrong.</br>
 <br />
 <br>v1.0, 2020-04-13:</br>
-<br>First release! Running Oidn 1.2.</br>___
-
-## Dependencies
-
+<br>First release! Running Oidn 1.2.</br>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -59,3 +59,10 @@ ___
 > Plugins/Oidn Denoiser/libOpenImageDenoise.0.dylib  
 > Plugins/Oidn Denoiser/libtbb.dylib  
 > Plugins/Oidn Denoiser/libtbbmalloc.dylib  
+
+### Windows
+
+> Plugins/Oidn Denoiser/Oidn_Denoiser.plugin  
+> Plugins/Oidn Denoiser/OpenImageDenoise.dll  
+> Plugins/Oidn Denoiser/tbb.dll  
+> Plugins/Oidn Denoiser/tbbmalloc.dll  

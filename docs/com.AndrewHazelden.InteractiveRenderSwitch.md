@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.01
+1.01
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>This fuse was inspired "Switch.fuse" by Stefan Ihringer.</p>
 	
 <p>Note: You might have to purge the active Fusion RAM cache for the entire comp timeline before the "Interactive Render Switch" fuse's output is truly swapped between interactive and batch mode. Automatic and seamless solutions to perform the timeline based RAM cache clearing are still being researched.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

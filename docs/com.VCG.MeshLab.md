@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Visual Computing Lab
+Visual Computing Lab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -27,17 +28,21 @@ ___
 <p>https://stackoverflow.com/questions/tagged/meshlab</p>
 
 <h2>Visual Computing Lab</h2>
-<p>http://vcg.isti.cnr.it</p>___
-
-## Dependencies
-
+<p>http://vcg.isti.cnr.it</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
 ### Common (No Architecture)
 
+
+### Linux
+
+> Bin/meshlab/LICENSE.txt  
+> Bin/meshlab/readme.txt  
 
 ### macOS
 
@@ -323,3 +328,252 @@ ___
 > Bin/meshlab/meshlab.app/Contents/textures/litspheres/sp00.png  
 > Bin/meshlab/meshlab.app/Contents/textures/litspheres/sp01.png  
 > Bin/meshlab/readme.txt  
+
+### Windows
+
+> Bin/meshlab/LICENSE.txt  
+> Bin/meshlab/MeshLab_64b.url  
+> Bin/meshlab/Qt5Core.dll  
+> Bin/meshlab/Qt5Gui.dll  
+> Bin/meshlab/Qt5Network.dll  
+> Bin/meshlab/Qt5OpenGL.dll  
+> Bin/meshlab/Qt5Script.dll  
+> Bin/meshlab/Qt5Widgets.dll  
+> Bin/meshlab/Qt5Xml.dll  
+> Bin/meshlab/Qt5XmlPatterns.dll  
+> Bin/meshlab/icudt51.dll  
+> Bin/meshlab/icuin51.dll  
+> Bin/meshlab/icuuc51.dll  
+> Bin/meshlab/imageformats/qgif.dll  
+> Bin/meshlab/imageformats/qjpeg.dll  
+> Bin/meshlab/imageformats/qtiff.dll  
+> Bin/meshlab/meshlab.exe  
+> Bin/meshlab/meshlabserver.exe  
+> Bin/meshlab/platforms/qminimal.dll  
+> Bin/meshlab/platforms/qwindows.dll  
+> Bin/meshlab/plugins/decorate_background.dll  
+> Bin/meshlab/plugins/decorate_base.dll  
+> Bin/meshlab/plugins/decorate_raster_proj.dll  
+> Bin/meshlab/plugins/decorate_shadow.dll  
+> Bin/meshlab/plugins/edit_align.dll  
+> Bin/meshlab/plugins/edit_arc3D.dll  
+> Bin/meshlab/plugins/edit_manipulators.dll  
+> Bin/meshlab/plugins/edit_measure.dll  
+> Bin/meshlab/plugins/edit_mutualcorrs.dll  
+> Bin/meshlab/plugins/edit_paint.dll  
+> Bin/meshlab/plugins/edit_pickpoints.dll  
+> Bin/meshlab/plugins/edit_point.dll  
+> Bin/meshlab/plugins/edit_quality.dll  
+> Bin/meshlab/plugins/edit_referencing.dll  
+> Bin/meshlab/plugins/edit_select.dll  
+> Bin/meshlab/plugins/filter_aging.dll  
+> Bin/meshlab/plugins/filter_ao.dll  
+> Bin/meshlab/plugins/filter_bnpts.dll  
+> Bin/meshlab/plugins/filter_camera.dll  
+> Bin/meshlab/plugins/filter_clean.dll  
+> Bin/meshlab/plugins/filter_color_projection.dll  
+> Bin/meshlab/plugins/filter_colorize.dll  
+> Bin/meshlab/plugins/filter_colorproc.dll  
+> Bin/meshlab/plugins/filter_create.dll  
+> Bin/meshlab/plugins/filter_createiso.dll  
+> Bin/meshlab/plugins/filter_csg.dll  
+> Bin/meshlab/plugins/filter_dirt.dll  
+> Bin/meshlab/plugins/filter_fractal.dll  
+> Bin/meshlab/plugins/filter_func.dll  
+> Bin/meshlab/plugins/filter_geodesic.dll  
+> Bin/meshlab/plugins/filter_harmonic.dll  
+> Bin/meshlab/plugins/filter_img_patch_param.dll  
+> Bin/meshlab/plugins/filter_isoparametrization.dll  
+> Bin/meshlab/plugins/filter_layer.dll  
+> Bin/meshlab/plugins/filter_measure.dll  
+> Bin/meshlab/plugins/filter_measure.xml  
+> Bin/meshlab/plugins/filter_meshing.dll  
+> Bin/meshlab/plugins/filter_mls.dll  
+> Bin/meshlab/plugins/filter_mutualglobal.dll  
+> Bin/meshlab/plugins/filter_mutualinfo.dll  
+> Bin/meshlab/plugins/filter_mutualinfo.xml  
+> Bin/meshlab/plugins/filter_photosynth.dll  
+> Bin/meshlab/plugins/filter_plymc.dll  
+> Bin/meshlab/plugins/filter_qhull.dll  
+> Bin/meshlab/plugins/filter_quality.dll  
+> Bin/meshlab/plugins/filter_sampling.dll  
+> Bin/meshlab/plugins/filter_screened_poisson.dll  
+> Bin/meshlab/plugins/filter_screened_poisson.xml  
+> Bin/meshlab/plugins/filter_sdfgpu.dll  
+> Bin/meshlab/plugins/filter_select.dll  
+> Bin/meshlab/plugins/filter_sketchfab.dll  
+> Bin/meshlab/plugins/filter_sketchfab.xml  
+> Bin/meshlab/plugins/filter_ssynth.dll  
+> Bin/meshlab/plugins/filter_texture.dll  
+> Bin/meshlab/plugins/filter_trioptimize.dll  
+> Bin/meshlab/plugins/filter_unsharp.dll  
+> Bin/meshlab/plugins/io_3ds.dll  
+> Bin/meshlab/plugins/io_base.dll  
+> Bin/meshlab/plugins/io_bre.dll  
+> Bin/meshlab/plugins/io_collada.dll  
+> Bin/meshlab/plugins/io_ctm.dll  
+> Bin/meshlab/plugins/io_expe.dll  
+> Bin/meshlab/plugins/io_json.dll  
+> Bin/meshlab/plugins/io_pdb.dll  
+> Bin/meshlab/plugins/io_tri.dll  
+> Bin/meshlab/plugins/io_txt.dll  
+> Bin/meshlab/plugins/io_u3d.dll  
+> Bin/meshlab/plugins/io_x3d.dll  
+> Bin/meshlab/plugins/render_gdp.dll  
+> Bin/meshlab/plugins/render_radiance_scaling.dll  
+> Bin/meshlab/plugins/sampleedit.dll  
+> Bin/meshlab/plugins/samplefilter.dll  
+> Bin/meshlab/plugins/samplefilterdyn.dll  
+> Bin/meshlab/readme.txt  
+> Bin/meshlab/samples/Laurana50k.ply  
+> Bin/meshlab/samples/TextureDouble_A.png  
+> Bin/meshlab/samples/chameleon4k.pts  
+> Bin/meshlab/samples/duck_triangulate.dae  
+> Bin/meshlab/samples/images/duckCM.jpg  
+> Bin/meshlab/samples/laurana500.ply  
+> Bin/meshlab/samples/laurana500.png  
+> Bin/meshlab/samples/matteonormb.ply  
+> Bin/meshlab/samples/matteonormb.png  
+> Bin/meshlab/samples/seashell.gts  
+> Bin/meshlab/samples/texturedknot.mtl  
+> Bin/meshlab/samples/texturedknot.obj  
+> Bin/meshlab/samples/texturedknot.ply  
+> Bin/meshlab/shaders/Cook-Torrance.frag  
+> Bin/meshlab/shaders/Cook-Torrance.gdp  
+> Bin/meshlab/shaders/Cook-Torrance.vert  
+> Bin/meshlab/shaders/Hatch.frag  
+> Bin/meshlab/shaders/Hatch.gdp  
+> Bin/meshlab/shaders/Hatch.vert  
+> Bin/meshlab/shaders/Oren-Nayar.frag  
+> Bin/meshlab/shaders/Oren-Nayar.gdp  
+> Bin/meshlab/shaders/Oren-Nayar.vert  
+> Bin/meshlab/shaders/SEM.frag  
+> Bin/meshlab/shaders/SEM.vert  
+> Bin/meshlab/shaders/ambient_occlusion.vert  
+> Bin/meshlab/shaders/ambient_occlusion4.frag  
+> Bin/meshlab/shaders/ambient_occlusion8.frag  
+> Bin/meshlab/shaders/decorate_shadow/sm/depth.frag  
+> Bin/meshlab/shaders/decorate_shadow/sm/depth.vert  
+> Bin/meshlab/shaders/decorate_shadow/sm/object.frag  
+> Bin/meshlab/shaders/decorate_shadow/sm/object.vert  
+> Bin/meshlab/shaders/decorate_shadow/ssao/blur.frag  
+> Bin/meshlab/shaders/decorate_shadow/ssao/blur.vert  
+> Bin/meshlab/shaders/decorate_shadow/ssao/normalMap.frag  
+> Bin/meshlab/shaders/decorate_shadow/ssao/normalMap.vert  
+> Bin/meshlab/shaders/decorate_shadow/ssao/ssao.frag  
+> Bin/meshlab/shaders/decorate_shadow/ssao/ssao.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsm/depthVSM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsm/depthVSM.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsm/objectVSM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsm/objectVSM.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/Cook-Torrance.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/Hatch.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/Oren-Nayar.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/SEM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/ambient_occlusion4.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/ambient_occlusion8.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/blurVSM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/blurVSM.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/depthVSM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/depthVSM.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/depthmap.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/dimple.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/envmap.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/glass.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/gooch.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/lattice.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/minnaert.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/normalmap.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/objectVSM.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/objectVSM.vert  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/phong.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/polkadot3d.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/reflexion_lines.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/slicingplane.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/stripes2.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/toon.frag  
+> Bin/meshlab/shaders/decorate_shadow/vsmb/xray.frag  
+> Bin/meshlab/shaders/depthmap.frag  
+> Bin/meshlab/shaders/depthmap.gdp  
+> Bin/meshlab/shaders/depthmap.vert  
+> Bin/meshlab/shaders/dimple.frag  
+> Bin/meshlab/shaders/dimple.gdp  
+> Bin/meshlab/shaders/dimple.vert  
+> Bin/meshlab/shaders/electronic microscope.gdp  
+> Bin/meshlab/shaders/envmap.frag  
+> Bin/meshlab/shaders/envmap.gdp  
+> Bin/meshlab/shaders/envmap.vert  
+> Bin/meshlab/shaders/glass.frag  
+> Bin/meshlab/shaders/glass.gdp  
+> Bin/meshlab/shaders/glass.vert  
+> Bin/meshlab/shaders/gooch.frag  
+> Bin/meshlab/shaders/gooch.gdp  
+> Bin/meshlab/shaders/gooch.vert  
+> Bin/meshlab/shaders/lattice.frag  
+> Bin/meshlab/shaders/lattice.gdp  
+> Bin/meshlab/shaders/lattice.vert  
+> Bin/meshlab/shaders/minnaert.frag  
+> Bin/meshlab/shaders/minnaert.gdp  
+> Bin/meshlab/shaders/minnaert.vert  
+> Bin/meshlab/shaders/normalmap.frag  
+> Bin/meshlab/shaders/normalmap.gdp  
+> Bin/meshlab/shaders/normalmap.vert  
+> Bin/meshlab/shaders/phong.frag  
+> Bin/meshlab/shaders/phong.gdp  
+> Bin/meshlab/shaders/phong.vert  
+> Bin/meshlab/shaders/polkadot3d.frag  
+> Bin/meshlab/shaders/polkadot3d.gdp  
+> Bin/meshlab/shaders/polkadot3d.vert  
+> Bin/meshlab/shaders/reflexion_lines.frag  
+> Bin/meshlab/shaders/reflexion_lines.gdp  
+> Bin/meshlab/shaders/reflexion_lines.vert  
+> Bin/meshlab/shaders/slicingplane.frag  
+> Bin/meshlab/shaders/slicingplane.gdp  
+> Bin/meshlab/shaders/slicingplane.vert  
+> Bin/meshlab/shaders/stripes2.frag  
+> Bin/meshlab/shaders/stripes2.gdp  
+> Bin/meshlab/shaders/stripes2.vert  
+> Bin/meshlab/shaders/toon.frag  
+> Bin/meshlab/shaders/toon.gdp  
+> Bin/meshlab/shaders/toon.vert  
+> Bin/meshlab/shaders/xray.frag  
+> Bin/meshlab/shaders/xray.gdp  
+> Bin/meshlab/shaders/xray.vert  
+> Bin/meshlab/textures/Fur.png  
+> Bin/meshlab/textures/OTS-DiffuseCubeMap.dds  
+> Bin/meshlab/textures/OTS-Phong50CubeMap.dds  
+> Bin/meshlab/textures/chrome.png  
+> Bin/meshlab/textures/cubemaps/uffizi_negx.jpg  
+> Bin/meshlab/textures/cubemaps/uffizi_negy.jpg  
+> Bin/meshlab/textures/cubemaps/uffizi_negz.jpg  
+> Bin/meshlab/textures/cubemaps/uffizi_posx.jpg  
+> Bin/meshlab/textures/cubemaps/uffizi_posy.jpg  
+> Bin/meshlab/textures/cubemaps/uffizi_posz.jpg  
+> Bin/meshlab/textures/glyphmosaic.png  
+> Bin/meshlab/textures/hatch0.jpg  
+> Bin/meshlab/textures/hatch1.jpg  
+> Bin/meshlab/textures/hatch2.jpg  
+> Bin/meshlab/textures/hatch3.jpg  
+> Bin/meshlab/textures/hatch4.jpg  
+> Bin/meshlab/textures/hatch5.jpg  
+> Bin/meshlab/textures/litspheres/ls01.png  
+> Bin/meshlab/textures/litspheres/ls02.png  
+> Bin/meshlab/textures/litspheres/mat01.png  
+> Bin/meshlab/textures/litspheres/mat02.png  
+> Bin/meshlab/textures/litspheres/mat03.png  
+> Bin/meshlab/textures/litspheres/mat04.png  
+> Bin/meshlab/textures/litspheres/mat05.png  
+> Bin/meshlab/textures/litspheres/mat06.png  
+> Bin/meshlab/textures/litspheres/mat07.png  
+> Bin/meshlab/textures/litspheres/mat08.png  
+> Bin/meshlab/textures/litspheres/mat09.png  
+> Bin/meshlab/textures/litspheres/mat10.png  
+> Bin/meshlab/textures/litspheres/mat11.png  
+> Bin/meshlab/textures/litspheres/mat12.png  
+> Bin/meshlab/textures/litspheres/mat13.png  
+> Bin/meshlab/textures/litspheres/mat14.png  
+> Bin/meshlab/textures/litspheres/mat15.png  
+> Bin/meshlab/textures/litspheres/sp00.png  
+> Bin/meshlab/textures/litspheres/sp01.png  
+> Bin/meshlab/textures/rgbarand.dds  
+> Bin/meshlab/textures/uffiziCubeMap.dds  

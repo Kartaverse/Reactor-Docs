@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Tools/Warp
+Tools/Warp
+
 ___
 
 ## Description
@@ -92,12 +93,11 @@ v1.0.1, 2022-02-03:<br />
 <br />
 v1.0, 2020-10-12:<br />
 - First release!<br />
-</p>___
-
-## Dependencies
-
+</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

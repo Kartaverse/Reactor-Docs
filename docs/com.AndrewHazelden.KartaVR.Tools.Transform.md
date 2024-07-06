@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR transform tools allow you to rotate your panoramic imagery and adjust the framing of a 360 &deg; shot.</p>___
-
-## Dependencies
-
+<p>The KartaVR transform tools allow you to rotate your panoramic imagery and adjust the framing of a 360 &deg; shot.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

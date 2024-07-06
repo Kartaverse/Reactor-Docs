@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Tomas Barton
+Tomas Barton
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Metadata
+Tools/Metadata
+
 ___
 
 ## Description
@@ -26,12 +27,11 @@ sudo apt install libimage-exiftool-perl
 </pre>
 
 <a href="https://github.com/deric/DaVinciResolve-metadata/issues">Issues tracker</a>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

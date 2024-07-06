@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : JiPi
+JiPi
 
 ## Version
- : v0.3
+0.3
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -55,12 +56,11 @@ If you can use it very well, it would be great if you supporte WSL ( <a href="ht
 <a href="https://www.youtube.com/watch?v=2KZpAD7nIaU">WebGL to DCTL: Rainier Mood (Preview)</a>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

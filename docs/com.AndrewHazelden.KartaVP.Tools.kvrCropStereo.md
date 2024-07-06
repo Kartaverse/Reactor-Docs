@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVP/Tools
+Kartaverse/KartaVP/Tools
+
 ___
 
 ## Description
@@ -26,12 +27,11 @@ ___
 <h2>Open Source Software License</h2>
 <p>LGPL 3.0 License</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

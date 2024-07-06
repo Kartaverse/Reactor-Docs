@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.21
+1.21
 
 ## Category
- : Tools/Tracking
+Tools/Tracking
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ ___
 <h2>For More Information:</h2>
 
 <h3>TrackerPlus WSL Thread:</h3>
-<p><a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1192">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1192</a></p>___
-
-## Dependencies
-
+<p><a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1192">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1192</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

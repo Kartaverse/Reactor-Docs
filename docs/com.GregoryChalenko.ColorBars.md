@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v4.0
+4.0
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 https://www.steakunderwater.com/VFXPedia/96.0.243.189/indexb225.html?title=Settings_and_Macros/ColorBars_Description</p>
 
 <p>by Gregory Chalenko<br>
-http://www.compositing.ru</p>___
-
-## Dependencies
-
+http://www.compositing.ru</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

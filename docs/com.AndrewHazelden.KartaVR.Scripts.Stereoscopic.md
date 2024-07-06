@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 <a href="file://Reactor:/Deploy/Bin/KartaVR/pfmtopsd/src/">Reactor:/Deploy/Bin/KartaVR/pfmtopsd/src/</a></p>
 
 <p>The pfmtopsd program is based upon an original proof of concept code by <a href="http://www.paulbourke.net/">Paul Bourke</a>. Thanks Paul!</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -40,6 +40,14 @@ ___
 > Bin/KartaVR/pfmtopsd/src/pfmtopsd.layout  
 > Scripts/Comp/KartaVR/Stereoscopic/Convert PFM Depth Images.lua  
 
+### Linux
+
+> Bin/KartaVR/linux_tools/pfmtopsd  
+
 ### macOS
 
 > Bin/KartaVR/mac_tools/pfmtopsd  
+
+### Windows
+
+> Bin/KartaVR/tools/pfmtopsd.exe  

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -19,14 +20,13 @@ ___
 <p>Step 1. Switch to the Fusion Console tab.<br>
 
 Step 2. To list the Loader node based footage in the current composite type in:</p>
-<pre>/footage list</pre>___
+<pre>/footage list</pre>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

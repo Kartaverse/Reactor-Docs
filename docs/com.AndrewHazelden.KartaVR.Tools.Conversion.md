@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
 <p>The KartaVR legacy Conversion nodes allow you to remap panoramic imagery.</p>
 	
-<p>These nodes are mainly relevant for Fusion (Free) v9 and Fusion Studio v9 users. The newer Kartaverse DCTL fuses offer updated, GPU accelerated alternatives to many of these macros.</p>___
-
-## Dependencies
-
+<p>These nodes are mainly relevant for Fusion (Free) v9 and Fusion Studio v9 users. The newer Kartaverse DCTL fuses offer updated, GPU accelerated alternatives to many of these macros.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

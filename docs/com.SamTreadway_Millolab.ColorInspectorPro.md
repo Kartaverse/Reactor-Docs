@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sam Treadway @ The Intelligent Machine & Millolab
+Sam Treadway @ The Intelligent Machine & Millolab
 
 ## Version
- : v1.82
+1.82
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -42,12 +43,11 @@ ___
 				While in this mode you may continue to manipulate the probe with live updates in the viewer.</li>
 			</ul>
 		</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

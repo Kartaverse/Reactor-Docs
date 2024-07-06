@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Fun/Tools/3D
+Fun/Tools/3D
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 
 <h3>Example Comp</h3>
 
-<p>The "BarrelShape3D.comp" example comp creates a 4x4 grid of barrels. Their position is randomized slightly using the jitter control on the Duplicate3D nodes.</p>___
-
-## Dependencies
-
+<p>The "BarrelShape3D.comp" example comp creates a 4x4 grid of barrels. Their position is randomized slightly using the jitter control on the Duplicate3D nodes.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

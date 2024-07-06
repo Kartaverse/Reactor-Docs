@@ -2,23 +2,23 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Transform
+Tools/Transform
+
 ___
 
 ## Description
 <p>With Twitch you can create camera shakes and a vast array of wiggling effect. 
-	Being based on Expression Modifiers you can connect Twitch's outputs to whatever you like in Fusion </p>___
-
-## Dependencies
-
+	Being based on Expression Modifiers you can connect Twitch's outputs to whatever you like in Fusion </p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

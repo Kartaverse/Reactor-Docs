@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : House of Secrets
+House of Secrets
 
 ## Version
- : v0.3
+0.3
 
 ## Category
- : Scripts/Tool
+Scripts/Tool
+
 ___
 
 ## Description
 <p>A Tool script that converts a Macro to a Group and vice versa, depending on what type of operator/tool is selected</p>
 
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

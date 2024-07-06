@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray, Sam Treadway & David Kohen
+Bryan Ray, Sam Treadway & David Kohen
 
 ## Version
- : v1.5
+1.5
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -35,12 +36,11 @@ ___
     <p>Thank you!!</p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

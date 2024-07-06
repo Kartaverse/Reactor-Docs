@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun
+Fun
+
 ___
 
 ## Description
-This script is a re-make of the classic Eyeon Fusion "FUZIONMONGER" easter egg dialog. In the newly re-implemented version of FUZIONMONGER you can press the Shift + B hotkey to display the message.___
-
-## Dependencies
-
+This script is a re-make of the classic Eyeon Fusion "FUZIONMONGER" easter egg dialog. In the newly re-implemented version of FUZIONMONGER you can press the Shift + B hotkey to display the message.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

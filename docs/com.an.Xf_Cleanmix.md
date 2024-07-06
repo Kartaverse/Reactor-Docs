@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Nguyễn Tuấn An
+Nguyễn Tuấn An
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
-<p>Using the Transform node for prep/paint is one of the oldest trick in the book..., and I want to "put my own spin on it.".</p>___
-
-## Dependencies
-
+<p>Using the Transform node for prep/paint is one of the oldest trick in the book..., and I want to "put my own spin on it.".</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

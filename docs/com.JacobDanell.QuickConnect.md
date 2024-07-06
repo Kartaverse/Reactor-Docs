@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ Make sure you arrange your nodes to the grid as the nodes has to be horisontal o
 <br>* First release!
 </p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

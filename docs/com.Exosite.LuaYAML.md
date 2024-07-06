@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Exosite
+Exosite
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -24,12 +25,11 @@ Created by Dominic Letz of Exosite, based upon js-lua</p>
 
 <p>For More Information<br>
 <a href="https://github.com/exosite/lua-yaml">https://github.com/exosite/lua-yaml</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

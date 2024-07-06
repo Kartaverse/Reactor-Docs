@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/IO
+Tools/IO
+
 ___
 
 ## Description
@@ -97,12 +98,11 @@ Comp:/${COMP}/${COMP}_${NODE}.$06d.exr</p>
 
 <p>This would result in a rendered EXR image filename like:<br>
 /Volumes/VFX/MultiChannel/MultiChannel_LifeSaver1.000000.exr</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

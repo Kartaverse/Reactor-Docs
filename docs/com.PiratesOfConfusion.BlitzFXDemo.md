@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pirates of Confusion
+Pirates of Confusion
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Comps/Pirates of Confusion
+Comps/Pirates of Confusion
+
 ___
 
 ## Description
@@ -17,7 +18,9 @@ ___
 
 This Comp uses the Blitz FX Lite Fuse which will be automatically installed with this package.<br>
 Beta builds of the Blitz Fuse will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty: 
-<a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>___
+<a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
+
+___
 
 ## Dependencies
 
@@ -26,9 +29,6 @@ Beta builds of the Blitz Fuse will be available to Patrons of Confusion, accompa
 > com.PiratesOfConfusion.BlitzFXLite  
 > com.wesuckless.Wireless  
 > com.wesuckless.Wireless3D  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

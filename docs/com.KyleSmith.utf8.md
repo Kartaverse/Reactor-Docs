@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Kyle Smith
+Kyle Smith
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modules/Lua
+Modules/Lua
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <h2>Open Source License</h2>
 <p>BSD License</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

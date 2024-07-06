@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Dan De'Etremont
+Dan De'Etremont
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Composite
+Tools/Composite
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <p>Find it in Macros/Composite</p>
 
-by Dan De'Etremont for Muse VFX___
-
-## Dependencies
-
+by Dan De'Etremont for Muse VFX
 
 ___
+
+## Dependencies
 
 ## Deploy
 

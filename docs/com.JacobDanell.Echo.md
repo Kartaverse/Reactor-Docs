@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -44,12 +45,11 @@ ___
 <br>v0.1 - 2019-11-27:</br>
 <br>* First release!</br>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eric 'SirEdric' Westphal
+Eric 'SirEdric' Westphal
 
 ## Version
- : v0.95
+0.95
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ While this is still in Beta, development will go on.<br>
 
 For up to date information on the latest and greatest
 follow the thread on WSL here: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1887&p=14478#p14478<br><br>
-</p>___
-
-## Dependencies
-
+</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

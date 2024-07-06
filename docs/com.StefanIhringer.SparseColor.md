@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 	<p>For example, you could use the Sparse Color Fuse to create a sky gradient based on multiple known colors from a plate. You can also use it to match a matte painting to the lighting changes of a shot, where a single color correction won't suffice (imagine that the left and right part of the shot are affected by various flickering light sources).</p>
 
-	<p>There are up to 4 points that can be defined. If the interpolation is set to "Inverse Distance", however, you can create gradients with many more points by chaining SparseColor tools. Just check the "Store Metadata" checkbox, and this Fuse will save its seed points to the image's metadata table. In a downstream SparseColor tool, check the "Use Metadata" (enabled by default) to include these points in the gradient calculation.</p>___
-
-## Dependencies
-
+	<p>There are up to 4 points that can be defined. If the interpolation is set to "Inverse Distance", however, you can create gradients with many more points by chaining SparseColor tools. Just check the "Store Metadata" checkbox, and this Fuse will save its seed points to the image's metadata table. In a downstream SparseColor tool, check the "Use Metadata" (enabled by default) to include these points in the gradient calculation.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

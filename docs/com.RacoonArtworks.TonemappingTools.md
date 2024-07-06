@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Martin Geupel
+Martin Geupel
 
 ## Version
- : v1.02
+1.02
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -24,12 +25,11 @@ ___
 <p>These macros assume you work in linear space, so if they are not linear make sure you de-gamma your images first!</p>
 
 <p>Thanks goes to Simon Lundberg for the Filmic tonemapping counterpart in Nuke!</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

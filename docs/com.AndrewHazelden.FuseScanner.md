@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v3.141
+3.141
 
 ## Category
- : Scripts/Reactor
+Scripts/Reactor
+
 ___
 
 ## Description
@@ -38,12 +39,11 @@ ___
   REG_NoObjMatCtrls
   REG_NoBlendCtrls
   REG_OpNoMask
-</pre>___
-
-## Dependencies
-
+</pre>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

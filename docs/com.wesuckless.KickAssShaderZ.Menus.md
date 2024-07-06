@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andromeda Girl & Andrew Hazelden
+Andromeda Girl & Andrew Hazelden
 
 ## Version
- : v1.21
+1.21
 
 ## Category
- : Shaders
+Shaders
+
 ___
 
 ## Description
@@ -28,12 +29,11 @@ ___
 <p>KickAss ShaderZ is a project that is hosted on the WeSuckLess Fusion community forum:<br>
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

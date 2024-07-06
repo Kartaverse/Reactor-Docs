@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Juraj Kral
+Juraj Kral
 
 ## Version
- : v0.7
+0.7
 
 ## Category
- : Tools/3D
+Tools/3D
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 http://nvrfall.com/graphic/compositing-vfx/arrooows3d-macro/</p>
 
 <p>Arrooows_3D macro WSL Thread:<br>
-https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1293</p>___
-
-## Dependencies
-
+https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1293</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

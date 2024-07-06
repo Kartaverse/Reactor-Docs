@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v2.71
+2.71
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -49,12 +50,11 @@ You can insert Suck Less Audio after any other modifier!</p>
 
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

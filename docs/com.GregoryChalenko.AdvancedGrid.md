@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Gregory Chalenko
+Gregory Chalenko
 
 ## Version
- : v2.2
+2.2
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 https://www.steakunderwater.com/VFXPedia/96.0.243.189/indexb3b6.html?title=Settings_and_Macros/AdvancedGrid_Description</p>
 
 <p>by Gregory Chalenko<br>
-www.compositing.ru</p>___
-
-## Dependencies
-
+www.compositing.ru</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eric 'SirEdric' Westphal
+Eric 'SirEdric' Westphal
 
 ## Version
- : v0.75
+0.75
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -28,12 +29,11 @@ https://www.imagemagick.org/script/download.php<br>
 Get GhostScript:<br>
 https://www.ghostscript.com/download.html<br>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

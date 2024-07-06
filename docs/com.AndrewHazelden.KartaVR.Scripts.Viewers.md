@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
 <p>The KartaVR viewer scripts allow you to send your panoramic imagery to external media viewer tools, HMDs, and web browsers for review. You can also list a directory tree of all the assets in your current Fusion comp folder.</p>
 
 <p>The "Directory Tree" script displays a tree view that allows you to browse through and quickly import the media assets stored in the same folder hierarchy as your .comp file.</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -54,6 +54,10 @@ ___
 > Scripts/Comp/KartaVR/Viewers/PanoView.lua  
 > Scripts/Comp/KartaVR/Viewers/Publish Media to Google Cardboard VR View.lua  
 
+### Linux
+
+> Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  
+
 ### macOS
 
 > Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Info.plist  
@@ -76,3 +80,7 @@ ___
 > Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Zoom-New-Image-View.scpt  
 > Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  
 > Scripts/Comp/KartaVR/Viewers/Zoom New Image View.lua  
+
+### Windows
+
+> Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  

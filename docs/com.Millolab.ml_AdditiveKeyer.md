@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
-<p> The name says it all. Thanks to Stefano Argenziano, with whom i shared all the research on the topic. <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>___
-
-## Dependencies
-
+<p> The name says it all. Thanks to Stefano Argenziano, with whom i shared all the research on the topic. <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

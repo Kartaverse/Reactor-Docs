@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Daniel Girardeau
+Daniel Girardeau
 
 ## Version
- : v2.91
+2.91
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -19,17 +20,22 @@ ___
 
 <h2>CLI Documentation</h2>
 <p>http://www.cloudcompare.org/doc/wiki/index.php?title=Command_line_mode</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
 ### Common (No Architecture)
 
+
+### Linux
+
+> Bin/cloudcompare/License - CloudCompare.txt  
+> Bin/cloudcompare/License - ccViewer.txt  
+> Bin/cloudcompare/global_shift_list_template.txt  
 
 ### macOS
 
@@ -228,3 +234,139 @@ ___
 > Bin/cloudcompare/ccViewer.app/Contents/Shaders/SSAO/ssao.frag  
 > Bin/cloudcompare/ccViewer.app/Contents/Shaders/SSAO/ssao.vert  
 > Bin/cloudcompare/global_shift_list_template.txt  
+
+### Windows
+
+> Bin/cloudcompare/CC_CORE_LIB.dll  
+> Bin/cloudcompare/CHANGELOG.md  
+> Bin/cloudcompare/CloudCompare.exe  
+> Bin/cloudcompare/DP_file_export_x64.dll  
+> Bin/cloudcompare/DotProduct_x64.dll  
+> Bin/cloudcompare/License - CloudCompare.txt  
+> Bin/cloudcompare/License - ccViewer.txt  
+> Bin/cloudcompare/NCSEcw.dll  
+> Bin/cloudcompare/QCC_DB_LIB.dll  
+> Bin/cloudcompare/QCC_IO_LIB.dll  
+> Bin/cloudcompare/Qt5Concurrent.dll  
+> Bin/cloudcompare/Qt5Core.dll  
+> Bin/cloudcompare/Qt5Gamepad.dll  
+> Bin/cloudcompare/Qt5Gui.dll  
+> Bin/cloudcompare/Qt5OpenGL.dll  
+> Bin/cloudcompare/Qt5PrintSupport.dll  
+> Bin/cloudcompare/Qt5Widgets.dll  
+> Bin/cloudcompare/avcodec-57.dll  
+> Bin/cloudcompare/avformat-57.dll  
+> Bin/cloudcompare/avutil-55.dll  
+> Bin/cloudcompare/cairo.dll  
+> Bin/cloudcompare/ccViewer.exe  
+> Bin/cloudcompare/cfitsio.dll  
+> Bin/cloudcompare/expat.dll  
+> Bin/cloudcompare/freexl.dll  
+> Bin/cloudcompare/fribidi.dll  
+> Bin/cloudcompare/gdal201.dll  
+> Bin/cloudcompare/gdal202.dll  
+> Bin/cloudcompare/geos.dll  
+> Bin/cloudcompare/geos_c.dll  
+> Bin/cloudcompare/global_shift_list_template.txt  
+> Bin/cloudcompare/hdf5.dll  
+> Bin/cloudcompare/hdf5_cpp.dll  
+> Bin/cloudcompare/hdf5_hl.dll  
+> Bin/cloudcompare/hdf5_hl_cpp.dll  
+> Bin/cloudcompare/hdfdll.dll  
+> Bin/cloudcompare/iconv.dll  
+> Bin/cloudcompare/imageformats/qgif.dll  
+> Bin/cloudcompare/imageformats/qico.dll  
+> Bin/cloudcompare/imageformats/qjpeg.dll  
+> Bin/cloudcompare/libcurl.dll  
+> Bin/cloudcompare/libeay32.dll  
+> Bin/cloudcompare/libecwj2.dll  
+> Bin/cloudcompare/libfcgi.dll  
+> Bin/cloudcompare/libgmp-10.dll  
+> Bin/cloudcompare/libkea.dll  
+> Bin/cloudcompare/liblas.dll  
+> Bin/cloudcompare/libmpfr-4.dll  
+> Bin/cloudcompare/libmysql.dll  
+> Bin/cloudcompare/libpq.dll  
+> Bin/cloudcompare/libtiff.dll  
+> Bin/cloudcompare/libxml2.dll  
+> Bin/cloudcompare/license.txt  
+> Bin/cloudcompare/lti_dsdk_9.1.dll  
+> Bin/cloudcompare/lti_lidar_dsdk_1.1.dll  
+> Bin/cloudcompare/mapserver.dll  
+> Bin/cloudcompare/mfhdfdll.dll  
+> Bin/cloudcompare/msplugin_mssql2008.dll  
+> Bin/cloudcompare/msplugin_oracle.dll  
+> Bin/cloudcompare/msvcp120.dll  
+> Bin/cloudcompare/msvcr120.dll  
+> Bin/cloudcompare/netcdf.dll  
+> Bin/cloudcompare/openjp2.dll  
+> Bin/cloudcompare/pcl_2d_release.dll  
+> Bin/cloudcompare/pcl_common_release.dll  
+> Bin/cloudcompare/pcl_features_release.dll  
+> Bin/cloudcompare/pcl_filters_release.dll  
+> Bin/cloudcompare/pcl_io_ply_release.dll  
+> Bin/cloudcompare/pcl_io_release.dll  
+> Bin/cloudcompare/pcl_kdtree_release.dll  
+> Bin/cloudcompare/pcl_keypoints_release.dll  
+> Bin/cloudcompare/pcl_ml_release.dll  
+> Bin/cloudcompare/pcl_octree_release.dll  
+> Bin/cloudcompare/pcl_recognition_release.dll  
+> Bin/cloudcompare/pcl_registration_release.dll  
+> Bin/cloudcompare/pcl_sample_consensus_release.dll  
+> Bin/cloudcompare/pcl_search_release.dll  
+> Bin/cloudcompare/pcl_segmentation_release.dll  
+> Bin/cloudcompare/pcl_stereo_release.dll  
+> Bin/cloudcompare/pcl_surface_release.dll  
+> Bin/cloudcompare/pcl_tracking_release.dll  
+> Bin/cloudcompare/platforms/qwindows.dll  
+> Bin/cloudcompare/plugins/QANIMATION_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QBLUR_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QBROOM_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QCANUPO_PLUGIN_DLL.dll  
+> Bin/cloudcompare/plugins/QCOMPASS_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QCORK_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QCSF_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QCSV_MATRIX_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QDOT_PRODUCT_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QEDL_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QELLIPSER_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QFACETS_PLUGIN_DLL.dll  
+> Bin/cloudcompare/plugins/QHOUGH_NORMALS_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QHPR_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QLAS_FWF_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QM3C2_PLUGIN_DLL.dll  
+> Bin/cloudcompare/plugins/QPCL_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QPCL_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QPCV_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QPHOTOSCAN_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QPOISSON_RECON_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QRANSAC_SD_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QRDB_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QRIEGL_IO_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QSRA_PLUGIN.dll  
+> Bin/cloudcompare/plugins/QSSAO_PLUGIN.dll  
+> Bin/cloudcompare/proj.dll  
+> Bin/cloudcompare/rdblib.dll  
+> Bin/cloudcompare/shaders/Bilateral/bilateral.frag  
+> Bin/cloudcompare/shaders/Bilateral/bilateral.vert  
+> Bin/cloudcompare/shaders/ColorRamp/color_ramp.frag  
+> Bin/cloudcompare/shaders/EDL/edl_mix.frag  
+> Bin/cloudcompare/shaders/EDL/edl_mix.vert  
+> Bin/cloudcompare/shaders/EDL/edl_shade.frag  
+> Bin/cloudcompare/shaders/EDL/edl_shade.vert  
+> Bin/cloudcompare/shaders/SSAO/ssao.frag  
+> Bin/cloudcompare/shaders/SSAO/ssao.vert  
+> Bin/cloudcompare/spatialite.dll  
+> Bin/cloudcompare/sqlite3.dll  
+> Bin/cloudcompare/ssleay32.dll  
+> Bin/cloudcompare/start.bat  
+> Bin/cloudcompare/start_chinese.bat  
+> Bin/cloudcompare/start_french.bat  
+> Bin/cloudcompare/swresample-2.dll  
+> Bin/cloudcompare/swscale-4.dll  
+> Bin/cloudcompare/szip.dll  
+> Bin/cloudcompare/tbb.dll  
+> Bin/cloudcompare/xdrdll.dll  
+> Bin/cloudcompare/xerces-c_2_8.dll  
+> Bin/cloudcompare/xerces-c_3_1.dll  
+> Bin/cloudcompare/zlib1.dll  

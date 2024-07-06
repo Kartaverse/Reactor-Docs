@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : FFmpeg Dev
+FFmpeg Dev
 
 ## Version
- : v89994.0
+89994.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -57,12 +58,11 @@ sudo apt-get -y install ffmpeg
 <pre>
 sudo pacman -S ffmpeg
 </pre>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -109,6 +109,10 @@ ___
 > Bin/ffmpeg/presets/libvpx-720p.ffpreset  
 > Bin/ffmpeg/presets/libvpx-720p50_60.ffpreset  
 
+### Linux
+
+> Bin/ffmpeg/LICENSE.txt  
+
 ### macOS
 
 > Bin/ffmpeg/LICENSE.txt  
@@ -123,3 +127,18 @@ ___
 > Bin/ffmpeg/bin/libpostproc.55.dylib  
 > Bin/ffmpeg/bin/libswresample.3.dylib  
 > Bin/ffmpeg/bin/libswscale.5.dylib  
+
+### Windows
+
+> Bin/ffmpeg/LICENSE.txt  
+> Bin/ffmpeg/bin/avcodec-58.dll  
+> Bin/ffmpeg/bin/avdevice-58.dll  
+> Bin/ffmpeg/bin/avfilter-7.dll  
+> Bin/ffmpeg/bin/avformat-58.dll  
+> Bin/ffmpeg/bin/avutil-56.dll  
+> Bin/ffmpeg/bin/ffmpeg.exe  
+> Bin/ffmpeg/bin/ffplay.exe  
+> Bin/ffmpeg/bin/ffprobe.exe  
+> Bin/ffmpeg/bin/postproc-55.dll  
+> Bin/ffmpeg/bin/swresample-3.dll  
+> Bin/ffmpeg/bin/swscale-5.dll  

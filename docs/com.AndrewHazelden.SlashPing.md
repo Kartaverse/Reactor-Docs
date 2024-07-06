@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -44,14 +45,13 @@ PING google.com (173.237.125.21): 56 data bytes
 
 --- google.com ping statistics ---
 3 packets transmitted, 3 packets received, 0.0% packet loss
-round-trip min/avg/max/stddev = 17.990/18.473/18.836/0.356 ms</pre>___
+round-trip min/avg/max/stddev = 17.990/18.473/18.836/0.356 ms</pre>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

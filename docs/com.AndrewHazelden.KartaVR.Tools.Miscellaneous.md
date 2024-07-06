@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR Miscellaneous tools collection has useful tools that are hard to classify in a single category.</p>___
-
-## Dependencies
-
+<p>The KartaVR Miscellaneous tools collection has useful tools that are hard to classify in a single category.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

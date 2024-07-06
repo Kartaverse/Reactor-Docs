@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ ___
 </ul>
 
 <p>StickyWriter was created based upon a suggestion from ShadowmakerSDR.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

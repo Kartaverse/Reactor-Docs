@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7302
+5.7302
 
 ## Category
- : Kartaverse/KartaLink/Scripts
+Kartaverse/KartaLink/Scripts
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ ___
 <blockquote>&#91;WinError 2&#93; The system cannot find the file specified<br>
 ERROR: Could not run command.</blockquote>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -45,6 +45,10 @@ ___
 > Docs/Kartaverse/KartaLink/HQueue Render/Images/HQueue-Groups-2.png  
 > Docs/Kartaverse/KartaLink/HQueue Render/README.html  
 > Docs/Kartaverse/KartaLink/HQueue Render/README.md  
+
+### Linux
+
+> Scripts/Comp/KartaLink/HQueue Render.py  
 
 ### macOS
 

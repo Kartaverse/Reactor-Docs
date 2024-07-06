@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Roger Magnusson
+Roger Magnusson
 
 ## Version
- : v1.3
+1.3
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ ___
 <p>Since classes found in the binaries don't come with a class hierarchy, not all classes will be placed correctly. In case I can't match a discovered class with a documented class I simply place it in the root.</p>
 
 <p>To make a distinction between documented information and information discovered in the binary files I call the different sections "Properties", "Methods", "Discovered Properties" and "Discovered Methods".</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

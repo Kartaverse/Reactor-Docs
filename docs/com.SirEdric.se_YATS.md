@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eric 'SirEdric' Westphal
+Eric 'SirEdric' Westphal
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ Thread on WeSuckLess: https://www.steakunderwater.com/wesuckless/viewtopic.php?f
 If you enjoy this tool, why not buy me a coffee on https://www.paypal.me/SirEdric? </p>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

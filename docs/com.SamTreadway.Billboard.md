@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sam Treadway
+Sam Treadway
 
 ## Version
- : v1.51
+1.51
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ ___
 				<li>As a solid color image (Background)</li>
 			</ul>
 		</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Composite
+Tools/Composite
+
 ___
 
 ## Description
@@ -30,12 +31,11 @@ ___
 <br>* You can now also set the start frame to negative</br>
 
 <br>v1.0, 2020-01-10:</br>
-<br>First release!</br>___
-
-## Dependencies
-
+<br>First release!</br>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

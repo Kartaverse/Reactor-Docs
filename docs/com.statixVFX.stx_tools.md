@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : statixVFX
+statixVFX
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Filter
+Tools/Filter
+
 ___
 
 ## Description
 <p>stx_tools is a set of visual effects tools for Fusion. It was created by statixVFX.</p>
 
 <p>The stx_tools GitHub page is located at:<br>
-https://github.com/statixVFX/stx_tools</p>___
-
-## Dependencies
-
+https://github.com/statixVFX/stx_tools</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

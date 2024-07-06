@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
-Request Discretizer Fuse___
-
-## Dependencies
-
+Request Discretizer Fuse
 
 ___
+
+## Dependencies
 
 ## Deploy
 

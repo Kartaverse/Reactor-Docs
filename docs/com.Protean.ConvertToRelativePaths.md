@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Protean
+Protean
 
 ## Version
- : v5.0
+5.0
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 
 <p>To learn more about this Lua script, check out the Steakunderwater forum thread:<br>
 &#91;Script&#93; Convert Absolute to Relative Paths - AX Relativity V4.0<br>
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=26676#p26676">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=26676#p26676</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=26676#p26676">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=26676#p26676</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : House of Secrets
+House of Secrets
 
 ## Version
- : v0.2
+0.2
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>The script was created by Sven Neve at House of Secrets. The hos_HeatMap_Ultra version 0.2 release of the script includes contributions from Andrew Hazelden, and Cedric Duriau.</p>
 
 <p>hos_HeatMap_Ultra v0.2 WSL Thread:<br>
-https://www.steakunderwater.com/wesuckless/viewtopic.php?p=13074#p13074</p>___
-
-## Dependencies
-
+https://www.steakunderwater.com/wesuckless/viewtopic.php?p=13074#p13074</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

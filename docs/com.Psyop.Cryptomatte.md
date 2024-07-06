@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Cédric Duriau & Kristof Indeherberge
+Cédric Duriau & Kristof Indeherberge
 
 ## Version
- : v1.4
+1.4
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
@@ -32,12 +33,11 @@ By <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 <a href="https://github.com/Psyop/Cryptomatte">https://github.com/Psyop/Cryptomatte</a></p>
 
 <p>Cryptomatte WSL Thread:<br>
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1027">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1027</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1027">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1027</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

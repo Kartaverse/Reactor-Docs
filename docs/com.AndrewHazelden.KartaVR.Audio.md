@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR
+Kartaverse/KartaVR
+
 ___
 
 ## Description
-<p>The KartaVR audio atom provides the sound effect files used in KartaVR scripts for successful task completion, and error state alerts. These sound files are not public domain audio files and are covered by copyright.</p>___
-
-## Dependencies
-
+<p>The KartaVR audio atom provides the sound effect files used in KartaVR scripts for successful task completion, and error state alerts. These sound files are not public domain audio files and are covered by copyright.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

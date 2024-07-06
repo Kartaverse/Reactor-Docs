@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
@@ -33,18 +34,22 @@ TouchDesigner provides HMD connectivity support, the ability to have multiple li
 <p>The "Send Media to" scripts are installed by Reactor to the local folder of:<br>
 <a href="file://Reactor:/Deploy/Scripts/Comp/KartaVR/Send Media to/">Reactor:/Deploy/Scripts/Comp/KartaVR/Send Media to/</a></p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
 ### Common (No Architecture)
 
 > Scripts/Comp/KartaVR/Send Media to/Edit Send Media to Preferences.lua  
+
+### Linux
+
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
 
 ### macOS
 
@@ -62,6 +67,31 @@ ___
 > Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua  
 > Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua  
 > Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua  
+
+### Windows
+
+> Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Corel Photo Paint.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua  
+> Scripts/Comp/KartaVR/Send Media to/Send Media to Corel Photo Paint.lua  
 > Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
 > Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua  
 > Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua  

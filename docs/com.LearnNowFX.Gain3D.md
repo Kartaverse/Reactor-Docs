@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : David Kohen | Learn Now FX
+David Kohen | Learn Now FX
 
 ## Version
- : v1.9
+1.9
 
 ## Category
- : Tools/3D
+Tools/3D
+
 ___
 
 ## Description
@@ -30,12 +31,11 @@ ___
 <br>Learn Now FX</br>
 </h3>
 
-</center>___
-
-## Dependencies
-
+</center>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -45,3 +45,7 @@ ___
 ### macOS
 
 > Plugins/Gain 3D Mac.plugin  
+
+### Windows
+
+> Plugins/Gain 3D Win.plugin  

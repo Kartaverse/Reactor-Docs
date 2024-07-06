@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Dunn Lewis
+Dunn Lewis
 
 ## Version
- : v1.02
+1.02
 
 ## Category
- : Tools/Miscellaneous
+Tools/Miscellaneous
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>Added Tweening functions using the Flux lib:<br>
 https://github.com/rxi/flux<p>
 
-<p>Have Fun.</p>___
-
-## Dependencies
-
+<p>Have Fun.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

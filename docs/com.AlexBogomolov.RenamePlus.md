@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v1.93
+1.93
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -32,12 +33,11 @@ ___
 </ul>
 
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

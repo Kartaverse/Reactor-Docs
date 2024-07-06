@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.7
+1.7
 
 ## Category
- : Kartaverse/Vonk Ultra/Modifiers
+Kartaverse/Vonk Ultra/Modifiers
+
 ___
 
 ## Description
@@ -25,14 +26,13 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 
 <h2>For More Information</h2>
-<p><a href="http://cbor.io/">http://cbor.io/</a></p>___
+<p><a href="http://cbor.io/">http://cbor.io/</a></p>
+
+___
 
 ## Dependencies
 
 > com.Zash.Lua-CBOR  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

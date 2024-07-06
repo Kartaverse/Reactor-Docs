@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVP/Scripts
+Kartaverse/KartaVP/Scripts
+
 ___
 
 ## Description
 <p>This script allows to you to browse the disk-based OpenUSD stage hierarchy in Fusion based uLoader nodes.</p>
 
 <p>Requirements:<br>
-Resolve/Fusion v18.5-19+ is required to use this script since it relies on the USD nodes.</p>___
-
-## Dependencies
-
+Resolve/Fusion v18.5-19+ is required to use this script since it relies on the USD nodes.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

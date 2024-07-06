@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7303
+5.7303
 
 ## Category
- : Kartaverse/KartaVR
+Kartaverse/KartaVR
+
 ___
 
 ## Description
@@ -51,6 +52,8 @@ Technical support for Kartaverse/KartaVR is handled by the official <a href="htt
 <h2>Email Andrew Hazelden</h2>
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
 
+
+
 ___
 
 ## Dependencies
@@ -78,8 +81,5 @@ ___
 > com.wesuckless.ffmpeg  
 > com.wesuckless.wintee  
 > com.AndrewHazelden.KartaVR.Tools.STMapperInline  
-
-___
-
 ## Deploy
 

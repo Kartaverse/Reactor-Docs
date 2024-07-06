@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v2.11
+2.11
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -34,14 +35,13 @@ which will be installed in the Tools menu under Macros/Sprut.</p>
 <p>Come discuss Sprut and showcase your work on We Suck Less!<br>
 <a href="https://www.steakunderwater.com/wesuckless/">https://www.steakunderwater.com/wesuckless/</a></p>
 
-<p>Sprut<sup>2</sup> is distributed under GNU/GPL. It may be used for commercial purposes, but not redistributed or repackaged, in particular not for any fee.</p>___
+<p>Sprut<sup>2</sup> is distributed under GNU/GPL. It may be used for commercial purposes, but not redistributed or repackaged, in particular not for any fee.</p>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.Switch  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

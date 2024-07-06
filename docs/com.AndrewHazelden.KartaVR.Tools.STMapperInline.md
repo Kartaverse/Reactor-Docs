@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Resolve
+Resolve
+
 ___
 
 ## Description
@@ -22,14 +23,13 @@ ___
 <p>To learn more about Jacob Dannell's original STMapper fuse:<br>
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=4429">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=4429</a></p>
 
+
+
 ___
 
 ## Dependencies
 
 > com.JacobDanell.STMapper  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

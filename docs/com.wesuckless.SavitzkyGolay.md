@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eyeon
+Eyeon
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Modifiers
+Modifiers
+
 ___
 
 ## Description
@@ -22,12 +23,11 @@ This tool smoothes point data</p>
 
 <p>For more information on the Savitzky Golay filter:<br>
 <a href="https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter">https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter</a>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

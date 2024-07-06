@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v1.66
+1.66
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ ___
     <li>scan existing files and suggest correct sequence numbering if the file is not found or no snum in filepath</li>
 </ul>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

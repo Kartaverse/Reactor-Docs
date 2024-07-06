@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pirates of Confusion
+Pirates of Confusion
 
 ## Version
- : v1.11
+1.11
 
 ## Category
- : Comps/Pirates of Confusion
+Comps/Pirates of Confusion
+
 ___
 
 ## Description
@@ -24,7 +25,9 @@ ___
 
 <p>As always, thank you from the bottom of my heart,</p>
 
-<p>Captain</p>___
+<p>Captain</p>
+
+___
 
 ## Dependencies
 
@@ -32,9 +35,6 @@ ___
 > com.MuseVFX.Grade  
 > com.StefanIhringer.XfChroma  
 > com.wesuckless.Wireless  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

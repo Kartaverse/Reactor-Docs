@@ -2,25 +2,25 @@
 ___
 
 ## Author
- : Fusion Reactor
+Fusion Reactor
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun/Console
+Fun/Console
+
 ___
 
 ## Description
 <p>Fox Linguistics is a Console Fuse that works in the Fusion Console tab. Each time you type in 'What does the fox say?' you will be provided a random response.</p>
 	
 <p>Watch the "Ylvis - The Fox" music video to understand the references:<br>
-https://www.youtube.com/watch?v=jofNR_WkoCE</p>___
-
-## Dependencies
-
+https://www.youtube.com/watch?v=jofNR_WkoCE</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

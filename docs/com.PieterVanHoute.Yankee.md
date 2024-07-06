@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v0.1
+0.1
 
 ## Category
- : Tools/3D
+Tools/3D
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 	
 	<p>Thanks to Chad Capeland for insight and inspiration.</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v3.0
+3.0
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
@@ -25,15 +26,14 @@ ___
 <h3>Usage</h3>
 <p><strong>Camera Extractor:</strong> Plug any Redshift AOV Loader into the input of the RS Camera Extractor node. Select the DCC that rendered the image with the Mode switch. Create a Camera3D node and switch to the S6 preset. Connect the main output of RS Camera Extractor to the ImageInput of the Camera3D node. The camera will automatically inherit the transforms from the render's metadata.</p>
 <p><strong>Photographic Exposure:</strong> Place the node after your pre-composited CG. If the Photographic Exposure settings were adjusted prior to rendering, The Use Metadata switch will often automatically configure the node to match those settings. Otherwise, adjust the parameters to taste—documentation is available in the tool's comments.</p>
-<p><strong>Vector Flipper:</strong> Connect any 3d vector AOV (normals, world position) to the Vector Flipper and choose the DCC that rendered the image with the Mode switch. If you need to flip the RGB channels, tick the 'Affect RGB' checkbox.___
+<p><strong>Vector Flipper:</strong> Connect any 3d vector AOV (normals, world position) to the Vector Flipper and choose the DCC that rendered the image with the Mode switch. If you need to flip the RGB channels, tick the 'Affect RGB' checkbox.
+
+___
 
 ## Dependencies
 
 > com.MuseVFX.RSCameraExtractor  
 > com.MuseVFX.RsPhotographicExposure  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

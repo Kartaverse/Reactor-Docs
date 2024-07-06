@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ ___
 <p>If you would like find out how to extract the IMU metadata information from an video file, check out the Gyroflow toolset and its new motion data export options:<br>
 <a href="http://gyroflow.xyz/">http://gyroflow.xyz/</a></p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

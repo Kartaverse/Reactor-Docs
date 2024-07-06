@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v3.14
+3.14
 
 ## Category
- : Docs
+Docs
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 
 <p>You can also view this same content on the Reactor GitLab Repository:<br>
 <a href="https://gitlab.com/WeSuckLess/Reactor/blob/master/README.md">https://gitlab.com/WeSuckLess/Reactor/blob/master/README.md</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

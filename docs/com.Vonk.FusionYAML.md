@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.7
+1.7
 
 ## Category
- : Kartaverse/Vonk Ultra/Modifiers
+Kartaverse/Vonk Ultra/Modifiers
+
 ___
 
 ## Description
@@ -26,14 +27,13 @@ The example .yaml files that are used with the Fusion "Demo YAML.comp" example c
 
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
+
+
 ___
 
 ## Dependencies
 
 > com.Exosite.LuaYAML  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

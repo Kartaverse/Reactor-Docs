@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : House of Secrets
+House of Secrets
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Tools/Creator
+Tools/Creator
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <p>The fuse was created by Sven Neve at House of Secrets.</p>
 
-<p>The hos_Tiler.comp example was created by Andrew Hazelden.</p>___
-
-## Dependencies
-
+<p>The hos_Tiler.comp example was created by Andrew Hazelden.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

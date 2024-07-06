@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Kartaverse/KartaVR/DragDrop
+Kartaverse/KartaVR/DragDrop
+
 ___
 
 ## Description
@@ -27,14 +28,13 @@ ___
 <p>The "KartaVR DragDrop" files are installed by Reactor to the local folder of:<br>
 <a href="file://Reactor:/Deploy/Config/DragDrop/">Reactor:/Deploy/Config/DragDrop/</a></p>
 
+
+
 ___
 
 ## Dependencies
 
 > com.AndrewHazelden.KartaVR.Scripts.Stitching  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

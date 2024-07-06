@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Alexey Bogomolov
+Alexey Bogomolov
 
 ## Version
- : v2.84
+2.84
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -68,12 +69,11 @@ Launch script with shortcut, the window position will be saved in Fusion data, a
 -- catch incorrect window dimensions
 <p> v 2.8.2 </p>
 -- add some consistency to the code, add an option to disable verbose output
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

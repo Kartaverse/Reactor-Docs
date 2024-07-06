@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Eyeon
+Eyeon
 
 ## Version
- : v2.6
+2.6
 
 ## Category
- : Scripts
+Scripts
+
 ___
 
 ## Description
-Adds Fusion 9 updated versions of the classic Eyeon Fusion v6.4 - v7 era legacy Lua scripts.___
-
-## Dependencies
-
+Adds Fusion 9 updated versions of the classic Eyeon Fusion v6.4 - v7 era legacy Lua scripts.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

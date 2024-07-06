@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Daniel Stenberg
+Daniel Stenberg
 
 ## Version
- : v7.41
+7.41
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 <p>GPL v2 + License Mix<br>
 
 <h2>For More Information:</h2>
-<p>https://curl.haxx.se/</p>___
-
-## Dependencies
-
+<p>https://curl.haxx.se/</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -33,7 +33,20 @@ ___
 > Bin/curl/docs/help.txt  
 > Bin/curl/docs/manual.txt  
 
+### Linux
+
+> Bin/curl/docs/license mixing.txt  
+> Bin/curl/docs/license.txt  
+
 ### macOS
 
+> Bin/curl/docs/license mixing.txt  
+> Bin/curl/docs/license.txt  
+
+### Windows
+
+> Bin/curl/bin/curl.exe  
+> Bin/curl/bin/libeay32.dll  
+> Bin/curl/bin/ssleay32.dll  
 > Bin/curl/docs/license mixing.txt  
 > Bin/curl/docs/license.txt  

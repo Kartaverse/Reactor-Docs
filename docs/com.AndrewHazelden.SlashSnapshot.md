@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Console
+Console
+
 ___
 
 ## Description
@@ -33,14 +34,13 @@ Step 3. To quickly save a viewer snapshot image to disk (using the default image
 
 <h2>Notes</h2>
 
-<p>You can change the default image format written to disk by the "/snapshot" command by uncommenting a specific "snapshotImageFormat" image format line at the top of the script.</p>___
+<p>You can change the default image format written to disk by the "/snapshot" command by uncommenting a specific "snapshotImageFormat" image format line at the top of the script.</p>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SlashCommand  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

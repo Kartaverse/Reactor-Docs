@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 <p>We Suck Less companion topic:
 
 
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=22184#p22184">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=22184#p22184</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=22184#p22184">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=22184#p22184</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

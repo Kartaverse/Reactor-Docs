@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
-<p> This Guided Filter macro will help you refinig your mattes. Thanks to Jacob Danell for all the help debugging this! <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>___
-
-## Dependencies
-
+<p> This Guided Filter macro will help you refinig your mattes. Thanks to Jacob Danell for all the help debugging this! <a href="https://youtu.be/jl1bvoilkP4">Hop to YouTube</a> for a quick tutorial.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

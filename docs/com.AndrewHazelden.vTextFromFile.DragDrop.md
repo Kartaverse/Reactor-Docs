@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : AndrewHazelden
+AndrewHazelden
 
 ## Version
- : v1.7
+1.7
 
 ## Category
- : Kartaverse/Vonk Ultra/DragDrop
+Kartaverse/Vonk Ultra/DragDrop
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>Windows URL (.url) files will be drag-drop imported as vTextCreate node based URI addresses.</p>
 
 <p>Common shell scripting file extensions (.exe, .bat, .ps1, .au3, .sh, .command, .scpt, .app) will be drag-drop imported as vTextCreateBrowse node based filepaths.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

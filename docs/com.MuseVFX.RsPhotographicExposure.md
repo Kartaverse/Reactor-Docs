@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -18,12 +19,11 @@ ___
 
 <p>Find it with the Color tools.</p>
 
-<p>v2: Fixed an error that occurs when multiple copies of the macro are present in the same comp.</p>___
-
-## Dependencies
-
+<p>v2: Fixed an error that occurs when multiple copies of the macro are present in the same comp.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

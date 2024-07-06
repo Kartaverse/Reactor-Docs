@@ -2,24 +2,24 @@
 ___
 
 ## Author
- : Andrew Hazelden and Misocko
+Andrew Hazelden and Misocko
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Kartaverse/Vonk Ultra/Comps
+Kartaverse/Vonk Ultra/Comps
+
 ___
 
 ## Description
 <p>The "Bike Dashboard" Vonk data node example shows how a CSV file can be used with the Vonk data nodes in Fusion. A Fusion Macro/Effects Template is used to render HUD overlay graphics for a bike ride.</p>
 
-<p>The provided "Bike Dashboard HD.setting" effects template macro is able to be applied to footage in the Resolve Edit page.</p>___
-
-## Dependencies
-
+<p>The provided "Bike Dashboard HD.setting" effects template macro is able to be applied to footage in the Resolve Edit page.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

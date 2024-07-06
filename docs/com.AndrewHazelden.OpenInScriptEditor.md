@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v3.0
+3.0
 
 ## Category
- : Menus
+Menus
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ ___
 <h2>Note for Windows Users</h2>
 
 <p>In Reactor's "Bin" category there is a "custom "Notepad++ for Fusion" atom which provides a very refined install of Notepad++ in a single click.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

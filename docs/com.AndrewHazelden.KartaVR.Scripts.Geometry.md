@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Scripts
+Kartaverse/KartaVR/Scripts
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 <p>The "Reload Alembic Scene", "Reload FBX Scene", and "Reload PSD Layers" scripts work on macOS systems and allows you to use <a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a> and the "KartaVR Macros.kmmacros" file to instantly re-import scenes into Fusion v9.</p>
 
 <p>The "Export Point Cloud" script has been moved to a new KartaVR "Virtual Productions" atom package.</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -39,6 +39,10 @@ ___
 > Scripts/Comp/KartaVR/Geometry/Send Geometry to MeshLab.lua  
 > Scripts/Comp/KartaVR/Geometry/Send Geometry to usdview.lua  
 
+### Linux
+
+> Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  
+
 ### macOS
 
 > Bin/KartaVR/bonus/Keyboard Maestro Macros/KartaVR Macros.kmmacros  
@@ -47,3 +51,7 @@ ___
 > Scripts/Comp/KartaVR/Geometry/Reload PSD Layers.lua  
 > Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  
 > Scripts/kartavr.scriptlib  
+
+### Windows
+
+> Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  

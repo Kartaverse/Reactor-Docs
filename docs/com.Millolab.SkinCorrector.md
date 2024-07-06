@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v5.0
+5.0
 
 ## Category
- : Tools/Filter
+Tools/Filter
+
 ___
 
 ## Description
-<p>Frequency Separation made easy for skin retouching and beauty work. Fast and easy to use. <a href="https://youtu.be/y4lesRojEeA">Hop to YouTube</a> for a quick tutorial.</p>___
-
-## Dependencies
-
+<p>Frequency Separation made easy for skin retouching and beauty work. Fast and easy to use. <a href="https://youtu.be/y4lesRojEeA">Hop to YouTube</a> for a quick tutorial.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

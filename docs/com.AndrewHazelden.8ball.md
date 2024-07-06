@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun/Console
+Fun/Console
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 
 or
 
-<pre>8ball Will Fuzionmonger X be released today?</pre>___
-
-## Dependencies
-
+<pre>8ball Will Fuzionmonger X be released today?</pre>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Emilio Sapia - Millolab
+Emilio Sapia - Millolab
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-<p>Superfast chromatic aberration macro.</p>___
-
-## Dependencies
-
+<p>Superfast chromatic aberration macro.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v3.2
+3.2
 
 ## Category
- : Tools/Matte
+Tools/Matte
+
 ___
 
 ## Description
@@ -19,14 +20,13 @@ ___
 	
 	<h3>We Suck Less companion topic:</h3>
 	<p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=42</p>
-	___
+	
+
+___
 
 ## Dependencies
 
 > com.wesuckless.Switch  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

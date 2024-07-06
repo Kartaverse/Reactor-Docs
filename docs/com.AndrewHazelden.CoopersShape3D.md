@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Fun/Tools/3D
+Fun/Tools/3D
+
 ___
 
 ## Description
@@ -22,12 +23,11 @@ ___
 
 <p>The "Rotation" controls allow you to XYZ rotate the cap shape.</p>
 
-<p>The "Scale" controls allow you uniformly resize the cap shape.</p>___
-
-## Dependencies
-
+<p>The "Scale" controls allow you uniformly resize the cap shape.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

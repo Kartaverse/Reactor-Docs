@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun
+Fun
+
 ___
 
 ## Description
-This Bender3D macro is a re-make of the classic Eyeon Fusion "Unbendable Girder" easter egg. In the newly re-implemented version of Bender3D an important Futurama inspired button control and dialog message was added back.___
-
-## Dependencies
-
+This Bender3D macro is a re-make of the classic Eyeon Fusion "Unbendable Girder" easter egg. In the newly re-implemented version of Bender3D an important Futurama inspired button control and dialog message was added back.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

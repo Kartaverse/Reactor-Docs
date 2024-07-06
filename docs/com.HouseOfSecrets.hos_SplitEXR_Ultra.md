@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : House of Secrets
+House of Secrets
 
 ## Version
- : v4.1
+4.1
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -17,12 +18,11 @@ ___
 <p>The script was created by Sven Neve at House of Secrets. The hos_SplitEXR_Ultra version 4.x releases include contributions from Tim Little, Andrew Hazelden, Cedric Duriau, bfloch and Alexey Bogomolov.</p>
 
 <p>hos_SplitEXR_Ultra WSL Thread:<br>
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=553&start=30#p12024">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=553&start=30#p12024</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=553&start=30#p12024">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=16&t=553&start=30#p12024</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

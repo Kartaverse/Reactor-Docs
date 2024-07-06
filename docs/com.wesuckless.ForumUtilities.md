@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.9
+1.9
 
 ## Category
- : Scripts/We Suck Less
+Scripts/We Suck Less
+
 ___
 
 ## Description
@@ -29,12 +30,11 @@ ___
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1863</p>
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=3074</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

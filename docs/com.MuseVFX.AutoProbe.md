@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray/MuseVFX
+Bryan Ray/MuseVFX
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Scripts/Tool
+Scripts/Tool
+
 ___
 
 ## Description
@@ -21,12 +22,11 @@ ___
 	<li>v1.2: Fixed bug where the first value was clamped to 0-1 range. Added handling for some circumstances where the tool is undefined.</li>
 	<li>v1.1: Added error handling for tools with no color controls.</li>
 	<li>v1.0: Initial public release.</li>
-</ul>___
-
-## Dependencies
-
+</ul>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

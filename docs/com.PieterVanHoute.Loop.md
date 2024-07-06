@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Pieter Van Houte
+Pieter Van Houte
 
 ## Version
- : v1.02
+1.02
 
 ## Category
- : Tools/Flow
+Tools/Flow
+
 ___
 
 ## Description
@@ -28,12 +29,11 @@ which will be installed in the Tools menu under Macros/Sprut. All the clever stu
 <a href="file://Reactor:/Deploy/Comps/Loop/">Reactor:/Deploy/Comps/Loop/</a></p>
 
 <p>For more information on Loop, come discuss it on We Suck Less!<br>
-<a href="https://www.steakunderwater.com/wesuckless/">https://www.steakunderwater.com/wesuckless/</a></p>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/">https://www.steakunderwater.com/wesuckless/</a></p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

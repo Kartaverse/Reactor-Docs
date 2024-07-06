@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Eric 'SirEdric' Westphal
+Eric 'SirEdric' Westphal
 
 ## Version
- : v0.75
+0.75
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -27,12 +28,11 @@ To assign Expressions to an Input, first select the desired Input(s) in the tree
 Then type the actual Expression in the associated field.<br><br>
 
 Thread on WeSuckLess: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=2592&p=20006</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

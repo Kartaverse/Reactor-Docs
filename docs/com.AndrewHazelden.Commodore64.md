@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun
+Fun
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 *** EYEON SCRIPTING 9.0 ***
 31743 BYTES FREE
 READY.
-</pre>___
-
-## Dependencies
-
+</pre>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

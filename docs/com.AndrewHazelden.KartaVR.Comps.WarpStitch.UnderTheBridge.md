@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Kartaverse/KartaVR/Comps
+Kartaverse/KartaVR/Comps
+
 ___
 
 ## Description
@@ -20,15 +21,14 @@ ___
 <p>When this atom package is installed you can explore the example Fusion composites in this folder:</p>
 <pre><a href="file://Reactor:/Deploy/Comps/Kartaverse/WarpStitch/">Reactor:/Deploy/Comps/Kartaverse/WarpStitch/</a></pre>
 
+
+
 ___
 
 ## Dependencies
 
 > com.AndrewHazelden.KartaVR.Tools.Reframe360  
 > com.AndrewHazelden.KartaVR.Tools.WarpStitch  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

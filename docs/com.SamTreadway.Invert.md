@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Sam Treadway @ The Intelligent Machine
+Sam Treadway @ The Intelligent Machine
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Color
+Tools/Color
+
 ___
 
 ## Description
@@ -19,12 +20,11 @@ ___
 				<li>A separate macro entitled "Invert_Float" or will be added at some point.</li>
 			</ul>
 		</p>
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 

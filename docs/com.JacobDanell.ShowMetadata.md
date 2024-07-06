@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Jacob Danell
+Jacob Danell
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Metadata
+Tools/Metadata
+
 ___
 
 ## Description
@@ -26,12 +27,11 @@ ___
 <p>Changelog:</p>
 
 <br>v1.0, 2020-01-08:</br>
-<br>First release!</br>___
-
-## Dependencies
-
+<br>First release!</br>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

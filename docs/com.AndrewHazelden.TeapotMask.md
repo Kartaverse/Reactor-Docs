@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun/Tools/Mask
+Fun/Tools/Mask
+
 ___
 
 ## Description
@@ -24,12 +25,11 @@ ___
 
 <p>This atom package includes an example Fusion Teapot masking comp:<br>
 Reactor:/Deploy/Comps/Teapot.comp</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

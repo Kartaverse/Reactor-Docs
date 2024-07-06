@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Kartaverse/KartaVP/Comps
+Kartaverse/KartaVP/Comps
+
 ___
 
 ## Description
@@ -25,6 +26,8 @@ ___
 <p>In the Resolve Edit page, the "kvrDualFisheye" macro can then be dragged from the Effects Library "Effects &gt; KartaVP &gt; Warp" category onto a clip in the timeline. Select the clip and then open the Inspector view to adjust the parameters using the "Effects &gt; Fusion &gt; kvrDualFisheye" item.</p>
 
 <p>In the inspector view, if you click the little magic wand icon next to the right of the heading "kvrDualFisheye" you can hop into the Fusion page to customize the macro node. Double clicking on the "kvrDualFisheye" node in the Fusion page allows you to expand the group to access the nodes that are stored inside the group object.</p>
+
+
 ___
 
 ## Dependencies
@@ -34,9 +37,6 @@ ___
 > com.AndrewHazelden.KartaVP.Tools.kvrViewer  
 > com.AndrewHazelden.KartaVR.Tools.Images  
 > com.AndrewHazelden.KartaVR.Tools.WarpStitch  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

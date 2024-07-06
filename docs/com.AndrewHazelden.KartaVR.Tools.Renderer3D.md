@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR legacy Renderer3D nodes allow you to create panoramic imagery inside of Fusions 3D workspace.</p>___
-
-## Dependencies
-
+<p>The KartaVR legacy Renderer3D nodes allow you to create panoramic imagery inside of Fusions 3D workspace.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v1.02
+1.02
 
 ## Category
- : Tools
+Tools
+
 ___
 
 ## Description
@@ -35,12 +36,11 @@ ___
 <p><strong>Glow Only:</strong> Turns off the Merge onto the original source image, leaving only the glows.</p>
 
 WSL Development thread: 
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275</a>___
-
-## Dependencies
-
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275</a>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

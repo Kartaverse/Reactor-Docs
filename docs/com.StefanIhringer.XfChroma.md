@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.6
+1.6
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
-Creates a colorful transformation effect, very suitable for chromatic aberrations.___
-
-## Dependencies
-
+Creates a colorful transformation effect, very suitable for chromatic aberrations.
 
 ___
+
+## Dependencies
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Bryan Ray
+Bryan Ray
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Tool
+Scripts/Tool
+
 ___
 
 ## Description
@@ -20,12 +21,11 @@ ___
 <p>To counteract the problem, this script detects large differences between rotation keyframes and 
 	modifies the keys to remove the winding errors.</p>
 
-<p>by Bryan Ray for Muse VFX</p>___
-
-## Dependencies
-
+<p>by Bryan Ray for Muse VFX</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

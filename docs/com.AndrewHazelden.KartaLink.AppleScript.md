@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.7301
+5.7301
 
 ## Category
- : Kartaverse/KartaLink/Modifiers
+Kartaverse/KartaLink/Modifiers
+
 ___
 
 ## Description
@@ -24,12 +25,11 @@ ___
 
 <p>If you want to learn more about scriptable programs, open the Apple Script Editor and then select the "File > Open Dictionary..." menu item. You could also use the "Record" button to save a series of interactions into the script editor window. Copy/Paste this code back into the "kvrAppleScript" fuse's interface in the Resolve/Fusion Inspector view.</p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

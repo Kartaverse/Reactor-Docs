@@ -2,22 +2,22 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v5.73
+5.73
 
 ## Category
- : Legacy/Tools/VR
+Legacy/Tools/VR
+
 ___
 
 ## Description
-<p>The KartaVR paint macros make it easier to do paint repair work by adding a set of premade and connected nodes to your comp.</p>___
-
-## Dependencies
-
+<p>The KartaVR paint macros make it easier to do paint repair work by adding a set of premade and connected nodes to your comp.</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 

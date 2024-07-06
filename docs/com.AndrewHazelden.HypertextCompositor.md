@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.2
+1.2
 
 ## Category
- : Docs
+Docs
+
 ___
 
 ## Description
@@ -35,12 +36,11 @@ ___
 <h2>Email Andrew Hazelden</h2>
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
 
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

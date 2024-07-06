@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Komkom Doorn
+Komkom Doorn
 
 ## Version
- : v8.2
+8.2
 
 ## Category
- : Tools/Plugins
+Tools/Plugins
+
 ___
 
 ## Description
@@ -49,12 +50,11 @@ To uninstall, follow the removal instructions below.</h3>
 <p>https://www.facebook.com/krokodove</p>
 
 <h2>Email:</h2>
-<p>raf@komkomdoorn.com</p>___
-
-## Dependencies
-
+<p>raf@komkomdoorn.com</p>
 
 ___
+
+## Dependencies
 
 ## Deploy
 
@@ -62,5 +62,9 @@ ___
 
 
 ### macOS
+
+> Plugins/KrokodoveFu17.plugin  
+
+### Windows
 
 > Plugins/KrokodoveFu17.plugin  

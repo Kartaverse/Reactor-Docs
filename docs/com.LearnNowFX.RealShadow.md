@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : David Kohen | Learn Now FX
+David Kohen | Learn Now FX
 
 ## Version
- : v2.0
+2.0
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -23,12 +24,11 @@ A Tool to Create Realistic Soft Long Shadows for use in 2D Motion Graphics
 <p></p>
 <br>Thank you</br>
 <br>Learn Now FX</br>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

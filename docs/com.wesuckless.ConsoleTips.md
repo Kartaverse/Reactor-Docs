@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : We Suck Less
+We Suck Less
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Fun
+Fun
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <h2>For More Information</h2>
 <p><a href="https://www.steakunderwater.com/wesuckless/quotescollection?mode=all">https://www.steakunderwater.com/wesuckless/quotescollection?mode=all</a></p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

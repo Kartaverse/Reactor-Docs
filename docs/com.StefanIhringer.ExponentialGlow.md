@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Blur
+Tools/Blur
+
 ___
 
 ## Description
@@ -25,12 +26,11 @@ https://www.steakunderwater.com/VFXPedia/96.0.243.189/index2f2f.html?title=Setti
 
 <p>Pigsfly Forum &gt; Lightswoosh Thread<br>
 http://pigsfly.com/index.php?/topic/8208-lightswoosh/?hl=exponentialglow</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

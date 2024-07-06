@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Legacy/Tools/Filter
+Legacy/Tools/Filter
+
 ___
 
 ## Description
@@ -82,14 +83,13 @@ https://www.innobright.com/about-altus/</p>
 
 <p>Altus is capable of denoising images from other production renderers like Mantra, Arnold, Maxwell Render, Mental Ray and RenderMan but it is outside the current focus and usage scope of this tool to try and implement support users of those renderers.</p>
 
-<p>The "Processing Quality" should be set to the faster "Preview" setting when you are refining the settings. Once thinge are looking close to perfect you can switch the slower but cleaner "Production" setting to do a slightly better output quality. The &#91;x&#93; Firefly checkbox is useful for suppresing very small super bright artifacts that happen inside specular highlights in the rendered image.</p>___
+<p>The "Processing Quality" should be set to the faster "Preview" setting when you are refining the settings. Once thinge are looking close to perfect you can switch the slower but cleaner "Production" setting to do a slightly better output quality. The &#91;x&#93; Firefly checkbox is useful for suppresing very small super bright artifacts that happen inside specular highlights in the rendered image.</p>
+
+___
 
 ## Dependencies
 
 > com.wesuckless.SwitchElse  
-
-___
-
 ## Deploy
 
 ### Common (No Architecture)

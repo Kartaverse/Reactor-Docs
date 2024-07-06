@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
+Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Bin
+Bin
+
 ___
 
 ## Description
@@ -55,12 +56,11 @@ Options:
    -F, --fullscreen          Open a full-screen window
    -h, --help                Display this message
 </pre>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 
@@ -70,8 +70,16 @@ ___
 > Bin/instantmeshes/README.html  
 > Bin/instantmeshes/README.md  
 
+### Linux
+
+> Bin/instantmeshes/InstantMeshes  
+
 ### macOS
 
 > Bin/instantmeshes/InstantMeshes.app/Contents/Info.plist  
 > Bin/instantmeshes/InstantMeshes.app/Contents/MacOS/Instant Meshes  
 > Bin/instantmeshes/InstantMeshes.app/Contents/Resources/im.icns  
+
+### Windows
+
+> Bin/instantmeshes/InstantMeshes.exe  

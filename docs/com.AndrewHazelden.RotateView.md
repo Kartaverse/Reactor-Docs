@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Andrew Hazelden
+Andrew Hazelden
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Tools/Transform
+Tools/Transform
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 <p>This macro was prepared as part of the Macro Building Essentials tutorial series on Steakunderwater:<br>
 https://www.steakunderwater.com/wesuckless/viewtopic.php?p=14255#p14255</p>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

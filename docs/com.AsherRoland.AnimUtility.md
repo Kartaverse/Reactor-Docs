@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Asher Roland
+Asher Roland
 
 ## Version
- : v1.0
+1.0
 
 ## Category
- : Scripts/Comp
+Scripts/Comp
+
 ___
 
 ## Description
@@ -33,12 +34,11 @@ ___
 <ul>
 	<li><a href="">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=6624</a></li>
 </ul>
+
+
 ___
 
 ## Dependencies
-
-
-___
 
 ## Deploy
 

@@ -2,13 +2,14 @@
 ___
 
 ## Author
- : Stefan Ihringer
+Stefan Ihringer
 
 ## Version
- : v1.1
+1.1
 
 ## Category
- : Tools/Effect
+Tools/Effect
+
 ___
 
 ## Description
@@ -16,12 +17,11 @@ ___
 
 	<p>Another example for Fusion's drawing API. This Fuse draws one or two straight lines in different styles (solid, dashed, ...). The Fuse will also calculate the intersection point. You can use this feature to find out the vanishing point in your picture. Connect other tools to the vanishing point using "Connect To..." in their respective context menus.</p>
 	
-	___
-
-## Dependencies
-
+	
 
 ___
+
+## Dependencies
 
 ## Deploy
 
