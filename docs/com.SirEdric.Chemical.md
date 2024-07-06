@@ -1,14 +1,14 @@
 # Chemical
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 SirEdric
 
 ## Version
 1.1
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -54,6 +54,9 @@ a LineThickness of 10 and MaterialBoost of at least 2 is recommended.</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

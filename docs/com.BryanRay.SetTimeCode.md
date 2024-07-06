@@ -1,14 +1,14 @@
 # SetTimeCode
 ___
 
+## Category
+Tools/Metadata
+
 ## Author
 YourName
 
 ## Version
 3.1
-
-## Category
-Tools/Metadata
 
 ___
 
@@ -21,6 +21,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5.00".  
+You can donate using the URL: <a href="https://paypal.me/BryanRayVFX">https://paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

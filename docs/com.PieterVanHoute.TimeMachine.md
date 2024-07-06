@@ -1,14 +1,14 @@
 # Time Machine Fuse
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Pieter Van Houte
 
 ## Version
 2.2
-
-## Category
-Tools/Miscellaneous
 
 ___
 
@@ -54,6 +54,9 @@ Now you can use Time Machine to retime that motion, effectively looping, reversi
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # Sprite Sheet Extractor
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Bryan Ray
 
 ## Version
 1.0
-
-## Category
-Tools/Miscellaneous
 
 ___
 

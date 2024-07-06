@@ -1,14 +1,14 @@
 # Change Strings
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Noah Hähnel
 
 ## Version
 2.06
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -39,6 +39,9 @@ Any isues, feature requests or other messages can be reported to me by contactin
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5".  
+You can donate using the URL: <a href="https://noahhaehnel.gumroad.com/">https://noahhaehnel.gumroad.com/</a>
 ## Dependencies
 
 ## Deploy

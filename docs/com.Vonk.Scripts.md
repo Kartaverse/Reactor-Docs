@@ -1,14 +1,14 @@
 # Vonk Scripts
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Scripts
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.7
-
-## Category
-Kartaverse/Vonk Ultra/Scripts
 
 ___
 

@@ -1,14 +1,14 @@
 # Lua-CBOR
 ___
 
+## Category
+Modules/Lua
+
 ## Author
 Zash
 
 ## Version
 1.0
-
-## Category
-Modules/Lua
 
 ___
 

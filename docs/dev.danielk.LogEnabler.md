@@ -1,14 +1,14 @@
 # Log Enabler
 ___
 
+## Category
+Menus
+
 ## Author
 Daniel Koch
 
 ## Version
 1.0
-
-## Category
-Menus
 
 ___
 

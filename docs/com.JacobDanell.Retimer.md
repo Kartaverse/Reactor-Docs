@@ -1,14 +1,14 @@
 # Retimer
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Jacob Danell
 
 ## Version
 1.2
-
-## Category
-Tools/Miscellaneous
 
 ___
 

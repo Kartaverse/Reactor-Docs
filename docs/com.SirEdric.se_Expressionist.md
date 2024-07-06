@@ -1,14 +1,14 @@
 # se_Expressionist
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Eric 'SirEdric' Westphal
 
 ## Version
 0.75
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -32,6 +32,9 @@ Thread on WeSuckLess: https://www.steakunderwater.com/wesuckless/viewtopic.php?f
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5,00 €".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # KartaVR Images and Models
 ___
 
+## Category
+Kartaverse/KartaVR
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Kartaverse/KartaVR
 
 ___
 

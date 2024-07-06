@@ -1,14 +1,14 @@
 # Anonymous Water Template
 ___
 
+## Category
+Comps/Templates
+
 ## Author
 Uncharted Territory
 
 ## Version
 1.0
-
-## Category
-Comps/Templates
 
 ___
 

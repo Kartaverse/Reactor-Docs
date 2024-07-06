@@ -1,14 +1,14 @@
 # Close Comps
 ___
 
+## Category
+Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Menus
 
 ___
 

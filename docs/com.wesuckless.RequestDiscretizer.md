@@ -1,14 +1,14 @@
 # Request Discretizer Fuse
 ___
 
+## Category
+Modifiers
+
 ## Author
 We Suck Less
 
 ## Version
 1.0
-
-## Category
-Modifiers
 
 ___
 

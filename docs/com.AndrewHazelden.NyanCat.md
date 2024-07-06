@@ -1,14 +1,14 @@
 # NyanCat Macro
 ___
 
+## Category
+Fun/Tools/Creator
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Fun/Tools/Creator
 
 ___
 

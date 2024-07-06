@@ -1,14 +1,14 @@
 # Attribute Spreadsheet
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 0.33
-
-## Category
-Scripts/Comp
 
 ___
 

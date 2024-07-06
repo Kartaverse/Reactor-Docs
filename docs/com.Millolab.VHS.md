@@ -1,14 +1,14 @@
 # VHS
 ___
 
+## Category
+Comps
+
 ## Author
 Emilio Sapia - Millolab
 
 ## Version
 1.0
-
-## Category
-Comps
 
 ___
 
@@ -20,6 +20,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
 ## Deploy

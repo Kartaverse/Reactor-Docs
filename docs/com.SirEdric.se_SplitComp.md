@@ -1,14 +1,14 @@
 # SplitComp
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Eric 'SirEdric' Westphal
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -21,6 +21,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # EdgeBlur
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Effect
 
 ___
 

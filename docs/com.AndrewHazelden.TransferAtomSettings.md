@@ -1,14 +1,14 @@
 # Transfer Atom Settings
 ___
 
+## Category
+Scripts/Reactor
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Scripts/Reactor
 
 ___
 

@@ -1,14 +1,14 @@
 # PanotoolsNG
 ___
 
+## Category
+Bin
+
 ## Author
 Hugin
 
 ## Version
 2014.0
-
-## Category
-Bin
 
 ___
 

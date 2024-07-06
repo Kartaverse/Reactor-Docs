@@ -1,14 +1,14 @@
 # Grade
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Joe Laude/MuseVFX
 
 ## Version
 1.01
-
-## Category
-Tools/Color
 
 ___
 

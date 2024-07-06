@@ -1,14 +1,14 @@
 # Lua Matrix
 ___
 
+## Category
+Modules/Lua
+
 ## Author
 Michael Lutz
 
 ## Version
 1.0
-
-## Category
-Modules/Lua
 
 ___
 

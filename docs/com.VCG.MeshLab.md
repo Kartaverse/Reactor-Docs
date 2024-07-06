@@ -1,14 +1,14 @@
 # MeshLab
 ___
 
+## Category
+Bin
+
 ## Author
 Visual Computing Lab
 
 ## Version
 1.0
-
-## Category
-Bin
 
 ___
 

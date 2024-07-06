@@ -1,14 +1,14 @@
 # Sparse Color Fuse
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.1
-
-## Category
-Tools/Creator
 
 ___
 

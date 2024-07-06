@@ -1,14 +1,14 @@
 # Instant Meshes
 ___
 
+## Category
+Bin
+
 ## Author
 Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
 
 ## Version
 1.0
-
-## Category
-Bin
 
 ___
 

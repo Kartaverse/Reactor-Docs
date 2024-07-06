@@ -1,14 +1,14 @@
 # AudioWaveform
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 JiPi
 
 ## Version
 1.9
-
-## Category
-Tools/Miscellaneous
 
 ___
 

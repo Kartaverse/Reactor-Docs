@@ -1,14 +1,14 @@
 # Voronoi Diagram Fuse
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Dunn Lewis
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 

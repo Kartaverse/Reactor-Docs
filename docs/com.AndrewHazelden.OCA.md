@@ -1,14 +1,14 @@
 # Open Cell Animation Data Nodes
 ___
 
+## Category
+Kartaverse/OCA
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.02
-
-## Category
-Kartaverse/OCA
 
 ___
 

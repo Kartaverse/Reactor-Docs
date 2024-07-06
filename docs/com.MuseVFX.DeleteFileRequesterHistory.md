@@ -1,14 +1,14 @@
 # DeleteFileRequesterHistory
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Bryan Ray
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 

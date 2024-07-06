@@ -1,14 +1,14 @@
 # Blurred Edges Restoration
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Gregory Chalenko
 
 ## Version
 4.5
-
-## Category
-Tools/Matte
 
 ___
 

@@ -1,14 +1,14 @@
 # Blip
 ___
 
+## Category
+Modifiers
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.3
-
-## Category
-Modifiers
 
 ___
 
@@ -38,6 +38,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.patreon.com/wesuckless">https://www.patreon.com/wesuckless</a>
 ## Dependencies
 
 ## Deploy

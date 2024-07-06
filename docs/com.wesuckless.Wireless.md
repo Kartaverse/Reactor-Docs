@@ -1,14 +1,14 @@
 # Wireless Fuse
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 We Suck Less
 
 ## Version
 1.1
-
-## Category
-Tools/Flow
 
 ___
 

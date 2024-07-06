@@ -1,14 +1,14 @@
 # Telemetry-Parser
 ___
 
+## Category
+Bin
+
 ## Author
 Adrian Eddy
 
 ## Version
 1.0
-
-## Category
-Bin
 
 ___
 

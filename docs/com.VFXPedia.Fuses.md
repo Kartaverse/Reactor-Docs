@@ -1,14 +1,14 @@
 # VFXPedia Example Fuses
 ___
 
+## Category
+Tools
+
 ## Author
 Eyeon
 
 ## Version
 1.0
-
-## Category
-Tools
 
 ___
 

@@ -1,14 +1,14 @@
 # Sqlite3
 ___
 
+## Category
+Bin
+
 ## Author
 Andrew Hazelden
 
 ## Version
 3.23
-
-## Category
-Bin
 
 ___
 

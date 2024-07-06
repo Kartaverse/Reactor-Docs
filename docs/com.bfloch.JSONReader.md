@@ -1,14 +1,14 @@
 # JSON Reader
 ___
 
+## Category
+Modifiers
+
 ## Author
 Blazej Floch
 
 ## Version
 1.0
-
-## Category
-Modifiers
 
 ___
 

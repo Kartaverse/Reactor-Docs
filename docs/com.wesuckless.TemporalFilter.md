@@ -1,14 +1,14 @@
 # Temporal Filter Fuse
 ___
 
+## Category
+Tools/Filter
+
 ## Author
 Tom Berakis
 
 ## Version
 1.0
-
-## Category
-Tools/Filter
 
 ___
 

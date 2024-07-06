@@ -1,14 +1,14 @@
 # KartaVR Tools | Z360
 ___
 
+## Category
+Legacy/Tools/VR
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Legacy/Tools/VR
 
 ___
 

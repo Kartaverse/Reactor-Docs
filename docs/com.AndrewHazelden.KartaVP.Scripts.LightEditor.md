@@ -1,14 +1,14 @@
 # KartaVP Scripts | Light Editor
 ___
 
+## Category
+Kartaverse/KartaVP/Scripts
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVP/Scripts
 
 ___
 

@@ -1,14 +1,14 @@
 # Saver Manager
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 1.22
-
-## Category
-Scripts/Comp
 
 ___
 

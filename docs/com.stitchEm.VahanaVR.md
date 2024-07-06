@@ -1,14 +1,14 @@
 # stitchEm VahanaVR
 ___
 
+## Category
+Bin
+
 ## Author
 stitchEm
 
 ## Version
 2.4
-
-## Category
-Bin
 
 ___
 

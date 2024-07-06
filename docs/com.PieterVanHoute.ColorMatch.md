@@ -1,14 +1,14 @@
 # ColorMatch
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.1
-
-## Category
-Tools/Color
 
 ___
 
@@ -25,6 +25,9 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=3072
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.patreon.com/wesuckless">https://www.patreon.com/wesuckless</a>
 ## Dependencies
 
 ## Deploy

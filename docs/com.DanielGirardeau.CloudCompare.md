@@ -1,14 +1,14 @@
 # CloudCompare
 ___
 
+## Category
+Bin
+
 ## Author
 Daniel Girardeau
 
 ## Version
 2.91
-
-## Category
-Bin
 
 ___
 

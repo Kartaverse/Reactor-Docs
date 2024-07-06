@@ -1,14 +1,14 @@
 # KartaVR Tools | MetadataVR
 ___
 
+## Category
+Kartaverse/KartaVR/Tools/Metadata
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.1
-
-## Category
-Kartaverse/KartaVR/Tools/Metadata
 
 ___
 

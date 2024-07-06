@@ -1,14 +1,14 @@
 # Gain 3D
 ___
 
+## Category
+Tools/3D
+
 ## Author
 David Kohen | Learn Now FX
 
 ## Version
 1.9
-
-## Category
-Tools/3D
 
 ___
 

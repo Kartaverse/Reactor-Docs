@@ -1,14 +1,14 @@
 # Echo
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Jacob Danell
 
 ## Version
 1.3
-
-## Category
-Tools/Effect
 
 ___
 
@@ -49,6 +49,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5".  
+You can donate using the URL: <a href="https://www.paypal.me/danell">https://www.paypal.me/danell</a>
 ## Dependencies
 
 ## Deploy

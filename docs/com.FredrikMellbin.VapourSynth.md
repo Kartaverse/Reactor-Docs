@@ -1,14 +1,14 @@
 # VapourSynth
 ___
 
+## Category
+Bin
+
 ## Author
 Fredrik Mellbin
 
 ## Version
 44.0
-
-## Category
-Bin
 
 ___
 

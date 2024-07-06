@@ -1,14 +1,14 @@
 # KartaVR Scripts | Viewers
 ___
 
+## Category
+Kartaverse/KartaVR/Scripts
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Kartaverse/KartaVR/Scripts
 
 ___
 

@@ -1,14 +1,14 @@
 # Snapshot
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Jacob Danell
 
 ## Version
 1.1
-
-## Category
-Tools/Miscellaneous
 
 ___
 
@@ -42,6 +42,9 @@ v1.0, 2018-11-16: <br />
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$1".  
+You can donate using the URL: <a href="https://www.paypal.me/danell/1">https://www.paypal.me/danell/1</a>
 ## Dependencies
 
 ## Deploy

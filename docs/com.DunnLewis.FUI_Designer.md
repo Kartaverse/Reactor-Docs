@@ -1,14 +1,14 @@
 # FUI Designer
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Dunn Lewis
 
 ## Version
 1.05
-
-## Category
-Tools/Creator
 
 ___
 
@@ -21,6 +21,9 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?p=7680</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
 ## Dependencies
 
 ## Deploy

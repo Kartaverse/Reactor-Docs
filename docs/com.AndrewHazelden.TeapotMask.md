@@ -1,14 +1,14 @@
 # Teapot Mask
 ___
 
+## Category
+Fun/Tools/Mask
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Fun/Tools/Mask
 
 ___
 

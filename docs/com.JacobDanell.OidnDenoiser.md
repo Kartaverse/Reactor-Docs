@@ -1,14 +1,14 @@
 # Oidn Denoiser
 ___
 
+## Category
+Tools/Filter
+
 ## Author
 Jacob Danell
 
 ## Version
 1.1
-
-## Category
-Tools/Filter
 
 ___
 

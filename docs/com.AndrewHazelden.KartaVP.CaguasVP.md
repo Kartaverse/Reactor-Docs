@@ -1,14 +1,14 @@
 # KartaVP Example | Caguas VP
 ___
 
+## Category
+Kartaverse/KartaVP/Comps
+
 ## Author
 Andrew Hazelden and Robert Moreno
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVP/Comps
 
 ___
 

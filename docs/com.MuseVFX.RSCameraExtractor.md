@@ -1,14 +1,14 @@
 # Redshift Camera Extractor
 ___
 
+## Category
+Tools/Metadata
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 3.2
-
-## Category
-Tools/Metadata
 
 ___
 

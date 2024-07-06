@@ -1,14 +1,14 @@
 # Shine Abstraction
 ___
 
+## Category
+Comps
+
 ## Author
 Maxim Seredkin
 
 ## Version
 1.0
-
-## Category
-Comps
 
 ___
 

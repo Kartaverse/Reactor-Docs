@@ -1,14 +1,14 @@
 # MT_Fine_Shine
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Dan DeEtremont/MuseVFX
 
 ## Version
 2.0
-
-## Category
-Tools/Effect
 
 ___
 

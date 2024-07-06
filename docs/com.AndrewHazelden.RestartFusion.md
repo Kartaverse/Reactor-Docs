@@ -1,14 +1,14 @@
 # Restart Fusion
 ___
 
+## Category
+Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 2.3
-
-## Category
-Menus
 
 ___
 

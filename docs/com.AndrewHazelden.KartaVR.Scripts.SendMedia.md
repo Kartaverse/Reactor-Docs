@@ -1,14 +1,14 @@
 # KartaVR Scripts | Send Media
 ___
 
+## Category
+Kartaverse/KartaVR/Scripts
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVR/Scripts
 
 ___
 

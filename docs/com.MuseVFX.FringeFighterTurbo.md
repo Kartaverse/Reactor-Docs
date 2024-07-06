@@ -1,14 +1,14 @@
 # Fringe Fighter Turbo
 ___
 
+## Category
+Tools/Composite
+
 ## Author
 Dan De'Etremont
 
 ## Version
 1.1
-
-## Category
-Tools/Composite
 
 ___
 

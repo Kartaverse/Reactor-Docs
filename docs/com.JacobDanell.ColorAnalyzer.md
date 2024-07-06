@@ -1,14 +1,14 @@
 # Color Analyzer
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Jacob Danell
 
 ## Version
 1.0
-
-## Category
-Tools/Color
 
 ___
 
@@ -56,6 +56,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5".  
+You can donate using the URL: <a href="https://www.paypal.com/paypalme/danell">https://www.paypal.com/paypalme/danell</a>
 ## Dependencies
 
 ## Deploy

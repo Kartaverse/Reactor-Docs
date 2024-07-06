@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 05.05 PM
+Atom to Markdown.py - v1.6 2024-07-06 05.39 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -20,12 +20,9 @@ Step 1. Open the "Script > Atomz > Markdown Create" menu item. The Console windo
 Todo
 -----
 - Add collapsible "sidebar" Reactor category hierarchies
-- List the suggested donation URL
 - List if there is an InstallScript/UninstallScript
-- Add a URL link to WSL Reactor gitlab repo resources when clicking on deployed files
 - Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
 - Parse description content for a file:// based "Reactor:" URL path.
-
 """
 
 import os, shutil, datetime, math, re, csv, platform
@@ -185,16 +182,16 @@ def MarkdownCreate(folder):
 							fAtom.write("# " + str(name) + "\n")
 							fAtom.write("___\n\n")
 
+							fAtom.write("## Category\n")
+							fAtom.write(str(cat) + "\n\n")
+
 							fAtom.write("## Author\n")
 							fAtom.write(author + "\n\n")
 
 							fAtom.write("## Version\n")
 							fAtom.write(str(version) + "\n\n")
 
-							fAtom.write("## Category\n")
-							fAtom.write(str(cat) + "\n")
-
-							fAtom.write("\n___\n\n")
+							fAtom.write("___\n\n")
 
 							fAtom.write("## Description\n")
 							fAtom.write(str(html))
@@ -204,6 +201,19 @@ def MarkdownCreate(folder):
 							#print(atomDict)
 
 							fAtom.write("\n\n___\n\n")
+
+							if "Donation" in atomDict:
+								donate = GetValue("Donation", atomDict, {})
+								if donate:
+									fAtom.write("## Donation\n")
+									try:
+										if "Amount" in donate:
+											fAtom.write("The author of the atom has suggested a donation of \"" + donate["Amount"] + "\".  \n")
+										if "URL" in donate:
+											fAtom.write("You can donate using the URL: <a href=\"" + donate["URL"] + "\">" + donate["URL"]  + "</a>\n")
+									except Exception as error:
+										print("\t[Error]", error)
+
 
 							fAtom.write("## Dependencies\n\n")
 							#print("\n[Deploy][All]")

@@ -1,14 +1,14 @@
 # Sprut
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Pieter Van Houte
 
 ## Version
 2.11
-
-## Category
-Tools/Effect
 
 ___
 

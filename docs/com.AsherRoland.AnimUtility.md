@@ -1,14 +1,14 @@
 # Anim Utility
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Asher Roland
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -38,6 +38,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5.00".  
+You can donate using the URL: <a href="https://www.paypal.me/AsherRoland">https://www.paypal.me/AsherRoland</a>
 ## Dependencies
 
 ## Deploy

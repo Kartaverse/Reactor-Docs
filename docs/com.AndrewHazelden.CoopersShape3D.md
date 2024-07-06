@@ -1,14 +1,14 @@
 # CoopersShape3D
 ___
 
+## Category
+Fun/Tools/3D
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Fun/Tools/3D
 
 ___
 

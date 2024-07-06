@@ -1,14 +1,14 @@
 # pSpeedLimit
 ___
 
+## Category
+Tools/Particles
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Particles
 
 ___
 

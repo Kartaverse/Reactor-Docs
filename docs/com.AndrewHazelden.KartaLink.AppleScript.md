@@ -1,14 +1,14 @@
 # KartaLink | Apple Script
 ___
 
+## Category
+Kartaverse/KartaLink/Modifiers
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Kartaverse/KartaLink/Modifiers
 
 ___
 

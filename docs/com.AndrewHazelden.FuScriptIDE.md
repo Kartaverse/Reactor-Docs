@@ -1,14 +1,14 @@
 # FuScript IDE for BBEdit
 ___
 
+## Category
+Bin
+
 ## Author
 Andrew Hazelden
 
 ## Version
 2.0
-
-## Category
-Bin
 
 ___
 

@@ -1,14 +1,14 @@
 # Redshift Utilities
 ___
 
+## Category
+Tools
+
 ## Author
 Bryan Ray
 
 ## Version
 3.0
-
-## Category
-Tools
 
 ___
 
@@ -30,6 +30,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5 USD".  
+You can donate using the URL: <a href="https://www.paypal.me/BryanRayVFX">https://www.paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 > [com.MuseVFX.RSCameraExtractor](com.MuseVFX.RSCameraExtractor.md)  

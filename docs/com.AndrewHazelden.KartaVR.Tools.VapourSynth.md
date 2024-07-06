@@ -1,14 +1,14 @@
 # VapourSynth for Fusion
 ___
 
+## Category
+Legacy/Tools/Filter
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Legacy/Tools/Filter
 
 ___
 

@@ -1,14 +1,14 @@
 # Wireless3D Material Fuse
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Blazej Floch
 
 ## Version
 1.0
-
-## Category
-Tools/Flow
 
 ___
 

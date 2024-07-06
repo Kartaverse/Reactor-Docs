@@ -1,14 +1,14 @@
 # Vlam
 ___
 
+## Category
+Tools/Plugins
+
 ## Author
 Komkom Doorn
 
 ## Version
 1.2
-
-## Category
-Tools/Plugins
 
 ___
 

@@ -1,14 +1,14 @@
 # EXIF Synchronizer
 ___
 
+## Category
+Tools/Metadata
+
 ## Author
 Tomas Barton
 
 ## Version
 1.0
-
-## Category
-Tools/Metadata
 
 ___
 
@@ -31,6 +31,9 @@ sudo apt install libimage-exiftool-perl
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5 USD".  
+You can donate using the URL: <a href="bc1qks84de8jearwchf5l5x2tfcn8e8erhk2t4a3kx?amount=0.00038692&message=resolve">bc1qks84de8jearwchf5l5x2tfcn8e8erhk2t4a3kx?amount=0.00038692&message=resolve</a>
 ## Dependencies
 
 ## Deploy

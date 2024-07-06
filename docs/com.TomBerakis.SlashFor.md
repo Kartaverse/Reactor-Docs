@@ -1,14 +1,14 @@
 # For Slash Command
 ___
 
+## Category
+Console
+
 ## Author
 Tom Berakis
 
 ## Version
 2.1
-
-## Category
-Console
 
 ___
 

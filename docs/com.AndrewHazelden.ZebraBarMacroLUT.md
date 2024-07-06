@@ -1,14 +1,14 @@
 # ZebraBar MacroLUT
 ___
 
+## Category
+Viewshaders
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Viewshaders
 
 ___
 

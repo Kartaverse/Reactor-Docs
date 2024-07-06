@@ -1,14 +1,14 @@
 # SmoothCam Fuse
 ___
 
+## Category
+Tools/Optical Flow
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.01
-
-## Category
-Tools/Optical Flow
 
 ___
 

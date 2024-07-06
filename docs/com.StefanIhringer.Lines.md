@@ -1,14 +1,14 @@
 # Lines
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.1
-
-## Category
-Tools/Effect
 
 ___
 

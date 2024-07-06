@@ -1,14 +1,14 @@
 # Unbendable Girder
 ___
 
+## Category
+Fun
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Fun
 
 ___
 

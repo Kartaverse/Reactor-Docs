@@ -1,14 +1,14 @@
 # RenderPal Submitter
 ___
 
+## Category
+Legacy/Bin
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Legacy/Bin
 
 ___
 

@@ -1,14 +1,14 @@
 # Directional Blur Gamma
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 2.4
-
-## Category
-Tools/Blur
 
 ___
 

@@ -1,14 +1,14 @@
 # NetLoader
 ___
 
+## Category
+Legacy/Tools/IO
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.3
-
-## Category
-Legacy/Tools/IO
 
 ___
 

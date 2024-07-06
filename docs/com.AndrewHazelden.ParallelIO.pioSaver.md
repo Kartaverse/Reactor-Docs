@@ -1,14 +1,14 @@
 # pioSaver
 ___
 
+## Category
+Kartaverse/Parallel IO/Tools
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Kartaverse/Parallel IO/Tools
 
 ___
 

@@ -1,14 +1,14 @@
 # Linear Cloner
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Steve Watson
 
 ## Version
 0.1
-
-## Category
-Tools/Effect
 
 ___
 
@@ -17,6 +17,8 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
 ## Dependencies
 
 ## Deploy

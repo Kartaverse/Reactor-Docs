@@ -1,14 +1,14 @@
 # KartaVR Examples | Legacy Comps
 ___
 
+## Category
+Legacy/Comps
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Legacy/Comps
 
 ___
 

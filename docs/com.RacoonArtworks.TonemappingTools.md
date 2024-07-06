@@ -1,14 +1,14 @@
 # TonemappingTools
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Martin Geupel
 
 ## Version
 1.02
-
-## Category
-Tools/Color
 
 ___
 
@@ -29,6 +29,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E</a>
 ## Dependencies
 
 ## Deploy

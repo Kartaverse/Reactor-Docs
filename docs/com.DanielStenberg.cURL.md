@@ -1,14 +1,14 @@
 # cURL for Windows
 ___
 
+## Category
+Bin
+
 ## Author
 Daniel Stenberg
 
 ## Version
 7.41
-
-## Category
-Bin
 
 ___
 

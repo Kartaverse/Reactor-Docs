@@ -1,14 +1,14 @@
 # Altus Denoiser Ultra
 ___
 
+## Category
+Legacy/Tools/Filter
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Legacy/Tools/Filter
 
 ___
 

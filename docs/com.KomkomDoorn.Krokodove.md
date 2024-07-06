@@ -1,14 +1,14 @@
 # Krokodove
 ___
 
+## Category
+Tools/Plugins
+
 ## Author
 Komkom Doorn
 
 ## Version
 7.2
-
-## Category
-Tools/Plugins
 
 ___
 

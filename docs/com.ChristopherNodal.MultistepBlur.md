@@ -1,14 +1,14 @@
 # Multistep Blur
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Christopher Nodal
 
 ## Version
 1.0
-
-## Category
-Tools/Blur
 
 ___
 

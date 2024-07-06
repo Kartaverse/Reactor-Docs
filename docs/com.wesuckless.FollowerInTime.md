@@ -1,14 +1,14 @@
 # Follower In Time
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 

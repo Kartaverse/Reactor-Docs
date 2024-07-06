@@ -1,14 +1,14 @@
 # Open In Script Editor
 ___
 
+## Category
+Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 3.0
-
-## Category
-Menus
 
 ___
 

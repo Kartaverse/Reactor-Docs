@@ -1,14 +1,14 @@
 # Spatial Media Metadata Injector
 ___
 
+## Category
+Bin
+
 ## Author
 Google
 
 ## Version
 2.1
-
-## Category
-Bin
 
 ___
 

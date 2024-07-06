@@ -1,14 +1,14 @@
 # FUI SuperShape
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Dunn Lewis
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 
@@ -20,6 +20,9 @@ Written by Paul Bourke http://paulbourke.net/geometry/supershape/</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
 ## Dependencies
 
 ## Deploy

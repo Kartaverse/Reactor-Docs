@@ -1,14 +1,14 @@
 # KartaVR 3rd Party Libraries
 ___
 
+## Category
+Kartaverse/KartaVR
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7303
-
-## Category
-Kartaverse/KartaVR
 
 ___
 

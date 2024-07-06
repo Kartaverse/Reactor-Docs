@@ -1,14 +1,14 @@
 # KartaVR Bonus
 ___
 
+## Category
+Kartaverse/KartaVR
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVR
 
 ___
 

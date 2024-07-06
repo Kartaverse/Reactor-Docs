@@ -1,14 +1,14 @@
 # Append 2
 ___
 
+## Category
+Tools/Composite
+
 ## Author
 Jacob Danell
 
 ## Version
 2.0
-
-## Category
-Tools/Composite
 
 ___
 

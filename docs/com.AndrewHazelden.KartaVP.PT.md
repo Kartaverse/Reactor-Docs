@@ -1,14 +1,14 @@
 # KartaVP Tools | PT Data Nodes
 ___
 
+## Category
+Kartaverse/KartaVP/Tools
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.03
-
-## Category
-Kartaverse/KartaVP/Tools
 
 ___
 

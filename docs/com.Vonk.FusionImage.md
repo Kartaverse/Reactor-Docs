@@ -1,14 +1,14 @@
 # Vonk | FusionImage
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Modifiers
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.7
-
-## Category
-Kartaverse/Vonk Ultra/Modifiers
 
 ___
 

@@ -1,14 +1,14 @@
 # Hexagon Fuse
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 We Suck Less
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 

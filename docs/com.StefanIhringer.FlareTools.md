@@ -1,14 +1,14 @@
 # Flare Tools
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.8
-
-## Category
-Tools/Effect
 
 ___
 

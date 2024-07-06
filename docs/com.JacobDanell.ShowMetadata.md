@@ -1,14 +1,14 @@
 # Show Metadata
 ___
 
+## Category
+Tools/Metadata
+
 ## Author
 Jacob Danell
 
 ## Version
 1.0
-
-## Category
-Tools/Metadata
 
 ___
 

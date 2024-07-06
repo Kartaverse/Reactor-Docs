@@ -1,14 +1,14 @@
 # Resolve Essentials
 ___
 
+## Category
+Resolve
+
 ## Author
 Andrew Hazelden
 
 ## Version
 3.141
-
-## Category
-Resolve
 
 ___
 

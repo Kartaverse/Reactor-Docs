@@ -1,14 +1,14 @@
 # KartaVR Hotkeys
 ___
 
+## Category
+Kartaverse/KartaVR/Hotkeys
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVR/Hotkeys
 
 ___
 

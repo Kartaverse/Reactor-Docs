@@ -1,14 +1,14 @@
 # Position Helper Fuse
 ___
 
+## Category
+Modifiers
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.1
-
-## Category
-Modifiers
 
 ___
 

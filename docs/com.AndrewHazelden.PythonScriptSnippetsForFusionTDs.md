@@ -1,14 +1,14 @@
 # Python Script Snippets for Fusion TDs
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.2
-
-## Category
-Scripts/Comp
 
 ___
 

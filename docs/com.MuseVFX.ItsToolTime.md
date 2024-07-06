@@ -1,14 +1,14 @@
 # It's Tool Time!
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Bryan Ray
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -19,6 +19,9 @@ by Bryan Ray for Muse VFX
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.paypal.com/paypalme/BryanRayVFX">https://www.paypal.com/paypalme/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

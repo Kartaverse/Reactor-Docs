@@ -1,14 +1,14 @@
 # Blocks on a Plane
 ___
 
+## Category
+Comps/Templates
+
 ## Author
 SirEdric
 
 ## Version
 1.0
-
-## Category
-Comps/Templates
 
 ___
 
@@ -21,6 +21,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€1.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

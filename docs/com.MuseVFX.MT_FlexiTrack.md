@@ -1,14 +1,14 @@
 # FlexiTrack
 ___
 
+## Category
+Tools/Tracking
+
 ## Author
 BryanRay
 
 ## Version
 2.0
-
-## Category
-Tools/Tracking
 
 ___
 
@@ -24,6 +24,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "2".  
+You can donate using the URL: <a href="http://paypal.me/BryanRayVFX">http://paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

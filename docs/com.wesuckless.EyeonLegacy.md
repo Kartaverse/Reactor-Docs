@@ -1,14 +1,14 @@
 # Eyeon Legacy Scripts
 ___
 
+## Category
+Scripts
+
 ## Author
 Eyeon
 
 ## Version
 2.6
-
-## Category
-Scripts
 
 ___
 

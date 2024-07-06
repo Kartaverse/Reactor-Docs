@@ -1,14 +1,14 @@
 # GradientMapper
 ___
 
+## Category
+Tools/Color
+
 ## Author
 VFXPedia
 
 ## Version
 1.0
-
-## Category
-Tools/Color
 
 ___
 

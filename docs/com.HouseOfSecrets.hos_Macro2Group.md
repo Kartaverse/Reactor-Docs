@@ -1,14 +1,14 @@
 # hos_Macro2Group
 ___
 
+## Category
+Scripts/Tool
+
 ## Author
 House of Secrets
 
 ## Version
 0.3
-
-## Category
-Scripts/Tool
 
 ___
 

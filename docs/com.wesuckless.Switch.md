@@ -1,14 +1,14 @@
 # Switch Fuse
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.72
-
-## Category
-Tools/Flow
 
 ___
 

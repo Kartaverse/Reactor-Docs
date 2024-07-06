@@ -1,14 +1,14 @@
 # StraightenUp_SdR
 ___
 
+## Category
+Tools/Transform
+
 ## Author
 Sander de Regt - ShadowMaker SdR
 
 ## Version
 1.0
-
-## Category
-Tools/Transform
 
 ___
 

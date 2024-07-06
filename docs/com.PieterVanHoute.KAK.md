@@ -1,14 +1,14 @@
 # KAK
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Pieter Van Houte
 
 ## Version
 3.2
-
-## Category
-Tools/Matte
 
 ___
 
@@ -24,6 +24,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
 ## Dependencies
 
 > [com.wesuckless.Switch](com.wesuckless.Switch.md)  

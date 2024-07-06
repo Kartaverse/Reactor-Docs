@@ -1,14 +1,14 @@
 # Reactor Atomz Create
 ___
 
+## Category
+Scripts/Reactor
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.6
-
-## Category
-Scripts/Reactor
 
 ___
 

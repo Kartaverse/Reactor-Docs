@@ -1,14 +1,14 @@
 # Frame Ranger
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 1.1
-
-## Category
-Scripts/Comp
 
 ___
 

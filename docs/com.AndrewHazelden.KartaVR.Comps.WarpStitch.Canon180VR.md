@@ -1,14 +1,14 @@
 # KartaVR Example | Canon 180VR Comp
 ___
 
+## Category
+Kartaverse/KartaVR/Comps
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVR/Comps
 
 ___
 

@@ -1,14 +1,14 @@
 # KickAss ShaderZ Menus
 ___
 
+## Category
+Shaders
+
 ## Author
 Andromeda Girl & Andrew Hazelden
 
 ## Version
 1.21
-
-## Category
-Shaders
 
 ___
 

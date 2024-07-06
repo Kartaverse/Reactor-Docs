@@ -1,14 +1,14 @@
 # GetFrame
 ___
 
+## Category
+Legacy/Tools/IO
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.01
-
-## Category
-Legacy/Tools/IO
 
 ___
 

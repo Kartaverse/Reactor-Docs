@@ -1,14 +1,14 @@
 # Blitz FX Lite
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Pirates of Confusion
 
 ## Version
 1.02
-
-## Category
-Tools/Effect
 
 ___
 

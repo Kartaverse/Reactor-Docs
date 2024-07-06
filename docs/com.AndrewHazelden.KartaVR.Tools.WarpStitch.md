@@ -1,14 +1,14 @@
 # KartaVR Tools | WarpStitch Ultra
 ___
 
+## Category
+Kartaverse/KartaVR/Tools
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVR/Tools
 
 ___
 

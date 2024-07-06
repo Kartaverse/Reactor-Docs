@@ -1,14 +1,14 @@
 # Snapshot Slash Command
 ___
 
+## Category
+Console
+
 ## Author
 Andrew Hazelden
 
 ## Version
 2.0
-
-## Category
-Console
 
 ___
 

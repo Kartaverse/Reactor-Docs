@@ -1,14 +1,14 @@
 # Vonk Example | Bike Dashboard
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Comps
+
 ## Author
 Andrew Hazelden and Misocko
 
 ## Version
 1.0
-
-## Category
-Kartaverse/Vonk Ultra/Comps
 
 ___
 

@@ -1,14 +1,14 @@
 # Shell Slash Command
 ___
 
+## Category
+Console
+
 ## Author
 Fusion Reactor
 
 ## Version
 1.0
-
-## Category
-Console
 
 ___
 

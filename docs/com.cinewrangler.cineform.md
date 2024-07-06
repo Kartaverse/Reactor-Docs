@@ -1,14 +1,14 @@
 # CineForm Loader/Saver
 ___
 
+## Category
+Tools/IO
+
 ## Author
 Olaf Matthes
 
 ## Version
 1.5
-
-## Category
-Tools/IO
 
 ___
 
@@ -68,6 +68,9 @@ DEALINGS IN THE SOFTWARE.</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="http://www.paypal.me/cinewrangler">http://www.paypal.me/cinewrangler</a>
 ## Dependencies
 
 ## Deploy

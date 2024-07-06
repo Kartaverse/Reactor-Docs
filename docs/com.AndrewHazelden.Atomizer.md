@@ -1,14 +1,14 @@
 # Atomizer
 ___
 
+## Category
+Scripts/Reactor
+
 ## Author
 Andrew Hazelden
 
 ## Version
 4.0
-
-## Category
-Scripts/Reactor
 
 ___
 

@@ -1,14 +1,14 @@
 # SwitchElse Fuse
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Chad Capeland & Stefan Ihringer
 
 ## Version
 1.0
-
-## Category
-Tools/Flow
 
 ___
 

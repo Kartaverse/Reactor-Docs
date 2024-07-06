@@ -1,14 +1,14 @@
 # hos_Tiler
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 House of Secrets
 
 ## Version
 1.2
-
-## Category
-Tools/Creator
 
 ___
 

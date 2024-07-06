@@ -1,14 +1,14 @@
 # CleanFlow
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 DC Turner
 
 ## Version
 1.3
-
-## Category
-Scripts/Comp
 
 ___
 

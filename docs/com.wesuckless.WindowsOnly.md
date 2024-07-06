@@ -1,14 +1,14 @@
 # Windows Only Script
 ___
 
+## Category
+Testing
+
 ## Author
 Fusion Reactor
 
 ## Version
 1.1
-
-## Category
-Testing
 
 ___
 

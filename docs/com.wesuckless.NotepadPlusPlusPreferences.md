@@ -1,14 +1,14 @@
 # Notepad++ for Fusion Preferences
 ___
 
+## Category
+Bin
+
 ## Author
 We Suck Less
 
 ## Version
 7.54
-
-## Category
-Bin
 
 ___
 

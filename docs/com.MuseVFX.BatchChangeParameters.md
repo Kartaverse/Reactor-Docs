@@ -1,14 +1,14 @@
 # Batch Change Parameters
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 4.3
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -76,6 +76,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$3 USD".  
+You can donate using the URL: <a href="https://www.paypal.com/paypalme/BryanRayVFX">https://www.paypal.com/paypalme/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

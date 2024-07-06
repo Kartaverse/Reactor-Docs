@@ -1,14 +1,14 @@
 # Savitzky Golay Smoothing
 ___
 
+## Category
+Modifiers
+
 ## Author
 Eyeon
 
 ## Version
 2.0
-
-## Category
-Modifiers
 
 ___
 

@@ -1,14 +1,14 @@
 # Notepad++ for Fusion
 ___
 
+## Category
+Bin
+
 ## Author
 Andrew Hazelden
 
 ## Version
 8.191
-
-## Category
-Bin
 
 ___
 

@@ -1,14 +1,14 @@
 # Nudge
 ___
 
+## Category
+Tools/Warp
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.0
-
-## Category
-Tools/Warp
 
 ___
 

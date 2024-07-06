@@ -1,14 +1,14 @@
 # Revert Comp
 ___
 
+## Category
+Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Menus
 
 ___
 

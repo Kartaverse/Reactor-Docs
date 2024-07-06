@@ -1,14 +1,14 @@
 # Glo_LightWrap
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Nguyễn Tuấn An
 
 ## Version
 1.0
-
-## Category
-Tools/Effect
 
 ___
 

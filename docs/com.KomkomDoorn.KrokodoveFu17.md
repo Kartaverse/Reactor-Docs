@@ -1,14 +1,14 @@
 # Krokodove for Fusion/Resolve Studio 17
 ___
 
+## Category
+Tools/Plugins
+
 ## Author
 Komkom Doorn
 
 ## Version
 8.2
-
-## Category
-Tools/Plugins
 
 ___
 

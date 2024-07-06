@@ -1,14 +1,14 @@
 # KartaVP Example | Dual Fisheye
 ___
 
+## Category
+Kartaverse/KartaVP/Comps
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Kartaverse/KartaVP/Comps
 
 ___
 

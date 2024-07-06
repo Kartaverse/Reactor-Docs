@@ -1,14 +1,14 @@
 # Atom Slash Command
 ___
 
+## Category
+Console
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Console
 
 ___
 

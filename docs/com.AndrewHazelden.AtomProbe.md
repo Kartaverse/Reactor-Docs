@@ -1,14 +1,14 @@
 # Atom Probe
 ___
 
+## Category
+Scripts/Reactor
+
 ## Author
 Andrew Hazelden
 
 ## Version
 2.0
-
-## Category
-Scripts/Reactor
 
 ___
 

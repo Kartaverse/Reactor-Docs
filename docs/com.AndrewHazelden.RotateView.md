@@ -1,14 +1,14 @@
 # Rotate View
 ___
 
+## Category
+Tools/Transform
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Tools/Transform
 
 ___
 

@@ -1,14 +1,14 @@
 # Thickener
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Joe Laude/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Effect
 
 ___
 

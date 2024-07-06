@@ -1,14 +1,14 @@
 # Fltr_EdgeBlur
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Nguyễn Tuấn An
 
 ## Version
 1.0
-
-## Category
-Tools/Blur
 
 ___
 

@@ -1,14 +1,14 @@
 # Defocus Gamma
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 2.3
-
-## Category
-Tools/Blur
 
 ___
 

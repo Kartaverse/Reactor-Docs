@@ -1,14 +1,14 @@
 # AdvancedEdgeExtend
 ___
 
+## Category
+Tools/Filter
+
 ## Author
 Emilio Sapia - Millolab
 
 ## Version
 2.2
-
-## Category
-Tools/Filter
 
 ___
 
@@ -20,6 +20,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
 ## Deploy

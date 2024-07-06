@@ -1,14 +1,14 @@
 # Linear to sRGB and Rec709 Viewshaders
 ___
 
+## Category
+Viewshaders
+
 ## Author
 Stefan Ihringer
 
 ## Version
 2.0
-
-## Category
-Viewshaders
 
 ___
 

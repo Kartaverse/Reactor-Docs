@@ -1,14 +1,14 @@
 # Extended Wave
 ___
 
+## Category
+Modifiers
+
 ## Author
 Dunn Lewis
 
 ## Version
 1.01
-
-## Category
-Modifiers
 
 ___
 
@@ -22,6 +22,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€1.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # InstantNGP
 ___
 
+## Category
+Bin
+
 ## Author
 NVIDIA
 
 ## Version
 1.0
-
-## Category
-Bin
 
 ___
 

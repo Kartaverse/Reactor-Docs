@@ -1,14 +1,14 @@
 # potrace
 ___
 
+## Category
+Bin
+
 ## Author
 Peter Selinger
 
 ## Version
 1.15
-
-## Category
-Bin
 
 ___
 

@@ -1,14 +1,14 @@
 # Conditional Fuse
 ___
 
+## Category
+Modifiers
+
 ## Author
 We Suck Less
 
 ## Version
 0.1
-
-## Category
-Modifiers
 
 ___
 

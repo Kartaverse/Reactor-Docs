@@ -1,14 +1,14 @@
 # Cave of Fusion
 ___
 
+## Category
+Legacy/Fun/Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Legacy/Fun/Menus
 
 ___
 

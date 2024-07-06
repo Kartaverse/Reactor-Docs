@@ -1,14 +1,14 @@
 # nuke2fusion
 ___
 
+## Category
+Tools
+
 ## Author
 statixVFX
 
 ## Version
 1.0
-
-## Category
-Tools
 
 ___
 

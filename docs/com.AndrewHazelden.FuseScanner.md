@@ -1,14 +1,14 @@
 # Fuse Scanner
 ___
 
+## Category
+Scripts/Reactor
+
 ## Author
 Andrew Hazelden
 
 ## Version
 3.141
-
-## Category
-Scripts/Reactor
 
 ___
 

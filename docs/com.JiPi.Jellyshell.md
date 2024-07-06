@@ -1,14 +1,14 @@
 # Jellyshell
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 JiPi
 
 ## Version
 0.3
-
-## Category
-Tools/Miscellaneous
 
 ___
 

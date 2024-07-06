@@ -1,14 +1,14 @@
 # HexBG
 ___
 
+## Category
+Tools
+
 ## Author
 SirEdric
 
 ## Version
 1.0
-
-## Category
-Tools
 
 ___
 
@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=A1sGqq_kaxY</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€1.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # ImageMagick
 ___
 
+## Category
+Bin
+
 ## Author
 ImageMagick
 
 ## Version
 7.0
-
-## Category
-Bin
 
 ___
 

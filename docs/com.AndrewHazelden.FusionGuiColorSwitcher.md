@@ -1,14 +1,14 @@
 # Fusion GUI Color Switcher
 ___
 
+## Category
+Bin
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Bin
 
 ___
 

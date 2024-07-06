@@ -1,14 +1,14 @@
 # hos_SplitEXR_Ultra
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 House of Secrets
 
 ## Version
 4.1
-
-## Category
-Scripts/Comp
 
 ___
 

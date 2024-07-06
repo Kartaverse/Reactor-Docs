@@ -1,14 +1,14 @@
 # ColorLabels
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 AlbertoGZ
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 

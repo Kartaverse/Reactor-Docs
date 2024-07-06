@@ -1,14 +1,14 @@
 # STMapperInline Effects Template
 ___
 
+## Category
+Resolve
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.7301
-
-## Category
-Resolve
 
 ___
 

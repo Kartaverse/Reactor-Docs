@@ -1,14 +1,14 @@
 # Match Tint
 ___
 
+## Category
+Tools/Color
+
 ## Author
 David Kohen | Learn Now FX
 
 ## Version
 1.3
-
-## Category
-Tools/Color
 
 ___
 

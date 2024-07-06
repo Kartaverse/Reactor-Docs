@@ -1,14 +1,14 @@
 # Quick Connect
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Jacob Danell
 
 ## Version
 1.1
-
-## Category
-Scripts/Comp
 
 ___
 

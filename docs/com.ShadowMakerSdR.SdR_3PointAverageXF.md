@@ -1,14 +1,14 @@
 # SdR_3PointAverageXF
 ___
 
+## Category
+Tools/3D
+
 ## Author
 ShadowMakerSdR - Sander de Regt
 
 ## Version
 2.0
-
-## Category
-Tools/3D
 
 ___
 
@@ -22,6 +22,9 @@ Since the resulting orientation can be flipped depending on which order you sele
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5".  
+You can donate using the URL: <a href="https://ko-fi.com/shadowmakersdr">https://ko-fi.com/shadowmakersdr</a>
 ## Dependencies
 
 ## Deploy

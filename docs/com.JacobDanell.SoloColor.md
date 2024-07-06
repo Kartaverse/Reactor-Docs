@@ -1,14 +1,14 @@
 # SoloColor
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Jacob Danell
 
 ## Version
 1.0
-
-## Category
-Tools/Matte
 
 ___
 

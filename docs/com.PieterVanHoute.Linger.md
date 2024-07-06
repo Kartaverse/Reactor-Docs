@@ -1,14 +1,14 @@
 # Linger
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Pieter Van Houte
 
 ## Version
 0.3
-
-## Category
-Tools/Effect
 
 ___
 

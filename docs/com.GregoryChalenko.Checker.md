@@ -1,14 +1,14 @@
 # Checker
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Gregory Chalenko
 
 ## Version
 1.2
-
-## Category
-Tools/Creator
 
 ___
 

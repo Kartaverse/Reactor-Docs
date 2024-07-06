@@ -1,14 +1,14 @@
 # Text-to-Image-SD
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 HeiBa
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -32,6 +32,9 @@ When using in DaVinci Resolve, manually copy the generated image's save path her
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "2".  
+You can donate using the URL: <a href="https://www.paypal.me/HEIBAWK">https://www.paypal.me/HEIBAWK</a>
 ## Dependencies
 
 ## Deploy

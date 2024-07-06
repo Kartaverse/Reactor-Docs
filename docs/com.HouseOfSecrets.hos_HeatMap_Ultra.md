@@ -1,14 +1,14 @@
 # hos_HeatMap_Ultra
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 House of Secrets
 
 ## Version
 0.2
-
-## Category
-Scripts/Comp
 
 ___
 

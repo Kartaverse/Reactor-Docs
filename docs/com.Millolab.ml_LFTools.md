@@ -1,14 +1,14 @@
 # LFTools
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Emilio Sapia - Millolab
 
 ## Version
 1.01
-
-## Category
-Tools/Effect
 
 ___
 
@@ -17,6 +17,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
 > [com.SteveWatson.LinearCloner](com.SteveWatson.LinearCloner.md)  

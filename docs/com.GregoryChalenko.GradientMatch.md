@@ -1,14 +1,14 @@
 # Gradient Match
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Gregory Chalenko
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 

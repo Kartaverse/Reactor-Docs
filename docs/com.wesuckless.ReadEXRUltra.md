@@ -1,14 +1,14 @@
 # ReadEXR Ultra
 ___
 
+## Category
+Tools/IO
+
 ## Author
 We Suck Less
 
 ## Version
 0.6
-
-## Category
-Tools/IO
 
 ___
 

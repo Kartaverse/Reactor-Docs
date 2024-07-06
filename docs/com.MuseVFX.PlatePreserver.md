@@ -1,14 +1,14 @@
 # PlatePreserver
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Joe Laude/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Miscellaneous
 
 ___
 

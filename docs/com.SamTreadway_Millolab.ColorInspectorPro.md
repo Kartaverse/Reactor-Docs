@@ -1,14 +1,14 @@
 # ColorInspectorPro
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Sam Treadway @ The Intelligent Machine & Millolab
 
 ## Version
 1.82
-
-## Category
-Tools/Color
 
 ___
 

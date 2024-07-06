@@ -1,14 +1,14 @@
 # Krokodove Showcase
 ___
 
+## Category
+Comps/Krokodove
+
 ## Author
 Komkom Doorn
 
 ## Version
 26.0
-
-## Category
-Comps/Krokodove
 
 ___
 

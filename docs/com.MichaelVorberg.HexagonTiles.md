@@ -1,14 +1,14 @@
 # HexagonTiles
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Michael Vorberg
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 
@@ -17,6 +17,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.paypal.me/empty98">https://www.paypal.me/empty98</a>
 ## Dependencies
 
 ## Deploy

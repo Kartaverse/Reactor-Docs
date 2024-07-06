@@ -1,14 +1,14 @@
 # VectorSnapshot
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Scripts/Comp
 
 ___
 

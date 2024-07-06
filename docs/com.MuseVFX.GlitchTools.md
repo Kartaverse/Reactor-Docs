@@ -1,14 +1,14 @@
 # MT_GlitchTools
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 2.0
-
-## Category
-Tools/Effect
 
 ___
 

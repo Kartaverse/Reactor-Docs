@@ -1,14 +1,14 @@
 # KartaVP Tools | kvrCubic
 ___
 
+## Category
+Kartaverse/KartaVP/Tools
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Kartaverse/KartaVP/Tools
 
 ___
 

@@ -1,14 +1,14 @@
 # Brightness Fuse
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Fusion Reactor
 
 ## Version
 1.0
-
-## Category
-Tools/Color
 
 ___
 

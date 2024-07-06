@@ -1,14 +1,14 @@
 # Clampus
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.0
-
-## Category
-Tools/Color
 
 ___
 
@@ -24,6 +24,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.patreon.com/wesuckless">https://www.patreon.com/wesuckless</a>
 ## Dependencies
 
 ## Deploy

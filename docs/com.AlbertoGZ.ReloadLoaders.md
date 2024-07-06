@@ -1,14 +1,14 @@
 # ReloadLoaders
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 AlbertoGZ
 
 ## Version
 1.03
-
-## Category
-Scripts/Comp
 
 ___
 

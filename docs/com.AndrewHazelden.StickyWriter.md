@@ -1,14 +1,14 @@
 # StickyWriter
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.1
-
-## Category
-Tools/Creator
 
 ___
 

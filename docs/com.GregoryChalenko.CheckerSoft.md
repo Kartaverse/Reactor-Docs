@@ -1,14 +1,14 @@
 # Checker Soft
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Gregory Chalenko
 
 ## Version
 3.2
-
-## Category
-Tools/Creator
 
 ___
 

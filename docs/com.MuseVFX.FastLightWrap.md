@@ -1,14 +1,14 @@
 # FastLightWrap
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Stefan Bredereck/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Effect
 
 ___
 

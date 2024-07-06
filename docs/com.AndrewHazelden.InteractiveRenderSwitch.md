@@ -1,14 +1,14 @@
 # Interactive Render Switch Fuse
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.01
-
-## Category
-Tools/Flow
 
 ___
 

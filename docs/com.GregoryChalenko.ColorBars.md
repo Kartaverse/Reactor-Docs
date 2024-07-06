@@ -1,14 +1,14 @@
 # Color Bars
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Gregory Chalenko
 
 ## Version
 4.0
-
-## Category
-Tools/Creator
 
 ___
 

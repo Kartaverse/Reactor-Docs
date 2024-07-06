@@ -1,14 +1,14 @@
 # Objects Created From Particles
 ___
 
+## Category
+Comps/Particles
+
 ## Author
 Michael Vorberg
 
 ## Version
 1.0
-
-## Category
-Comps/Particles
 
 ___
 

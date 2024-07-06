@@ -1,14 +1,14 @@
 # Class Browser
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Roger Magnusson
 
 ## Version
 1.3
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -30,6 +30,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.paypal.me/rogermagnusson">https://www.paypal.me/rogermagnusson</a>
 ## Dependencies
 
 ## Deploy

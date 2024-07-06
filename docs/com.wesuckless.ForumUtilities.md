@@ -1,14 +1,14 @@
 # Forum Utilities
 ___
 
+## Category
+Scripts/We Suck Less
+
 ## Author
 We Suck Less
 
 ## Version
 1.9
-
-## Category
-Scripts/We Suck Less
 
 ___
 

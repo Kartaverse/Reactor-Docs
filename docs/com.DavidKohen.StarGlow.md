@@ -1,14 +1,14 @@
 # Star Glow
 ___
 
+## Category
+Tools
+
 ## Author
 Bryan Ray and David Kohen
 
 ## Version
 1.0
-
-## Category
-Tools
 
 ___
 

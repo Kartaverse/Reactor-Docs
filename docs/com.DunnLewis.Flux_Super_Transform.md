@@ -1,14 +1,14 @@
 # Flux Super Transform
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Dunn Lewis
 
 ## Version
 1.02
-
-## Category
-Tools/Miscellaneous
 
 ___
 
@@ -22,6 +22,9 @@ https://github.com/rxi/flux<p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
 ## Dependencies
 
 ## Deploy

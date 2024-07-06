@@ -1,14 +1,14 @@
 # Windows ANSI 125X CodePage
 ___
 
+## Category
+Modules/Lua
+
 ## Author
 Egor Skriptunoff
 
 ## Version
 1.0
-
-## Category
-Modules/Lua
 
 ___
 

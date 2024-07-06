@@ -1,14 +1,14 @@
 # UI Manager Lua & Python Examples
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Andrew Hazelden
 
 ## Version
 4.5
-
-## Category
-Scripts/Comp
 
 ___
 

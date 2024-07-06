@@ -1,14 +1,14 @@
 # Yankee
 ___
 
+## Category
+Tools/3D
+
 ## Author
 Pieter Van Houte
 
 ## Version
 0.1
-
-## Category
-Tools/3D
 
 ___
 

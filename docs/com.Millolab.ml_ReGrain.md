@@ -1,14 +1,14 @@
 # ml_ReGrain
 ___
 
+## Category
+Tools/Film
+
 ## Author
 Emilio Sapia - Millolab
 
 ## Version
 1.3
-
-## Category
-Tools/Film
 
 ___
 
@@ -17,6 +17,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
 ## Deploy

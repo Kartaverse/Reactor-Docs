@@ -1,14 +1,14 @@
 # Loop
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.02
-
-## Category
-Tools/Flow
 
 ___
 
@@ -33,6 +33,9 @@ which will be installed in the Tools menu under Macros/Sprut. All the clever stu
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.patreon.com/wesuckless">https://www.patreon.com/wesuckless</a>
 ## Dependencies
 
 ## Deploy

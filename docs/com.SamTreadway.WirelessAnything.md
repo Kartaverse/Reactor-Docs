@@ -1,14 +1,14 @@
 # WirelessAnything
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Sam Treadway
 
 ## Version
 1.5
-
-## Category
-Tools/Flow
 
 ___
 
@@ -26,6 +26,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.paypal.me/intelligentmachine">https://www.paypal.me/intelligentmachine</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # Vonk Example | Mission Control
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Comps
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.43
-
-## Category
-Kartaverse/Vonk Ultra/Comps
 
 ___
 

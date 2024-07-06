@@ -1,14 +1,14 @@
 # Xf_CleanMix
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Nguyễn Tuấn An
 
 ## Version
 1.0
-
-## Category
-Tools/Matte
 
 ___
 

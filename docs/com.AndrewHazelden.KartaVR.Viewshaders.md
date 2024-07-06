@@ -1,14 +1,14 @@
 # KartaVR Tools | Legacy Viewshaders
 ___
 
+## Category
+Legacy/Viewshaders
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Legacy/Viewshaders
 
 ___
 

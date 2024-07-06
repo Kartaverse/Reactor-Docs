@@ -1,14 +1,14 @@
 # Switch Anything
 ___
 
+## Category
+Tools/Flow
+
 ## Author
 Jacob Danell
 
 ## Version
 1.01
-
-## Category
-Tools/Flow
 
 ___
 
@@ -44,6 +44,9 @@ v1.0, 2022-02-03:<br />
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "3".  
+You can donate using the URL: <a href="https://paypal.me/danell">https://paypal.me/danell</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # Reactor Docs
 ___
 
+## Category
+Docs
+
 ## Author
 We Suck Less
 
 ## Version
 3.14
-
-## Category
-Docs
 
 ___
 

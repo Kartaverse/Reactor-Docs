@@ -1,14 +1,14 @@
 # Elliptical Blur
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 5.2
-
-## Category
-Tools/Blur
 
 ___
 

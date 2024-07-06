@@ -1,14 +1,14 @@
 # Hypertext Compositor
 ___
 
+## Category
+Docs
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.2
-
-## Category
-Docs
 
 ___
 

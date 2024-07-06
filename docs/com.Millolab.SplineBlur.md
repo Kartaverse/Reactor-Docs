@@ -1,14 +1,14 @@
 # Spline Blur
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Emilio Sapia - Millolab
 
 ## Version
 1.3
-
-## Category
-Tools/Blur
 
 ___
 
@@ -20,6 +20,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
 ## Deploy

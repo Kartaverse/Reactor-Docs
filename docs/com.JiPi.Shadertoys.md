@@ -1,14 +1,14 @@
 # Shadertoys
 ___
 
+## Category
+Shaders
+
 ## Author
 JiPi
 
 ## Version
 1.0
-
-## Category
-Shaders
 
 ___
 

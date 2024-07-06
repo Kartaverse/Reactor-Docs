@@ -1,14 +1,14 @@
 # Lightning Fuse
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Stefan Ihringer, Dan Florino
 
 ## Version
 1.1
-
-## Category
-Tools/Effect
 
 ___
 

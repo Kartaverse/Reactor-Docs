@@ -1,14 +1,14 @@
 # XGlow
 ___
 
+## Category
+Tools
+
 ## Author
 Bryan Ray
 
 ## Version
 1.02
-
-## Category
-Tools
 
 ___
 
@@ -40,6 +40,9 @@ WSL Development thread:
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$2 USD".  
+You can donate using the URL: <a href="paypal.me/BryanRayVFX">paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

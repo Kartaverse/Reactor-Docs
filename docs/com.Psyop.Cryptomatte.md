@@ -1,14 +1,14 @@
 # Cryptomatte
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Cédric Duriau & Kristof Indeherberge
 
 ## Version
 1.4
-
-## Category
-Tools/Matte
 
 ___
 

@@ -1,14 +1,14 @@
 # Visual C++ Redistributable
 ___
 
+## Category
+Bin
+
 ## Author
 Microsoft
 
 ## Version
 2019.0
-
-## Category
-Bin
 
 ___
 

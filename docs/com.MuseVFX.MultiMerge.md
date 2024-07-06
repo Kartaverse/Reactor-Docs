@@ -1,14 +1,14 @@
 # MT_MultiMerge
 ___
 
+## Category
+Tools/Composite
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 1.1
-
-## Category
-Tools/Composite
 
 ___
 

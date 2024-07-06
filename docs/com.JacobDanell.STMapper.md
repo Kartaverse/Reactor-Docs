@@ -1,14 +1,14 @@
 # STMapper
 ___
 
+## Category
+Tools/Warp
+
 ## Author
 Jacob Danell
 
 ## Version
 1.2
-
-## Category
-Tools/Warp
 
 ___
 
@@ -97,6 +97,9 @@ v1.0, 2020-10-12:<br />
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "5".  
+You can donate using the URL: <a href="https://paypal.me/danell">https://paypal.me/danell</a>
 ## Dependencies
 
 ## Deploy

@@ -1,14 +1,14 @@
 # PSDRexa
 ___
 
+## Category
+Tools/IO
+
 ## Author
 nuroku
 
 ## Version
 1.1
-
-## Category
-Tools/IO
 
 ___
 
@@ -89,6 +89,9 @@ Also, it seems that there are cases where it does not work properly when using t
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$5.00 USD".  
+You can donate using the URL: <a href="http://www.paypal.me/nuroku2000">http://www.paypal.me/nuroku2000</a>
 ## Dependencies
 
 ## Deploy

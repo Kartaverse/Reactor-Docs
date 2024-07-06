@@ -1,14 +1,14 @@
 # Convert Movies to Image Sequences
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Andrew Hazelden
 
 ## Version
 3.1
-
-## Category
-Scripts/Comp
 
 ___
 

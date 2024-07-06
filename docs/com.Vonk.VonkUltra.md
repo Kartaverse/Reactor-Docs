@@ -1,14 +1,14 @@
 # Vonk Ultra
 ___
 
+## Category
+Kartaverse/Vonk Ultra
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.8
-
-## Category
-Kartaverse/Vonk Ultra
 
 ___
 

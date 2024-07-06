@@ -1,14 +1,14 @@
 # Vonk | FusionMTLX
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Modifiers
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Kartaverse/Vonk Ultra/Modifiers
 
 ___
 

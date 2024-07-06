@@ -1,14 +1,14 @@
 # TrackerPlus
 ___
 
+## Category
+Tools/Tracking
+
 ## Author
 Pieter Van Houte
 
 ## Version
 1.21
-
-## Category
-Tools/Tracking
 
 ___
 

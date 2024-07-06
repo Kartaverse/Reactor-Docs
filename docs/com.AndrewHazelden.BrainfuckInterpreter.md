@@ -1,14 +1,14 @@
 # Brainfuck Interpreter
 ___
 
+## Category
+Fun/Console
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Fun/Console
 
 ___
 

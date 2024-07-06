@@ -1,14 +1,14 @@
 # ScriptScript
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Eric 'SirEdric' Westphal
 
 ## Version
 0.95
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -34,6 +34,9 @@ follow the thread on WSL here: https://www.steakunderwater.com/wesuckless/viewto
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00 EUR".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

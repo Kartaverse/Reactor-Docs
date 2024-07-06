@@ -1,14 +1,14 @@
 # IDmask
 ___
 
+## Category
+Tools/Matte
+
 ## Author
 Juraj Kral
 
 ## Version
 1.0
-
-## Category
-Tools/Matte
 
 ___
 

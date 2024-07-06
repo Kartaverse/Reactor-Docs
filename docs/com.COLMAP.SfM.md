@@ -1,14 +1,14 @@
 # COLMAP SfM
 ___
 
+## Category
+Bin
+
 ## Author
 COLMAP
 
 ## Version
 3.7
-
-## Category
-Bin
 
 ___
 

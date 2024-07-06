@@ -1,14 +1,14 @@
 # Advanced Grid
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Gregory Chalenko
 
 ## Version
 2.2
-
-## Category
-Tools/Creator
 
 ___
 

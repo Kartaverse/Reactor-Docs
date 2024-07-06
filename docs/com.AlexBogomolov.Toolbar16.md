@@ -1,14 +1,14 @@
 # Toolbar for Fusion16
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 2.84
-
-## Category
-Scripts/Comp
 
 ___
 

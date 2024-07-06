@@ -1,14 +1,14 @@
 # Invert
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Sam Treadway @ The Intelligent Machine
 
 ## Version
 1.0
-
-## Category
-Tools/Color
 
 ___
 

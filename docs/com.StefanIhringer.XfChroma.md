@@ -1,14 +1,14 @@
 # XfChroma Fuse
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.6
-
-## Category
-Tools/Effect
 
 ___
 

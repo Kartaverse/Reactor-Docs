@@ -1,14 +1,14 @@
 # Bookmarker
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 3.12
-
-## Category
-Scripts/Comp
 
 ___
 

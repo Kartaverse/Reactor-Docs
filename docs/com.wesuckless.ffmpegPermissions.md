@@ -1,14 +1,14 @@
 # FFmpeg Permissions
 ___
 
+## Category
+Bin
+
 ## Author
 We Suck Less
 
 ## Version
 89994.0
-
-## Category
-Bin
 
 ___
 

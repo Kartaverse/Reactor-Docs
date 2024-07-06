@@ -1,14 +1,14 @@
 # se_RollerCaster
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Eric 'SirEdric' Westphal
 
 ## Version
 0.75
-
-## Category
-Scripts/Comp
 
 ___
 
@@ -33,6 +33,9 @@ https://www.ghostscript.com/download.html<br>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "€5.00".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

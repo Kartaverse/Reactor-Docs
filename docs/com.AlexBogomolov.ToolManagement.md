@@ -1,14 +1,14 @@
 # ToolManagement
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 1.32
-
-## Category
-Scripts/Comp
 
 ___
 

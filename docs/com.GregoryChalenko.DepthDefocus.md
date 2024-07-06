@@ -1,14 +1,14 @@
 # Depth Defocus
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 7.5
-
-## Category
-Tools/Blur
 
 ___
 

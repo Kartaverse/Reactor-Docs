@@ -1,14 +1,14 @@
 # Vonk | FusionGradient
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Modifiers
+
 ## Author
 Kristof & Andrew
 
 ## Version
 1.7
-
-## Category
-Kartaverse/Vonk Ultra/Modifiers
 
 ___
 

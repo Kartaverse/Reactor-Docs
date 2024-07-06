@@ -1,14 +1,14 @@
 # RainierMood
 ___
 
+## Category
+Tools/Effect
+
 ## Author
 JiPi
 
 ## Version
 0.3
-
-## Category
-Tools/Effect
 
 ___
 

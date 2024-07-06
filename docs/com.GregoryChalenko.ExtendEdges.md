@@ -1,14 +1,14 @@
 # Extend Edges
 ___
 
+## Category
+Tools/Filter
+
 ## Author
 Gregory Chalenko
 
 ## Version
 1.1
-
-## Category
-Tools/Filter
 
 ___
 

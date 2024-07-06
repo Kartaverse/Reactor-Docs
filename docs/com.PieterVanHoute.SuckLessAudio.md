@@ -1,14 +1,14 @@
 # Suck Less Audio
 ___
 
+## Category
+Modifiers
+
 ## Author
 Pieter Van Houte
 
 ## Version
 2.71
-
-## Category
-Modifiers
 
 ___
 
@@ -54,6 +54,9 @@ You can insert Suck Less Audio after any other modifier!</p>
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
 ## Dependencies
 
 ## Deploy

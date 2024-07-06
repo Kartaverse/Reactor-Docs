@@ -1,14 +1,14 @@
 # CubeToLatLong
 ___
 
+## Category
+Tools/Warp
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.1
-
-## Category
-Tools/Warp
 
 ___
 

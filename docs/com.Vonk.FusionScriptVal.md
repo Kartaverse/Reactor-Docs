@@ -1,14 +1,14 @@
 # Vonk | FusionScriptVal
 ___
 
+## Category
+Kartaverse/Vonk Ultra/Modifiers
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.711
-
-## Category
-Kartaverse/Vonk Ultra/Modifiers
 
 ___
 

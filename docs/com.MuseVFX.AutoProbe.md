@@ -1,14 +1,14 @@
 # AutoProbe
 ___
 
+## Category
+Scripts/Tool
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 1.2
-
-## Category
-Scripts/Tool
 
 ___
 

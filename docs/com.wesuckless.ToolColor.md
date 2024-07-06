@@ -1,14 +1,14 @@
 # Tool Color Script
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Fusion Reactor
 
 ## Version
 1.1
-
-## Category
-Scripts/Comp
 
 ___
 

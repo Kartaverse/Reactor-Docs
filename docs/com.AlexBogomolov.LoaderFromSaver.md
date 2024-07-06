@@ -1,14 +1,14 @@
 # Loader from Saver
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 1.66
-
-## Category
-Scripts/Comp
 
 ___
 

@@ -1,14 +1,14 @@
 # Nudge Playhead
 ___
 
+## Category
+Hotkeys
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.2
-
-## Category
-Hotkeys
 
 ___
 

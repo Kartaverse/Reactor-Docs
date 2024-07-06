@@ -1,14 +1,14 @@
 # Make Local Button Script
 ___
 
+## Category
+Scripts
+
 ## Author
 Bryan Ray
 
 ## Version
 2.5
-
-## Category
-Scripts
 
 ___
 
@@ -21,6 +21,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "$2 USD".  
+You can donate using the URL: <a href="paypal.me/BryanRayVFX">paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

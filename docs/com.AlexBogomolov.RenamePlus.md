@@ -1,14 +1,14 @@
 # Rename Plus
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Alexey Bogomolov
 
 ## Version
 1.93
-
-## Category
-Scripts/Comp
 
 ___
 

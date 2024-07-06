@@ -1,14 +1,14 @@
 # Lua YAML
 ___
 
+## Category
+Modules/Lua
+
 ## Author
 Exosite
 
 ## Version
 1.0
-
-## Category
-Modules/Lua
 
 ___
 

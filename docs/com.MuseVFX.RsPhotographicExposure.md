@@ -1,14 +1,14 @@
 # RsPhotographicExposure
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Bryan Ray/MuseVFX
 
 ## Version
 2.0
-
-## Category
-Tools/Color
 
 ___
 

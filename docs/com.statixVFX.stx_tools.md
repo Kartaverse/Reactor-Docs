@@ -1,14 +1,14 @@
 # stx_tools
 ___
 
+## Category
+Tools/Filter
+
 ## Author
 statixVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Filter
 
 ___
 

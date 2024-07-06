@@ -1,14 +1,14 @@
 # Checkerboard
 ___
 
+## Category
+Tools/Creator
+
 ## Author
 Joe Laude/MuseVFX
 
 ## Version
 1.0
-
-## Category
-Tools/Creator
 
 ___
 

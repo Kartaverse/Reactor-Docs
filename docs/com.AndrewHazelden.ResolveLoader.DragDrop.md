@@ -1,14 +1,14 @@
 # Resolve Loader DragDrop
 ___
 
+## Category
+Resolve
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.0
-
-## Category
-Resolve
 
 ___
 

@@ -1,14 +1,14 @@
 # utf8 Lua Module
 ___
 
+## Category
+Modules/Lua
+
 ## Author
 Kyle Smith
 
 ## Version
 1.0
-
-## Category
-Modules/Lua
 
 ___
 

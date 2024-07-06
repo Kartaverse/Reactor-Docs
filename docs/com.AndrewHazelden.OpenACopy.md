@@ -1,14 +1,14 @@
 # Open A Copy
 ___
 
+## Category
+Menus
+
 ## Author
 Andrew Hazelden
 
 ## Version
 1.2
-
-## Category
-Menus
 
 ___
 

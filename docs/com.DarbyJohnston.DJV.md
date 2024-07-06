@@ -1,14 +1,14 @@
 # DJV View
 ___
 
+## Category
+Bin
+
 ## Author
 Darby Johnston
 
 ## Version
 1.25
-
-## Category
-Bin
 
 ___
 

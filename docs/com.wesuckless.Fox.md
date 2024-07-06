@@ -1,14 +1,14 @@
 # Fox Linguistics
 ___
 
+## Category
+Fun/Console
+
 ## Author
 Fusion Reactor
 
 ## Version
 1.0
-
-## Category
-Fun/Console
 
 ___
 

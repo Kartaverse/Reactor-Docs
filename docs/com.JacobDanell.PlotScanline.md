@@ -1,14 +1,14 @@
 # PlotScanline
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Jacob Danell
 
 ## Version
 1.0
-
-## Category
-Tools/Miscellaneous
 
 ___
 

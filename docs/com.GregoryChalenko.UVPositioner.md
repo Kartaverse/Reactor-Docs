@@ -1,14 +1,14 @@
 # UV Positioner
 ___
 
+## Category
+Tools/Deep Pixel
+
 ## Author
 Gregory Chalenko
 
 ## Version
 1.0
-
-## Category
-Tools/Deep Pixel
 
 ___
 

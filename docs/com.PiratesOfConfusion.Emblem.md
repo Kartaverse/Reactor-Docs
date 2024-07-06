@@ -1,14 +1,14 @@
 # Emblem
 ___
 
+## Category
+Comps/Pirates of Confusion
+
 ## Author
 Pirates of Confusion
 
 ## Version
 1.11
-
-## Category
-Comps/Pirates of Confusion
 
 ___
 
@@ -29,6 +29,9 @@ ___
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
 ## Dependencies
 
 > [com.Millolab.FastExpoGlow](com.Millolab.FastExpoGlow.md)  

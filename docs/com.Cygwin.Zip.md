@@ -1,14 +1,14 @@
 # Zip for Windows
 ___
 
+## Category
+Bin
+
 ## Author
 Cygwin
 
 ## Version
 3.0
-
-## Category
-Bin
 
 ___
 

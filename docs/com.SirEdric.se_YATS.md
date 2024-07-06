@@ -1,14 +1,14 @@
 # se_YATS
 ___
 
+## Category
+Tools
+
 ## Author
 Eric 'SirEdric' Westphal
 
 ## Version
 1.0
-
-## Category
-Tools
 
 ___
 
@@ -24,6 +24,9 @@ If you enjoy this tool, why not buy me a coffee on https://www.paypal.me/SirEdri
 
 ___
 
+## Donation
+The author of the atom has suggested a donation of "0".  
+You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
 ## Dependencies
 
 ## Deploy

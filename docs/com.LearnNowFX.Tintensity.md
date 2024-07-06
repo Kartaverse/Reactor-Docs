@@ -1,14 +1,14 @@
 # Tintensity
 ___
 
+## Category
+Tools/Color
+
 ## Author
 Bryan Ray, Sam Treadway & David Kohen
 
 ## Version
 1.5
-
-## Category
-Tools/Color
 
 ___
 

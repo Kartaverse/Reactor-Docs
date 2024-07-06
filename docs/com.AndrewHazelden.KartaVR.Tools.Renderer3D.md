@@ -1,14 +1,14 @@
 # KartaVR Tools | Legacy Renderer3D
 ___
 
+## Category
+Legacy/Tools/VR
+
 ## Author
 Andrew Hazelden
 
 ## Version
 5.73
-
-## Category
-Legacy/Tools/VR
 
 ___
 

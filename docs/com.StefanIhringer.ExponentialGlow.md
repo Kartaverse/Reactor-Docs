@@ -1,14 +1,14 @@
 # ExponentialGlow
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Stefan Ihringer
 
 ## Version
 1.0
-
-## Category
-Tools/Blur
 
 ___
 

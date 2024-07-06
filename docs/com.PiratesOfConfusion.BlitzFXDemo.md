@@ -1,14 +1,14 @@
 # Blitz FX Demo
 ___
 
+## Category
+Comps/Pirates of Confusion
+
 ## Author
 Pirates of Confusion
 
 ## Version
 1.0
-
-## Category
-Comps/Pirates of Confusion
 
 ___
 

@@ -1,14 +1,14 @@
 # Directional Blur From Path Gamma
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 2.1
-
-## Category
-Tools/Blur
 
 ___
 

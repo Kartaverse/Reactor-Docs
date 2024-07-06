@@ -1,14 +1,14 @@
 # Motion Vectors Correction
 ___
 
+## Category
+Tools/Blur
+
 ## Author
 Gregory Chalenko
 
 ## Version
 1.1
-
-## Category
-Tools/Blur
 
 ___
 

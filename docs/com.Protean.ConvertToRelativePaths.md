@@ -1,14 +1,14 @@
 # Convert to Relative Paths
 ___
 
+## Category
+Scripts/Comp
+
 ## Author
 Protean
 
 ## Version
 5.0
-
-## Category
-Scripts/Comp
 
 ___
 

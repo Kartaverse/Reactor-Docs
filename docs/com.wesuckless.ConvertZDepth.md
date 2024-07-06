@@ -1,14 +1,14 @@
 # ConvertZDepth Fuse
 ___
 
+## Category
+Tools/Miscellaneous
+
 ## Author
 Laurens Bekaert & Kristof Indeherberge
 
 ## Version
 1.0
-
-## Category
-Tools/Miscellaneous
 
 ___
 
