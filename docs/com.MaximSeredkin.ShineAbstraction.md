@@ -30,8 +30,8 @@ ___
 
 ## Dependencies
 
-> com.KomkomDoorn.Krokodove  
-> com.StefanIhringer.XfChroma  
+> [com.KomkomDoorn.Krokodove](com.KomkomDoorn.Krokodove.md)  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
 ## Deploy
 
 ### Common (No Architecture)

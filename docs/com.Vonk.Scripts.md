@@ -23,8 +23,8 @@ ___
 
 ## Dependencies
 
-> com.AndrewHazelden.JSONFromFile.DragDrop  
-> com.AndrewHazelden.vTextFromFile.DragDrop  
+> [com.AndrewHazelden.JSONFromFile.DragDrop](com.AndrewHazelden.JSONFromFile.DragDrop.md)  
+> [com.AndrewHazelden.vTextFromFile.DragDrop](com.AndrewHazelden.vTextFromFile.DragDrop.md)  
 ## Deploy
 
 ### Common (No Architecture)

@@ -90,7 +90,7 @@ ___
 
 ## Dependencies
 
-> com.AndrewHazelden.OpenInScriptEditor  
+> [com.AndrewHazelden.OpenInScriptEditor](com.AndrewHazelden.OpenInScriptEditor.md)  
 ## Deploy
 
 ### Common (No Architecture)

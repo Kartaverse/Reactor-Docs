@@ -41,7 +41,7 @@ ___
 
 ## Dependencies
 
-> com.wesuckless.Switch  
+> [com.wesuckless.Switch](com.wesuckless.Switch.md)  
 ## Deploy
 
 ### Common (No Architecture)

@@ -21,7 +21,7 @@ ___
 
 ## Dependencies
 
-> com.Vonk.FusionJSON  
+> [com.Vonk.FusionJSON](com.Vonk.FusionJSON.md)  
 ## Deploy
 
 ### Common (No Architecture)

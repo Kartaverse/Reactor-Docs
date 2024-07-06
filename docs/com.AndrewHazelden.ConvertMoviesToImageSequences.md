@@ -42,8 +42,8 @@ ___
 
 ## Dependencies
 
-> com.wesuckless.ffmpeg  
-> com.wesuckless.wintee  
+> [com.wesuckless.ffmpeg](com.wesuckless.ffmpeg.md)  
+> [com.wesuckless.wintee](com.wesuckless.wintee.md)  
 ## Deploy
 
 ### Common (No Architecture)

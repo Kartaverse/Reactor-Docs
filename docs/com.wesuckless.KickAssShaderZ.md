@@ -38,16 +38,16 @@ ___
 
 ## Dependencies
 
-> com.AndrewHazelden.HypertextCompositor  
-> com.HouseOfSecrets.hos_Tiler  
-> com.StefanIhringer.XfChroma  
-> com.wesuckless.KickAssShaderZ.Menus  
-> com.wesuckless.Switch  
-> com.wesuckless.SwitchElse  
-> com.wesuckless.Time3D  
-> com.wesuckless.Wireless  
-> com.wesuckless.Wireless3D  
-> com.wesuckless.Wireless3DMat  
+> [com.AndrewHazelden.HypertextCompositor](com.AndrewHazelden.HypertextCompositor.md)  
+> [com.HouseOfSecrets.hos_Tiler](com.HouseOfSecrets.hos_Tiler.md)  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
+> [com.wesuckless.KickAssShaderZ.Menus](com.wesuckless.KickAssShaderZ.Menus.md)  
+> [com.wesuckless.Switch](com.wesuckless.Switch.md)  
+> [com.wesuckless.SwitchElse](com.wesuckless.SwitchElse.md)  
+> [com.wesuckless.Time3D](com.wesuckless.Time3D.md)  
+> [com.wesuckless.Wireless](com.wesuckless.Wireless.md)  
+> [com.wesuckless.Wireless3D](com.wesuckless.Wireless3D.md)  
+> [com.wesuckless.Wireless3DMat](com.wesuckless.Wireless3DMat.md)  
 ## Deploy
 
 ### Common (No Architecture)

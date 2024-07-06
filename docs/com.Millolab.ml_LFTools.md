@@ -19,7 +19,7 @@ ___
 
 ## Dependencies
 
-> com.SteveWatson.LinearCloner  
+> [com.SteveWatson.LinearCloner](com.SteveWatson.LinearCloner.md)  
 ## Deploy
 
 ### Common (No Architecture)

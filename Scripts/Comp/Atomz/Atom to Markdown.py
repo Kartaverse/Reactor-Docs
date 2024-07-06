@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 04.30 PM
+Atom to Markdown.py - v1.6 2024-07-06 04.41 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -22,7 +22,7 @@ Todo
 - List the suggested donation URL
 - List if there is an InstallScript/UninstallScript
 - Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
-
+- Add a URL link to WSL Reactor gitlab repo resources when clicking on deployed files
 """
 
 import os, shutil, datetime, math, re, csv, platform
@@ -210,7 +210,7 @@ def MarkdownCreate(folder):
 									file = allDependencies[key]
 									try:
 										#print("\t[Install]", file)
-										fAtom.write("> " + str(file) + "  \n")
+										fAtom.write("> [" + str(file) + "](" + file + ".md)  \n")
 									except Exception as error:
 										print("\t[Error]", error)
 

@@ -31,10 +31,10 @@ ___
 
 ## Dependencies
 
-> com.Millolab.FastExpoGlow  
-> com.MuseVFX.Grade  
-> com.StefanIhringer.XfChroma  
-> com.wesuckless.Wireless  
+> [com.Millolab.FastExpoGlow](com.Millolab.FastExpoGlow.md)  
+> [com.MuseVFX.Grade](com.MuseVFX.Grade.md)  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
+> [com.wesuckless.Wireless](com.wesuckless.Wireless.md)  
 ## Deploy
 
 ### Common (No Architecture)

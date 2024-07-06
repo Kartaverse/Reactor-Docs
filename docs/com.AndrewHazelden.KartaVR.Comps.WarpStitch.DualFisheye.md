@@ -32,11 +32,11 @@ ___
 
 ## Dependencies
 
-> com.AndrewHazelden.KartaVP.Tools.kvrCropStereo  
-> com.AndrewHazelden.KartaVP.Tools.kvrLens  
-> com.AndrewHazelden.KartaVP.Tools.kvrViewer  
-> com.AndrewHazelden.KartaVR.Tools.Images  
-> com.AndrewHazelden.KartaVR.Tools.WarpStitch  
+> [com.AndrewHazelden.KartaVP.Tools.kvrCropStereo](com.AndrewHazelden.KartaVP.Tools.kvrCropStereo.md)  
+> [com.AndrewHazelden.KartaVP.Tools.kvrLens](com.AndrewHazelden.KartaVP.Tools.kvrLens.md)  
+> [com.AndrewHazelden.KartaVP.Tools.kvrViewer](com.AndrewHazelden.KartaVP.Tools.kvrViewer.md)  
+> [com.AndrewHazelden.KartaVR.Tools.Images](com.AndrewHazelden.KartaVR.Tools.Images.md)  
+> [com.AndrewHazelden.KartaVR.Tools.WarpStitch](com.AndrewHazelden.KartaVR.Tools.WarpStitch.md)  
 ## Deploy
 
 ### Common (No Architecture)

@@ -51,7 +51,7 @@ ___
 
 ## Dependencies
 
-> com.wesuckless.SlashCommand  
+> [com.wesuckless.SlashCommand](com.wesuckless.SlashCommand.md)  
 ## Deploy
 
 ### Common (No Architecture)

@@ -33,7 +33,7 @@ ___
 
 ## Dependencies
 
-> com.Exosite.LuaYAML  
+> [com.Exosite.LuaYAML](com.Exosite.LuaYAML.md)  
 ## Deploy
 
 ### Common (No Architecture)

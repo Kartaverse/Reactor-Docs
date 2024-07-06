@@ -32,7 +32,7 @@ ___
 
 ## Dependencies
 
-> com.wesuckless.ffmpeg  
+> [com.wesuckless.ffmpeg](com.wesuckless.ffmpeg.md)  
 ## Deploy
 
 ### Common (No Architecture)

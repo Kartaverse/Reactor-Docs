@@ -32,8 +32,8 @@ ___
 
 ## Dependencies
 
-> com.MuseVFX.RSCameraExtractor  
-> com.MuseVFX.RsPhotographicExposure  
+> [com.MuseVFX.RSCameraExtractor](com.MuseVFX.RSCameraExtractor.md)  
+> [com.MuseVFX.RsPhotographicExposure](com.MuseVFX.RsPhotographicExposure.md)  
 ## Deploy
 
 ### Common (No Architecture)
