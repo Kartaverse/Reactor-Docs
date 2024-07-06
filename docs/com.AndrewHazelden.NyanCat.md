@@ -19,7 +19,7 @@ ___
 
 ## Dependencies
 
-> [com.wesuckless.Switch](com.wesuckless.Switch.md)  
+> [com.wesuckless.Switch](com.wesuckless.Switch.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

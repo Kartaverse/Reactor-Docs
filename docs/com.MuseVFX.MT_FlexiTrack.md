@@ -26,7 +26,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "2".  
-You can donate using the URL: <a href="http://paypal.me/BryanRayVFX">http://paypal.me/BryanRayVFX</a>
+You can donate using the URL: <a href="http://paypal.me/BryanRayVFX" class="button">http://paypal.me/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

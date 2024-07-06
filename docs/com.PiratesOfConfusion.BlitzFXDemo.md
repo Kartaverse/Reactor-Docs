@@ -24,11 +24,11 @@ ___
 
 ## Dependencies
 
-> [com.ChristopherNodal.MultistepBlur](com.ChristopherNodal.MultistepBlur.md)  
-> [com.MuseVFX.XGlow](com.MuseVFX.XGlow.md)  
-> [com.PiratesOfConfusion.BlitzFXLite](com.PiratesOfConfusion.BlitzFXLite.md)  
-> [com.wesuckless.Wireless](com.wesuckless.Wireless.md)  
-> [com.wesuckless.Wireless3D](com.wesuckless.Wireless3D.md)  
+> [com.ChristopherNodal.MultistepBlur](com.ChristopherNodal.MultistepBlur.md ':class=button')  
+> [com.MuseVFX.XGlow](com.MuseVFX.XGlow.md ':class=button')  
+> [com.PiratesOfConfusion.BlitzFXLite](com.PiratesOfConfusion.BlitzFXLite.md ':class=button')  
+> [com.wesuckless.Wireless](com.wesuckless.Wireless.md ':class=button')  
+> [com.wesuckless.Wireless3D](com.wesuckless.Wireless3D.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

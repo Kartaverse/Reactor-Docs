@@ -31,7 +31,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "$5.00 EUR".  
-You can donate using the URL: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E</a>
+You can donate using the URL: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E" class="button">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMVDRSY6LAJ9E</a>
 ## Dependencies
 
 ## Deploy

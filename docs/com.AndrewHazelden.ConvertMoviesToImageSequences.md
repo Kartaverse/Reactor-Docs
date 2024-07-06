@@ -42,8 +42,8 @@ ___
 
 ## Dependencies
 
-> [com.wesuckless.ffmpeg](com.wesuckless.ffmpeg.md)  
-> [com.wesuckless.wintee](com.wesuckless.wintee.md)  
+> [com.wesuckless.ffmpeg](com.wesuckless.ffmpeg.md ':class=button')  
+> [com.wesuckless.wintee](com.wesuckless.wintee.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

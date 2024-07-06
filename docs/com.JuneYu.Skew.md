@@ -20,7 +20,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://www.paypal.me/june3546">https://www.paypal.me/june3546</a>
+You can donate using the URL: <a href="https://www.paypal.me/june3546" class="button">https://www.paypal.me/june3546</a>
 ## Dependencies
 
 ## Deploy

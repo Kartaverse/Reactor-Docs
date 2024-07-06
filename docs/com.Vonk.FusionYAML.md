@@ -33,7 +33,7 @@ ___
 
 ## Dependencies
 
-> [com.Exosite.LuaYAML](com.Exosite.LuaYAML.md)  
+> [com.Exosite.LuaYAML](com.Exosite.LuaYAML.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

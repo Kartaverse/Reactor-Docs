@@ -28,7 +28,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://www.paypal.me/intelligentmachine">https://www.paypal.me/intelligentmachine</a>
+You can donate using the URL: <a href="https://www.paypal.me/intelligentmachine" class="button">https://www.paypal.me/intelligentmachine</a>
 ## Dependencies
 
 ## Deploy

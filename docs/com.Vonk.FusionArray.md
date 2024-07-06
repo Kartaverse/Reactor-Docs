@@ -30,7 +30,7 @@ ___
 
 ## Dependencies
 
-> [com.Vonk.FusionJSON](com.Vonk.FusionJSON.md)  
+> [com.Vonk.FusionJSON](com.Vonk.FusionJSON.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

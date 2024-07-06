@@ -90,7 +90,7 @@ ___
 
 ## Dependencies
 
-> [com.AndrewHazelden.OpenInScriptEditor](com.AndrewHazelden.OpenInScriptEditor.md)  
+> [com.AndrewHazelden.OpenInScriptEditor](com.AndrewHazelden.OpenInScriptEditor.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

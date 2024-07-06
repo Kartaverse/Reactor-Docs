@@ -31,13 +31,13 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
+You can donate using the URL: <a href="https://www.patreon.com/piratesofconfusion/" class="button">https://www.patreon.com/piratesofconfusion/</a>
 ## Dependencies
 
-> [com.Millolab.FastExpoGlow](com.Millolab.FastExpoGlow.md)  
-> [com.MuseVFX.Grade](com.MuseVFX.Grade.md)  
-> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
-> [com.wesuckless.Wireless](com.wesuckless.Wireless.md)  
+> [com.Millolab.FastExpoGlow](com.Millolab.FastExpoGlow.md ':class=button')  
+> [com.MuseVFX.Grade](com.MuseVFX.Grade.md ':class=button')  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md ':class=button')  
+> [com.wesuckless.Wireless](com.wesuckless.Wireless.md ':class=button')  
 ## Deploy
 
 ### Common (No Architecture)

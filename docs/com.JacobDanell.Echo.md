@@ -51,7 +51,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "5".  
-You can donate using the URL: <a href="https://www.paypal.me/danell">https://www.paypal.me/danell</a>
+You can donate using the URL: <a href="https://www.paypal.me/danell" class="button">https://www.paypal.me/danell</a>
 ## Dependencies
 
 ## Deploy
