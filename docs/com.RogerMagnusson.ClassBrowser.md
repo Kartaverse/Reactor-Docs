@@ -32,7 +32,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://www.paypal.me/rogermagnusson" class="button">https://www.paypal.me/rogermagnusson</a>
+You can donate using the URL: <a href="https://www.paypal.me/rogermagnusson">https://www.paypal.me/rogermagnusson</a>
 ## Dependencies
 
 ## Deploy

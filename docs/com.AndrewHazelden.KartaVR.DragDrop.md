@@ -34,7 +34,7 @@ ___
 
 ## Dependencies
 
-> [com.AndrewHazelden.KartaVR.Scripts.Stitching](com.AndrewHazelden.KartaVR.Scripts.Stitching.md ':class=button')  
+> [com.AndrewHazelden.KartaVR.Scripts.Stitching](com.AndrewHazelden.KartaVR.Scripts.Stitching.md)  
 ## Deploy
 
 ### Common (No Architecture)

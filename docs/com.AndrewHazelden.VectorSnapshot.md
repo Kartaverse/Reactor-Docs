@@ -19,7 +19,7 @@ ___
 
 ## Dependencies
 
-> [com.PeterSelinger.potrace](com.PeterSelinger.potrace.md ':class=button')  
+> [com.PeterSelinger.potrace](com.PeterSelinger.potrace.md)  
 ## Deploy
 
 ### Common (No Architecture)

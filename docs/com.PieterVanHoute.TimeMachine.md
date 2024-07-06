@@ -56,7 +56,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate" class="button">https://www.steakunderwater.com/wesuckless/donate</a>
+You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
 ## Dependencies
 
 ## Deploy

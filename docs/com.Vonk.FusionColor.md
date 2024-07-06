@@ -30,7 +30,7 @@ ___
 
 ## Dependencies
 
-> [com.MichaelLutz.LuaMatrix](com.MichaelLutz.LuaMatrix.md ':class=button')  
+> [com.MichaelLutz.LuaMatrix](com.MichaelLutz.LuaMatrix.md)  
 ## Deploy
 
 ### Common (No Architecture)

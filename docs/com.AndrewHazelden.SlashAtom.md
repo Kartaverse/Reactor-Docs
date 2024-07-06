@@ -30,7 +30,7 @@ ___
 
 ## Dependencies
 
-> [com.wesuckless.SlashCommand](com.wesuckless.SlashCommand.md ':class=button')  
+> [com.wesuckless.SlashCommand](com.wesuckless.SlashCommand.md)  
 ## Deploy
 
 ### Common (No Architecture)

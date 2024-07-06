@@ -41,7 +41,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "5".  
-You can donate using the URL: <a href="https://noahhaehnel.gumroad.com/" class="button">https://noahhaehnel.gumroad.com/</a>
+You can donate using the URL: <a href="https://noahhaehnel.gumroad.com/">https://noahhaehnel.gumroad.com/</a>
 ## Dependencies
 
 ## Deploy

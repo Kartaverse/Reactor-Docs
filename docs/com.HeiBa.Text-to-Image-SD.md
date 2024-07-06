@@ -34,7 +34,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "2".  
-You can donate using the URL: <a href="https://www.paypal.me/HEIBAWK" class="button">https://www.paypal.me/HEIBAWK</a>
+You can donate using the URL: <a href="https://www.paypal.me/HEIBAWK">https://www.paypal.me/HEIBAWK</a>
 ## Dependencies
 
 ## Deploy

@@ -29,7 +29,7 @@ ___
 
 ## Dependencies
 
-> [com.JacobDanell.STMapper](com.JacobDanell.STMapper.md ':class=button')  
+> [com.JacobDanell.STMapper](com.JacobDanell.STMapper.md)  
 ## Deploy
 
 ### Common (No Architecture)

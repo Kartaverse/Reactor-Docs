@@ -70,7 +70,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="http://www.paypal.me/cinewrangler" class="button">http://www.paypal.me/cinewrangler</a>
+You can donate using the URL: <a href="http://www.paypal.me/cinewrangler">http://www.paypal.me/cinewrangler</a>
 ## Dependencies
 
 ## Deploy

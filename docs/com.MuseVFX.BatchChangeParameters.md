@@ -78,7 +78,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "$3 USD".  
-You can donate using the URL: <a href="https://www.paypal.com/paypalme/BryanRayVFX" class="button">https://www.paypal.com/paypalme/BryanRayVFX</a>
+You can donate using the URL: <a href="https://www.paypal.com/paypalme/BryanRayVFX">https://www.paypal.com/paypalme/BryanRayVFX</a>
 ## Dependencies
 
 ## Deploy

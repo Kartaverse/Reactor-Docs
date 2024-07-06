@@ -24,7 +24,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "€1.00 EUR".  
-You can donate using the URL: <a href="https://www.paypal.me/DunnLewis" class="button">https://www.paypal.me/DunnLewis</a>
+You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
 ## Dependencies
 
 ## Deploy

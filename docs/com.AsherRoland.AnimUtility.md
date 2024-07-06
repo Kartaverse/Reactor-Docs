@@ -40,7 +40,7 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "$5.00".  
-You can donate using the URL: <a href="https://www.paypal.me/AsherRoland" class="button">https://www.paypal.me/AsherRoland</a>
+You can donate using the URL: <a href="https://www.paypal.me/AsherRoland">https://www.paypal.me/AsherRoland</a>
 ## Dependencies
 
 ## Deploy

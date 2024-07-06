@@ -30,8 +30,8 @@ ___
 
 ## Dependencies
 
-> [com.KomkomDoorn.Krokodove](com.KomkomDoorn.Krokodove.md ':class=button')  
-> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md ':class=button')  
+> [com.KomkomDoorn.Krokodove](com.KomkomDoorn.Krokodove.md)  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
 ## Deploy
 
 ### Common (No Architecture)

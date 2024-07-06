@@ -32,11 +32,11 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "$5 USD".  
-You can donate using the URL: <a href="https://www.paypal.me/BryanRayVFX" class="button">https://www.paypal.me/BryanRayVFX</a>
+You can donate using the URL: <a href="https://www.paypal.me/BryanRayVFX">https://www.paypal.me/BryanRayVFX</a>
 ## Dependencies
 
-> [com.MuseVFX.RSCameraExtractor](com.MuseVFX.RSCameraExtractor.md ':class=button')  
-> [com.MuseVFX.RsPhotographicExposure](com.MuseVFX.RsPhotographicExposure.md ':class=button')  
+> [com.MuseVFX.RSCameraExtractor](com.MuseVFX.RSCameraExtractor.md)  
+> [com.MuseVFX.RsPhotographicExposure](com.MuseVFX.RsPhotographicExposure.md)  
 ## Deploy
 
 ### Common (No Architecture)

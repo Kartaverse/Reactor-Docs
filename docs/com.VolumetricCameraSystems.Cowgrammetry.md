@@ -51,7 +51,7 @@ ___
 
 ## Dependencies
 
-> [com.StefanIhringer.srgb_rec709_viewshaders](com.StefanIhringer.srgb_rec709_viewshaders.md ':class=button')  
+> [com.StefanIhringer.srgb_rec709_viewshaders](com.StefanIhringer.srgb_rec709_viewshaders.md)  
 ## Deploy
 
 ### Common (No Architecture)

@@ -29,7 +29,7 @@ ___
 
 ## Dependencies
 
-> [com.AlexBogomolov.LoaderFromSaver](com.AlexBogomolov.LoaderFromSaver.md ':class=button')  
+> [com.AlexBogomolov.LoaderFromSaver](com.AlexBogomolov.LoaderFromSaver.md)  
 ## Deploy
 
 ### Common (No Architecture)

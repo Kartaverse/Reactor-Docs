@@ -27,8 +27,8 @@ ___
 
 ## Dependencies
 
-> [com.AndrewHazelden.KartaVR.Tools.Reframe360](com.AndrewHazelden.KartaVR.Tools.Reframe360.md ':class=button')  
-> [com.AndrewHazelden.KartaVR.Tools.WarpStitch](com.AndrewHazelden.KartaVR.Tools.WarpStitch.md ':class=button')  
+> [com.AndrewHazelden.KartaVR.Tools.Reframe360](com.AndrewHazelden.KartaVR.Tools.Reframe360.md)  
+> [com.AndrewHazelden.KartaVR.Tools.WarpStitch](com.AndrewHazelden.KartaVR.Tools.WarpStitch.md)  
 ## Deploy
 
 ### Common (No Architecture)

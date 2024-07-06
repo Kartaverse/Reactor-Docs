@@ -32,7 +32,7 @@ ___
 
 ## Dependencies
 
-> [com.Zash.Lua-CBOR](com.Zash.Lua-CBOR.md ':class=button')  
+> [com.Zash.Lua-CBOR](com.Zash.Lua-CBOR.md)  
 ## Deploy
 
 ### Common (No Architecture)

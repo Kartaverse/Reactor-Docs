@@ -19,10 +19,10 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
-You can donate using the URL: <a href="https://paypal.me/Millolab" class="button">https://paypal.me/Millolab</a>
+You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
 ## Dependencies
 
-> [com.SteveWatson.LinearCloner](com.SteveWatson.LinearCloner.md ':class=button')  
+> [com.SteveWatson.LinearCloner](com.SteveWatson.LinearCloner.md)  
 ## Deploy
 
 ### Common (No Architecture)

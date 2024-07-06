@@ -38,16 +38,16 @@ ___
 
 ## Dependencies
 
-> [com.AndrewHazelden.HypertextCompositor](com.AndrewHazelden.HypertextCompositor.md ':class=button')  
-> [com.HouseOfSecrets.hos_Tiler](com.HouseOfSecrets.hos_Tiler.md ':class=button')  
-> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md ':class=button')  
-> [com.wesuckless.KickAssShaderZ.Menus](com.wesuckless.KickAssShaderZ.Menus.md ':class=button')  
-> [com.wesuckless.Switch](com.wesuckless.Switch.md ':class=button')  
-> [com.wesuckless.SwitchElse](com.wesuckless.SwitchElse.md ':class=button')  
-> [com.wesuckless.Time3D](com.wesuckless.Time3D.md ':class=button')  
-> [com.wesuckless.Wireless](com.wesuckless.Wireless.md ':class=button')  
-> [com.wesuckless.Wireless3D](com.wesuckless.Wireless3D.md ':class=button')  
-> [com.wesuckless.Wireless3DMat](com.wesuckless.Wireless3DMat.md ':class=button')  
+> [com.AndrewHazelden.HypertextCompositor](com.AndrewHazelden.HypertextCompositor.md)  
+> [com.HouseOfSecrets.hos_Tiler](com.HouseOfSecrets.hos_Tiler.md)  
+> [com.StefanIhringer.XfChroma](com.StefanIhringer.XfChroma.md)  
+> [com.wesuckless.KickAssShaderZ.Menus](com.wesuckless.KickAssShaderZ.Menus.md)  
+> [com.wesuckless.Switch](com.wesuckless.Switch.md)  
+> [com.wesuckless.SwitchElse](com.wesuckless.SwitchElse.md)  
+> [com.wesuckless.Time3D](com.wesuckless.Time3D.md)  
+> [com.wesuckless.Wireless](com.wesuckless.Wireless.md)  
+> [com.wesuckless.Wireless3D](com.wesuckless.Wireless3D.md)  
+> [com.wesuckless.Wireless3DMat](com.wesuckless.Wireless3DMat.md)  
 ## Deploy
 
 ### Common (No Architecture)
