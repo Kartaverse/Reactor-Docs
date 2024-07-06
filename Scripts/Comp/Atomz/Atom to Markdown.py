@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 04.50 PM
+Atom to Markdown.py - v1.6 2024-07-06 05.05 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -24,6 +24,7 @@ Todo
 - List if there is an InstallScript/UninstallScript
 - Add a URL link to WSL Reactor gitlab repo resources when clicking on deployed files
 - Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
+- Parse description content for a file:// based "Reactor:" URL path.
 
 """
 
@@ -226,14 +227,17 @@ def MarkdownCreate(folder):
 							allDeploy = GetValue("Deploy", atomDict, {})
 							if allDeploy:
 								fAtom.write("### Common (No Architecture)\n\n")
-							for key in allDeploy:
-								if type(key) is float:
-									file = allDeploy[key]
-									try:
-										#print("\t[Install]", file)
-										fAtom.write("> " + str(file) + "  \n")
-									except Exception as error:
-										print("\t[Error]", error)
+								fAtom.write("<ul>\n")
+								
+								for key in allDeploy:
+									if type(key) is float:
+										file = allDeploy[key]
+										try:
+											#print("\t[Install]", file)
+											fAtom.write("<li><a href=\"https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/" + dirName + "/" + file + "?ref_type=heads\">" + str(file) + "</a></li>\n")
+										except Exception as error:
+											print("\t[Error]", error)
+								fAtom.write("</ul>\n")
 
 							deployLinux = GetValue("Linux", allDeploy, {})
 							deployMac = GetValue("Mac", allDeploy, {})
@@ -241,36 +245,37 @@ def MarkdownCreate(folder):
 
 							if deployLinux:
 								fAtom.write("\n### Linux\n\n")
-							#print("\n[Deploy][Linux]")
-							for key in deployLinux:
-								file = deployLinux[key]
-								try:
-									#print("\t[Install]", file)
-									fAtom.write("> " + str(file) + "  \n")
-								except Exception as error:
-									print("\t[Install Error]", error)
+								#print("\n[Deploy][Linux]")
+								for key in deployLinux:
+									file = deployLinux[key]
+									try:
+										#print("\t[Install]", file)
+										fAtom.write("<li><a href=\"https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/" + dirName + "/Linux/" + file + "?ref_type=heads\">" + str(file) + "</a></li>\n")
+									except Exception as error:
+										print("\t[Install Error]", error)
 
 							if deployMac:
 								fAtom.write("\n### macOS\n\n")
-							#print("\n[Deploy][Mac]")
-							for key in deployMac:
-								file = deployMac[key]
-								try:
-									#print("\t[Install]", file)
-									fAtom.write("> " + str(file) + "  \n")
-								except Exception as error:
-									print("\t[Install Error]", error)
+								#print("\n[Deploy][Mac]")
+								for key in deployMac:
+									file = deployMac[key]
+									try:
+										#print("\t[Install]", file)
+										fAtom.write("<li><a href=\"https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/" + dirName + "/Mac/" + file + "?ref_type=heads\">" + str(file) + "</a></li>\n")
+									except Exception as error:
+										print("\t[Install Error]", error)
 
 							if deployWindows:
 								fAtom.write("\n### Windows\n\n")
-							#print("\n[Deploy][Windows]")
-							for key in deployWindows:
-								file = deployWindows[key]
-								try:
-									#print("\t[Install]", file)
-									fAtom.write("> " + str(file) + "  \n")
-								except Exception as error:
-									print("\t[Install Error]", error)
+								#print("\n[Deploy][Windows]")
+								for key in deployWindows:
+									file = deployWindows[key]
+									try:
+										#print("\t[Install]", file)
+										fAtom.write("<li><a href=\"https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/" + dirName + "/Windows/" + file + "?ref_type=heads\">" + str(file) + "</a></li>\n")
+									except Exception as error:
+										print("\t[Install Error]", error)
+
 					endTimer = datetime.datetime.now()
 					elapsedTime = (endTimer - startTimer).total_seconds()
 					mins, secs = divmod(elapsedTime, 60)
