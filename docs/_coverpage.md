@@ -9,4 +9,4 @@
 - Generated with Fusion Studio 19
 
 [GitHub](https://github.com/Kartaverse/Reactor-Docs)
-[Get Started](#blackmagic-design-fusion-script-docs)
+[Get Started](#reactor-atom-packages)
