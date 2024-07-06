@@ -50,7 +50,7 @@ The Kartaverse plug-in works inside of Blackmagic Design's Resolve and Fusion so
 <p>A new <a href="https://docs.google.com/document/d/1tewIaHZh8mWI8x5BzlpZBkF8eXhK2b_XhTWiU_93HBA">Kartaverse Workflows | Immersive Pipeline Integration Guide</a> learning resource is available. The free guide has over 512 pages of content that covers the primary steps required to get a working content creation pipeline established from scratch for artists working at a freelancer, or small boutique studio scale of operation. Additional, expanded chapters cover broader Resolve/Fusion page usage concepts that will help you take your composting and 360VR content creation skills to the next level.</p>
 
 <h2>Kartaverse Technical Support</h2>
-Technical support for Kartaverse/KartaVR is handled by the official <a href="https://groups.google.com/g/kartaverse">Kartaverse Google Group</a>. If you've got a question about 360VR and immersive workflows in Resolve and Fusion Standalone, the Kartaverse User Group is the place to get it answered.</p>
+<p>Technical support for Kartaverse/KartaVR is handled by the official <a href="https://groups.google.com/g/kartaverse">Kartaverse Google Group</a>. If you've got a question about 360VR and immersive workflows in Resolve and Fusion Standalone, the Kartaverse User Group is the place to get it answered.</p>
 
 <h2>Email Andrew Hazelden</h2>
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>

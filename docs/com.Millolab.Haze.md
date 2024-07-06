@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Composite/Haze.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.Haze/Macros/Composite/Haze.setting?ref_type=heads">Macros/Composite/Haze.setting</a></li>
+</ul>

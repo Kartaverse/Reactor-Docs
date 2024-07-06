@@ -35,5 +35,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/KartaVP/kvrPlane/Demo kvrPlane v001.comp  
-> Fuses/Kartaverse/KartaVP/Warp/kvrPlane.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrPlane/Comps/Kartaverse/KartaVP/kvrPlane/Demo kvrPlane v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrPlane/Demo kvrPlane v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrPlane/Fuses/Kartaverse/KartaVP/Warp/kvrPlane.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrPlane.fuse</a></li>
+</ul>

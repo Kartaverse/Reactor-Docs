@@ -33,5 +33,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/SdR/StraightenUp_SdR.bmp  
-> Macros/SdR/StraightenUp_SdR.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.StraightenUp_SdR/Macros/SdR/StraightenUp_SdR.bmp?ref_type=heads">Macros/SdR/StraightenUp_SdR.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.StraightenUp_SdR/Macros/SdR/StraightenUp_SdR.setting?ref_type=heads">Macros/SdR/StraightenUp_SdR.setting</a></li>
+</ul>

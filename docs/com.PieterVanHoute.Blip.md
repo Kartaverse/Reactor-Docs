@@ -44,4 +44,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/Blip.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Blip/Fuses/Modifiers/Blip.fuse?ref_type=heads">Fuses/Modifiers/Blip.fuse</a></li>
+</ul>

@@ -39,12 +39,14 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Pirates of Confusion/Emblem/PoC_Blade_F16_v003.comp  
-> Comps/Pirates of Confusion/Emblem/PoC_WSL_Damaged_v006.comp  
-> Comps/Pirates of Confusion/Emblem/images/Blade_font.exr  
-> Comps/Pirates of Confusion/Emblem/images/Mountain.jpg  
-> Comps/Pirates of Confusion/Emblem/images/Rusty.jpg  
-> Comps/Pirates of Confusion/Emblem/images/WSL.exr  
-> Comps/Pirates of Confusion/Emblem/movies/Lens.mov  
-> Comps/Pirates of Confusion/Emblem/movies/Snow.mov  
-> Comps/Pirates of Confusion/Emblem/movies/Steam.mov  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/PoC_Blade_F16_v003.comp?ref_type=heads">Comps/Pirates of Confusion/Emblem/PoC_Blade_F16_v003.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/PoC_WSL_Damaged_v006.comp?ref_type=heads">Comps/Pirates of Confusion/Emblem/PoC_WSL_Damaged_v006.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/images/Blade_font.exr?ref_type=heads">Comps/Pirates of Confusion/Emblem/images/Blade_font.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/images/Mountain.jpg?ref_type=heads">Comps/Pirates of Confusion/Emblem/images/Mountain.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/images/Rusty.jpg?ref_type=heads">Comps/Pirates of Confusion/Emblem/images/Rusty.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/images/WSL.exr?ref_type=heads">Comps/Pirates of Confusion/Emblem/images/WSL.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/movies/Lens.mov?ref_type=heads">Comps/Pirates of Confusion/Emblem/movies/Lens.mov</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/movies/Snow.mov?ref_type=heads">Comps/Pirates of Confusion/Emblem/movies/Snow.mov</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.Emblem/Comps/Pirates of Confusion/Emblem/movies/Steam.mov?ref_type=heads">Comps/Pirates of Confusion/Emblem/movies/Steam.mov</a></li>
+</ul>

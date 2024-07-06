@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Creator/FUI_SuperShape.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DunnLewis.FUI_SuperShape/Fuses/Creator/FUI_SuperShape.fuse?ref_type=heads">Fuses/Creator/FUI_SuperShape.fuse</a></li>
+</ul>

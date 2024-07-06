@@ -26,10 +26,12 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Templates/GuinnessCan/ArchiveLog.txt  
-> Comps/Templates/GuinnessCan/Guinness_Can.comp  
-> Comps/Templates/GuinnessCan/Meshes/BeerCan.fbx  
-> Comps/Templates/GuinnessCan/Stills/00-1.jpg  
-> Comps/Templates/GuinnessCan/Stills/bump.png  
-> Comps/Templates/GuinnessCan/Stills/color.png  
-> Comps/Templates/GuinnessCan/Stills/mask.png  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/ArchiveLog.txt?ref_type=heads">Comps/Templates/GuinnessCan/ArchiveLog.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Guinness_Can.comp?ref_type=heads">Comps/Templates/GuinnessCan/Guinness_Can.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Meshes/BeerCan.fbx?ref_type=heads">Comps/Templates/GuinnessCan/Meshes/BeerCan.fbx</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Stills/00-1.jpg?ref_type=heads">Comps/Templates/GuinnessCan/Stills/00-1.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Stills/bump.png?ref_type=heads">Comps/Templates/GuinnessCan/Stills/bump.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Stills/color.png?ref_type=heads">Comps/Templates/GuinnessCan/Stills/color.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.GuinnessCan/Comps/Templates/GuinnessCan/Stills/mask.png?ref_type=heads">Comps/Templates/GuinnessCan/Stills/mask.png</a></li>
+</ul>

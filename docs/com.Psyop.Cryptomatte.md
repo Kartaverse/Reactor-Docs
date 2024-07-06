@@ -43,27 +43,29 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Cryptomatte/cryptomatte_shortcuts.fu  
-> Docs/Cryptomatte/CHANGELOG.html  
-> Docs/Cryptomatte/CHANGELOG.md  
-> Docs/Cryptomatte/Images/cryptomatte_logo.svg  
-> Docs/Cryptomatte/Images/encryptomatteProperties.png  
-> Docs/Cryptomatte/Images/fusionInstallDefaults.png  
-> Docs/Cryptomatte/Images/fusionInstallUser.png  
-> Docs/Cryptomatte/Images/fusionUsageComp.png  
-> Docs/Cryptomatte/Images/fusionUsageFuseAdvanced.png  
-> Docs/Cryptomatte/Images/fusionUsageFuseControls.png  
-> Docs/Cryptomatte/Images/github-zip.png  
-> Docs/Cryptomatte/Images/gizmoProperties.png  
-> Docs/Cryptomatte/Images/header.png  
-> Docs/Cryptomatte/Images/nukeScreenshot.jpg  
-> Docs/Cryptomatte/README.html  
-> Docs/Cryptomatte/README.md  
-> Docs/Cryptomatte/fusion.html  
-> Docs/Cryptomatte/fusion.md  
-> Docs/Cryptomatte/license.txt  
-> Docs/Cryptomatte/nuke.html  
-> Docs/Cryptomatte/nuke.md  
-> Fuses/Matte/cryptomatte.fuse  
-> Modules/Lua/cryptomatte_utilities.lua  
-> Modules/Lua/test_cryptomatte_utilities.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Config/Cryptomatte/cryptomatte_shortcuts.fu?ref_type=heads">Config/Cryptomatte/cryptomatte_shortcuts.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/CHANGELOG.html?ref_type=heads">Docs/Cryptomatte/CHANGELOG.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/CHANGELOG.md?ref_type=heads">Docs/Cryptomatte/CHANGELOG.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/cryptomatte_logo.svg?ref_type=heads">Docs/Cryptomatte/Images/cryptomatte_logo.svg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/encryptomatteProperties.png?ref_type=heads">Docs/Cryptomatte/Images/encryptomatteProperties.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/fusionInstallDefaults.png?ref_type=heads">Docs/Cryptomatte/Images/fusionInstallDefaults.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/fusionInstallUser.png?ref_type=heads">Docs/Cryptomatte/Images/fusionInstallUser.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/fusionUsageComp.png?ref_type=heads">Docs/Cryptomatte/Images/fusionUsageComp.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/fusionUsageFuseAdvanced.png?ref_type=heads">Docs/Cryptomatte/Images/fusionUsageFuseAdvanced.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/fusionUsageFuseControls.png?ref_type=heads">Docs/Cryptomatte/Images/fusionUsageFuseControls.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/github-zip.png?ref_type=heads">Docs/Cryptomatte/Images/github-zip.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/gizmoProperties.png?ref_type=heads">Docs/Cryptomatte/Images/gizmoProperties.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/header.png?ref_type=heads">Docs/Cryptomatte/Images/header.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/Images/nukeScreenshot.jpg?ref_type=heads">Docs/Cryptomatte/Images/nukeScreenshot.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/README.html?ref_type=heads">Docs/Cryptomatte/README.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/README.md?ref_type=heads">Docs/Cryptomatte/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/fusion.html?ref_type=heads">Docs/Cryptomatte/fusion.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/fusion.md?ref_type=heads">Docs/Cryptomatte/fusion.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/license.txt?ref_type=heads">Docs/Cryptomatte/license.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/nuke.html?ref_type=heads">Docs/Cryptomatte/nuke.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Docs/Cryptomatte/nuke.md?ref_type=heads">Docs/Cryptomatte/nuke.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Fuses/Matte/cryptomatte.fuse?ref_type=heads">Fuses/Matte/cryptomatte.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Modules/Lua/cryptomatte_utilities.lua?ref_type=heads">Modules/Lua/cryptomatte_utilities.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Psyop.Cryptomatte/Modules/Lua/test_cryptomatte_utilities.lua?ref_type=heads">Modules/Lua/test_cryptomatte_utilities.lua</a></li>
+</ul>

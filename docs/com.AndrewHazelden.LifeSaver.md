@@ -108,5 +108,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/IO/LifeSaver.fu  
-> Fuses/IO/LifeSaver.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.LifeSaver/Config/IO/LifeSaver.fu?ref_type=heads">Config/IO/LifeSaver.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.LifeSaver/Fuses/IO/LifeSaver.fuse?ref_type=heads">Fuses/IO/LifeSaver.fuse</a></li>
+</ul>

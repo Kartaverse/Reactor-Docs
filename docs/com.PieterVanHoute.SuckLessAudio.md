@@ -60,4 +60,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/SuckLessAudio.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.SuckLessAudio/Fuses/Modifiers/SuckLessAudio.fuse?ref_type=heads">Fuses/Modifiers/SuckLessAudio.fuse</a></li>
+</ul>

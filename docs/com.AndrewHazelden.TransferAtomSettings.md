@@ -40,5 +40,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Andrew Hazelden/Transfer Atom Settings.fu  
-> Scripts/Comp/Andrew Hazelden/Transfer Atom Settings.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.TransferAtomSettings/Config/Andrew Hazelden/Transfer Atom Settings.fu?ref_type=heads">Config/Andrew Hazelden/Transfer Atom Settings.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.TransferAtomSettings/Scripts/Comp/Andrew Hazelden/Transfer Atom Settings.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Transfer Atom Settings.lua</a></li>
+</ul>

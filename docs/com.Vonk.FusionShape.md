@@ -36,6 +36,8 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/Vonk Ultra/Demo Shape/Demo Shape.comp  
-> Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeSwitch.fuse  
-> Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeWireless.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionShape/Comps/Kartaverse/Vonk Ultra/Demo Shape/Demo Shape.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Shape/Demo Shape.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionShape/Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeSwitch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeSwitch.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionShape/Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeWireless.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Shape/Flow/vShapeWireless.fuse</a></li>
+</ul>

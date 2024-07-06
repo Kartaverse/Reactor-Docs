@@ -75,8 +75,10 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Bookmarker/bookmark_cfg.fu  
-> Scripts/Comp/Bookmarker/bookmark_add.py  
-> Scripts/Comp/Bookmarker/bookmark_jump.py  
-> Scripts/Comp/Bookmarker/icons/plus_icon.png  
-> Scripts/Comp/Bookmarker/icons/refresh_icon.png  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.Bookmarker/Config/Bookmarker/bookmark_cfg.fu?ref_type=heads">Config/Bookmarker/bookmark_cfg.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.Bookmarker/Scripts/Comp/Bookmarker/bookmark_add.py?ref_type=heads">Scripts/Comp/Bookmarker/bookmark_add.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.Bookmarker/Scripts/Comp/Bookmarker/bookmark_jump.py?ref_type=heads">Scripts/Comp/Bookmarker/bookmark_jump.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.Bookmarker/Scripts/Comp/Bookmarker/icons/plus_icon.png?ref_type=heads">Scripts/Comp/Bookmarker/icons/plus_icon.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.Bookmarker/Scripts/Comp/Bookmarker/icons/refresh_icon.png?ref_type=heads">Scripts/Comp/Bookmarker/icons/refresh_icon.png</a></li>
+</ul>

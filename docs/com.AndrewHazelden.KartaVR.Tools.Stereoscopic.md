@@ -26,24 +26,26 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.bmp  
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting  
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.bmp  
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting  
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.bmp  
-> Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.setting  
-> Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.bmp  
-> Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.setting  
-> Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.bmp  
-> Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.setting  
-> Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.bmp  
-> Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.setting  
-> Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.bmp  
-> Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphOU.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderExtract.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderMerge.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideExtract.setting  
-> Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideMerge.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoAnaglyphOU.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoOverUnderExtract.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoOverUnderMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoSideBySideExtract.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.bmp?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.setting?ref_type=heads">Macros/KartaVR/Stereoscopic/StereoSideBySideMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphHalfColorMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphOU.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoAnaglyphOU.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderExtract.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderExtract.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderMerge.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoOverUnderMerge.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideExtract.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideExtract.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Stereoscopic/Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideMerge.setting?ref_type=heads">Templates/Fusion/KartaVR/Stereoscopic/StereoSideBySideMerge.setting</a></li>
+</ul>

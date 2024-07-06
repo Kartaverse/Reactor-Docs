@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/FollowerInTime.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.FollowerInTime/Macros/Creator/FollowerInTime.setting?ref_type=heads">Macros/Creator/FollowerInTime.setting</a></li>
+</ul>

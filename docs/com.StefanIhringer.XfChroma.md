@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/XfChroma.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.XfChroma/Fuses/Effect/XfChroma.fuse?ref_type=heads">Fuses/Effect/XfChroma.fuse</a></li>
+</ul>

@@ -25,5 +25,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Miscellaneous/PlatePreserver.setting  
-> Macros/Miscellaneous/PlatePreserver.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.PlatePreserver/Macros/Miscellaneous/PlatePreserver.setting?ref_type=heads">Macros/Miscellaneous/PlatePreserver.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.PlatePreserver/Macros/Miscellaneous/PlatePreserver.bmp?ref_type=heads">Macros/Miscellaneous/PlatePreserver.bmp</a></li>
+</ul>

@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Creator/FUI_Designer.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DunnLewis.FUI_Designer/Fuses/Creator/FUI_Designer.fuse?ref_type=heads">Fuses/Creator/FUI_Designer.fuse</a></li>
+</ul>

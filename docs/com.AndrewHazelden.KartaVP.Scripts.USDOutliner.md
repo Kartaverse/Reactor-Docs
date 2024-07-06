@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVP/USD Outliner.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.USDOutliner/Scripts/Comp/KartaVP/USD Outliner.py?ref_type=heads">Scripts/Comp/KartaVP/USD Outliner.py</a></li>
+</ul>

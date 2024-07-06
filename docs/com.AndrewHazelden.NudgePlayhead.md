@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Andrew Hazelden/Nudge Playhead Hotkeys.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.NudgePlayhead/Config/Andrew Hazelden/Nudge Playhead Hotkeys.fu?ref_type=heads">Config/Andrew Hazelden/Nudge Playhead Hotkeys.fu</a></li>
+</ul>

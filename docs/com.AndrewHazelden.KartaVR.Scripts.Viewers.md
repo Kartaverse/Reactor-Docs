@@ -26,61 +26,63 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/KartaVR/vr_view/charcoal_template.css  
-> Bin/KartaVR/vr_view/charcoal_template.html  
-> Bin/KartaVR/vr_view/custom_template.css  
-> Bin/KartaVR/vr_view/custom_template.html  
-> Bin/KartaVR/vr_view/data/device-motion-sender.min.js  
-> Bin/KartaVR/vr_view/data/favicon.png  
-> Bin/KartaVR/vr_view/data/ic_info_outline_black_24dp.svg  
-> Bin/KartaVR/vr_view/data/loading.gif  
-> Bin/KartaVR/vr_view/data/style.css  
-> Bin/KartaVR/vr_view/data/viewer.css  
-> Bin/KartaVR/vr_view/data/vrview-analytics.js  
-> Bin/KartaVR/vr_view/data/vrview-analytics.min.js  
-> Bin/KartaVR/vr_view/data/vrview.js  
-> Bin/KartaVR/vr_view/data/vrview.min.js  
-> Bin/KartaVR/vr_view/example .htaccess  
-> Bin/KartaVR/vr_view/media/image_001.jpg  
-> Bin/KartaVR/vr_view/midnight_template.css  
-> Bin/KartaVR/vr_view/midnight_template.html  
-> Bin/KartaVR/vr_view/vr_view.html  
-> Scripts/Comp/KartaVR/About KartaVR.lua  
-> Scripts/Comp/KartaVR/KartaVR_Logo.png  
-> Scripts/Comp/KartaVR/Reset LUA Script Settings to Defaults.lua  
-> Scripts/Comp/KartaVR/View Help Documentation.lua  
-> Scripts/Comp/KartaVR/View Immersive Pipeline Integration Guide.lua  
-> Scripts/Comp/KartaVR/Viewers/Directory Tree.lua  
-> Scripts/Comp/KartaVR/Viewers/PanoView.lua  
-> Scripts/Comp/KartaVR/Viewers/Publish Media to Google Cardboard VR View.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/charcoal_template.css?ref_type=heads">Bin/KartaVR/vr_view/charcoal_template.css</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/charcoal_template.html?ref_type=heads">Bin/KartaVR/vr_view/charcoal_template.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/custom_template.css?ref_type=heads">Bin/KartaVR/vr_view/custom_template.css</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/custom_template.html?ref_type=heads">Bin/KartaVR/vr_view/custom_template.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/device-motion-sender.min.js?ref_type=heads">Bin/KartaVR/vr_view/data/device-motion-sender.min.js</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/favicon.png?ref_type=heads">Bin/KartaVR/vr_view/data/favicon.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/ic_info_outline_black_24dp.svg?ref_type=heads">Bin/KartaVR/vr_view/data/ic_info_outline_black_24dp.svg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/loading.gif?ref_type=heads">Bin/KartaVR/vr_view/data/loading.gif</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/style.css?ref_type=heads">Bin/KartaVR/vr_view/data/style.css</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/viewer.css?ref_type=heads">Bin/KartaVR/vr_view/data/viewer.css</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/vrview-analytics.js?ref_type=heads">Bin/KartaVR/vr_view/data/vrview-analytics.js</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/vrview-analytics.min.js?ref_type=heads">Bin/KartaVR/vr_view/data/vrview-analytics.min.js</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/vrview.js?ref_type=heads">Bin/KartaVR/vr_view/data/vrview.js</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/data/vrview.min.js?ref_type=heads">Bin/KartaVR/vr_view/data/vrview.min.js</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/example .htaccess?ref_type=heads">Bin/KartaVR/vr_view/example .htaccess</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/media/image_001.jpg?ref_type=heads">Bin/KartaVR/vr_view/media/image_001.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/midnight_template.css?ref_type=heads">Bin/KartaVR/vr_view/midnight_template.css</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/midnight_template.html?ref_type=heads">Bin/KartaVR/vr_view/midnight_template.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Bin/KartaVR/vr_view/vr_view.html?ref_type=heads">Bin/KartaVR/vr_view/vr_view.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/About KartaVR.lua?ref_type=heads">Scripts/Comp/KartaVR/About KartaVR.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/KartaVR_Logo.png?ref_type=heads">Scripts/Comp/KartaVR/KartaVR_Logo.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/Reset LUA Script Settings to Defaults.lua?ref_type=heads">Scripts/Comp/KartaVR/Reset LUA Script Settings to Defaults.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/View Help Documentation.lua?ref_type=heads">Scripts/Comp/KartaVR/View Help Documentation.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/View Immersive Pipeline Integration Guide.lua?ref_type=heads">Scripts/Comp/KartaVR/View Immersive Pipeline Integration Guide.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/Viewers/Directory Tree.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Directory Tree.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/Viewers/PanoView.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/PanoView.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Scripts/Comp/KartaVR/Viewers/Publish Media to Google Cardboard VR View.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Publish Media to Google Cardboard VR View.lua</a></li>
+</ul>
 
 ### Linux
 
-> Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Linux/Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua</a></li>
 
 ### macOS
 
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Info.plist  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/MacOS/applet  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/PkgInfo  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/Scripts/main.scpt  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.icns  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.rsrc  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/_CodeSignature/CodeResources  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Info.plist  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/MacOS/applet  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/PkgInfo  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/Scripts/main.scpt  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.icns  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.rsrc  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf  
-> Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/_CodeSignature/CodeResources  
-> Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Fullscreen-Image-View.scpt  
-> Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Zoom-New-Image-View.scpt  
-> Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  
-> Scripts/Comp/KartaVR/Viewers/Zoom New Image View.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Info.plist?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Info.plist</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/MacOS/applet?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/MacOS/applet</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/PkgInfo?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/PkgInfo</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/Scripts/main.scpt?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/Scripts/main.scpt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.icns?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.icns</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.rsrc?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/applet.rsrc</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/_CodeSignature/CodeResources?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Fullscreen-Image-View.app/Contents/_CodeSignature/CodeResources</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Info.plist?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Info.plist</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/MacOS/applet?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/MacOS/applet</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/PkgInfo?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/PkgInfo</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/Scripts/main.scpt?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/Scripts/main.scpt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.icns?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.icns</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.rsrc?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/applet.rsrc</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/Resources/description.rtfd/TXT.rtf</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/_CodeSignature/CodeResources?ref_type=heads">Bin/KartaVR/mac_tools/applescript/Fusion-Zoom-New-Image-View.app/Contents/_CodeSignature/CodeResources</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Fullscreen-Image-View.scpt?ref_type=heads">Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Fullscreen-Image-View.scpt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Zoom-New-Image-View.scpt?ref_type=heads">Bin/KartaVR/mac_tools/applescript/sourcecode/Fusion-Zoom-New-Image-View.scpt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Mac/Scripts/Comp/KartaVR/Viewers/Zoom New Image View.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Zoom New Image View.lua</a></li>
 
 ### Windows
 
-> Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Viewers/Windows/Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua?ref_type=heads">Scripts/Comp/KartaVR/Viewers/Edit PanoView Preferences.lua</a></li>

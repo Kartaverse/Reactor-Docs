@@ -29,24 +29,26 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/curl/docs/features.txt  
-> Bin/curl/docs/help.txt  
-> Bin/curl/docs/manual.txt  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Bin/curl/docs/features.txt?ref_type=heads">Bin/curl/docs/features.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Bin/curl/docs/help.txt?ref_type=heads">Bin/curl/docs/help.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Bin/curl/docs/manual.txt?ref_type=heads">Bin/curl/docs/manual.txt</a></li>
+</ul>
 
 ### Linux
 
-> Bin/curl/docs/license mixing.txt  
-> Bin/curl/docs/license.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Linux/Bin/curl/docs/license mixing.txt?ref_type=heads">Bin/curl/docs/license mixing.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Linux/Bin/curl/docs/license.txt?ref_type=heads">Bin/curl/docs/license.txt</a></li>
 
 ### macOS
 
-> Bin/curl/docs/license mixing.txt  
-> Bin/curl/docs/license.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Mac/Bin/curl/docs/license mixing.txt?ref_type=heads">Bin/curl/docs/license mixing.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Mac/Bin/curl/docs/license.txt?ref_type=heads">Bin/curl/docs/license.txt</a></li>
 
 ### Windows
 
-> Bin/curl/bin/curl.exe  
-> Bin/curl/bin/libeay32.dll  
-> Bin/curl/bin/ssleay32.dll  
-> Bin/curl/docs/license mixing.txt  
-> Bin/curl/docs/license.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Windows/Bin/curl/bin/curl.exe?ref_type=heads">Bin/curl/bin/curl.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Windows/Bin/curl/bin/libeay32.dll?ref_type=heads">Bin/curl/bin/libeay32.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Windows/Bin/curl/bin/ssleay32.dll?ref_type=heads">Bin/curl/bin/ssleay32.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Windows/Bin/curl/docs/license mixing.txt?ref_type=heads">Bin/curl/docs/license mixing.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DanielStenberg.cURL/Windows/Bin/curl/docs/license.txt?ref_type=heads">Bin/curl/docs/license.txt</a></li>

@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/HeatDistortion.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.HeatDistortion/Macros/Effect/HeatDistortion.setting?ref_type=heads">Macros/Effect/HeatDistortion.setting</a></li>
+</ul>

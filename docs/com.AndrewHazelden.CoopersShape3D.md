@@ -33,5 +33,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/3D/CoopersShape3D.setting  
-> Config/3D/CoopersShape3D_menus.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.CoopersShape3D/Macros/3D/CoopersShape3D.setting?ref_type=heads">Macros/3D/CoopersShape3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.CoopersShape3D/Config/3D/CoopersShape3D_menus.fu?ref_type=heads">Config/3D/CoopersShape3D_menus.fu</a></li>
+</ul>

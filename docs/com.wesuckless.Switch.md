@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Flow/Switch.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Switch/Fuses/Flow/Switch.fuse?ref_type=heads">Fuses/Flow/Switch.fuse</a></li>
+</ul>

@@ -33,7 +33,9 @@ ___
 
 ### Common (No Architecture)
 
-> Defaults/Camera3D_Camera 3D.setting  
-> Fuses/Metadata/RSCameraExtractor.fuse  
-> Modules/Lua/matrix.lua  
-> Modules/Lua/matrixutils.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.RSCameraExtractor/Defaults/Camera3D_Camera 3D.setting?ref_type=heads">Defaults/Camera3D_Camera 3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.RSCameraExtractor/Fuses/Metadata/RSCameraExtractor.fuse?ref_type=heads">Fuses/Metadata/RSCameraExtractor.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.RSCameraExtractor/Modules/Lua/matrix.lua?ref_type=heads">Modules/Lua/matrix.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.RSCameraExtractor/Modules/Lua/matrixutils.lua?ref_type=heads">Modules/Lua/matrixutils.lua</a></li>
+</ul>

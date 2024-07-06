@@ -43,5 +43,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/rename_plus_conf.fu  
-> Scripts/Comp/rename_plus.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.RenamePlus/Config/rename_plus_conf.fu?ref_type=heads">Config/rename_plus_conf.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.RenamePlus/Scripts/Comp/rename_plus.lua?ref_type=heads">Scripts/Comp/rename_plus.lua</a></li>
+</ul>

@@ -46,4 +46,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Blur/MT_XGlow.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.XGlow/Fuses/Blur/MT_XGlow.fuse?ref_type=heads">Fuses/Blur/MT_XGlow.fuse</a></li>
+</ul>

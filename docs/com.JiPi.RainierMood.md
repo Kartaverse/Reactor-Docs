@@ -66,4 +66,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/RainierMood.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JiPi.RainierMood/Fuses/Effect/RainierMood.fuse?ref_type=heads">Fuses/Effect/RainierMood.fuse</a></li>
+</ul>

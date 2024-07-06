@@ -46,11 +46,13 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Sprut/Sprut2ReleaseDemo_001.comp  
-> Macros/Sprut/SprutEmitter.setting  
-> Macros/Sprut/SprutInspect.setting  
-> Macros/Sprut/SprutSolver.setting  
-> Modules/Lua/SprutDialogs.lua  
-> Scripts/Support/Sprut/AbortRender.lua  
-> Scripts/Support/Sprut/OpenCacheFolder.lua  
-> Scripts/Support/Sprut/RunSimulation.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Comps/Sprut/Sprut2ReleaseDemo_001.comp?ref_type=heads">Comps/Sprut/Sprut2ReleaseDemo_001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Macros/Sprut/SprutEmitter.setting?ref_type=heads">Macros/Sprut/SprutEmitter.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Macros/Sprut/SprutInspect.setting?ref_type=heads">Macros/Sprut/SprutInspect.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Macros/Sprut/SprutSolver.setting?ref_type=heads">Macros/Sprut/SprutSolver.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Modules/Lua/SprutDialogs.lua?ref_type=heads">Modules/Lua/SprutDialogs.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Scripts/Support/Sprut/AbortRender.lua?ref_type=heads">Scripts/Support/Sprut/AbortRender.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Scripts/Support/Sprut/OpenCacheFolder.lua?ref_type=heads">Scripts/Support/Sprut/OpenCacheFolder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Sprut/Scripts/Support/Sprut/RunSimulation.lua?ref_type=heads">Scripts/Support/Sprut/RunSimulation.lua</a></li>
+</ul>

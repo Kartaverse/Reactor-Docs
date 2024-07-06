@@ -39,8 +39,10 @@ ___
 
 ### Common (No Architecture)
 
-> Config/DragDrop/KartaVR Comp DragDrop.fu  
-> Config/DragDrop/KartaVR PTGui DragDrop.fu  
-> Config/DragDrop/KartaVR PointCloud DragDrop.fu  
-> Scripts/Comp/KartaVR/DragDrop/Comp Import.lua  
-> Scripts/Comp/KartaVR/DragDrop/PointCloud Import.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.DragDrop/Config/DragDrop/KartaVR Comp DragDrop.fu?ref_type=heads">Config/DragDrop/KartaVR Comp DragDrop.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.DragDrop/Config/DragDrop/KartaVR PTGui DragDrop.fu?ref_type=heads">Config/DragDrop/KartaVR PTGui DragDrop.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.DragDrop/Config/DragDrop/KartaVR PointCloud DragDrop.fu?ref_type=heads">Config/DragDrop/KartaVR PointCloud DragDrop.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.DragDrop/Scripts/Comp/KartaVR/DragDrop/Comp Import.lua?ref_type=heads">Scripts/Comp/KartaVR/DragDrop/Comp Import.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.DragDrop/Scripts/Comp/KartaVR/DragDrop/PointCloud Import.lua?ref_type=heads">Scripts/Comp/KartaVR/DragDrop/PointCloud Import.lua</a></li>
+</ul>

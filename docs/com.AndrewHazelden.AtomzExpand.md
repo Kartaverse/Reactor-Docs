@@ -36,5 +36,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/DragDrop/Atomz Expand DragDrop.fu  
-> Scripts/Comp/Atomz/Atomz Expand.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzExpand/Config/DragDrop/Atomz Expand DragDrop.fu?ref_type=heads">Config/DragDrop/Atomz Expand DragDrop.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzExpand/Scripts/Comp/Atomz/Atomz Expand.py?ref_type=heads">Scripts/Comp/Atomz/Atomz Expand.py</a></li>
+</ul>

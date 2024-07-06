@@ -60,4 +60,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Miscellaneous/Retimer.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/Fuses/Miscellaneous/Retimer.fuse?ref_type=heads">Fuses/Miscellaneous/Retimer.fuse</a></li>
+</ul>

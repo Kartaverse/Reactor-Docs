@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/ChromaticDisplacement.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.ChromaticDisplacement/Macros/Effect/ChromaticDisplacement.setting?ref_type=heads">Macros/Effect/ChromaticDisplacement.setting</a></li>
+</ul>

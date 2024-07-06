@@ -45,4 +45,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/ChangeStrings.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/Scripts/Comp/ChangeStrings.lua?ref_type=heads">Scripts/Comp/ChangeStrings.lua</a></li>
+</ul>

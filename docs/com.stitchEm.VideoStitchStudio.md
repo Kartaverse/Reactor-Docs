@@ -40,125 +40,127 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Windows
 
-> Bin/stitchEm/Studio/1-calibrationimport.bat  
-> Bin/stitchEm/Studio/2-process-ptv.bat  
-> Bin/stitchEm/Studio/3-batch-process-ptv.bat  
-> Bin/stitchEm/Studio/Qt5Core.dll  
-> Bin/stitchEm/Studio/Qt5Gui.dll  
-> Bin/stitchEm/Studio/Qt5Multimedia.dll  
-> Bin/stitchEm/Studio/Qt5Network.dll  
-> Bin/stitchEm/Studio/Qt5OpenGL.dll  
-> Bin/stitchEm/Studio/Qt5Widgets.dll  
-> Bin/stitchEm/Studio/audio/qtaudio_windows.dll  
-> Bin/stitchEm/Studio/avcodec-58.dll  
-> Bin/stitchEm/Studio/avformat-58.dll  
-> Bin/stitchEm/Studio/avresample-4.dll  
-> Bin/stitchEm/Studio/avutil-56.dll  
-> Bin/stitchEm/Studio/batchstitcher.exe  
-> Bin/stitchEm/Studio/calibrationimport.exe  
-> Bin/stitchEm/Studio/ceres.dll  
-> Bin/stitchEm/Studio/core_plugins/jpg.dll  
-> Bin/stitchEm/Studio/core_plugins/png.dll  
-> Bin/stitchEm/Studio/core_plugins/tiffPlugin.dll  
-> Bin/stitchEm/Studio/core_plugins_cuda/av_cuda.dll  
-> Bin/stitchEm/Studio/cudart64_100.dll  
-> Bin/stitchEm/Studio/dropletusage.txt  
-> Bin/stitchEm/Studio/gflags.dll  
-> Bin/stitchEm/Studio/glfw3.dll  
-> Bin/stitchEm/Studio/glog.dll  
-> Bin/stitchEm/Studio/imageformats/qgif.dll  
-> Bin/stitchEm/Studio/imageformats/qico.dll  
-> Bin/stitchEm/Studio/imageformats/qjpeg.dll  
-> Bin/stitchEm/Studio/imageformats/qsvg.dll  
-> Bin/stitchEm/Studio/imageformats/qtga.dll  
-> Bin/stitchEm/Studio/imageformats/qtiff.dll  
-> Bin/stitchEm/Studio/imageformats/qwbmp.dll  
-> Bin/stitchEm/Studio/jpeg62.dll  
-> Bin/stitchEm/Studio/libeay32.dll  
-> Bin/stitchEm/Studio/libmp3lame.dll  
-> Bin/stitchEm/Studio/libpng16.dll  
-> Bin/stitchEm/Studio/librtmp.dll  
-> Bin/stitchEm/Studio/libvideostitch-base.dll  
-> Bin/stitchEm/Studio/libvideostitch-gpudiscovery.dll  
-> Bin/stitchEm/Studio/libvideostitch-gui.dll  
-> Bin/stitchEm/Studio/libvideostitch.dll  
-> Bin/stitchEm/Studio/libvideostitch_cuda.dll  
-> Bin/stitchEm/Studio/libx264-157.dll  
-> Bin/stitchEm/Studio/lzma.dll  
-> Bin/stitchEm/Studio/msvcp140.dll  
-> Bin/stitchEm/Studio/nvml.dll  
-> Bin/stitchEm/Studio/opencv_calib3d.dll  
-> Bin/stitchEm/Studio/opencv_core.dll  
-> Bin/stitchEm/Studio/opencv_features2d.dll  
-> Bin/stitchEm/Studio/opencv_flann.dll  
-> Bin/stitchEm/Studio/opencv_imgproc.dll  
-> Bin/stitchEm/Studio/opencv_video.dll  
-> Bin/stitchEm/Studio/openvr_api.dll  
-> Bin/stitchEm/Studio/platforms/qminimal.dll  
-> Bin/stitchEm/Studio/platforms/qoffscreen.dll  
-> Bin/stitchEm/Studio/platforms/qwindows.dll  
-> Bin/stitchEm/Studio/portaudio_x64.dll  
-> Bin/stitchEm/Studio/ptvb2ptv.exe  
-> Bin/stitchEm/Studio/ssleay32.dll  
-> Bin/stitchEm/Studio/swresample-3.dll  
-> Bin/stitchEm/Studio/tiff.dll  
-> Bin/stitchEm/Studio/turbojpeg.dll  
-> Bin/stitchEm/Studio/unins001.dat  
-> Bin/stitchEm/Studio/unins001.exe  
-> Bin/stitchEm/Studio/vcruntime140.dll  
-> Bin/stitchEm/Studio/videostitch-cmd.exe  
-> Bin/stitchEm/Studio/videostitch-studio.exe  
-> Bin/stitchEm/Studio/zlib1.dll  
-> Docs/VideoStitch Studio/BUILD.md  
-> Docs/VideoStitch Studio/CHANGELOG.md  
-> Docs/VideoStitch Studio/Images/Advanced settings.jpg  
-> Docs/VideoStitch Studio/Images/Audio Settings.jpg  
-> Docs/VideoStitch Studio/Images/Automatic Calibration.jpg  
-> Docs/VideoStitch Studio/Images/Batch Stitcher.jpg  
-> Docs/VideoStitch Studio/Images/Before the stitch.jpg  
-> Docs/VideoStitch Studio/Images/Bottom Information.jpg  
-> Docs/VideoStitch Studio/Images/Calibration Extract Stills.jpg  
-> Docs/VideoStitch Studio/Images/Calibration Tab.jpg  
-> Docs/VideoStitch Studio/Images/Calibration Window.jpg  
-> Docs/VideoStitch Studio/Images/Color Correction Examples.jpg  
-> Docs/VideoStitch Studio/Images/Color Correction advanced parameters.jpg  
-> Docs/VideoStitch Studio/Images/Color Correction window.jpg  
-> Docs/VideoStitch Studio/Images/Color Corretion base tab.jpg  
-> Docs/VideoStitch Studio/Images/Color correction.jpg  
-> Docs/VideoStitch Studio/Images/ColorCorrection Camera response.jpg  
-> Docs/VideoStitch Studio/Images/Drag Media.jpg  
-> Docs/VideoStitch Studio/Images/Frame selection.jpg  
-> Docs/VideoStitch Studio/Images/Import Calibration.jpg  
-> Docs/VideoStitch Studio/Images/Inputs crop.jpg  
-> Docs/VideoStitch Studio/Images/Inputs crop2.jpg  
-> Docs/VideoStitch Studio/Images/Interactive.jpg  
-> Docs/VideoStitch Studio/Images/Media in Source.jpg  
-> Docs/VideoStitch Studio/Images/Open Media.jpg  
-> Docs/VideoStitch Studio/Images/Orientation.jpg  
-> Docs/VideoStitch Studio/Images/Orientation2.jpg  
-> Docs/VideoStitch Studio/Images/Output Configuration Window.jpg  
-> Docs/VideoStitch Studio/Images/Output Configuration.jpg  
-> Docs/VideoStitch Studio/Images/Output.jpg  
-> Docs/VideoStitch Studio/Images/Panels.jpg  
-> Docs/VideoStitch Studio/Images/Process Panel.jpg  
-> Docs/VideoStitch Studio/Images/Send to batch.jpg  
-> Docs/VideoStitch Studio/Images/Shortcuts.jpg  
-> Docs/VideoStitch Studio/Images/Stabilization Orientation Window.jpg  
-> Docs/VideoStitch Studio/Images/Stabilization Orientation.jpg  
-> Docs/VideoStitch Studio/Images/Stitched.jpg  
-> Docs/VideoStitch Studio/Images/Synchronizaition Auto.jpg  
-> Docs/VideoStitch Studio/Images/Synchronizaition Manual.jpg  
-> Docs/VideoStitch Studio/Images/Synchronization Bar.jpg  
-> Docs/VideoStitch Studio/Images/Timeline Limiter.jpg  
-> Docs/VideoStitch Studio/Images/Timeline.jpg  
-> Docs/VideoStitch Studio/Images/Zoom timeline.jpg  
-> Docs/VideoStitch Studio/Images/ghosting.jpg  
-> Docs/VideoStitch Studio/Images/keyframes exposure.jpg  
-> Docs/VideoStitch Studio/LICENSE-3RD-PARTY-LIBRARIES.md  
-> Docs/VideoStitch Studio/LICENSE-3RD-PARTY-SOURCES.md  
-> Docs/VideoStitch Studio/LICENSE.md  
-> Docs/VideoStitch Studio/README.md  
-> Docs/VideoStitch Studio/User Guide.md  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/1-calibrationimport.bat?ref_type=heads">Bin/stitchEm/Studio/1-calibrationimport.bat</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/2-process-ptv.bat?ref_type=heads">Bin/stitchEm/Studio/2-process-ptv.bat</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/3-batch-process-ptv.bat?ref_type=heads">Bin/stitchEm/Studio/3-batch-process-ptv.bat</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5Core.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5Core.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5Gui.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5Gui.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5Multimedia.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5Multimedia.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5Network.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5Network.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5OpenGL.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5OpenGL.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/Qt5Widgets.dll?ref_type=heads">Bin/stitchEm/Studio/Qt5Widgets.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/audio/qtaudio_windows.dll?ref_type=heads">Bin/stitchEm/Studio/audio/qtaudio_windows.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/avcodec-58.dll?ref_type=heads">Bin/stitchEm/Studio/avcodec-58.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/avformat-58.dll?ref_type=heads">Bin/stitchEm/Studio/avformat-58.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/avresample-4.dll?ref_type=heads">Bin/stitchEm/Studio/avresample-4.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/avutil-56.dll?ref_type=heads">Bin/stitchEm/Studio/avutil-56.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/batchstitcher.exe?ref_type=heads">Bin/stitchEm/Studio/batchstitcher.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/calibrationimport.exe?ref_type=heads">Bin/stitchEm/Studio/calibrationimport.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/ceres.dll?ref_type=heads">Bin/stitchEm/Studio/ceres.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/core_plugins/jpg.dll?ref_type=heads">Bin/stitchEm/Studio/core_plugins/jpg.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/core_plugins/png.dll?ref_type=heads">Bin/stitchEm/Studio/core_plugins/png.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/core_plugins/tiffPlugin.dll?ref_type=heads">Bin/stitchEm/Studio/core_plugins/tiffPlugin.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/core_plugins_cuda/av_cuda.dll?ref_type=heads">Bin/stitchEm/Studio/core_plugins_cuda/av_cuda.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/cudart64_100.dll?ref_type=heads">Bin/stitchEm/Studio/cudart64_100.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/dropletusage.txt?ref_type=heads">Bin/stitchEm/Studio/dropletusage.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/gflags.dll?ref_type=heads">Bin/stitchEm/Studio/gflags.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/glfw3.dll?ref_type=heads">Bin/stitchEm/Studio/glfw3.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/glog.dll?ref_type=heads">Bin/stitchEm/Studio/glog.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qgif.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qgif.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qico.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qico.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qjpeg.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qjpeg.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qsvg.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qsvg.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qtga.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qtga.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qtiff.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qtiff.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/imageformats/qwbmp.dll?ref_type=heads">Bin/stitchEm/Studio/imageformats/qwbmp.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/jpeg62.dll?ref_type=heads">Bin/stitchEm/Studio/jpeg62.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libeay32.dll?ref_type=heads">Bin/stitchEm/Studio/libeay32.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libmp3lame.dll?ref_type=heads">Bin/stitchEm/Studio/libmp3lame.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libpng16.dll?ref_type=heads">Bin/stitchEm/Studio/libpng16.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/librtmp.dll?ref_type=heads">Bin/stitchEm/Studio/librtmp.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libvideostitch-base.dll?ref_type=heads">Bin/stitchEm/Studio/libvideostitch-base.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libvideostitch-gpudiscovery.dll?ref_type=heads">Bin/stitchEm/Studio/libvideostitch-gpudiscovery.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libvideostitch-gui.dll?ref_type=heads">Bin/stitchEm/Studio/libvideostitch-gui.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libvideostitch.dll?ref_type=heads">Bin/stitchEm/Studio/libvideostitch.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libvideostitch_cuda.dll?ref_type=heads">Bin/stitchEm/Studio/libvideostitch_cuda.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/libx264-157.dll?ref_type=heads">Bin/stitchEm/Studio/libx264-157.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/lzma.dll?ref_type=heads">Bin/stitchEm/Studio/lzma.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/msvcp140.dll?ref_type=heads">Bin/stitchEm/Studio/msvcp140.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/nvml.dll?ref_type=heads">Bin/stitchEm/Studio/nvml.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_calib3d.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_calib3d.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_core.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_core.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_features2d.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_features2d.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_flann.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_flann.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_imgproc.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_imgproc.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/opencv_video.dll?ref_type=heads">Bin/stitchEm/Studio/opencv_video.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/openvr_api.dll?ref_type=heads">Bin/stitchEm/Studio/openvr_api.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/platforms/qminimal.dll?ref_type=heads">Bin/stitchEm/Studio/platforms/qminimal.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/platforms/qoffscreen.dll?ref_type=heads">Bin/stitchEm/Studio/platforms/qoffscreen.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/platforms/qwindows.dll?ref_type=heads">Bin/stitchEm/Studio/platforms/qwindows.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/portaudio_x64.dll?ref_type=heads">Bin/stitchEm/Studio/portaudio_x64.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/ptvb2ptv.exe?ref_type=heads">Bin/stitchEm/Studio/ptvb2ptv.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/ssleay32.dll?ref_type=heads">Bin/stitchEm/Studio/ssleay32.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/swresample-3.dll?ref_type=heads">Bin/stitchEm/Studio/swresample-3.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/tiff.dll?ref_type=heads">Bin/stitchEm/Studio/tiff.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/turbojpeg.dll?ref_type=heads">Bin/stitchEm/Studio/turbojpeg.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/unins001.dat?ref_type=heads">Bin/stitchEm/Studio/unins001.dat</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/unins001.exe?ref_type=heads">Bin/stitchEm/Studio/unins001.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/vcruntime140.dll?ref_type=heads">Bin/stitchEm/Studio/vcruntime140.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/videostitch-cmd.exe?ref_type=heads">Bin/stitchEm/Studio/videostitch-cmd.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/videostitch-studio.exe?ref_type=heads">Bin/stitchEm/Studio/videostitch-studio.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Bin/stitchEm/Studio/zlib1.dll?ref_type=heads">Bin/stitchEm/Studio/zlib1.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/BUILD.md?ref_type=heads">Docs/VideoStitch Studio/BUILD.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/CHANGELOG.md?ref_type=heads">Docs/VideoStitch Studio/CHANGELOG.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Advanced settings.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Advanced settings.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Audio Settings.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Audio Settings.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Automatic Calibration.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Automatic Calibration.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Batch Stitcher.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Batch Stitcher.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Before the stitch.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Before the stitch.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Bottom Information.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Bottom Information.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Calibration Extract Stills.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Calibration Extract Stills.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Calibration Tab.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Calibration Tab.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Calibration Window.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Calibration Window.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Color Correction Examples.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Color Correction Examples.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Color Correction advanced parameters.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Color Correction advanced parameters.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Color Correction window.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Color Correction window.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Color Corretion base tab.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Color Corretion base tab.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Color correction.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Color correction.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/ColorCorrection Camera response.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/ColorCorrection Camera response.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Drag Media.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Drag Media.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Frame selection.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Frame selection.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Import Calibration.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Import Calibration.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Inputs crop.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Inputs crop.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Inputs crop2.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Inputs crop2.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Interactive.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Interactive.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Media in Source.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Media in Source.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Open Media.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Open Media.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Orientation.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Orientation.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Orientation2.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Orientation2.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Output Configuration Window.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Output Configuration Window.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Output Configuration.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Output Configuration.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Output.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Output.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Panels.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Panels.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Process Panel.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Process Panel.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Send to batch.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Send to batch.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Shortcuts.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Shortcuts.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Stabilization Orientation Window.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Stabilization Orientation Window.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Stabilization Orientation.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Stabilization Orientation.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Stitched.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Stitched.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Synchronizaition Auto.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Synchronizaition Auto.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Synchronizaition Manual.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Synchronizaition Manual.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Synchronization Bar.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Synchronization Bar.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Timeline Limiter.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Timeline Limiter.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Timeline.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Timeline.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/Zoom timeline.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/Zoom timeline.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/ghosting.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/ghosting.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/Images/keyframes exposure.jpg?ref_type=heads">Docs/VideoStitch Studio/Images/keyframes exposure.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/LICENSE-3RD-PARTY-LIBRARIES.md?ref_type=heads">Docs/VideoStitch Studio/LICENSE-3RD-PARTY-LIBRARIES.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/LICENSE-3RD-PARTY-SOURCES.md?ref_type=heads">Docs/VideoStitch Studio/LICENSE-3RD-PARTY-SOURCES.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/LICENSE.md?ref_type=heads">Docs/VideoStitch Studio/LICENSE.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/README.md?ref_type=heads">Docs/VideoStitch Studio/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.stitchEm.VideoStitchStudio/Windows/Docs/VideoStitch Studio/User Guide.md?ref_type=heads">Docs/VideoStitch Studio/User Guide.md</a></li>

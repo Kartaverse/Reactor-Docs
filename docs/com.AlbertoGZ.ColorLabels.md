@@ -35,4 +35,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/AlbertoGZ/ColorLabels/ColorLabels.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlbertoGZ.ColorLabels/Scripts/Comp/AlbertoGZ/ColorLabels/ColorLabels.py?ref_type=heads">Scripts/Comp/AlbertoGZ/ColorLabels/ColorLabels.py</a></li>
+</ul>

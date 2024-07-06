@@ -35,6 +35,8 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Kartaverse/Vonk Ultra/Color/vColorJuggler.fuse  
-> Fuses/Kartaverse/Vonk Ultra/Color/vColorPermutations.fuse  
-> Fuses/Kartaverse/Vonk Ultra/Color/vColorSet.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionColor/Fuses/Kartaverse/Vonk Ultra/Color/vColorJuggler.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Color/vColorJuggler.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionColor/Fuses/Kartaverse/Vonk Ultra/Color/vColorPermutations.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Color/vColorPermutations.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionColor/Fuses/Kartaverse/Vonk Ultra/Color/vColorSet.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Color/vColorSet.fuse</a></li>
+</ul>

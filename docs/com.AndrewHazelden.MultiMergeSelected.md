@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/MultiMerge Selected.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.MultiMergeSelected/Scripts/Comp/MultiMerge Selected.lua?ref_type=heads">Scripts/Comp/MultiMerge Selected.lua</a></li>
+</ul>

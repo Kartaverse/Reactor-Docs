@@ -26,5 +26,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/SirEdric/se_LEDWall.comp  
-> Comps/SirEdric/se_LEDWall_np.comp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_LEDWall/Comps/SirEdric/se_LEDWall.comp?ref_type=heads">Comps/SirEdric/se_LEDWall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_LEDWall/Comps/SirEdric/se_LEDWall_np.comp?ref_type=heads">Comps/SirEdric/se_LEDWall_np.comp</a></li>
+</ul>

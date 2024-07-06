@@ -42,11 +42,13 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/Reframe360/Reframe360 Projection Comparison.comp  
-> Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Barrens.comp  
-> Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Forest.comp  
-> Fuses/Kartaverse/KartaVR/Warp/kvrReframe360Ultra.fuse  
-> Macros/KartaVR/Images/latlong_barrens_sunset.jpg  
-> Macros/KartaVR/Images/latlong_nightsky_in_forest.jpg  
-> Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.setting  
-> Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Comps/Kartaverse/Reframe360/Reframe360 Projection Comparison.comp?ref_type=heads">Comps/Kartaverse/Reframe360/Reframe360 Projection Comparison.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Barrens.comp?ref_type=heads">Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Barrens.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Forest.comp?ref_type=heads">Comps/Kartaverse/Reframe360/Reframe360 Tiny Planet Forest.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Fuses/Kartaverse/KartaVR/Warp/kvrReframe360Ultra.fuse?ref_type=heads">Fuses/Kartaverse/KartaVR/Warp/kvrReframe360Ultra.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Macros/KartaVR/Images/latlong_barrens_sunset.jpg?ref_type=heads">Macros/KartaVR/Images/latlong_barrens_sunset.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Macros/KartaVR/Images/latlong_nightsky_in_forest.jpg?ref_type=heads">Macros/KartaVR/Images/latlong_nightsky_in_forest.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.setting?ref_type=heads">Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.setting?ref_type=heads">Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.setting</a></li>
+</ul>

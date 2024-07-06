@@ -25,5 +25,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Andrew Hazelden/Restart Fusion.fu  
-> Scripts/Comp/Andrew Hazelden/Restart Fusion.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RestartFusion/Config/Andrew Hazelden/Restart Fusion.fu?ref_type=heads">Config/Andrew Hazelden/Restart Fusion.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RestartFusion/Scripts/Comp/Andrew Hazelden/Restart Fusion.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Restart Fusion.lua</a></li>
+</ul>

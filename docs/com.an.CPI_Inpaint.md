@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Matte/CPl_Inpaint.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.an.CPI_Inpaint/Macros/Matte/CPl_Inpaint.setting?ref_type=heads">Macros/Matte/CPl_Inpaint.setting</a></li>
+</ul>

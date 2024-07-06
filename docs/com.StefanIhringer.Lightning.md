@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/Lightning.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.Lightning/Fuses/Effect/Lightning.fuse?ref_type=heads">Fuses/Effect/Lightning.fuse</a></li>
+</ul>

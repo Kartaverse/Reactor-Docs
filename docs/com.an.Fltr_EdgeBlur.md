@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/an/Fltr_EdgeBlur.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.an.Fltr_EdgeBlur/Macros/an/Fltr_EdgeBlur.setting?ref_type=heads">Macros/an/Fltr_EdgeBlur.setting</a></li>
+</ul>

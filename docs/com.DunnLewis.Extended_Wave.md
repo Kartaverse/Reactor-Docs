@@ -28,4 +28,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/Extended_Wave.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DunnLewis.Extended_Wave/Fuses/Modifiers/Extended_Wave.fuse?ref_type=heads">Fuses/Modifiers/Extended_Wave.fuse</a></li>
+</ul>

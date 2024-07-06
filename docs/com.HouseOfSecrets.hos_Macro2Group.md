@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Tool/Flow/hos_Macro2Group.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HouseOfSecrets.hos_Macro2Group/Scripts/Tool/Flow/hos_Macro2Group.lua?ref_type=heads">Scripts/Tool/Flow/hos_Macro2Group.lua</a></li>
+</ul>

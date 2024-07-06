@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Color/Brightness.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Brightness/Fuses/Color/Brightness.fuse?ref_type=heads">Fuses/Color/Brightness.fuse</a></li>
+</ul>

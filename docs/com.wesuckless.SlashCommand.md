@@ -32,4 +32,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Console/SlashCommand.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SlashCommand/Fuses/Console/SlashCommand.fuse?ref_type=heads">Fuses/Console/SlashCommand.fuse</a></li>
+</ul>

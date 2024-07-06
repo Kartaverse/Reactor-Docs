@@ -28,4 +28,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/GradientMatch.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.GradientMatch/Macros/Creator/GradientMatch.setting?ref_type=heads">Macros/Creator/GradientMatch.setting</a></li>
+</ul>

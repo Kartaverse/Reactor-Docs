@@ -48,4 +48,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/JSONReader.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.bfloch.JSONReader/Fuses/Modifiers/JSONReader.fuse?ref_type=heads">Fuses/Modifiers/JSONReader.fuse</a></li>
+</ul>

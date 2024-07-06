@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Matte/IDmask.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JurajKral.IDmask/Macros/Matte/IDmask.setting?ref_type=heads">Macros/Matte/IDmask.setting</a></li>
+</ul>

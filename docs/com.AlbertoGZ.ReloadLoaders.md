@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/AlbertoGZ/ReloadLoaders/ReloadLoaders.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlbertoGZ.ReloadLoaders/Scripts/Comp/AlbertoGZ/ReloadLoaders/ReloadLoaders.py?ref_type=heads">Scripts/Comp/AlbertoGZ/ReloadLoaders/ReloadLoaders.py</a></li>
+</ul>

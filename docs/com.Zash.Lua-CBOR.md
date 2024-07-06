@@ -34,6 +34,8 @@ ___
 
 ### Common (No Architecture)
 
-> Docs/Lua-CBOR/LICENSE  
-> Docs/Lua-CBOR/README.md  
-> Modules/Lua/cbor.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Zash.Lua-CBOR/Docs/Lua-CBOR/LICENSE?ref_type=heads">Docs/Lua-CBOR/LICENSE</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Zash.Lua-CBOR/Docs/Lua-CBOR/README.md?ref_type=heads">Docs/Lua-CBOR/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Zash.Lua-CBOR/Modules/Lua/cbor.lua?ref_type=heads">Modules/Lua/cbor.lua</a></li>
+</ul>

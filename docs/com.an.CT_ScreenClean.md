@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/an/CT_ScreenClean.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.an.CT_ScreenClean/Macros/an/CT_ScreenClean.setting?ref_type=heads">Macros/an/CT_ScreenClean.setting</a></li>
+</ul>

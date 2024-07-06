@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Filter/ExtendEdges.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.ExtendEdges/Macros/Filter/ExtendEdges.setting?ref_type=heads">Macros/Filter/ExtendEdges.setting</a></li>
+</ul>

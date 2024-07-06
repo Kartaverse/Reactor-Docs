@@ -29,12 +29,14 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVP/Light Editor.py  
-> Scripts/Comp/KartaVP/Light_Editor/ambient_light.png  
-> Scripts/Comp/KartaVP/Light_Editor/directional_light.png  
-> Scripts/Comp/KartaVP/Light_Editor/passthrough_cold.png  
-> Scripts/Comp/KartaVP/Light_Editor/passthrough_hot.png  
-> Scripts/Comp/KartaVP/Light_Editor/point_light.png  
-> Scripts/Comp/KartaVP/Light_Editor/projector.png  
-> Scripts/Comp/KartaVP/Light_Editor/refresh.png  
-> Scripts/Comp/KartaVP/Light_Editor/spotlight.png  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light Editor.py?ref_type=heads">Scripts/Comp/KartaVP/Light Editor.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/ambient_light.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/ambient_light.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/directional_light.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/directional_light.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/passthrough_cold.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/passthrough_cold.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/passthrough_hot.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/passthrough_hot.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/point_light.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/point_light.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/projector.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/projector.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/refresh.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/refresh.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor/Scripts/Comp/KartaVP/Light_Editor/spotlight.png?ref_type=heads">Scripts/Comp/KartaVP/Light_Editor/spotlight.png</a></li>
+</ul>

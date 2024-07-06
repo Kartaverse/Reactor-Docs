@@ -34,13 +34,15 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Submit to RenderPal.fu  
-> Docs/RenderPal Submitter/Install.txt  
-> Docs/RenderPal Submitter/README.html  
-> Docs/RenderPal Submitter/README.md  
-> Docs/RenderPal Submitter/RenderPal Renderer Management/Fusion.rren  
-> Docs/RenderPal Submitter/images/fusion_9_console_output.png  
-> Docs/RenderPal Submitter/images/fusion_9_submit_to_renderpal_menu.png  
-> Docs/RenderPal Submitter/images/renderpal-new-paused-job.png  
-> Docs/RenderPal Submitter/images/renderpal-renderer-management.png  
-> Docs/RenderPal Submitter/images/renderpal-renderer-preset.png  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Config/Submit to RenderPal.fu?ref_type=heads">Config/Submit to RenderPal.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/Install.txt?ref_type=heads">Docs/RenderPal Submitter/Install.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/README.html?ref_type=heads">Docs/RenderPal Submitter/README.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/README.md?ref_type=heads">Docs/RenderPal Submitter/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/RenderPal Renderer Management/Fusion.rren?ref_type=heads">Docs/RenderPal Submitter/RenderPal Renderer Management/Fusion.rren</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/images/fusion_9_console_output.png?ref_type=heads">Docs/RenderPal Submitter/images/fusion_9_console_output.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/images/fusion_9_submit_to_renderpal_menu.png?ref_type=heads">Docs/RenderPal Submitter/images/fusion_9_submit_to_renderpal_menu.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/images/renderpal-new-paused-job.png?ref_type=heads">Docs/RenderPal Submitter/images/renderpal-new-paused-job.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/images/renderpal-renderer-management.png?ref_type=heads">Docs/RenderPal Submitter/images/renderpal-renderer-management.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.RenderPalSubmitter/Docs/RenderPal Submitter/images/renderpal-renderer-preset.png?ref_type=heads">Docs/RenderPal Submitter/images/renderpal-renderer-preset.png</a></li>
+</ul>

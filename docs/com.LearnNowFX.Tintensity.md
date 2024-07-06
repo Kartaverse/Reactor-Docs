@@ -46,4 +46,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Color/Tintensity.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.LearnNowFX.Tintensity/Fuses/Color/Tintensity.fuse?ref_type=heads">Fuses/Color/Tintensity.fuse</a></li>
+</ul>

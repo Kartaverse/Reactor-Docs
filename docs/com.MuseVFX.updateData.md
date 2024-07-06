@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/MuseVFX/updateData.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.updateData/Scripts/Comp/MuseVFX/updateData.lua?ref_type=heads">Scripts/Comp/MuseVFX/updateData.lua</a></li>
+</ul>

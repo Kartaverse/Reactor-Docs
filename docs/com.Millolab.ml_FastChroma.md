@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/ml_FastChroma.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.ml_FastChroma/Macros/Effect/ml_FastChroma.setting?ref_type=heads">Macros/Effect/ml_FastChroma.setting</a></li>
+</ul>

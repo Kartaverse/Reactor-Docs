@@ -33,8 +33,10 @@ ___
 
 ### Common (No Architecture)
 
-> Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Point_Filter.png  
-> Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Value_Filter.png  
-> Docs/com.wesuckless.SavitzkyGolay/com.wesuckless.SavitzkyGolay.md  
-> Fuses/Modifiers/Savitzky Golay Smoothing Point Filter.fuse  
-> Fuses/Modifiers/Savitzky Golay Smoothing Value Filter.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SavitzkyGolay/Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Point_Filter.png?ref_type=heads">Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Point_Filter.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SavitzkyGolay/Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Value_Filter.png?ref_type=heads">Docs/com.wesuckless.SavitzkyGolay/Images/Savitzky_Golay_Smoothing_Value_Filter.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SavitzkyGolay/Docs/com.wesuckless.SavitzkyGolay/com.wesuckless.SavitzkyGolay.md?ref_type=heads">Docs/com.wesuckless.SavitzkyGolay/com.wesuckless.SavitzkyGolay.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SavitzkyGolay/Fuses/Modifiers/Savitzky Golay Smoothing Point Filter.fuse?ref_type=heads">Fuses/Modifiers/Savitzky Golay Smoothing Point Filter.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SavitzkyGolay/Fuses/Modifiers/Savitzky Golay Smoothing Value Filter.fuse?ref_type=heads">Fuses/Modifiers/Savitzky Golay Smoothing Value Filter.fuse</a></li>
+</ul>

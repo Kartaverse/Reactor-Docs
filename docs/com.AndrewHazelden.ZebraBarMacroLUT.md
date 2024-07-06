@@ -30,5 +30,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Viewshaders/Zebra Bars.comp  
-> LUTs/ZebraBarLUT.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ZebraBarMacroLUT/Comps/Viewshaders/Zebra Bars.comp?ref_type=heads">Comps/Viewshaders/Zebra Bars.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ZebraBarMacroLUT/LUTs/ZebraBarLUT.setting?ref_type=heads">LUTs/ZebraBarLUT.setting</a></li>
+</ul>

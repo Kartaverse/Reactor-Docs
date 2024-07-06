@@ -35,4 +35,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Kartaverse/KartaVP/Color/kvrGrade.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrGrade/Fuses/Kartaverse/KartaVP/Color/kvrGrade.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Color/kvrGrade.fuse</a></li>
+</ul>

@@ -68,4 +68,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Miscellaneous/Jellyshell.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JiPi.Jellyshell/Fuses/Miscellaneous/Jellyshell.fuse?ref_type=heads">Fuses/Miscellaneous/Jellyshell.fuse</a></li>
+</ul>

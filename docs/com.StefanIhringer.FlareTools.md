@@ -39,6 +39,8 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/FlareCircle.fuse  
-> Fuses/Effect/FlareMulti.fuse  
-> Fuses/Effect/FlareStar.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.FlareTools/Fuses/Effect/FlareCircle.fuse?ref_type=heads">Fuses/Effect/FlareCircle.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.FlareTools/Fuses/Effect/FlareMulti.fuse?ref_type=heads">Fuses/Effect/FlareMulti.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.FlareTools/Fuses/Effect/FlareStar.fuse?ref_type=heads">Fuses/Effect/FlareStar.fuse</a></li>
+</ul>

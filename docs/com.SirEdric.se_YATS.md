@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/SE_YATS.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_YATS/Macros/SE_YATS.setting?ref_type=heads">Macros/SE_YATS.setting</a></li>
+</ul>

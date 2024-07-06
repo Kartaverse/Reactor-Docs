@@ -32,4 +32,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Tool/AutoProbe.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.AutoProbe/Scripts/Tool/AutoProbe.lua?ref_type=heads">Scripts/Tool/AutoProbe.lua</a></li>
+</ul>

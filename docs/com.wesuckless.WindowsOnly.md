@@ -23,8 +23,10 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/WindowsOnly_Shared.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.WindowsOnly/Scripts/Comp/WindowsOnly_Shared.lua?ref_type=heads">Scripts/Comp/WindowsOnly_Shared.lua</a></li>
+</ul>
 
 ### Windows
 
-> Scripts/Comp/WindowsOnly.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.WindowsOnly/Windows/Scripts/Comp/WindowsOnly.lua?ref_type=heads">Scripts/Comp/WindowsOnly.lua</a></li>

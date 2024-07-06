@@ -26,18 +26,20 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Python Snippets/ActiveCompAttrs.py  
-> Scripts/Comp/Python Snippets/ActiveCompDictScan.py  
-> Scripts/Comp/Python Snippets/CloseAllComps.py  
-> Scripts/Comp/Python Snippets/CloseComp.py  
-> Scripts/Comp/Python Snippets/CompAttrs.py  
-> Scripts/Comp/Python Snippets/FusionAttrs.py  
-> Scripts/Comp/Python Snippets/GetFrameRange.py  
-> Scripts/Comp/Python Snippets/HiQDisable.py  
-> Scripts/Comp/Python Snippets/HiQEnable.py  
-> Scripts/Comp/Python Snippets/LoadMacro.py  
-> Scripts/Comp/Python Snippets/LoadMacroInline.py  
-> Scripts/Comp/Python Snippets/OpenComp.py  
-> Scripts/Comp/Python Snippets/OpenCompsDict.py  
-> Scripts/Comp/Python Snippets/SaveComp.py  
-> Scripts/Comp/Python Snippets/SetFrameRange.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/ActiveCompAttrs.py?ref_type=heads">Scripts/Comp/Python Snippets/ActiveCompAttrs.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/ActiveCompDictScan.py?ref_type=heads">Scripts/Comp/Python Snippets/ActiveCompDictScan.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/CloseAllComps.py?ref_type=heads">Scripts/Comp/Python Snippets/CloseAllComps.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/CloseComp.py?ref_type=heads">Scripts/Comp/Python Snippets/CloseComp.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/CompAttrs.py?ref_type=heads">Scripts/Comp/Python Snippets/CompAttrs.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/FusionAttrs.py?ref_type=heads">Scripts/Comp/Python Snippets/FusionAttrs.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/GetFrameRange.py?ref_type=heads">Scripts/Comp/Python Snippets/GetFrameRange.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/HiQDisable.py?ref_type=heads">Scripts/Comp/Python Snippets/HiQDisable.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/HiQEnable.py?ref_type=heads">Scripts/Comp/Python Snippets/HiQEnable.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/LoadMacro.py?ref_type=heads">Scripts/Comp/Python Snippets/LoadMacro.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/LoadMacroInline.py?ref_type=heads">Scripts/Comp/Python Snippets/LoadMacroInline.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/OpenComp.py?ref_type=heads">Scripts/Comp/Python Snippets/OpenComp.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/OpenCompsDict.py?ref_type=heads">Scripts/Comp/Python Snippets/OpenCompsDict.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/SaveComp.py?ref_type=heads">Scripts/Comp/Python Snippets/SaveComp.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.PythonScriptSnippetsForFusionTDs/Scripts/Comp/Python Snippets/SetFrameRange.py?ref_type=heads">Scripts/Comp/Python Snippets/SetFrameRange.py</a></li>
+</ul>

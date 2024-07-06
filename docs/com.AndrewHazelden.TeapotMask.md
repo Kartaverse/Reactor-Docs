@@ -35,5 +35,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Teapot.comp  
-> Macros/Mask/Teapot.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.TeapotMask/Comps/Teapot.comp?ref_type=heads">Comps/Teapot.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.TeapotMask/Macros/Mask/Teapot.setting?ref_type=heads">Macros/Mask/Teapot.setting</a></li>
+</ul>

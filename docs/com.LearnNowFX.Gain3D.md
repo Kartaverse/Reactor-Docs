@@ -41,11 +41,13 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### macOS
 
-> Plugins/Gain 3D Mac.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.LearnNowFX.Gain3D/Mac/Plugins/Gain 3D Mac.plugin?ref_type=heads">Plugins/Gain 3D Mac.plugin</a></li>
 
 ### Windows
 
-> Plugins/Gain 3D Win.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.LearnNowFX.Gain3D/Windows/Plugins/Gain 3D Win.plugin?ref_type=heads">Plugins/Gain 3D Win.plugin</a></li>

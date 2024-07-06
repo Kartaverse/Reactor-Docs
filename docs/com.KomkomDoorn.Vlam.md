@@ -46,15 +46,17 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Linux
 
-> Plugins/Vlam.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Vlam/Linux/Plugins/Vlam.plugin?ref_type=heads">Plugins/Vlam.plugin</a></li>
 
 ### macOS
 
-> Plugins/Vlam.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Vlam/Mac/Plugins/Vlam.plugin?ref_type=heads">Plugins/Vlam.plugin</a></li>
 
 ### Windows
 
-> Plugins/Vlam.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Vlam/Windows/Plugins/Vlam.plugin?ref_type=heads">Plugins/Vlam.plugin</a></li>

@@ -40,6 +40,8 @@ ___
 
 ### Common (No Architecture)
 
-> Config/WeSuckLess.fu  
-> Scripts/Comp/We Suck Less/Copy Nodes To Codebox Snippet.lua  
-> Scripts/Comp/We Suck Less/Search WSL.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.ForumUtilities/Config/WeSuckLess.fu?ref_type=heads">Config/WeSuckLess.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.ForumUtilities/Scripts/Comp/We Suck Less/Copy Nodes To Codebox Snippet.lua?ref_type=heads">Scripts/Comp/We Suck Less/Copy Nodes To Codebox Snippet.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.ForumUtilities/Scripts/Comp/We Suck Less/Search WSL.lua?ref_type=heads">Scripts/Comp/We Suck Less/Search WSL.lua</a></li>
+</ul>

@@ -23,6 +23,8 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.bmp  
-> Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.setting  
-> Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.bmp?ref_type=heads">Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.setting?ref_type=heads">Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.setting?ref_type=heads">Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.setting</a></li>
+</ul>

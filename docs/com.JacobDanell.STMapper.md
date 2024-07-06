@@ -103,4 +103,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Warp/STMapper.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.STMapper/Fuses/Warp/STMapper.fuse?ref_type=heads">Fuses/Warp/STMapper.fuse</a></li>
+</ul>

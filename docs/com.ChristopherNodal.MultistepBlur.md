@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Blur/MultistepBlur.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ChristopherNodal.MultistepBlur/Fuses/Blur/MultistepBlur.fuse?ref_type=heads">Fuses/Blur/MultistepBlur.fuse</a></li>
+</ul>

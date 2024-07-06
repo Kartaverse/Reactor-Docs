@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Color/Clampus.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Clampus/Macros/Color/Clampus.setting?ref_type=heads">Macros/Color/Clampus.setting</a></li>
+</ul>

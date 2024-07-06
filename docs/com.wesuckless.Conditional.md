@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/Conditional.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Conditional/Fuses/Modifiers/Conditional.fuse?ref_type=heads">Fuses/Modifiers/Conditional.fuse</a></li>
+</ul>

@@ -33,8 +33,10 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Pirates of Confusion/BlitzFX/POC_Blitz_demo_v004.comp  
-> Comps/Pirates of Confusion/BlitzFX/images/Blitz.jpg  
-> Comps/Pirates of Confusion/BlitzFX/images/lensflare.exr  
-> Comps/Pirates of Confusion/BlitzFX/movies/Harbour.mov  
-> Comps/Pirates of Confusion/BlitzFX/movies/demo.mov  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXDemo/Comps/Pirates of Confusion/BlitzFX/POC_Blitz_demo_v004.comp?ref_type=heads">Comps/Pirates of Confusion/BlitzFX/POC_Blitz_demo_v004.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXDemo/Comps/Pirates of Confusion/BlitzFX/images/Blitz.jpg?ref_type=heads">Comps/Pirates of Confusion/BlitzFX/images/Blitz.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXDemo/Comps/Pirates of Confusion/BlitzFX/images/lensflare.exr?ref_type=heads">Comps/Pirates of Confusion/BlitzFX/images/lensflare.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXDemo/Comps/Pirates of Confusion/BlitzFX/movies/Harbour.mov?ref_type=heads">Comps/Pirates of Confusion/BlitzFX/movies/Harbour.mov</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXDemo/Comps/Pirates of Confusion/BlitzFX/movies/demo.mov?ref_type=heads">Comps/Pirates of Confusion/BlitzFX/movies/demo.mov</a></li>
+</ul>

@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Flow/Wireless3D.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Wireless3D/Fuses/Flow/Wireless3D.fuse?ref_type=heads">Fuses/Flow/Wireless3D.fuse</a></li>
+</ul>

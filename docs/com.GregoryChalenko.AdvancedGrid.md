@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/AdvancedGrid.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.AdvancedGrid/Macros/Creator/AdvancedGrid.setting?ref_type=heads">Macros/Creator/AdvancedGrid.setting</a></li>
+</ul>

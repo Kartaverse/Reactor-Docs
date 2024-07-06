@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Composite/VolumeHaze.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.VolumeHaze/Macros/Composite/VolumeHaze.setting?ref_type=heads">Macros/Composite/VolumeHaze.setting</a></li>
+</ul>

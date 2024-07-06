@@ -36,4 +36,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Roger Magnusson/Class Browser.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.RogerMagnusson.ClassBrowser/Scripts/Comp/Roger Magnusson/Class Browser.lua?ref_type=heads">Scripts/Comp/Roger Magnusson/Class Browser.lua</a></li>
+</ul>

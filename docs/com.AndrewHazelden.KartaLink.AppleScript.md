@@ -35,9 +35,11 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### macOS
 
-> Docs/Kartaverse/KartaLink/AppleScript.md  
-> Fuses/Kartaverse/KartaLink/kvrAppleScriptImage.fuse  
-> Fuses/Kartaverse/KartaLink/kvrAppleScriptText.fuse  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.AppleScript/Mac/Docs/Kartaverse/KartaLink/AppleScript.md?ref_type=heads">Docs/Kartaverse/KartaLink/AppleScript.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.AppleScript/Mac/Fuses/Kartaverse/KartaLink/kvrAppleScriptImage.fuse?ref_type=heads">Fuses/Kartaverse/KartaLink/kvrAppleScriptImage.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.AppleScript/Mac/Fuses/Kartaverse/KartaLink/kvrAppleScriptText.fuse?ref_type=heads">Fuses/Kartaverse/KartaLink/kvrAppleScriptText.fuse</a></li>

@@ -50,15 +50,17 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Linux
 
-> Plugins/Krokodove.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Krokodove/Linux/Plugins/Krokodove.plugin?ref_type=heads">Plugins/Krokodove.plugin</a></li>
 
 ### macOS
 
-> Plugins/Krokodove.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Krokodove/Mac/Plugins/Krokodove.plugin?ref_type=heads">Plugins/Krokodove.plugin</a></li>
 
 ### Windows
 
-> Plugins/Krokodove.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.Krokodove/Windows/Plugins/Krokodove.plugin?ref_type=heads">Plugins/Krokodove.plugin</a></li>

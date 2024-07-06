@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Matte/SoloColor.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.SoloColor/Macros/Matte/SoloColor.setting?ref_type=heads">Macros/Matte/SoloColor.setting</a></li>
+</ul>

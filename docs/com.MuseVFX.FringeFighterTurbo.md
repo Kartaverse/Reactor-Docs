@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Composite/MT_FringeFighterTurbo.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.FringeFighterTurbo/Macros/Composite/MT_FringeFighterTurbo.setting?ref_type=heads">Macros/Composite/MT_FringeFighterTurbo.setting</a></li>
+</ul>

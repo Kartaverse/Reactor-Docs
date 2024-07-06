@@ -27,5 +27,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Support/Loader_MakeLocal.lua  
-> Defaults/Loader_Loader.temp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Loaders_MakeLocal/Scripts/Support/Loader_MakeLocal.lua?ref_type=heads">Scripts/Support/Loader_MakeLocal.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Loaders_MakeLocal/Defaults/Loader_Loader.temp?ref_type=heads">Defaults/Loader_Loader.temp</a></li>
+</ul>

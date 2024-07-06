@@ -29,6 +29,8 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/BarrelShape3D.comp  
-> Config/3D/BarrelShape3D_menus.fu  
-> Macros/3D/BarrelShape3D.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.BarrelShape3D/Comps/BarrelShape3D.comp?ref_type=heads">Comps/BarrelShape3D.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.BarrelShape3D/Config/3D/BarrelShape3D_menus.fu?ref_type=heads">Config/3D/BarrelShape3D_menus.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.BarrelShape3D/Macros/3D/BarrelShape3D.setting?ref_type=heads">Macros/3D/BarrelShape3D.setting</a></li>
+</ul>

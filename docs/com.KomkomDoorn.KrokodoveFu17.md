@@ -60,11 +60,13 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### macOS
 
-> Plugins/KrokodoveFu17.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.KrokodoveFu17/Mac/Plugins/KrokodoveFu17.plugin?ref_type=heads">Plugins/KrokodoveFu17.plugin</a></li>
 
 ### Windows
 
-> Plugins/KrokodoveFu17.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KomkomDoorn.KrokodoveFu17/Windows/Plugins/KrokodoveFu17.plugin?ref_type=heads">Plugins/KrokodoveFu17.plugin</a></li>

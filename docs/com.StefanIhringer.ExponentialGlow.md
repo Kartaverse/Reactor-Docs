@@ -36,4 +36,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/ExponentialGlow.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.ExponentialGlow/Macros/Blur/ExponentialGlow.setting?ref_type=heads">Macros/Blur/ExponentialGlow.setting</a></li>
+</ul>

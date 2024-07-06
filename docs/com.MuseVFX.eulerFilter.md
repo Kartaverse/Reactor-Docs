@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Tool/MuseVFX/eulerFilter.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.eulerFilter/Scripts/Tool/MuseVFX/eulerFilter.lua?ref_type=heads">Scripts/Tool/MuseVFX/eulerFilter.lua</a></li>
+</ul>

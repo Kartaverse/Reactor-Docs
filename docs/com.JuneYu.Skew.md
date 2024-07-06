@@ -24,4 +24,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/CGS/CGS_Skew.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JuneYu.Skew/Fuses/CGS/CGS_Skew.fuse?ref_type=heads">Fuses/CGS/CGS_Skew.fuse</a></li>
+</ul>

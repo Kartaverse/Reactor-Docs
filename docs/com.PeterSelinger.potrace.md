@@ -27,26 +27,28 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/potrace/docs/AUTHORS  
-> Bin/potrace/docs/COPYING  
-> Bin/potrace/docs/ChangeLog  
-> Bin/potrace/docs/NEWS  
-> Bin/potrace/docs/README  
-> Bin/potrace/docs/README-WIN  
-> Bin/potrace/docs/mkbitmap.1  
-> Bin/potrace/docs/potrace.1  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/AUTHORS?ref_type=heads">Bin/potrace/docs/AUTHORS</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/COPYING?ref_type=heads">Bin/potrace/docs/COPYING</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/ChangeLog?ref_type=heads">Bin/potrace/docs/ChangeLog</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/NEWS?ref_type=heads">Bin/potrace/docs/NEWS</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/README?ref_type=heads">Bin/potrace/docs/README</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/README-WIN?ref_type=heads">Bin/potrace/docs/README-WIN</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/mkbitmap.1?ref_type=heads">Bin/potrace/docs/mkbitmap.1</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Bin/potrace/docs/potrace.1?ref_type=heads">Bin/potrace/docs/potrace.1</a></li>
+</ul>
 
 ### Linux
 
-> Bin/potrace/bin/mkbitmap  
-> Bin/potrace/bin/potrace  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Linux/Bin/potrace/bin/mkbitmap?ref_type=heads">Bin/potrace/bin/mkbitmap</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Linux/Bin/potrace/bin/potrace?ref_type=heads">Bin/potrace/bin/potrace</a></li>
 
 ### macOS
 
-> Bin/potrace/bin/mkbitmap  
-> Bin/potrace/bin/potrace  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Mac/Bin/potrace/bin/mkbitmap?ref_type=heads">Bin/potrace/bin/mkbitmap</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Mac/Bin/potrace/bin/potrace?ref_type=heads">Bin/potrace/bin/potrace</a></li>
 
 ### Windows
 
-> Bin/potrace/bin/mkbitmap.exe  
-> Bin/potrace/bin/potrace.exe  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Windows/Bin/potrace/bin/mkbitmap.exe?ref_type=heads">Bin/potrace/bin/mkbitmap.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PeterSelinger.potrace/Windows/Bin/potrace/bin/potrace.exe?ref_type=heads">Bin/potrace/bin/potrace.exe</a></li>

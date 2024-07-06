@@ -42,4 +42,6 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Andrew Hazelden/Close Comps.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.CloseComps/Config/Andrew Hazelden/Close Comps.fu?ref_type=heads">Config/Andrew Hazelden/Close Comps.fu</a></li>
+</ul>

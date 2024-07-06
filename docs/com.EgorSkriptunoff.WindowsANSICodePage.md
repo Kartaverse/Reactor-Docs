@@ -28,4 +28,6 @@ ___
 
 ### Common (No Architecture)
 
-> Modules/Lua/win-125x.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.EgorSkriptunoff.WindowsANSICodePage/Modules/Lua/win-125x.lua?ref_type=heads">Modules/Lua/win-125x.lua</a></li>
+</ul>

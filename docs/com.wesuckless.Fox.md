@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Fox.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Fox/Fuses/Fox.fuse?ref_type=heads">Fuses/Fox.fuse</a></li>
+</ul>

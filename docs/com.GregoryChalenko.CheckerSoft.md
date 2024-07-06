@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/CheckerSoft.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.CheckerSoft/Macros/Creator/CheckerSoft.setting?ref_type=heads">Macros/Creator/CheckerSoft.setting</a></li>
+</ul>

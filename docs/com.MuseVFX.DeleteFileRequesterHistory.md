@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/MuseVFX/DeleteFileRequesterHistory.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.DeleteFileRequesterHistory/Scripts/Comp/MuseVFX/DeleteFileRequesterHistory.lua?ref_type=heads">Scripts/Comp/MuseVFX/DeleteFileRequesterHistory.lua</a></li>
+</ul>

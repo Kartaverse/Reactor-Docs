@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Color/Grade.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Grade/Fuses/Color/Grade.fuse?ref_type=heads">Fuses/Color/Grade.fuse</a></li>
+</ul>

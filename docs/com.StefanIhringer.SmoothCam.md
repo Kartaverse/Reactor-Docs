@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Optical Flow/SmoothCam.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.SmoothCam/Fuses/Optical Flow/SmoothCam.fuse?ref_type=heads">Fuses/Optical Flow/SmoothCam.fuse</a></li>
+</ul>

@@ -40,6 +40,8 @@ ___
 
 ### Common (No Architecture)
 
-> Config/FrameRanger.fu  
-> Docs/com.AlexBogomolov.FrameRanger.md  
-> Scripts/Comp/FrameRanger.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.FrameRanger/Config/FrameRanger.fu?ref_type=heads">Config/FrameRanger.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.FrameRanger/Docs/com.AlexBogomolov.FrameRanger.md?ref_type=heads">Docs/com.AlexBogomolov.FrameRanger.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.FrameRanger/Scripts/Comp/FrameRanger.lua?ref_type=heads">Scripts/Comp/FrameRanger.lua</a></li>
+</ul>

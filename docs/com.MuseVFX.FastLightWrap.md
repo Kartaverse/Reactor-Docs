@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/MT_FastLightWrap.setting  
-> Macros/Effect/MT_FastLightWrap.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.FastLightWrap/Macros/Effect/MT_FastLightWrap.setting?ref_type=heads">Macros/Effect/MT_FastLightWrap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.FastLightWrap/Macros/Effect/MT_FastLightWrap.bmp?ref_type=heads">Macros/Effect/MT_FastLightWrap.bmp</a></li>
+</ul>

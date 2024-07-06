@@ -25,7 +25,9 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/VapourSynth/VapourSynth Example.comp  
-> Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/VapourSynth-For-Fusion.png  
-> Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/com.AndrewHazelden.KartaVR.Tools.VapourSynth.md  
-> Fuses/Kartaverse/KartaVR/kvrVapourSynth.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.VapourSynth/Comps/Kartaverse/VapourSynth/VapourSynth Example.comp?ref_type=heads">Comps/Kartaverse/VapourSynth/VapourSynth Example.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.VapourSynth/Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/VapourSynth-For-Fusion.png?ref_type=heads">Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/VapourSynth-For-Fusion.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.VapourSynth/Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/com.AndrewHazelden.KartaVR.Tools.VapourSynth.md?ref_type=heads">Docs/com.AndrewHazelden.KartaVR.Tools.VapourSynth/com.AndrewHazelden.KartaVR.Tools.VapourSynth.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.VapourSynth/Fuses/Kartaverse/KartaVR/kvrVapourSynth.fuse?ref_type=heads">Fuses/Kartaverse/KartaVR/kvrVapourSynth.fuse</a></li>
+</ul>

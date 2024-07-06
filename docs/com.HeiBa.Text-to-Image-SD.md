@@ -38,4 +38,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Stable Diffusion HB/Text-to-Image-SD.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HeiBa.Text-to-Image-SD/Scripts/Comp/Stable Diffusion HB/Text-to-Image-SD.lua?ref_type=heads">Scripts/Comp/Stable Diffusion HB/Text-to-Image-SD.lua</a></li>
+</ul>

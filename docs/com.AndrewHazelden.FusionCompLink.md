@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Andrew Hazelden/Fusion Comp Link.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.FusionCompLink/Scripts/Comp/Andrew Hazelden/Fusion Comp Link.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Fusion Comp Link.lua</a></li>
+</ul>

@@ -23,6 +23,8 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/KartaVR/audio/cinematic-musical-sting-braam.wav  
-> Bin/KartaVR/audio/steam-train-whistle.wav  
-> Bin/KartaVR/audio/trumpet-fanfare.wav  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Audio/Bin/KartaVR/audio/cinematic-musical-sting-braam.wav?ref_type=heads">Bin/KartaVR/audio/cinematic-musical-sting-braam.wav</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Audio/Bin/KartaVR/audio/steam-train-whistle.wav?ref_type=heads">Bin/KartaVR/audio/steam-train-whistle.wav</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Audio/Bin/KartaVR/audio/trumpet-fanfare.wav?ref_type=heads">Bin/KartaVR/audio/trumpet-fanfare.wav</a></li>
+</ul>

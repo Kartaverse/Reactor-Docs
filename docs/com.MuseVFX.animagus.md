@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Tool/MuseVFX/animanager.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.animagus/Scripts/Tool/MuseVFX/animanager.lua?ref_type=heads">Scripts/Tool/MuseVFX/animanager.lua</a></li>
+</ul>

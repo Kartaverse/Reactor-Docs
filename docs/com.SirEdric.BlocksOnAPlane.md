@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/SirEdric/Blocks_on_a_Plane.comp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.BlocksOnAPlane/Comps/SirEdric/Blocks_on_a_Plane.comp?ref_type=heads">Comps/SirEdric/Blocks_on_a_Plane.comp</a></li>
+</ul>

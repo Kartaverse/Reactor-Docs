@@ -32,5 +32,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Atomz/Atomz Create.py  
-> Scripts/Support/Atomz Create CLI.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/Atomz Create.py?ref_type=heads">Scripts/Comp/Atomz/Atomz Create.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Support/Atomz Create CLI.py?ref_type=heads">Scripts/Support/Atomz Create CLI.py</a></li>
+</ul>

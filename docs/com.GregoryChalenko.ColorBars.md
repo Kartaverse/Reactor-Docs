@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/ColorBars.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.ColorBars/Macros/Creator/ColorBars.setting?ref_type=heads">Macros/Creator/ColorBars.setting</a></li>
+</ul>

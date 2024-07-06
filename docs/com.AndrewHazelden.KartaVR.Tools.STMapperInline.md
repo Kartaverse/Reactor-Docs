@@ -34,9 +34,11 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/STMapperInline/Media/TinyPlanet_ST.0000.exr  
-> Comps/Kartaverse/STMapperInline/Media/Under_the_Bridge.mp4  
-> Comps/Kartaverse/STMapperInline/STMapperInline_Under_The_Bridge_Tiny_Planet.comp  
-> Docs/Kartaverse/STMapperInline.md  
-> Templates/Edit/Effects/KartaVR/Warp/STMapperInline.setting  
-> Templates/Fusion/KartaVR/Warp/STMapperInline.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Comps/Kartaverse/STMapperInline/Media/TinyPlanet_ST.0000.exr?ref_type=heads">Comps/Kartaverse/STMapperInline/Media/TinyPlanet_ST.0000.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Comps/Kartaverse/STMapperInline/Media/Under_the_Bridge.mp4?ref_type=heads">Comps/Kartaverse/STMapperInline/Media/Under_the_Bridge.mp4</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Comps/Kartaverse/STMapperInline/STMapperInline_Under_The_Bridge_Tiny_Planet.comp?ref_type=heads">Comps/Kartaverse/STMapperInline/STMapperInline_Under_The_Bridge_Tiny_Planet.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Docs/Kartaverse/STMapperInline.md?ref_type=heads">Docs/Kartaverse/STMapperInline.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Templates/Edit/Effects/KartaVR/Warp/STMapperInline.setting?ref_type=heads">Templates/Edit/Effects/KartaVR/Warp/STMapperInline.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.STMapperInline/Templates/Fusion/KartaVR/Warp/STMapperInline.setting?ref_type=heads">Templates/Fusion/KartaVR/Warp/STMapperInline.setting</a></li>
+</ul>

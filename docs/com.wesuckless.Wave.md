@@ -34,4 +34,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/Wave.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Wave/Fuses/Modifiers/Wave.fuse?ref_type=heads">Fuses/Modifiers/Wave.fuse</a></li>
+</ul>

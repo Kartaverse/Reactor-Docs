@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/DefocusGamma.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.DefocusGamma/Macros/Blur/DefocusGamma.setting?ref_type=heads">Macros/Blur/DefocusGamma.setting</a></li>
+</ul>

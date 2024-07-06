@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Warp/Nudge.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Nudge/Macros/Warp/Nudge.setting?ref_type=heads">Macros/Warp/Nudge.setting</a></li>
+</ul>

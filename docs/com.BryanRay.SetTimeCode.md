@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/metadata/MetaTimeCode.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.BryanRay.SetTimeCode/Fuses/metadata/MetaTimeCode.fuse?ref_type=heads">Fuses/metadata/MetaTimeCode.fuse</a></li>
+</ul>

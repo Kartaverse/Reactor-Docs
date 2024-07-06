@@ -53,4 +53,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Color/ColorInspectorPro.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SamTreadway_Millolab.ColorInspectorPro/Macros/Color/ColorInspectorPro.setting?ref_type=heads">Macros/Color/ColorInspectorPro.setting</a></li>
+</ul>

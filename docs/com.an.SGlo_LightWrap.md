@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/an/SGlo_LightWrap.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.an.SGlo_LightWrap/Macros/an/SGlo_LightWrap.setting?ref_type=heads">Macros/an/SGlo_LightWrap.setting</a></li>
+</ul>

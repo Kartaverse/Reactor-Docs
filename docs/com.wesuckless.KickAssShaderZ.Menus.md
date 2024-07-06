@@ -39,5 +39,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/KickAss ShaderZ/KickAss Import PBR Textures Menu.fu  
-> Config/KickAss ShaderZ/KickAss ShaderZ Menu.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ.Menus/Config/KickAss ShaderZ/KickAss Import PBR Textures Menu.fu?ref_type=heads">Config/KickAss ShaderZ/KickAss Import PBR Textures Menu.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ.Menus/Config/KickAss ShaderZ/KickAss ShaderZ Menu.fu?ref_type=heads">Config/KickAss ShaderZ/KickAss ShaderZ Menu.fu</a></li>
+</ul>

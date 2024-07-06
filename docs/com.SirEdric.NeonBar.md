@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/SirEdric/NeonBar.comp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.NeonBar/Comps/SirEdric/NeonBar.comp?ref_type=heads">Comps/SirEdric/NeonBar.comp</a></li>
+</ul>

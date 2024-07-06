@@ -40,4 +40,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/SirEdric/se_ScriptScript.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_ScriptScript/Scripts/Comp/SirEdric/se_ScriptScript.lua?ref_type=heads">Scripts/Comp/SirEdric/se_ScriptScript.lua</a></li>
+</ul>

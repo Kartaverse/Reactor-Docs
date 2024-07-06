@@ -58,4 +58,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/SlashCommand/shell.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SlashShell/Scripts/SlashCommand/shell.lua?ref_type=heads">Scripts/SlashCommand/shell.lua</a></li>
+</ul>

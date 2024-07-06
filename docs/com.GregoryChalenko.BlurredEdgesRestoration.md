@@ -33,4 +33,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Matte/BlurredEdgesRestoration.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.BlurredEdgesRestoration/Macros/Matte/BlurredEdgesRestoration.setting?ref_type=heads">Macros/Matte/BlurredEdgesRestoration.setting</a></li>
+</ul>

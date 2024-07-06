@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Config/dev.danielk/LogEnabler.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/dev.danielk.LogEnabler/Config/dev.danielk/LogEnabler.fu?ref_type=heads">Config/dev.danielk/LogEnabler.fu</a></li>
+</ul>

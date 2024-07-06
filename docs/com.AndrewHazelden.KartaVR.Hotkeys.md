@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Kartaverse Hotkeys.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Hotkeys/Config/Kartaverse Hotkeys.fu?ref_type=heads">Config/Kartaverse Hotkeys.fu</a></li>
+</ul>

@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Console/Commodore64.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Commodore64/Fuses/Console/Commodore64.fuse?ref_type=heads">Fuses/Console/Commodore64.fuse</a></li>
+</ul>

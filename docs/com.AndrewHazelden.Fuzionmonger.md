@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Fuzionmonger.lua  
-> Config/Fuzionmonger.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Fuzionmonger/Config/Fuzionmonger.lua?ref_type=heads">Config/Fuzionmonger.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Fuzionmonger/Config/Fuzionmonger.fu?ref_type=heads">Config/Fuzionmonger.fu</a></li>
+</ul>

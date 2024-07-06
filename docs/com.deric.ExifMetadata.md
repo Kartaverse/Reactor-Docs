@@ -37,4 +37,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/EXIF-metadata.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.deric.ExifMetadata/Scripts/Comp/EXIF-metadata.lua?ref_type=heads">Scripts/Comp/EXIF-metadata.lua</a></li>
+</ul>

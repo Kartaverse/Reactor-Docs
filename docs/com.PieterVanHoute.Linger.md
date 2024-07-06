@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/Linger.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Linger/Fuses/Effect/Linger.fuse?ref_type=heads">Fuses/Effect/Linger.fuse</a></li>
+</ul>

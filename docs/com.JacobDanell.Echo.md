@@ -55,4 +55,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/Echo.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Echo/Fuses/Effect/Echo.fuse?ref_type=heads">Fuses/Effect/Echo.fuse</a></li>
+</ul>

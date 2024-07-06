@@ -82,4 +82,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Batch_Change_Parameters.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.BatchChangeParameters/Scripts/Comp/Batch_Change_Parameters.lua?ref_type=heads">Scripts/Comp/Batch_Change_Parameters.lua</a></li>
+</ul>

@@ -112,4 +112,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Miscellaneous/AudioWaveform.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JiPi.AudioWaveform/Fuses/Miscellaneous/AudioWaveform.fuse?ref_type=heads">Fuses/Miscellaneous/AudioWaveform.fuse</a></li>
+</ul>

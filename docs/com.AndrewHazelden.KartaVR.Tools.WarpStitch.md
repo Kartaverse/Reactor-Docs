@@ -41,4 +41,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Kartaverse/KartaVR/Warp/kvrWarpStitchUltra.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.WarpStitch/Fuses/Kartaverse/KartaVR/Warp/kvrWarpStitchUltra.fuse?ref_type=heads">Fuses/Kartaverse/KartaVR/Warp/kvrWarpStitchUltra.fuse</a></li>
+</ul>

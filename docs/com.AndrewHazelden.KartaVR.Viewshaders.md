@@ -26,11 +26,13 @@ ___
 
 ### Common (No Architecture)
 
-> LUTs/KartaVR/Bright LUT.setting  
-> LUTs/KartaVR/MeshUV to Equirectangular LUT.setting  
-> LUTs/KartaVR/MeshUV to EquirectangularStereoOU LUT.setting  
-> LUTs/KartaVR/ViewerEquirectangular LUT.setting  
-> LUTs/KartaVR/ViewerEquirectangularStereoOU LUT.setting  
-> LUTs/KartaVR/ViewerMesh LUT.setting  
-> LUTs/KartaVR/ViewerWarp LUT.setting  
-> LUTs/KartaVR/Z360 Stereo LUT.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/Bright LUT.setting?ref_type=heads">LUTs/KartaVR/Bright LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/MeshUV to Equirectangular LUT.setting?ref_type=heads">LUTs/KartaVR/MeshUV to Equirectangular LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/MeshUV to EquirectangularStereoOU LUT.setting?ref_type=heads">LUTs/KartaVR/MeshUV to EquirectangularStereoOU LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/ViewerEquirectangular LUT.setting?ref_type=heads">LUTs/KartaVR/ViewerEquirectangular LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/ViewerEquirectangularStereoOU LUT.setting?ref_type=heads">LUTs/KartaVR/ViewerEquirectangularStereoOU LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/ViewerMesh LUT.setting?ref_type=heads">LUTs/KartaVR/ViewerMesh LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/ViewerWarp LUT.setting?ref_type=heads">LUTs/KartaVR/ViewerWarp LUT.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Viewshaders/LUTs/KartaVR/Z360 Stereo LUT.setting?ref_type=heads">LUTs/KartaVR/Z360 Stereo LUT.setting</a></li>
+</ul>

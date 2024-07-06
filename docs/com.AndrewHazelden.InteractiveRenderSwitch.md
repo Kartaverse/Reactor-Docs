@@ -28,5 +28,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Flow/InteractiveRenderSwitch.comp  
-> Fuses/Flow/InteractiveRenderSwitch.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.InteractiveRenderSwitch/Comps/Flow/InteractiveRenderSwitch.comp?ref_type=heads">Comps/Flow/InteractiveRenderSwitch.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.InteractiveRenderSwitch/Fuses/Flow/InteractiveRenderSwitch.fuse?ref_type=heads">Fuses/Flow/InteractiveRenderSwitch.fuse</a></li>
+</ul>

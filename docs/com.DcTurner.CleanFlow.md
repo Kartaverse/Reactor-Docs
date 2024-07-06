@@ -35,6 +35,8 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/LineSelectedTools.lua  
-> Scripts/Comp/StackSelectedTools.lua  
-> Config/align_nodes_conf.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DcTurner.CleanFlow/Scripts/Comp/LineSelectedTools.lua?ref_type=heads">Scripts/Comp/LineSelectedTools.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DcTurner.CleanFlow/Scripts/Comp/StackSelectedTools.lua?ref_type=heads">Scripts/Comp/StackSelectedTools.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DcTurner.CleanFlow/Config/align_nodes_conf.fu?ref_type=heads">Config/align_nodes_conf.fu</a></li>
+</ul>

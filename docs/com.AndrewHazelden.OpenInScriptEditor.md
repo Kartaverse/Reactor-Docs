@@ -38,5 +38,7 @@ ___
 
 ### Common (No Architecture)
 
-> Config/Andrew Hazelden/Open in Script Editor.fu  
-> Scripts/Comp/Andrew Hazelden/Open in Script Editor.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OpenInScriptEditor/Config/Andrew Hazelden/Open in Script Editor.fu?ref_type=heads">Config/Andrew Hazelden/Open in Script Editor.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OpenInScriptEditor/Scripts/Comp/Andrew Hazelden/Open in Script Editor.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Open in Script Editor.lua</a></li>
+</ul>

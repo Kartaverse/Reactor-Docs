@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/SirEdric/WickedBlur.comp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.WickedBlur/Comps/SirEdric/WickedBlur.comp?ref_type=heads">Comps/SirEdric/WickedBlur.comp</a></li>
+</ul>

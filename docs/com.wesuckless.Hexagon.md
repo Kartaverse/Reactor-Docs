@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Creator/Hexagon.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Hexagon/Fuses/Creator/Hexagon.fuse?ref_type=heads">Fuses/Creator/Hexagon.fuse</a></li>
+</ul>

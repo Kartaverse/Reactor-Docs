@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/DirectionalBlurFromPathGamma.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.DirectionalBlurFromPathGamma/Macros/Blur/DirectionalBlurFromPathGamma.setting?ref_type=heads">Macros/Blur/DirectionalBlurFromPathGamma.setting</a></li>
+</ul>

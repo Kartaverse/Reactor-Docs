@@ -23,11 +23,13 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVR/Stitching/Generate Panoramic Blending Masks.lua  
-> Scripts/Comp/KartaVR/Stitching/Generate UV Pass in PTGui 10.lua  
-> Scripts/Comp/KartaVR/Stitching/PTGui 10 Project Importer.lua  
-> Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Creator.lua  
-> Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Extractor.lua  
-> Scripts/Comp/KartaVR/Stitching/PTGui Mask Importer.lua  
-> Scripts/Comp/KartaVR/Stitching/Render Selected.lua  
-> Scripts/Tool/KartaVR/Render Selected.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/Generate Panoramic Blending Masks.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/Generate Panoramic Blending Masks.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/Generate UV Pass in PTGui 10.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/Generate UV Pass in PTGui 10.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/PTGui 10 Project Importer.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/PTGui 10 Project Importer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Creator.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Creator.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Extractor.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/PTGui BatchBuilder Extractor.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/PTGui Mask Importer.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/PTGui Mask Importer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Comp/KartaVR/Stitching/Render Selected.lua?ref_type=heads">Scripts/Comp/KartaVR/Stitching/Render Selected.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Stitching/Scripts/Tool/KartaVR/Render Selected.lua?ref_type=heads">Scripts/Tool/KartaVR/Render Selected.lua</a></li>
+</ul>

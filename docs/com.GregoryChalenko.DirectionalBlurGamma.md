@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/DirectionalBlurGamma.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.DirectionalBlurGamma/Macros/Blur/DirectionalBlurGamma.setting?ref_type=heads">Macros/Blur/DirectionalBlurGamma.setting</a></li>
+</ul>

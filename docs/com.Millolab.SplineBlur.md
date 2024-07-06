@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/SplineBlur.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SplineBlur/Macros/Blur/SplineBlur.setting?ref_type=heads">Macros/Blur/SplineBlur.setting</a></li>
+</ul>

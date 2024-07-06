@@ -36,6 +36,8 @@ ___
 
 ### Common (No Architecture)
 
-> Docs/com.MichaelLutz.LuaMatrix.txt  
-> Modules/Lua/complex.lua  
-> Modules/Lua/matrix.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MichaelLutz.LuaMatrix/Docs/com.MichaelLutz.LuaMatrix.txt?ref_type=heads">Docs/com.MichaelLutz.LuaMatrix.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MichaelLutz.LuaMatrix/Modules/Lua/complex.lua?ref_type=heads">Modules/Lua/complex.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MichaelLutz.LuaMatrix/Modules/Lua/matrix.lua?ref_type=heads">Modules/Lua/matrix.lua</a></li>
+</ul>

@@ -64,5 +64,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Tool Management/ToolCommentManager.lua  
-> Scripts/Comp/Tool Management/ToolTagger.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.ToolManagement/Scripts/Comp/Tool Management/ToolCommentManager.lua?ref_type=heads">Scripts/Comp/Tool Management/ToolCommentManager.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.ToolManagement/Scripts/Comp/Tool Management/ToolTagger.lua?ref_type=heads">Scripts/Comp/Tool Management/ToolTagger.lua</a></li>
+</ul>

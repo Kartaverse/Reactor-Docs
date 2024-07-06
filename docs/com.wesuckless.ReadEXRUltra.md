@@ -39,4 +39,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/IO/ReadEXRUltra.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.ReadEXRUltra/Fuses/IO/ReadEXRUltra.fuse?ref_type=heads">Fuses/IO/ReadEXRUltra.fuse</a></li>
+</ul>

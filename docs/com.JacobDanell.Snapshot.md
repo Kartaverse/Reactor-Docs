@@ -48,4 +48,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Miscellaneous/JD_Snapshot.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Snapshot/Fuses/Miscellaneous/JD_Snapshot.fuse?ref_type=heads">Fuses/Miscellaneous/JD_Snapshot.fuse</a></li>
+</ul>

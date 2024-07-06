@@ -40,10 +40,12 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/Kartaverse/LUT/kvrBrownConrady.dctl  
-> Bin/Kartaverse/LUT/kvrPanotools.dctl  
-> Bin/Kartaverse/LUT/kvrSTMapGenerator.dctl  
-> Comps/Kartaverse/KartaVP/kvrLens/kvrLens Distortion Comparison.comp  
-> Fuses/Kartaverse/KartaVP/Warp/kvrLens.fuse  
-> Fuses/Kartaverse/KartaVP/Warp/kvrLensStereo.fuse  
-> Fuses/Kartaverse/KartaVP/Warp/kvrSTMapGenerator.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Bin/Kartaverse/LUT/kvrBrownConrady.dctl?ref_type=heads">Bin/Kartaverse/LUT/kvrBrownConrady.dctl</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Bin/Kartaverse/LUT/kvrPanotools.dctl?ref_type=heads">Bin/Kartaverse/LUT/kvrPanotools.dctl</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Bin/Kartaverse/LUT/kvrSTMapGenerator.dctl?ref_type=heads">Bin/Kartaverse/LUT/kvrSTMapGenerator.dctl</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Comps/Kartaverse/KartaVP/kvrLens/kvrLens Distortion Comparison.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrLens/kvrLens Distortion Comparison.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Fuses/Kartaverse/KartaVP/Warp/kvrLens.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrLens.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Fuses/Kartaverse/KartaVP/Warp/kvrLensStereo.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrLensStereo.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrLens/Fuses/Kartaverse/KartaVP/Warp/kvrSTMapGenerator.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrSTMapGenerator.fuse</a></li>
+</ul>

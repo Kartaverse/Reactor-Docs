@@ -28,6 +28,8 @@ ___
 
 ### Common (No Architecture)
 
-> Config/SdR_3PointAverageXF_menus.fu  
-> Macros/3D/SdR_3PointAverageXF.bmp  
-> Macros/3D/SdR_3PointAverageXF.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.SdR_3PointAverageXF/Config/SdR_3PointAverageXF_menus.fu?ref_type=heads">Config/SdR_3PointAverageXF_menus.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.SdR_3PointAverageXF/Macros/3D/SdR_3PointAverageXF.bmp?ref_type=heads">Macros/3D/SdR_3PointAverageXF.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.SdR_3PointAverageXF/Macros/3D/SdR_3PointAverageXF.setting?ref_type=heads">Macros/3D/SdR_3PointAverageXF.setting</a></li>
+</ul>

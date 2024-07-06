@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Andrew Hazelden/Atom Probe Console.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomProbe/Scripts/Comp/Andrew Hazelden/Atom Probe Console.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Atom Probe Console.lua</a></li>
+</ul>

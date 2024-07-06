@@ -50,4 +50,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Flow/SwitchAnything.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.SwitchAnything/Fuses/Flow/SwitchAnything.fuse?ref_type=heads">Fuses/Flow/SwitchAnything.fuse</a></li>
+</ul>

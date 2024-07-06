@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/POC_BlitzFXLite.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PiratesOfConfusion.BlitzFXLite/Fuses/Effect/POC_BlitzFXLite.fuse?ref_type=heads">Fuses/Effect/POC_BlitzFXLite.fuse</a></li>
+</ul>

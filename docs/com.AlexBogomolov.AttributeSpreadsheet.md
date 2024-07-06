@@ -76,5 +76,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/AttributeSpreadsheet/AttributeSpreadsheet.py  
-> Scripts/Comp/AttributeSpreadsheet/install_pip_package.py  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/Scripts/Comp/AttributeSpreadsheet/AttributeSpreadsheet.py?ref_type=heads">Scripts/Comp/AttributeSpreadsheet/AttributeSpreadsheet.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/Scripts/Comp/AttributeSpreadsheet/install_pip_package.py?ref_type=heads">Scripts/Comp/AttributeSpreadsheet/install_pip_package.py</a></li>
+</ul>

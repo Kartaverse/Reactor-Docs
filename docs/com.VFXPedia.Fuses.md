@@ -91,20 +91,22 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/VFXPedia/Blur/FuseBlur.Fuse  
-> Fuses/VFXPedia/Blur/FuseGlow.Fuse  
-> Fuses/VFXPedia/Color/BoolTest.Fuse  
-> Fuses/VFXPedia/Color/ClipRange.Fuse  
-> Fuses/VFXPedia/Color/Gain.Fuse  
-> Fuses/VFXPedia/Composite/FuseMerge.Fuse  
-> Fuses/VFXPedia/Creator/SourceTest.Fuse  
-> Fuses/VFXPedia/Mask/ShapeTest.Fuse  
-> Fuses/VFXPedia/Metadata/Set_Metadata.Fuse  
-> Fuses/VFXPedia/Miscellaneous/Duplicate.Fuse  
-> Fuses/VFXPedia/Miscellaneous/TilePic.Fuse  
-> Fuses/VFXPedia/Modifiers/TextCountdown.Fuse  
-> Fuses/VFXPedia/Particles/ParticleEmitterTest.Fuse  
-> Fuses/VFXPedia/Transform/CropRectangle.Fuse  
-> Fuses/VFXPedia/Transform/FuseScale.Fuse  
-> Fuses/VFXPedia/Transform/FuseTransform.fuse  
-> Fuses/VFXPedia/Transform/Null.Fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Blur/FuseBlur.Fuse?ref_type=heads">Fuses/VFXPedia/Blur/FuseBlur.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Blur/FuseGlow.Fuse?ref_type=heads">Fuses/VFXPedia/Blur/FuseGlow.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Color/BoolTest.Fuse?ref_type=heads">Fuses/VFXPedia/Color/BoolTest.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Color/ClipRange.Fuse?ref_type=heads">Fuses/VFXPedia/Color/ClipRange.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Color/Gain.Fuse?ref_type=heads">Fuses/VFXPedia/Color/Gain.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Composite/FuseMerge.Fuse?ref_type=heads">Fuses/VFXPedia/Composite/FuseMerge.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Creator/SourceTest.Fuse?ref_type=heads">Fuses/VFXPedia/Creator/SourceTest.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Mask/ShapeTest.Fuse?ref_type=heads">Fuses/VFXPedia/Mask/ShapeTest.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Metadata/Set_Metadata.Fuse?ref_type=heads">Fuses/VFXPedia/Metadata/Set_Metadata.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Miscellaneous/Duplicate.Fuse?ref_type=heads">Fuses/VFXPedia/Miscellaneous/Duplicate.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Miscellaneous/TilePic.Fuse?ref_type=heads">Fuses/VFXPedia/Miscellaneous/TilePic.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Modifiers/TextCountdown.Fuse?ref_type=heads">Fuses/VFXPedia/Modifiers/TextCountdown.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Particles/ParticleEmitterTest.Fuse?ref_type=heads">Fuses/VFXPedia/Particles/ParticleEmitterTest.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Transform/CropRectangle.Fuse?ref_type=heads">Fuses/VFXPedia/Transform/CropRectangle.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Transform/FuseScale.Fuse?ref_type=heads">Fuses/VFXPedia/Transform/FuseScale.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Transform/FuseTransform.fuse?ref_type=heads">Fuses/VFXPedia/Transform/FuseTransform.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.Fuses/Fuses/VFXPedia/Transform/Null.Fuse?ref_type=heads">Fuses/VFXPedia/Transform/Null.Fuse</a></li>
+</ul>

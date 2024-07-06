@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Flow/Wireless.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.Wireless/Fuses/Flow/Wireless.fuse?ref_type=heads">Fuses/Flow/Wireless.fuse</a></li>
+</ul>

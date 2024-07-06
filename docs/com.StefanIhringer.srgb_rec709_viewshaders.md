@@ -26,5 +26,7 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Viewshaders/rec709_VS.fuse  
-> Fuses/Viewshaders/sRGB_VS.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.srgb_rec709_viewshaders/Fuses/Viewshaders/rec709_VS.fuse?ref_type=heads">Fuses/Viewshaders/rec709_VS.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.srgb_rec709_viewshaders/Fuses/Viewshaders/sRGB_VS.fuse?ref_type=heads">Fuses/Viewshaders/sRGB_VS.fuse</a></li>
+</ul>

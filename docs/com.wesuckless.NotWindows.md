@@ -23,12 +23,14 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/NotWindows_Shared.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.NotWindows/Scripts/Comp/NotWindows_Shared.lua?ref_type=heads">Scripts/Comp/NotWindows_Shared.lua</a></li>
+</ul>
 
 ### Linux
 
-> Scripts/Comp/NotWindows.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.NotWindows/Linux/Scripts/Comp/NotWindows.lua?ref_type=heads">Scripts/Comp/NotWindows.lua</a></li>
 
 ### macOS
 
-> Scripts/Comp/NotWindows.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.NotWindows/Mac/Scripts/Comp/NotWindows.lua?ref_type=heads">Scripts/Comp/NotWindows.lua</a></li>

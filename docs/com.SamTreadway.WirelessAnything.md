@@ -32,4 +32,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Flow/WirelessAnything.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SamTreadway.WirelessAnything/Fuses/Flow/WirelessAnything.fuse?ref_type=heads">Fuses/Flow/WirelessAnything.fuse</a></li>
+</ul>

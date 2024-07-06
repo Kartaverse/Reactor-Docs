@@ -38,11 +38,13 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Creator/StickyWriter.comp  
-> Config/Creator/StickyWriter_menus.fu  
-> Macros/Creator/StickyWriter.bmp  
-> Macros/Creator/StickyWriter.setting  
-> Templates/Edit/Titles/StickyWriter.bmp  
-> Templates/Edit/Titles/StickyWriter.setting  
-> Templates/Fusion/StickyWriter/StickyWriter.bmp  
-> Templates/Fusion/StickyWriter/StickyWriter.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Comps/Creator/StickyWriter.comp?ref_type=heads">Comps/Creator/StickyWriter.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Config/Creator/StickyWriter_menus.fu?ref_type=heads">Config/Creator/StickyWriter_menus.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Macros/Creator/StickyWriter.bmp?ref_type=heads">Macros/Creator/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Macros/Creator/StickyWriter.setting?ref_type=heads">Macros/Creator/StickyWriter.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Edit/Titles/StickyWriter.bmp?ref_type=heads">Templates/Edit/Titles/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Edit/Titles/StickyWriter.setting?ref_type=heads">Templates/Edit/Titles/StickyWriter.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Fusion/StickyWriter/StickyWriter.bmp?ref_type=heads">Templates/Fusion/StickyWriter/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Fusion/StickyWriter/StickyWriter.setting?ref_type=heads">Templates/Fusion/StickyWriter/StickyWriter.setting</a></li>
+</ul>

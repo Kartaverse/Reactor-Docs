@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/MotionVectorsCorrection.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.MotionVectorsCorrection/Macros/Blur/MotionVectorsCorrection.setting?ref_type=heads">Macros/Blur/MotionVectorsCorrection.setting</a></li>
+</ul>

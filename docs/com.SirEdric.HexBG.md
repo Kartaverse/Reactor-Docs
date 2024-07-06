@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Creator/SirEdric/HexBG.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.HexBG/Macros/Creator/SirEdric/HexBG.setting?ref_type=heads">Macros/Creator/SirEdric/HexBG.setting</a></li>
+</ul>

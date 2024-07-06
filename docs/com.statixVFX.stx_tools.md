@@ -26,23 +26,25 @@ ___
 
 ### Common (No Architecture)
 
-> Config/stx_tools_menus.fu  
-> Macros/Filter/stx_tools/stx_deflicker.bmp  
-> Macros/Filter/stx_tools/stx_deflicker.setting  
-> Macros/Filter/stx_tools/stx_highPass.bmp  
-> Macros/Filter/stx_tools/stx_highPass.setting  
-> Macros/Filter/stx_tools/stx_loopzilla.setting  
-> Macros/Filter/stx_tools/stx_metaballs.bmp  
-> Macros/Filter/stx_tools/stx_metaballs.setting  
-> Macros/Filter/stx_tools/stx_pMatte.bmp  
-> Macros/Filter/stx_tools/stx_pMatte.setting  
-> Macros/Filter/stx_tools/stx_patchPal.bmp  
-> Macros/Filter/stx_tools/stx_patchPal.setting  
-> Macros/Filter/stx_tools/stx_slopeAndDot.bmp  
-> Macros/Filter/stx_tools/stx_slopeAndDot.setting  
-> Macros/Filter/stx_tools/stx_strangeLoop.bmp  
-> Macros/Filter/stx_tools/stx_strangeLoop.setting  
-> Macros/Filter/stx_tools/stx_tileTexture.bmp  
-> Macros/Filter/stx_tools/stx_tileTexture.setting  
-> Macros/Filter/stx_tools/stx_vectorDenoise.bmp  
-> Macros/Filter/stx_tools/stx_vectorDenoise.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Config/stx_tools_menus.fu?ref_type=heads">Config/stx_tools_menus.fu</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_deflicker.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_deflicker.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_deflicker.setting?ref_type=heads">Macros/Filter/stx_tools/stx_deflicker.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_highPass.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_highPass.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_highPass.setting?ref_type=heads">Macros/Filter/stx_tools/stx_highPass.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_loopzilla.setting?ref_type=heads">Macros/Filter/stx_tools/stx_loopzilla.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_metaballs.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_metaballs.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_metaballs.setting?ref_type=heads">Macros/Filter/stx_tools/stx_metaballs.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_pMatte.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_pMatte.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_pMatte.setting?ref_type=heads">Macros/Filter/stx_tools/stx_pMatte.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_patchPal.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_patchPal.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_patchPal.setting?ref_type=heads">Macros/Filter/stx_tools/stx_patchPal.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_slopeAndDot.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_slopeAndDot.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_slopeAndDot.setting?ref_type=heads">Macros/Filter/stx_tools/stx_slopeAndDot.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_strangeLoop.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_strangeLoop.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_strangeLoop.setting?ref_type=heads">Macros/Filter/stx_tools/stx_strangeLoop.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_tileTexture.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_tileTexture.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_tileTexture.setting?ref_type=heads">Macros/Filter/stx_tools/stx_tileTexture.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_vectorDenoise.bmp?ref_type=heads">Macros/Filter/stx_tools/stx_vectorDenoise.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.statixVFX.stx_tools/Macros/Filter/stx_tools/stx_vectorDenoise.setting?ref_type=heads">Macros/Filter/stx_tools/stx_vectorDenoise.setting</a></li>
+</ul>

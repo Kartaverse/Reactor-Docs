@@ -62,11 +62,13 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### macOS
 
-> Plugins/ColorAnalyzer.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.ColorAnalyzer/Mac/Plugins/ColorAnalyzer.plugin?ref_type=heads">Plugins/ColorAnalyzer.plugin</a></li>
 
 ### Windows
 
-> Plugins/ColorAnalyzer.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.ColorAnalyzer/Windows/Plugins/ColorAnalyzer.plugin?ref_type=heads">Plugins/ColorAnalyzer.plugin</a></li>

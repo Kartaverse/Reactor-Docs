@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/MuseVFX/unlockComp.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.unlockComp/Scripts/Comp/MuseVFX/unlockComp.lua?ref_type=heads">Scripts/Comp/MuseVFX/unlockComp.lua</a></li>
+</ul>

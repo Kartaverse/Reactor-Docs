@@ -35,6 +35,8 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Color/CoronaHighlightCompression.setting  
-> Macros/Color/FilmicTonemapping.setting  
-> Macros/Color/Reinhard_Tonemapping.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.RacoonArtworks.TonemappingTools/Macros/Color/CoronaHighlightCompression.setting?ref_type=heads">Macros/Color/CoronaHighlightCompression.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.RacoonArtworks.TonemappingTools/Macros/Color/FilmicTonemapping.setting?ref_type=heads">Macros/Color/FilmicTonemapping.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.RacoonArtworks.TonemappingTools/Macros/Color/Reinhard_Tonemapping.setting?ref_type=heads">Macros/Color/Reinhard_Tonemapping.setting</a></li>
+</ul>

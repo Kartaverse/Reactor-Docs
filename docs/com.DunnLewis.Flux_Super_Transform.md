@@ -28,5 +28,7 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Miscellaneous/Flux_Super_Transform.fuse  
-> Modules/Lua/flux.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DunnLewis.Flux_Super_Transform/Fuses/Miscellaneous/Flux_Super_Transform.fuse?ref_type=heads">Fuses/Miscellaneous/Flux_Super_Transform.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DunnLewis.Flux_Super_Transform/Modules/Lua/flux.lua?ref_type=heads">Modules/Lua/flux.lua</a></li>
+</ul>

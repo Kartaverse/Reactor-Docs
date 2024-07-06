@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Console/8Ball.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.8ball/Fuses/Console/8Ball.fuse?ref_type=heads">Fuses/Console/8Ball.fuse</a></li>
+</ul>

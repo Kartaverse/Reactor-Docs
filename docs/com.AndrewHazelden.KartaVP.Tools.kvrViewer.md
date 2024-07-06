@@ -35,5 +35,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp  
-> Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse</a></li>
+</ul>

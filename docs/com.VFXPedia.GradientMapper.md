@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Color/GradientMapper.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.VFXPedia.GradientMapper/Macros/Color/GradientMapper.setting?ref_type=heads">Macros/Color/GradientMapper.setting</a></li>
+</ul>

@@ -38,4 +38,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/QuickConnect.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.QuickConnect/Scripts/Comp/QuickConnect.lua?ref_type=heads">Scripts/Comp/QuickConnect.lua</a></li>
+</ul>

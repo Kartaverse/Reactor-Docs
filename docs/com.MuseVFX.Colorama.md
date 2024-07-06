@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/MT_Colorama.setting  
-> Macros/Effect/MT_Colorama.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Colorama/Macros/Effect/MT_Colorama.setting?ref_type=heads">Macros/Effect/MT_Colorama.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Colorama/Macros/Effect/MT_Colorama.bmp?ref_type=heads">Macros/Effect/MT_Colorama.bmp</a></li>
+</ul>

@@ -25,5 +25,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/MT_Fine_Shine.setting  
-> Macros/Effect/MT_Fine_Shine.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.FineShine/Macros/Effect/MT_Fine_Shine.setting?ref_type=heads">Macros/Effect/MT_Fine_Shine.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.FineShine/Macros/Effect/MT_Fine_Shine.bmp?ref_type=heads">Macros/Effect/MT_Fine_Shine.bmp</a></li>
+</ul>

@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/FastExpoGlow.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.FastExpoGlow/Macros/Blur/FastExpoGlow.setting?ref_type=heads">Macros/Blur/FastExpoGlow.setting</a></li>
+</ul>

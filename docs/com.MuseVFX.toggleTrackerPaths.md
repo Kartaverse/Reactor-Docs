@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/MuseVFX/toggleTrackerPaths.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.toggleTrackerPaths/Scripts/Comp/MuseVFX/toggleTrackerPaths.lua?ref_type=heads">Scripts/Comp/MuseVFX/toggleTrackerPaths.lua</a></li>
+</ul>

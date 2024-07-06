@@ -31,5 +31,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Transform/SDR_VisualCrop.setting  
-> Macros/Transform/SdR_VisualCrop.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.SdR_VisualCrop/Macros/Transform/SDR_VisualCrop.setting?ref_type=heads">Macros/Transform/SDR_VisualCrop.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ShadowMakerSdR.SdR_VisualCrop/Macros/Transform/SdR_VisualCrop.bmp?ref_type=heads">Macros/Transform/SdR_VisualCrop.bmp</a></li>
+</ul>

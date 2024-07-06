@@ -23,13 +23,15 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/EyeonLegacy/Archive Composition.lua  
-> Scripts/Comp/EyeonLegacy/Change Paths.lua  
-> Scripts/Comp/EyeonLegacy/Create Bin From Directory.lua  
-> Scripts/Comp/EyeonLegacy/HighLight Animated.lua  
-> Scripts/Comp/EyeonLegacy/Switch Motion Blur.lua  
-> Scripts/Comp/EyeonLegacy/Tool Trippin'.lua  
-> Scripts/Tool/EyeonLegacy/Attach Mask - XF - Stroke to Path - Keep Position TOOL.lua  
-> Scripts/Tool/EyeonLegacy/Bake Animation.lua  
-> Scripts/Tool/EyeonLegacy/Destabilize Transform.lua  
-> Scripts/Tool/EyeonLegacy/Export Animation to AfterEffects.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/Archive Composition.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/Archive Composition.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/Change Paths.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/Change Paths.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/Create Bin From Directory.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/Create Bin From Directory.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/HighLight Animated.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/HighLight Animated.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/Switch Motion Blur.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/Switch Motion Blur.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Comp/EyeonLegacy/Tool Trippin'.lua?ref_type=heads">Scripts/Comp/EyeonLegacy/Tool Trippin'.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Tool/EyeonLegacy/Attach Mask - XF - Stroke to Path - Keep Position TOOL.lua?ref_type=heads">Scripts/Tool/EyeonLegacy/Attach Mask - XF - Stroke to Path - Keep Position TOOL.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Tool/EyeonLegacy/Bake Animation.lua?ref_type=heads">Scripts/Tool/EyeonLegacy/Bake Animation.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Tool/EyeonLegacy/Destabilize Transform.lua?ref_type=heads">Scripts/Tool/EyeonLegacy/Destabilize Transform.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy/Scripts/Tool/EyeonLegacy/Export Animation to AfterEffects.lua?ref_type=heads">Scripts/Tool/EyeonLegacy/Export Animation to AfterEffects.lua</a></li>
+</ul>

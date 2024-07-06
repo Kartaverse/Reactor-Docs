@@ -35,4 +35,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/SlashCommand/atom.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.SlashAtom/Scripts/SlashCommand/atom.lua?ref_type=heads">Scripts/SlashCommand/atom.lua</a></li>
+</ul>

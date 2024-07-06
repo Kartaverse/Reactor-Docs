@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/MT_EdgeBlur.setting  
-> Macros/Effect/MT_EdgeBlur.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.EdgeBlur/Macros/Effect/MT_EdgeBlur.setting?ref_type=heads">Macros/Effect/MT_EdgeBlur.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.EdgeBlur/Macros/Effect/MT_EdgeBlur.bmp?ref_type=heads">Macros/Effect/MT_EdgeBlur.bmp</a></li>
+</ul>

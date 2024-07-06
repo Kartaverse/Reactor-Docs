@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Andrew Hazelden/Fu Scanner.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.FuScanner/Scripts/Comp/Andrew Hazelden/Fu Scanner.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Fu Scanner.lua</a></li>
+</ul>

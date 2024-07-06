@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/Lines.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.Lines/Fuses/Effect/Lines.fuse?ref_type=heads">Fuses/Effect/Lines.fuse</a></li>
+</ul>

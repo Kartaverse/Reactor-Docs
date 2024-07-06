@@ -37,4 +37,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Metadata/ShowMetadata.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.ShowMetadata/Fuses/Metadata/ShowMetadata.fuse?ref_type=heads">Fuses/Metadata/ShowMetadata.fuse</a></li>
+</ul>

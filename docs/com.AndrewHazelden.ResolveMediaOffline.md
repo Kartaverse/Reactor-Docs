@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/ResolveMediaOffline.comp  
-> Macros/Creator/ResolveMediaOffline.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveMediaOffline/Comps/ResolveMediaOffline.comp?ref_type=heads">Comps/ResolveMediaOffline.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveMediaOffline/Macros/Creator/ResolveMediaOffline.setting?ref_type=heads">Macros/Creator/ResolveMediaOffline.setting</a></li>
+</ul>

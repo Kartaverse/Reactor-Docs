@@ -66,20 +66,22 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/instantmeshes/LICENSE.txt  
-> Bin/instantmeshes/README.html  
-> Bin/instantmeshes/README.md  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Bin/instantmeshes/LICENSE.txt?ref_type=heads">Bin/instantmeshes/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Bin/instantmeshes/README.html?ref_type=heads">Bin/instantmeshes/README.html</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Bin/instantmeshes/README.md?ref_type=heads">Bin/instantmeshes/README.md</a></li>
+</ul>
 
 ### Linux
 
-> Bin/instantmeshes/InstantMeshes  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Linux/Bin/instantmeshes/InstantMeshes?ref_type=heads">Bin/instantmeshes/InstantMeshes</a></li>
 
 ### macOS
 
-> Bin/instantmeshes/InstantMeshes.app/Contents/Info.plist  
-> Bin/instantmeshes/InstantMeshes.app/Contents/MacOS/Instant Meshes  
-> Bin/instantmeshes/InstantMeshes.app/Contents/Resources/im.icns  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Mac/Bin/instantmeshes/InstantMeshes.app/Contents/Info.plist?ref_type=heads">Bin/instantmeshes/InstantMeshes.app/Contents/Info.plist</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Mac/Bin/instantmeshes/InstantMeshes.app/Contents/MacOS/Instant Meshes?ref_type=heads">Bin/instantmeshes/InstantMeshes.app/Contents/MacOS/Instant Meshes</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Mac/Bin/instantmeshes/InstantMeshes.app/Contents/Resources/im.icns?ref_type=heads">Bin/instantmeshes/InstantMeshes.app/Contents/Resources/im.icns</a></li>
 
 ### Windows
 
-> Bin/instantmeshes/InstantMeshes.exe  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.WenzelJakob.InstantMeshes/Windows/Bin/instantmeshes/InstantMeshes.exe?ref_type=heads">Bin/instantmeshes/InstantMeshes.exe</a></li>

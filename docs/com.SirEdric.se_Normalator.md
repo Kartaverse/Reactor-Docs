@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/se_Normalator.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_Normalator/Macros/se_Normalator.setting?ref_type=heads">Macros/se_Normalator.setting</a></li>
+</ul>

@@ -27,5 +27,7 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Creator/hos_Tiler.fuse  
-> Comps/hos_Tiler.comp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HouseOfSecrets.hos_Tiler/Fuses/Creator/hos_Tiler.fuse?ref_type=heads">Fuses/Creator/hos_Tiler.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HouseOfSecrets.hos_Tiler/Comps/hos_Tiler.comp?ref_type=heads">Comps/hos_Tiler.comp</a></li>
+</ul>

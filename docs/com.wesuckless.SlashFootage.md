@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/SlashCommand/footage.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.SlashFootage/Scripts/SlashCommand/footage.lua?ref_type=heads">Scripts/SlashCommand/footage.lua</a></li>
+</ul>

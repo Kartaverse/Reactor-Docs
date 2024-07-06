@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/ml_Kaleidoscope.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.ml_Kaleidoscope/Macros/Effect/ml_Kaleidoscope.setting?ref_type=heads">Macros/Effect/ml_Kaleidoscope.setting</a></li>
+</ul>

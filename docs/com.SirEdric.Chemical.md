@@ -60,5 +60,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/SE_ChemJson_import.lua  
-> Scripts/Comp/SE_ChemJson_modify.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.Chemical/Scripts/Comp/SE_ChemJson_import.lua?ref_type=heads">Scripts/Comp/SE_ChemJson_import.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.Chemical/Scripts/Comp/SE_ChemJson_modify.lua?ref_type=heads">Scripts/Comp/SE_ChemJson_modify.lua</a></li>
+</ul>

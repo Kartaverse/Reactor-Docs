@@ -23,14 +23,16 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVR/Open Folder/Open Containing Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open KartaVR Bin Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open KartaVR Docs Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open KartaVR Images Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open KartaVR Scripts Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open KartaVR Temp Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open Kartaverse Comps Folder.lua  
-> Scripts/Comp/KartaVR/Open Folder/Open VR View Publishing Folder.lua  
-> Scripts/Tool/KartaVR/Open Folder/Open Containing Folder.lua  
-> Scripts/Tool/KartaVR/Open Folder/Open KartaVR Temp Folder.lua  
-> Scripts/Tool/KartaVR/Open Folder/Open VR View Publishing Folder.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open Containing Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open Containing Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open KartaVR Bin Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open KartaVR Bin Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open KartaVR Docs Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open KartaVR Docs Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open KartaVR Images Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open KartaVR Images Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open KartaVR Scripts Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open KartaVR Scripts Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open KartaVR Temp Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open KartaVR Temp Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open Kartaverse Comps Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open Kartaverse Comps Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Comp/KartaVR/Open Folder/Open VR View Publishing Folder.lua?ref_type=heads">Scripts/Comp/KartaVR/Open Folder/Open VR View Publishing Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Tool/KartaVR/Open Folder/Open Containing Folder.lua?ref_type=heads">Scripts/Tool/KartaVR/Open Folder/Open Containing Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Tool/KartaVR/Open Folder/Open KartaVR Temp Folder.lua?ref_type=heads">Scripts/Tool/KartaVR/Open Folder/Open KartaVR Temp Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.OpenFolder/Scripts/Tool/KartaVR/Open Folder/Open VR View Publishing Folder.lua?ref_type=heads">Scripts/Tool/KartaVR/Open Folder/Open VR View Publishing Folder.lua</a></li>
+</ul>

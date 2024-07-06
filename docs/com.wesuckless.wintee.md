@@ -49,23 +49,25 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/wintee/source/LICENSE.txt  
-> Bin/wintee/source/queue.h  
-> Bin/wintee/source/wintee.c  
-> Bin/wintee/source/wtee.ide  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Bin/wintee/source/LICENSE.txt?ref_type=heads">Bin/wintee/source/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Bin/wintee/source/queue.h?ref_type=heads">Bin/wintee/source/queue.h</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Bin/wintee/source/wintee.c?ref_type=heads">Bin/wintee/source/wintee.c</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Bin/wintee/source/wtee.ide?ref_type=heads">Bin/wintee/source/wtee.ide</a></li>
+</ul>
 
 ### Linux
 
-> Bin/wintee/docs/LICENSE.txt  
-> Bin/wintee/docs/readme.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Linux/Bin/wintee/docs/LICENSE.txt?ref_type=heads">Bin/wintee/docs/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Linux/Bin/wintee/docs/readme.txt?ref_type=heads">Bin/wintee/docs/readme.txt</a></li>
 
 ### macOS
 
-> Bin/wintee/docs/LICENSE.txt  
-> Bin/wintee/docs/readme.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Mac/Bin/wintee/docs/LICENSE.txt?ref_type=heads">Bin/wintee/docs/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Mac/Bin/wintee/docs/readme.txt?ref_type=heads">Bin/wintee/docs/readme.txt</a></li>
 
 ### Windows
 
-> Bin/wintee/bin/wtee.exe  
-> Bin/wintee/docs/LICENSE.txt  
-> Bin/wintee/docs/readme.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Windows/Bin/wintee/bin/wtee.exe?ref_type=heads">Bin/wintee/bin/wtee.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Windows/Bin/wintee/docs/LICENSE.txt?ref_type=heads">Bin/wintee/docs/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.wintee/Windows/Bin/wintee/docs/readme.txt?ref_type=heads">Bin/wintee/docs/readme.txt</a></li>

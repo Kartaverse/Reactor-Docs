@@ -23,5 +23,7 @@ ___
 
 ### Common (No Architecture)
 
-> Defaults/Bender3D_alert.png  
-> Defaults/Bender3D_Bender 3D.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.UnbendableGirder/Defaults/Bender3D_alert.png?ref_type=heads">Defaults/Bender3D_alert.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.UnbendableGirder/Defaults/Bender3D_Bender 3D.setting?ref_type=heads">Defaults/Bender3D_Bender 3D.setting</a></li>
+</ul>

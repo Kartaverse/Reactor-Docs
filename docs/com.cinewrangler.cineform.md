@@ -74,15 +74,17 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Linux
 
-> Plugins/Cinewrangler_CineForm.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.cinewrangler.cineform/Linux/Plugins/Cinewrangler_CineForm.plugin?ref_type=heads">Plugins/Cinewrangler_CineForm.plugin</a></li>
 
 ### macOS
 
-> Plugins/Cinewrangler_CineForm.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.cinewrangler.cineform/Mac/Plugins/Cinewrangler_CineForm.plugin?ref_type=heads">Plugins/Cinewrangler_CineForm.plugin</a></li>
 
 ### Windows
 
-> Plugins/Cinewrangler_CineForm.plugin  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.cinewrangler.cineform/Windows/Plugins/Cinewrangler_CineForm.plugin?ref_type=heads">Plugins/Cinewrangler_CineForm.plugin</a></li>

@@ -94,21 +94,23 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/AltusDenoiser/AltusDenoiserUltra.comp  
-> Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/MatteShadow_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/MatteShadow_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/Reflection_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/Reflection_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/WorldNormals_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/WorldNormals_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/WorldPositions_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/WorldPositions_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/rgb_b0.0001.exr  
-> Comps/AltusDenoiser/Media/altus_input/rgb_b1.0001.exr  
-> Comps/AltusDenoiser/Media/altus_output/altus.0001.log  
-> Comps/AltusDenoiser/Media/satellite_lighting_b0.0001.exr  
-> Comps/AltusDenoiser/Media/satellite_lighting_b1.0001.exr  
-> Fuses/Filter/AltusDenoiserCore.fuse  
-> Macros/Filter/AltusDenoiserUltra.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/AltusDenoiserUltra.comp?ref_type=heads">Comps/AltusDenoiser/AltusDenoiserUltra.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/DiffuseFilter_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/MatteShadow_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/MatteShadow_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/MatteShadow_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/MatteShadow_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/Reflection_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/Reflection_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/Reflection_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/Reflection_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/WorldNormals_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/WorldNormals_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/WorldNormals_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/WorldNormals_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/WorldPositions_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/WorldPositions_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/WorldPositions_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/WorldPositions_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/rgb_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/rgb_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_input/rgb_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/altus_input/rgb_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/altus_output/altus.0001.log?ref_type=heads">Comps/AltusDenoiser/Media/altus_output/altus.0001.log</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/satellite_lighting_b0.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/satellite_lighting_b0.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Comps/AltusDenoiser/Media/satellite_lighting_b1.0001.exr?ref_type=heads">Comps/AltusDenoiser/Media/satellite_lighting_b1.0001.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Fuses/Filter/AltusDenoiserCore.fuse?ref_type=heads">Fuses/Filter/AltusDenoiserCore.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AltusDenoiserUltra/Macros/Filter/AltusDenoiserUltra.setting?ref_type=heads">Macros/Filter/AltusDenoiserUltra.setting</a></li>
+</ul>

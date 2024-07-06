@@ -32,26 +32,28 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare Viewer.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to Instant Meshes.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to Lightwave Modeler.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to MeshLab.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to usdview.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare Viewer.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare Viewer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to CloudCompare.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to Instant Meshes.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to Instant Meshes.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to Lightwave Modeler.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to Lightwave Modeler.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to MeshLab.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to MeshLab.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Scripts/Comp/KartaVR/Geometry/Send Geometry to usdview.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to usdview.lua</a></li>
+</ul>
 
 ### Linux
 
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Linux/Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua</a></li>
 
 ### macOS
 
-> Bin/KartaVR/bonus/Keyboard Maestro Macros/KartaVR Macros.kmmacros  
-> Scripts/Comp/KartaVR/Geometry/Reload Alembic Scene.lua  
-> Scripts/Comp/KartaVR/Geometry/Reload FBX Scene.lua  
-> Scripts/Comp/KartaVR/Geometry/Reload PSD Layers.lua  
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  
-> Scripts/kartavr.scriptlib  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Bin/KartaVR/bonus/Keyboard Maestro Macros/KartaVR Macros.kmmacros?ref_type=heads">Bin/KartaVR/bonus/Keyboard Maestro Macros/KartaVR Macros.kmmacros</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Scripts/Comp/KartaVR/Geometry/Reload Alembic Scene.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Reload Alembic Scene.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Scripts/Comp/KartaVR/Geometry/Reload FBX Scene.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Reload FBX Scene.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Scripts/Comp/KartaVR/Geometry/Reload PSD Layers.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Reload PSD Layers.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Mac/Scripts/kartavr.scriptlib?ref_type=heads">Scripts/kartavr.scriptlib</a></li>
 
 ### Windows
 
-> Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.Geometry/Windows/Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua?ref_type=heads">Scripts/Comp/KartaVR/Geometry/Send Geometry to AC3D.lua</a></li>

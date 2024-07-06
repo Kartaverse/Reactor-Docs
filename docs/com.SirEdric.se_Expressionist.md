@@ -38,4 +38,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/SirEdric/se_Expressionist.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SirEdric.se_Expressionist/Scripts/Comp/SirEdric/se_Expressionist.lua?ref_type=heads">Scripts/Comp/SirEdric/se_Expressionist.lua</a></li>
+</ul>

@@ -37,29 +37,31 @@ ___
 
 ### Common (No Architecture)
 
-> Bin/imagemagick/docs/NEWS.txt  
-> Bin/imagemagick/docs/NOTICE  
-> Bin/imagemagick/docs/Notice-1.txt  
-> Bin/imagemagick/docs/Notice.txt  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Bin/imagemagick/docs/NEWS.txt?ref_type=heads">Bin/imagemagick/docs/NEWS.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Bin/imagemagick/docs/NOTICE?ref_type=heads">Bin/imagemagick/docs/NOTICE</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Bin/imagemagick/docs/Notice-1.txt?ref_type=heads">Bin/imagemagick/docs/Notice-1.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Bin/imagemagick/docs/Notice.txt?ref_type=heads">Bin/imagemagick/docs/Notice.txt</a></li>
+</ul>
 
 ### Linux
 
-> Bin/imagemagick/docs/LICENSE  
-> Bin/imagemagick/docs/License.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Linux/Bin/imagemagick/docs/LICENSE?ref_type=heads">Bin/imagemagick/docs/LICENSE</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Linux/Bin/imagemagick/docs/License.txt?ref_type=heads">Bin/imagemagick/docs/License.txt</a></li>
 
 ### macOS
 
-> Bin/imagemagick/ImageMagick-6.9.1-0.pkg.zip  
-> Bin/imagemagick/docs/LICENSE  
-> Bin/imagemagick/docs/License.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Mac/Bin/imagemagick/ImageMagick-6.9.1-0.pkg.zip?ref_type=heads">Bin/imagemagick/ImageMagick-6.9.1-0.pkg.zip</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Mac/Bin/imagemagick/docs/LICENSE?ref_type=heads">Bin/imagemagick/docs/LICENSE</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Mac/Bin/imagemagick/docs/License.txt?ref_type=heads">Bin/imagemagick/docs/License.txt</a></li>
 
 ### Windows
 
-> Bin/imagemagick/bin/X11.dll  
-> Bin/imagemagick/bin/imconvert.exe  
-> Bin/imagemagick/bin/mfc100.dll  
-> Bin/imagemagick/bin/msvcp100.dll  
-> Bin/imagemagick/bin/msvcr100.dll  
-> Bin/imagemagick/bin/vcomp100.dll  
-> Bin/imagemagick/docs/LICENSE  
-> Bin/imagemagick/docs/License.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/X11.dll?ref_type=heads">Bin/imagemagick/bin/X11.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/imconvert.exe?ref_type=heads">Bin/imagemagick/bin/imconvert.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/mfc100.dll?ref_type=heads">Bin/imagemagick/bin/mfc100.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/msvcp100.dll?ref_type=heads">Bin/imagemagick/bin/msvcp100.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/msvcr100.dll?ref_type=heads">Bin/imagemagick/bin/msvcr100.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/bin/vcomp100.dll?ref_type=heads">Bin/imagemagick/bin/vcomp100.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/docs/LICENSE?ref_type=heads">Bin/imagemagick/docs/LICENSE</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.ImageMagick.Convert/Windows/Bin/imagemagick/docs/License.txt?ref_type=heads">Bin/imagemagick/docs/License.txt</a></li>

@@ -31,4 +31,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/EllipticalBlur.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.EllipticalBlur/Macros/Blur/EllipticalBlur.setting?ref_type=heads">Macros/Blur/EllipticalBlur.setting</a></li>
+</ul>

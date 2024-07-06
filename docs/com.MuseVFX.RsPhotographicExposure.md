@@ -29,4 +29,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Color/RsPhotographicExposure.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.RsPhotographicExposure/Macros/Color/RsPhotographicExposure.setting?ref_type=heads">Macros/Color/RsPhotographicExposure.setting</a></li>
+</ul>

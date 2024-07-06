@@ -24,4 +24,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Andrew Hazelden/VectorSnapshot.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.VectorSnapshot/Scripts/Comp/Andrew Hazelden/VectorSnapshot.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/VectorSnapshot.lua</a></li>
+</ul>

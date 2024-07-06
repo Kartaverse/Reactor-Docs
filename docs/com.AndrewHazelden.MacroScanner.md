@@ -30,4 +30,6 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/Andrew Hazelden/Macro Scanner.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.MacroScanner/Scripts/Comp/Andrew Hazelden/Macro Scanner.lua?ref_type=heads">Scripts/Comp/Andrew Hazelden/Macro Scanner.lua</a></li>
+</ul>

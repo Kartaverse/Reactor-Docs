@@ -24,5 +24,7 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Effect/Thickener.setting  
-> Macros/Effect/Thickener.bmp  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Thickener/Macros/Effect/Thickener.setting?ref_type=heads">Macros/Effect/Thickener.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.Thickener/Macros/Effect/Thickener.bmp?ref_type=heads">Macros/Effect/Thickener.bmp</a></li>
+</ul>

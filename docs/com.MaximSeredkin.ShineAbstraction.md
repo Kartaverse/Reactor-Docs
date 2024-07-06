@@ -36,8 +36,10 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Maxim_Seredkin_ShineAbstraction/ElevatorLobbyPolar.hdr  
-> Comps/Maxim_Seredkin_ShineAbstraction/Flare.png  
-> Comps/Maxim_Seredkin_ShineAbstraction/FoyerPolar.hdr  
-> Comps/Maxim_Seredkin_ShineAbstraction/Maxim_Seredkin_ShineAbstraction.comp  
-> Comps/Maxim_Seredkin_ShineAbstraction/stone_topaz.png  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MaximSeredkin.ShineAbstraction/Comps/Maxim_Seredkin_ShineAbstraction/ElevatorLobbyPolar.hdr?ref_type=heads">Comps/Maxim_Seredkin_ShineAbstraction/ElevatorLobbyPolar.hdr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MaximSeredkin.ShineAbstraction/Comps/Maxim_Seredkin_ShineAbstraction/Flare.png?ref_type=heads">Comps/Maxim_Seredkin_ShineAbstraction/Flare.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MaximSeredkin.ShineAbstraction/Comps/Maxim_Seredkin_ShineAbstraction/FoyerPolar.hdr?ref_type=heads">Comps/Maxim_Seredkin_ShineAbstraction/FoyerPolar.hdr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MaximSeredkin.ShineAbstraction/Comps/Maxim_Seredkin_ShineAbstraction/Maxim_Seredkin_ShineAbstraction.comp?ref_type=heads">Comps/Maxim_Seredkin_ShineAbstraction/Maxim_Seredkin_ShineAbstraction.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MaximSeredkin.ShineAbstraction/Comps/Maxim_Seredkin_ShineAbstraction/stone_topaz.png?ref_type=heads">Comps/Maxim_Seredkin_ShineAbstraction/stone_topaz.png</a></li>
+</ul>

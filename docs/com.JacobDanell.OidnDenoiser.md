@@ -52,17 +52,19 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### macOS
 
-> Plugins/Oidn Denoiser/Oidn_Denoiser.plugin  
-> Plugins/Oidn Denoiser/libOpenImageDenoise.0.dylib  
-> Plugins/Oidn Denoiser/libtbb.dylib  
-> Plugins/Oidn Denoiser/libtbbmalloc.dylib  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Mac/Plugins/Oidn Denoiser/Oidn_Denoiser.plugin?ref_type=heads">Plugins/Oidn Denoiser/Oidn_Denoiser.plugin</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Mac/Plugins/Oidn Denoiser/libOpenImageDenoise.0.dylib?ref_type=heads">Plugins/Oidn Denoiser/libOpenImageDenoise.0.dylib</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Mac/Plugins/Oidn Denoiser/libtbb.dylib?ref_type=heads">Plugins/Oidn Denoiser/libtbb.dylib</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Mac/Plugins/Oidn Denoiser/libtbbmalloc.dylib?ref_type=heads">Plugins/Oidn Denoiser/libtbbmalloc.dylib</a></li>
 
 ### Windows
 
-> Plugins/Oidn Denoiser/Oidn_Denoiser.plugin  
-> Plugins/Oidn Denoiser/OpenImageDenoise.dll  
-> Plugins/Oidn Denoiser/tbb.dll  
-> Plugins/Oidn Denoiser/tbbmalloc.dll  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Windows/Plugins/Oidn Denoiser/Oidn_Denoiser.plugin?ref_type=heads">Plugins/Oidn Denoiser/Oidn_Denoiser.plugin</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Windows/Plugins/Oidn Denoiser/OpenImageDenoise.dll?ref_type=heads">Plugins/Oidn Denoiser/OpenImageDenoise.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Windows/Plugins/Oidn Denoiser/tbb.dll?ref_type=heads">Plugins/Oidn Denoiser/tbb.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/Windows/Plugins/Oidn Denoiser/tbbmalloc.dll?ref_type=heads">Plugins/Oidn Denoiser/tbbmalloc.dll</a></li>

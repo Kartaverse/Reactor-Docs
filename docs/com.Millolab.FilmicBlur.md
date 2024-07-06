@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/FilmicBlur.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.FilmicBlur/Macros/Blur/FilmicBlur.setting?ref_type=heads">Macros/Blur/FilmicBlur.setting</a></li>
+</ul>

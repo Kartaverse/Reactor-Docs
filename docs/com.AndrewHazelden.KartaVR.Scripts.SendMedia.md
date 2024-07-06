@@ -44,57 +44,59 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/KartaVR/Send Media to/Edit Send Media to Preferences.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Scripts/Comp/KartaVR/Send Media to/Edit Send Media to Preferences.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Edit Send Media to Preferences.lua</a></li>
+</ul>
 
 ### Linux
 
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Linux/Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Linux/Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua</a></li>
 
 ### macOS
 
-> Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Mac/Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua</a></li>
 
 ### Windows
 
-> Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Corel Photo Paint.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Corel Photo Paint.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua  
-> Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Open 360 Video Metadata Tool.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Designer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Affinity Photo.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to After Effects.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Autopano Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Corel Photo Paint.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Corel Photo Paint.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Hugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Illustrator.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to PTGui.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Photomatix Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Frame to Photoshop.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Designer.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Affinity Photo.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to After Effects.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Autopano Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Corel Photo Paint.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Corel Photo Paint.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Hugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Illustrator.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to PTGui.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Photomatix Pro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to Photoshop.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia/Windows/Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua?ref_type=heads">Scripts/Comp/KartaVR/Send Media to/Send Media to TouchDesigner.lua</a></li>

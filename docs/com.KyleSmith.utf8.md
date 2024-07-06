@@ -27,4 +27,6 @@ ___
 
 ### Common (No Architecture)
 
-> Modules/Lua/utf8.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.KyleSmith.utf8/Modules/Lua/utf8.lua?ref_type=heads">Modules/Lua/utf8.lua</a></li>
+</ul>

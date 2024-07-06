@@ -34,4 +34,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/Real Shadow.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.LearnNowFX.RealShadow/Fuses/Effect/Real Shadow.fuse?ref_type=heads">Fuses/Effect/Real Shadow.fuse</a></li>
+</ul>

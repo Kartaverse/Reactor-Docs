@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Filter/SkinCorrector.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SkinCorrector/Macros/Filter/SkinCorrector.setting?ref_type=heads">Macros/Filter/SkinCorrector.setting</a></li>
+</ul>

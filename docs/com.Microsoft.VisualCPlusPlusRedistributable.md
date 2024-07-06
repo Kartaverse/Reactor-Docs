@@ -39,20 +39,22 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Windows
 
-> Bin/Windows/Visual C++ Redistributable/dotNetFx35_ReadMe.htm  
-> Bin/Windows/Visual C++ Redistributable/dotNetFx35_setup.exe  
-> Bin/Windows/Visual C++ Redistributable/dotNetFx45_ReadMe.htm  
-> Bin/Windows/Visual C++ Redistributable/dotNetFx45_setup.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x64.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x86.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x64.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x86.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x64.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x86.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x64.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x86.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x64.exe  
-> Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x86.exe  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/dotNetFx35_ReadMe.htm?ref_type=heads">Bin/Windows/Visual C++ Redistributable/dotNetFx35_ReadMe.htm</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/dotNetFx35_setup.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/dotNetFx35_setup.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/dotNetFx45_ReadMe.htm?ref_type=heads">Bin/Windows/Visual C++ Redistributable/dotNetFx45_ReadMe.htm</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/dotNetFx45_setup.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/dotNetFx45_setup.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x64.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x86.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2010_x86.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x64.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x86.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2013_x86.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x64.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x86.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2015_x86.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x64.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x86.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2017_x86.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x64.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Microsoft.VisualCPlusPlusRedistributable/Windows/Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x86.exe?ref_type=heads">Bin/Windows/Visual C++ Redistributable/vcredist_vs2019_x86.exe</a></li>

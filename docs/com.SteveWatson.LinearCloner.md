@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Effect/LinearCloner.Fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.SteveWatson.LinearCloner/Fuses/Effect/LinearCloner.Fuse?ref_type=heads">Fuses/Effect/LinearCloner.Fuse</a></li>
+</ul>

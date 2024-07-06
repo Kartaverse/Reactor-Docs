@@ -78,4 +78,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/IO/NetLoader.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.NetLoader/Fuses/IO/NetLoader.fuse?ref_type=heads">Fuses/IO/NetLoader.fuse</a></li>
+</ul>

@@ -31,5 +31,7 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Matte/KAKr.fuse  
-> Macros/Matte/KAK.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.KAK/Fuses/Matte/KAKr.fuse?ref_type=heads">Fuses/Matte/KAKr.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.KAK/Macros/Matte/KAK.setting?ref_type=heads">Macros/Matte/KAK.setting</a></li>
+</ul>

@@ -27,5 +27,7 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Creator/SparseColor.fuse  
-> Fuses/Creator/SparseColor.cl  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.SparseColor/Fuses/Creator/SparseColor.fuse?ref_type=heads">Fuses/Creator/SparseColor.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.StefanIhringer.SparseColor/Fuses/Creator/SparseColor.cl?ref_type=heads">Fuses/Creator/SparseColor.cl</a></li>
+</ul>

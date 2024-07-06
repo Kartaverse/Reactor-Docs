@@ -35,5 +35,7 @@ ___
 
 ### Common (No Architecture)
 
-> Docs/com.Exosite.LuaYAML.md  
-> Modules/Lua/yaml.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Exosite.LuaYAML/Docs/com.Exosite.LuaYAML.md?ref_type=heads">Docs/com.Exosite.LuaYAML.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Exosite.LuaYAML/Modules/Lua/yaml.lua?ref_type=heads">Modules/Lua/yaml.lua</a></li>
+</ul>

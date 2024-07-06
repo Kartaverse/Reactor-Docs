@@ -35,23 +35,25 @@ ___
 
 ### Common (No Architecture)
 
-> Docs/Telemetry Parser/Python Module.md  
-> Docs/Telemetry Parser/README.md  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Docs/Telemetry Parser/Python Module.md?ref_type=heads">Docs/Telemetry Parser/Python Module.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Docs/Telemetry Parser/README.md?ref_type=heads">Docs/Telemetry Parser/README.md</a></li>
+</ul>
 
 ### Linux
 
-> Bin/Linux/Telemetry Parser/README.md  
-> Bin/Linux/Telemetry Parser/gyro2bb-linux64  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Linux/Bin/Linux/Telemetry Parser/README.md?ref_type=heads">Bin/Linux/Telemetry Parser/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Linux/Bin/Linux/Telemetry Parser/gyro2bb-linux64?ref_type=heads">Bin/Linux/Telemetry Parser/gyro2bb-linux64</a></li>
 
 ### macOS
 
-> Bin/macOS/Telemetry Parser/README.md  
-> Bin/macOS/Telemetry Parser/gyro2bb-mac-arm64  
-> Bin/macOS/Telemetry Parser/gyro2bb-mac64  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Mac/Bin/macOS/Telemetry Parser/README.md?ref_type=heads">Bin/macOS/Telemetry Parser/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Mac/Bin/macOS/Telemetry Parser/gyro2bb-mac-arm64?ref_type=heads">Bin/macOS/Telemetry Parser/gyro2bb-mac-arm64</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Mac/Bin/macOS/Telemetry Parser/gyro2bb-mac64?ref_type=heads">Bin/macOS/Telemetry Parser/gyro2bb-mac64</a></li>
 
 ### Windows
 
-> Bin/Windows/Telemetry Parser/README.md  
-> Bin/Windows/Telemetry Parser/gyro2bb-windows-arm64.exe  
-> Bin/Windows/Telemetry Parser/gyro2bb-windows32.exe  
-> Bin/Windows/Telemetry Parser/gyro2bb-windows64.exe  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Windows/Bin/Windows/Telemetry Parser/README.md?ref_type=heads">Bin/Windows/Telemetry Parser/README.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Windows/Bin/Windows/Telemetry Parser/gyro2bb-windows-arm64.exe?ref_type=heads">Bin/Windows/Telemetry Parser/gyro2bb-windows-arm64.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Windows/Bin/Windows/Telemetry Parser/gyro2bb-windows32.exe?ref_type=heads">Bin/Windows/Telemetry Parser/gyro2bb-windows32.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AdrianEddy.TelemetryParser/Windows/Bin/Windows/Telemetry Parser/gyro2bb-windows64.exe?ref_type=heads">Bin/Windows/Telemetry Parser/gyro2bb-windows64.exe</a></li>

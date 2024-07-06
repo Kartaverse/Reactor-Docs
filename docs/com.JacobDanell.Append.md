@@ -41,4 +41,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Composite/Append.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Append/Fuses/Composite/Append.fuse?ref_type=heads">Fuses/Composite/Append.fuse</a></li>
+</ul>

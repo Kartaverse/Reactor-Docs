@@ -34,4 +34,6 @@ ___
 
 ### Common (No Architecture)
 
-> Config/cave_of_fusion_menus.fu  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.CaveOfFusion/Config/cave_of_fusion_menus.fu?ref_type=heads">Config/cave_of_fusion_menus.fu</a></li>
+</ul>

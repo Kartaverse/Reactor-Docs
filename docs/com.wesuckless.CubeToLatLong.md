@@ -26,4 +26,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Warp/CubeToLatLong.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.CubeToLatLong/Fuses/Warp/CubeToLatLong.fuse?ref_type=heads">Fuses/Warp/CubeToLatLong.fuse</a></li>
+</ul>

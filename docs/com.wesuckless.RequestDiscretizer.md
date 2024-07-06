@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Modifiers/RequestDiscretizer.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.RequestDiscretizer/Fuses/Modifiers/RequestDiscretizer.fuse?ref_type=heads">Fuses/Modifiers/RequestDiscretizer.fuse</a></li>
+</ul>

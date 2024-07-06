@@ -25,4 +25,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/Star Glow.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.DavidKohen.StarGlow/Macros/Blur/Star Glow.setting?ref_type=heads">Macros/Blur/Star Glow.setting</a></li>
+</ul>

@@ -83,20 +83,22 @@ ___
 
 ### Common (No Architecture)
 
+<ul>
+</ul>
 
 ### Linux
 
-> Bin/sqlite3/LICENSE.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Linux/Bin/sqlite3/LICENSE.txt?ref_type=heads">Bin/sqlite3/LICENSE.txt</a></li>
 
 ### macOS
 
-> Bin/sqlite3/LICENSE.txt  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Mac/Bin/sqlite3/LICENSE.txt?ref_type=heads">Bin/sqlite3/LICENSE.txt</a></li>
 
 ### Windows
 
-> Bin/sqlite3/LICENSE.txt  
-> Bin/sqlite3/sqldiff.exe  
-> Bin/sqlite3/sqlite3.def  
-> Bin/sqlite3/sqlite3.dll  
-> Bin/sqlite3/sqlite3.exe  
-> Bin/sqlite3/sqlite3_analyzer.exe  
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/LICENSE.txt?ref_type=heads">Bin/sqlite3/LICENSE.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/sqldiff.exe?ref_type=heads">Bin/sqlite3/sqldiff.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/sqlite3.def?ref_type=heads">Bin/sqlite3/sqlite3.def</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/sqlite3.dll?ref_type=heads">Bin/sqlite3/sqlite3.dll</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/sqlite3.exe?ref_type=heads">Bin/sqlite3/sqlite3.exe</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.Sqlite3/Windows/Bin/sqlite3/sqlite3_analyzer.exe?ref_type=heads">Bin/sqlite3/sqlite3_analyzer.exe</a></li>

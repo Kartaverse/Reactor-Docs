@@ -28,5 +28,7 @@ ___
 
 ### Common (No Architecture)
 
-> Scripts/Comp/hos_SplitEXR_Ultra.lua  
-> Scripts/Tool/hos_SplitEXR_Ultra.lua  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HouseOfSecrets.hos_SplitEXR_Ultra/Scripts/Comp/hos_SplitEXR_Ultra.lua?ref_type=heads">Scripts/Comp/hos_SplitEXR_Ultra.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.HouseOfSecrets.hos_SplitEXR_Ultra/Scripts/Tool/hos_SplitEXR_Ultra.lua?ref_type=heads">Scripts/Tool/hos_SplitEXR_Ultra.lua</a></li>
+</ul>

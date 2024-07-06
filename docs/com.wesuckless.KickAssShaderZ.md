@@ -52,394 +52,396 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/KickAss ShaderZ/PBR/kas_KickAssPBR.comp  
-> Comps/KickAss ShaderZ/PBR/kas_PBRCookTorrance.comp  
-> Comps/KickAss ShaderZ/UDIM/kas_PreviewUDIM.comp  
-> Comps/KickAss ShaderZ/UDIM/kas_ProbeUDIM.comp  
-> Comps/KickAss ShaderZ/UDIM/kas_TransformTexCoord3D.comp  
-> Comps/KickAss ShaderZ/kas_Atomic.comp  
-> Comps/KickAss ShaderZ/kas_Chrome.comp  
-> Comps/KickAss ShaderZ/kas_CobaltBlueCarbonFibre.comp  
-> Comps/KickAss ShaderZ/kas_DarkBlueIceShard.comp  
-> Comps/KickAss ShaderZ/kas_GlassDeepBlue.comp  
-> Comps/KickAss ShaderZ/kas_GlassDeepRuby.comp  
-> Comps/KickAss ShaderZ/kas_GlassDirty.comp  
-> Comps/KickAss ShaderZ/kas_GlassQuartzScratched.comp  
-> Comps/KickAss ShaderZ/kas_Gold.comp  
-> Comps/KickAss ShaderZ/kas_GreenEctoplasm.comp  
-> Comps/KickAss ShaderZ/kas_GreyCheckerboard.comp  
-> Comps/KickAss ShaderZ/kas_HeatShield.comp  
-> Comps/KickAss ShaderZ/kas_IconSaver.comp  
-> Comps/KickAss ShaderZ/kas_IridescentBlue.comp  
-> Comps/KickAss ShaderZ/kas_MarbleStone.comp  
-> Comps/KickAss ShaderZ/kas_MetalGalvanized.comp  
-> Comps/KickAss ShaderZ/kas_MetalScuzzy.comp  
-> Comps/KickAss ShaderZ/kas_Ocean.comp  
-> Comps/KickAss ShaderZ/kas_OrganicMote.comp  
-> Comps/KickAss ShaderZ/kas_Parkland.comp  
-> Comps/KickAss ShaderZ/kas_Radioactive.comp  
-> Comps/KickAss ShaderZ/kas_RedBloodCell.comp  
-> Comps/KickAss ShaderZ/kas_RustyNail.comp  
-> Comps/KickAss ShaderZ/kas_ShaderBall.comp  
-> Comps/KickAss ShaderZ/kas_ShaderBallDragon.comp  
-> Comps/KickAss ShaderZ/kas_ShaderPreview.comp  
-> Comps/KickAss ShaderZ/kas_SimonsTownRocks.comp  
-> Comps/KickAss ShaderZ/kas_StNicholasChurch.comp  
-> Comps/KickAss ShaderZ/kas_StoneWall.comp  
-> Comps/KickAss ShaderZ/kas_VelvetyMoss.comp  
-> Comps/KickAss ShaderZ/kas_VolcanicMagma.comp  
-> Comps/KickAss ShaderZ/kas_Xray.comp  
-> Docs/KickAss ShaderZ/KickAss ShaderZ.htm  
-> Docs/KickAss ShaderZ/images/fusion_studio_v16_effects_tab.png  
-> Docs/KickAss ShaderZ/images/kas_atom_package.png  
-> Docs/KickAss ShaderZ/images/kas_content_browser.png  
-> Docs/KickAss ShaderZ/images/kas_menus.png  
-> Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro.png  
-> Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_editor.png  
-> Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_file.png  
-> Docs/KickAss ShaderZ/images/select_tool_dialog.png  
-> Docs/KickAss ShaderZ/images/shader_texture_input_connections.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Atomic.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Chrome.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_CobaltBlueCarbonFibre.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_DarkBlueIceShard.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepBlue.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepRuby.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GlassDirty.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GlassQuartzScratched.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Gold.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GreenEctoplasm.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_GreyCheckerboard.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_HeatShield.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_IconSaver.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_IridescentBlue.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_MarbleStone.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_MetalGalvanized.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_MetalScuzzy.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Ocean.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_OrganicMote.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Parkland.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Radioactive.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_RedBloodCell.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_RustyNail.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_ShaderBall.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_ShaderBallDragon.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_ShaderPreview.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_SimonsTownRocks.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_StNicholasChurch.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_StoneWall.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_VelvetyMoss.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_VolcanicMagma.png  
-> Docs/KickAss ShaderZ/images/swatches/kas_Xray.png  
-> Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_BaseColor.png  
-> Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Height.png  
-> Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Metallic.png  
-> Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Normal.png  
-> Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Roughness.png  
-> Macros/KickAss ShaderZ/Assets/UDIM_CubeGearVR.obj  
-> Macros/KickAss ShaderZ/Assets/UDIM_PlaneU0V0.obj  
-> Macros/KickAss ShaderZ/Assets/UDIM_PlaneU1V0.obj  
-> Macros/KickAss ShaderZ/Assets/kas_AgedScratchedSteelPlate.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_AgedSteelPlate.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_DarkBlueIceShard_Normal.png  
-> Macros/KickAss ShaderZ/Assets/kas_GalvanizedSheetMetal.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_IconSaver.afphoto  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_AO.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Albedo.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Displacement.exr  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Gloss.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Normal.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Roughness.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_Parkland.exr  
-> Macros/KickAss ShaderZ/Assets/kas_ShaderBall.obj  
-> Macros/KickAss ShaderZ/Assets/kas_ShaderBallDragon.obj  
-> Macros/KickAss ShaderZ/Assets/kas_Simons_Town_Rocks_CapeTown_SouthAfrica_IBL.exr  
-> Macros/KickAss ShaderZ/Assets/kas_StNicholasChurch_IBL.exr  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_AO.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Albedo.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Bump.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Cavity.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.exr  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Gloss.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Normal.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Roughness.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_StoneWall_Specular.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_AO.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Albedo.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Displacement.png  
-> Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Normal.jpg  
-> Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Specular.jpg  
-> Macros/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting  
-> Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp  
-> Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt  
-> Macros/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting  
-> Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting  
-> Macros/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt  
-> Scripts/Comp/KickAss ShaderZ/About KickAss ShaderZ....lua  
-> Scripts/Comp/KickAss ShaderZ/Content Browser....lua  
-> Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/Install the CustomShader3D Plugin.lua  
-> Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.lua  
-> Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.lua  
-> Scripts/Comp/KickAss ShaderZ/PBR ShaderZ/kas_stub_folder.txt  
-> Scripts/Comp/KickAss ShaderZ/Resources/KAS HTML Documentation.lua  
-> Scripts/Comp/KickAss ShaderZ/Resources/KAS WSL Discussion.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Package ShaderZ for Reactor.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Save Selection to Macro.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Comps Folder.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Config Folder.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Docs.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Macros Folder.lua  
-> Scripts/Comp/KickAss ShaderZ/Tools/Substance PBR Import.lua  
-> Scripts/Tool/KickAss ShaderZ/Substance PBR Import.lua  
-> Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting  
-> Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp  
-> Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt  
-> Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting  
-> Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting  
-> Templates/Fusion/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/PBR/kas_KickAssPBR.comp?ref_type=heads">Comps/KickAss ShaderZ/PBR/kas_KickAssPBR.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/PBR/kas_PBRCookTorrance.comp?ref_type=heads">Comps/KickAss ShaderZ/PBR/kas_PBRCookTorrance.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/UDIM/kas_PreviewUDIM.comp?ref_type=heads">Comps/KickAss ShaderZ/UDIM/kas_PreviewUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/UDIM/kas_ProbeUDIM.comp?ref_type=heads">Comps/KickAss ShaderZ/UDIM/kas_ProbeUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/UDIM/kas_TransformTexCoord3D.comp?ref_type=heads">Comps/KickAss ShaderZ/UDIM/kas_TransformTexCoord3D.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Atomic.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Atomic.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Chrome.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Chrome.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_CobaltBlueCarbonFibre.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_CobaltBlueCarbonFibre.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_DarkBlueIceShard.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_DarkBlueIceShard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GlassDeepBlue.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GlassDeepBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GlassDeepRuby.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GlassDeepRuby.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GlassDirty.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GlassDirty.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GlassQuartzScratched.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GlassQuartzScratched.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Gold.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Gold.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GreenEctoplasm.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GreenEctoplasm.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_GreyCheckerboard.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_GreyCheckerboard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_HeatShield.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_HeatShield.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_IconSaver.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_IconSaver.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_IridescentBlue.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_IridescentBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_MarbleStone.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_MarbleStone.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_MetalGalvanized.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_MetalGalvanized.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_MetalScuzzy.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_MetalScuzzy.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Ocean.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Ocean.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_OrganicMote.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_OrganicMote.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Parkland.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Parkland.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Radioactive.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Radioactive.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_RedBloodCell.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_RedBloodCell.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_RustyNail.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_RustyNail.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_ShaderBall.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_ShaderBall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_ShaderBallDragon.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_ShaderBallDragon.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_ShaderPreview.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_ShaderPreview.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_SimonsTownRocks.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_SimonsTownRocks.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_StNicholasChurch.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_StNicholasChurch.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_StoneWall.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_StoneWall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_VelvetyMoss.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_VelvetyMoss.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_VolcanicMagma.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_VolcanicMagma.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Comps/KickAss ShaderZ/kas_Xray.comp?ref_type=heads">Comps/KickAss ShaderZ/kas_Xray.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/KickAss ShaderZ.htm?ref_type=heads">Docs/KickAss ShaderZ/KickAss ShaderZ.htm</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/fusion_studio_v16_effects_tab.png?ref_type=heads">Docs/KickAss ShaderZ/images/fusion_studio_v16_effects_tab.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_atom_package.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_atom_package.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_content_browser.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_content_browser.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_menus.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_menus.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_editor.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_editor.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_file.png?ref_type=heads">Docs/KickAss ShaderZ/images/kas_menus_tools_save_selection_to_macro_save_file.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/select_tool_dialog.png?ref_type=heads">Docs/KickAss ShaderZ/images/select_tool_dialog.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/shader_texture_input_connections.png?ref_type=heads">Docs/KickAss ShaderZ/images/shader_texture_input_connections.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Atomic.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Atomic.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Chrome.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Chrome.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_CobaltBlueCarbonFibre.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_CobaltBlueCarbonFibre.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_DarkBlueIceShard.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_DarkBlueIceShard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepBlue.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepRuby.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GlassDeepRuby.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GlassDirty.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GlassDirty.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GlassQuartzScratched.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GlassQuartzScratched.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Gold.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Gold.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GreenEctoplasm.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GreenEctoplasm.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_GreyCheckerboard.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_GreyCheckerboard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_HeatShield.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_HeatShield.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_IconSaver.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_IconSaver.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_IridescentBlue.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_IridescentBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_MarbleStone.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_MarbleStone.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_MetalGalvanized.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_MetalGalvanized.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_MetalScuzzy.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_MetalScuzzy.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Ocean.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Ocean.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_OrganicMote.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_OrganicMote.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Parkland.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Parkland.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Radioactive.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Radioactive.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_RedBloodCell.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_RedBloodCell.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_RustyNail.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_RustyNail.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_ShaderBall.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_ShaderBall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_ShaderBallDragon.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_ShaderBallDragon.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_ShaderPreview.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_ShaderPreview.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_SimonsTownRocks.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_SimonsTownRocks.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_StNicholasChurch.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_StNicholasChurch.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_StoneWall.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_StoneWall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_VelvetyMoss.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_VelvetyMoss.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_VolcanicMagma.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_VolcanicMagma.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Docs/KickAss ShaderZ/images/swatches/kas_Xray.png?ref_type=heads">Docs/KickAss ShaderZ/images/swatches/kas_Xray.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_BaseColor.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_BaseColor.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Height.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Height.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Metallic.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Metallic.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Normal.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Normal.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Roughness.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/PreviewSphere_Sphere_Roughness.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/UDIM_CubeGearVR.obj?ref_type=heads">Macros/KickAss ShaderZ/Assets/UDIM_CubeGearVR.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/UDIM_PlaneU0V0.obj?ref_type=heads">Macros/KickAss ShaderZ/Assets/UDIM_PlaneU0V0.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/UDIM_PlaneU1V0.obj?ref_type=heads">Macros/KickAss ShaderZ/Assets/UDIM_PlaneU1V0.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_AgedScratchedSteelPlate.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_AgedScratchedSteelPlate.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_AgedSteelPlate.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_AgedSteelPlate.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_DarkBlueIceShard_Normal.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_DarkBlueIceShard_Normal.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_GalvanizedSheetMetal.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_GalvanizedSheetMetal.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_IconSaver.afphoto?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_IconSaver.afphoto</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_AO.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_AO.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Albedo.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Albedo.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Displacement.exr?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Displacement.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Gloss.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Gloss.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Normal.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Normal.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Roughness.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_MarbleStone_Roughness.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_Parkland.exr?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_Parkland.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_ShaderBall.obj?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_ShaderBall.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_ShaderBallDragon.obj?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_ShaderBallDragon.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_Simons_Town_Rocks_CapeTown_SouthAfrica_IBL.exr?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_Simons_Town_Rocks_CapeTown_SouthAfrica_IBL.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StNicholasChurch_IBL.exr?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StNicholasChurch_IBL.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_AO.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_AO.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Albedo.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Albedo.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Bump.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Bump.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Cavity.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Cavity.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.exr?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Displacement.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Gloss.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Gloss.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Normal.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Normal.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Roughness.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Roughness.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_StoneWall_Specular.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_StoneWall_Specular.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_AO.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_AO.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Albedo.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Albedo.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Displacement.png?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Displacement.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Normal.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Normal.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Specular.jpg?ref_type=heads">Macros/KickAss ShaderZ/Assets/kas_VolcanicMagma_Specular.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting?ref_type=heads">Macros/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp?ref_type=heads">Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt?ref_type=heads">Macros/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png?ref_type=heads">Macros/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting?ref_type=heads">Macros/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Macros/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt?ref_type=heads">Macros/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/About KickAss ShaderZ....lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/About KickAss ShaderZ....lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Content Browser....lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Content Browser....lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/Install the CustomShader3D Plugin.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/Install the CustomShader3D Plugin.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/PBR ShaderZ/kas_stub_folder.txt?ref_type=heads">Scripts/Comp/KickAss ShaderZ/PBR ShaderZ/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Resources/KAS HTML Documentation.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Resources/KAS HTML Documentation.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Resources/KAS WSL Discussion.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Resources/KAS WSL Discussion.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Package ShaderZ for Reactor.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Package ShaderZ for Reactor.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Save Selection to Macro.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Save Selection to Macro.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Comps Folder.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Comps Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Config Folder.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Config Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Docs.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Docs.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Macros Folder.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Show KAS Macros Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Comp/KickAss ShaderZ/Tools/Substance PBR Import.lua?ref_type=heads">Scripts/Comp/KickAss ShaderZ/Tools/Substance PBR Import.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Scripts/Tool/KickAss ShaderZ/Substance PBR Import.lua?ref_type=heads">Scripts/Tool/KickAss ShaderZ/Substance PBR Import.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/KickAssPBR.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_KickAssPBR.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt?ref_type=heads">Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/Source Compositions/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/CustomShader3D ShaderZ/kas_KickAssPBR.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_Parkland.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_SimonsTownRocks.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/HDRI/kas_StNicholasChurch.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Atomic.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Chrome.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_CobaltBlueCarbonFibre.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepBlue.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDeepRuby.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassDirty.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_GlassQuartzScratched.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Gold.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_HeatShield.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalGalvanized.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_MetalScuzzy.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Radioactive.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_RustyNail.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Industrial/kas_Xray.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_DarkBlueIceShard.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_GreenEctoplasm.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_IridescentBlue.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_MarbleStone.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_Ocean.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_OrganicMote.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_RedBloodCell.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_StoneWall.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VelvetyMoss.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Natural/kas_VolcanicMagma.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/PBR/kas_PBRCookTorrance.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Production/kas_stub_folder.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/PBR/kas_PBRCookTorrance.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_PreviewUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_ProbeUDIM.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/UDIM/kas_TransformTexCoord3D.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Atomic.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Chrome.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_CobaltBlueCarbonFibre.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_DarkBlueIceShard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDeepRuby.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassDirty.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GlassQuartzScratched.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Gold.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreenEctoplasm.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_GreyCheckerboard.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_HeatShield.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IconSaver.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_IridescentBlue.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MarbleStone.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalGalvanized.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_MetalScuzzy.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Ocean.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_OrganicMote.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Parkland.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Radioactive.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RedBloodCell.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_RustyNail.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderBallDragon.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_ShaderPreview.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_SimonsTownRocks.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StNicholasChurch.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_StoneWall.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VelvetyMoss.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_VolcanicMagma.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Source Compositions/kas_Xray.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_GreyCheckerboard.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_IconSaver.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_PreviewUDIM.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ProbeUDIM.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBall.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderBallDragon.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_ShaderPreview.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting?ref_type=heads">Templates/Fusion/KickAss ShaderZ/Native ShaderZ/Utility/kas_TransformTexCoord3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.KickAssShaderZ/Templates/Fusion/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt?ref_type=heads">Templates/Fusion/KickAss ShaderZ/PBR ShaderZ/Source Compositions/kas_stub_folder.txt</a></li>
+</ul>

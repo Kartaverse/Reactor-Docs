@@ -34,5 +34,7 @@ ___
 
 ### Common (No Architecture)
 
-> Comps/Kartaverse/KartaVP/kvrCreateStereo/kvrCreateStereo.comp  
-> Fuses/Kartaverse/KartaVP/Warp/kvrCreateStereo.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo/Comps/Kartaverse/KartaVP/kvrCreateStereo/kvrCreateStereo.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrCreateStereo/kvrCreateStereo.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo/Fuses/Kartaverse/KartaVP/Warp/kvrCreateStereo.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrCreateStereo.fuse</a></li>
+</ul>

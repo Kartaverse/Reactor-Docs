@@ -33,4 +33,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/Blur/DepthDefocus.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.GregoryChalenko.DepthDefocus/Macros/Blur/DepthDefocus.setting?ref_type=heads">Macros/Blur/DepthDefocus.setting</a></li>
+</ul>

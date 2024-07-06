@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Macros/an/Xf_CleanMix.setting  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.an.Xf_Cleanmix/Macros/an/Xf_CleanMix.setting?ref_type=heads">Macros/an/Xf_CleanMix.setting</a></li>
+</ul>

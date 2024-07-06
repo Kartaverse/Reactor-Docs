@@ -23,4 +23,6 @@ ___
 
 ### Common (No Architecture)
 
-> Fuses/Composite/MT_MultiMerge.fuse  
+<ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.MuseVFX.MultiMerge/Fuses/Composite/MT_MultiMerge.fuse?ref_type=heads">Fuses/Composite/MT_MultiMerge.fuse</a></li>
+</ul>
