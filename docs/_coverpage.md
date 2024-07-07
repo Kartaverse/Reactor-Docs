@@ -8,5 +8,6 @@
 
 - Generated with Fusion Studio 19 and the "Atom to Markdown" script.
 
-[GitHub](https://github.com/Kartaverse/Reactor-Docs)
 [Get Started](#reactor-atom-packages)
+[About Reactor](reactor.md)
+[GitHub](https://github.com/Kartaverse/Reactor-Docs)
