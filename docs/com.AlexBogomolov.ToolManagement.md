@@ -58,6 +58,11 @@ The main difference between them: <code>Tool Tagger</code> uses comp data to sto
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AlexBogomolov.ToolManagement.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AlexBogomolov.ToolManagement)  
+
 ## Dependencies
 
 ## Deploy

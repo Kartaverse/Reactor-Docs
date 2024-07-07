@@ -24,6 +24,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="https://paypal.me/Millolab">https://paypal.me/Millolab</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Millolab.FastExpoGlow.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Millolab.FastExpoGlow)  
+
 ## Dependencies
 
 ## Deploy

@@ -28,6 +28,11 @@ Lua-CBOR is licensed using the MIT license.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Zash.Lua-CBOR.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Zash.Lua-CBOR)  
+
 ## Dependencies
 
 ## Deploy

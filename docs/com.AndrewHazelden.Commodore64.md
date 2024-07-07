@@ -25,6 +25,11 @@ READY.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.Commodore64.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.Commodore64)  
+
 ## Dependencies
 
 ## Deploy

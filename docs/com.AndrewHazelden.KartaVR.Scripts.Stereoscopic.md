@@ -23,6 +23,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.Scripts.Stereoscopic.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.Scripts.Stereoscopic)  
+
 ## Dependencies
 
 ## Deploy

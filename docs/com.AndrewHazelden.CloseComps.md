@@ -36,6 +36,11 @@ You can use the "File &gt; Close Comps To Right" menu item.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.CloseComps.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.CloseComps)  
+
 ## Dependencies
 
 ## Deploy

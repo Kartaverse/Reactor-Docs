@@ -33,6 +33,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$5 USD".  
 You can donate using the URL: <a href="https://www.paypal.me/BryanRayVFX">https://www.paypal.me/BryanRayVFX</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.MuseVFX.RedshiftUtilities.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.MuseVFX.RedshiftUtilities)  
+
 ## Dependencies
 
 > [com.MuseVFX.RSCameraExtractor](com.MuseVFX.RSCameraExtractor.md)  

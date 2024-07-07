@@ -19,6 +19,11 @@ ___
 
 ## Donation
 The author of the atom has suggested a donation of "".  
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.SteveWatson.LinearCloner.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.SteveWatson.LinearCloner)  
+
 ## Dependencies
 
 ## Deploy

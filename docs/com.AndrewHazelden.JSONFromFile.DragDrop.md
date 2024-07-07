@@ -19,6 +19,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.JSONFromFile.DragDrop.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.JSONFromFile.DragDrop)  
+
 ## Dependencies
 
 > [com.Vonk.FusionJSON](com.Vonk.FusionJSON.md)  

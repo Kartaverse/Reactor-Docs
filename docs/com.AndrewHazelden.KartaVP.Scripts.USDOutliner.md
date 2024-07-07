@@ -20,6 +20,11 @@ Resolve/Fusion v18.5-19+ is required to use this script since it relies on the U
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVP.Scripts.USDOutliner.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVP.Scripts.USDOutliner)  
+
 ## Dependencies
 
 ## Deploy

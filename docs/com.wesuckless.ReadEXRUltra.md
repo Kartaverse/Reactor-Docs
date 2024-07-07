@@ -33,6 +33,11 @@ An introduction video covering the EXRIO Fuse development on We Suck Less. Fusio
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.ReadEXRUltra.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.ReadEXRUltra)  
+
 ## Dependencies
 
 ## Deploy

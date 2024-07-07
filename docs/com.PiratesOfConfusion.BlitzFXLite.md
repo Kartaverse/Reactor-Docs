@@ -23,6 +23,11 @@ Beta builds will be available to Patrons of Confusion, accompanied by exclusive 
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.PiratesOfConfusion.BlitzFXLite.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.PiratesOfConfusion.BlitzFXLite)  
+
 ## Dependencies
 
 ## Deploy

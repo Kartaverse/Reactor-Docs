@@ -29,6 +29,11 @@ the code of ui.ColorPicker snippet example from Greg Bovine.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AlbertoGZ.ColorLabels.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AlbertoGZ.ColorLabels)  
+
 ## Dependencies
 
 ## Deploy

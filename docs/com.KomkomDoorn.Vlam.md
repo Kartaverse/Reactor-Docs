@@ -40,6 +40,11 @@ Digital Fusion version by Raf Schoenmakers &lt;raf@komkomdoorn.com&gt;</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.KomkomDoorn.Vlam.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.KomkomDoorn.Vlam)  
+
 ## Dependencies
 
 ## Deploy

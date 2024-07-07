@@ -42,6 +42,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "5".  
 You can donate using the URL: <a href="https://noahhaehnel.gumroad.com/">https://noahhaehnel.gumroad.com/</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.NoahH.ChangeStrings.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.NoahH.ChangeStrings)  
+
 ## Dependencies
 
 ## Deploy

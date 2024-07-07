@@ -39,6 +39,11 @@ which will be installed in the Tools menu under Macros/Sprut.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.PieterVanHoute.Sprut.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.PieterVanHoute.Sprut)  
+
 ## Dependencies
 
 > [com.wesuckless.Switch](com.wesuckless.Switch.md)  

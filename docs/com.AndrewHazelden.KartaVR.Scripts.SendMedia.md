@@ -38,6 +38,11 @@ TouchDesigner provides HMD connectivity support, the ability to have multiple li
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.Scripts.SendMedia.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.Scripts.SendMedia)  
+
 ## Dependencies
 
 ## Deploy

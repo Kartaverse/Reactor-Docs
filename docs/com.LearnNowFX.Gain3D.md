@@ -35,6 +35,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.LearnNowFX.Gain3D.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.LearnNowFX.Gain3D)  
+
 ## Dependencies
 
 ## Deploy

@@ -17,6 +17,11 @@ Adds Fusion 9 updated versions of the classic Eyeon Fusion v6.4 - v7 era legacy 
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.EyeonLegacy.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.EyeonLegacy)  
+
 ## Dependencies
 
 ## Deploy

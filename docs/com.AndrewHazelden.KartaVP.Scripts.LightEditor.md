@@ -23,6 +23,11 @@ Python v3.6+ is required as well.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVP.Scripts.LightEditor.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVP.Scripts.LightEditor)  
+
 ## Dependencies
 
 ## Deploy

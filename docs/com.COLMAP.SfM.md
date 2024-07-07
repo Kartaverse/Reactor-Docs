@@ -30,6 +30,11 @@ COLMAP was created by Johannes L. Schönberger, Enliang Zheng, Jan-Michael Frahm
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.COLMAP.SfM.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.COLMAP.SfM)  
+
 ## Dependencies
 
 ## Deploy

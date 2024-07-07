@@ -27,6 +27,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="https://www.patreon.com/wesuckless">https://www.patreon.com/wesuckless</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.PieterVanHoute.Clampus.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.PieterVanHoute.Clampus)  
+
 ## Dependencies
 
 ## Deploy

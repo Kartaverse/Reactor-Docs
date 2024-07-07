@@ -20,6 +20,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.MichaelVorberg.ObjectsCreatedfromParticles.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.MichaelVorberg.ObjectsCreatedfromParticles)  
+
 ## Dependencies
 
 ## Deploy

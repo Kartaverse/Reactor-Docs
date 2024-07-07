@@ -26,6 +26,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.FuScriptIDE.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.FuScriptIDE)  
+
 ## Dependencies
 
 ## Deploy

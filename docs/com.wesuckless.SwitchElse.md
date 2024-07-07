@@ -17,6 +17,11 @@ Switch between the available inputs, fallback to Else if the Switch input is nil
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.SwitchElse.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.SwitchElse)  
+
 ## Dependencies
 
 ## Deploy

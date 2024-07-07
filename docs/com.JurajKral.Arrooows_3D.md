@@ -23,6 +23,11 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=1293</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JurajKral.Arrooows_3D.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JurajKral.Arrooows_3D)  
+
 ## Dependencies
 
 ## Deploy

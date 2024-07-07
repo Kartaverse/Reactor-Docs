@@ -102,6 +102,11 @@ Comp:/${COMP}/${COMP}_${NODE}.$06d.exr</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.LifeSaver.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.LifeSaver)  
+
 ## Dependencies
 
 ## Deploy

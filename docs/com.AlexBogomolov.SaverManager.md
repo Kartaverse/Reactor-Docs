@@ -27,6 +27,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AlexBogomolov.SaverManager.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AlexBogomolov.SaverManager)  
+
 ## Dependencies
 
 > [com.AlexBogomolov.LoaderFromSaver](com.AlexBogomolov.LoaderFromSaver.md)  

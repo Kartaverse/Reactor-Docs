@@ -45,6 +45,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$1".  
 You can donate using the URL: <a href="https://www.paypal.me/danell/1">https://www.paypal.me/danell/1</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JacobDanell.Snapshot.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JacobDanell.Snapshot)  
+
 ## Dependencies
 
 ## Deploy

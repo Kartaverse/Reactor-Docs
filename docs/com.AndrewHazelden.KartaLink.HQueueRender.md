@@ -30,6 +30,11 @@ ERROR: Could not run command.</blockquote>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaLink.HQueueRender.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaLink.HQueueRender)  
+
 ## Dependencies
 
 ## Deploy

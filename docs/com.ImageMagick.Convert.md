@@ -31,6 +31,11 @@ https://www.imagemagick.org/Usage/</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.ImageMagick.Convert.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.ImageMagick.Convert)  
+
 ## Dependencies
 
 ## Deploy

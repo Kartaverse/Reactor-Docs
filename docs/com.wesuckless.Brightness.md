@@ -17,6 +17,11 @@ A simple brightness Fuse.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.Brightness.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.Brightness)  
+
 ## Dependencies
 
 ## Deploy

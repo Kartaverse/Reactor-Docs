@@ -22,6 +22,11 @@ Beta builds of the Blitz Fuse will be available to Patrons of Confusion, accompa
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.PiratesOfConfusion.BlitzFXDemo.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.PiratesOfConfusion.BlitzFXDemo)  
+
 ## Dependencies
 
 > [com.ChristopherNodal.MultistepBlur](com.ChristopherNodal.MultistepBlur.md)  

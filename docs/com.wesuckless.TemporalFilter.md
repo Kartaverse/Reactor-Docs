@@ -17,6 +17,11 @@ Temporal Filter Fuse
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.TemporalFilter.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.TemporalFilter)  
+
 ## Dependencies
 
 ## Deploy

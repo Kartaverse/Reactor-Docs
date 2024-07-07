@@ -57,6 +57,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.PieterVanHoute.SuckLessAudio.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.PieterVanHoute.SuckLessAudio)  
+
 ## Dependencies
 
 ## Deploy

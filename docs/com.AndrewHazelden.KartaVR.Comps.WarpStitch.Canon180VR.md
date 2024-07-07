@@ -26,6 +26,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.Comps.WarpStitch.Canon180VR.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.Canon180VR)  
+
 ## Dependencies
 
 ## Deploy

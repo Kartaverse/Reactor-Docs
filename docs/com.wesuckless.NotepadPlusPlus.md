@@ -88,6 +88,11 @@ The following Fusion centric document formats are automatically syntax highlight
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.NotepadPlusPlus.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.NotepadPlusPlus)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.OpenInScriptEditor](com.AndrewHazelden.OpenInScriptEditor.md)  

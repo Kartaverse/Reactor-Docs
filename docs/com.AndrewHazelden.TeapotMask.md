@@ -29,6 +29,11 @@ Reactor:/Deploy/Comps/Teapot.comp</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.TeapotMask.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.TeapotMask)  
+
 ## Dependencies
 
 ## Deploy

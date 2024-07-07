@@ -19,6 +19,11 @@ The Original setup was made by Bryan Ray and was made into a Macro by David Kohe
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.DavidKohen.StarGlow.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.DavidKohen.StarGlow)  
+
 ## Dependencies
 
 ## Deploy

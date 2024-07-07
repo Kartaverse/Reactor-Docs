@@ -25,6 +25,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "€3.00 EUR".  
 You can donate using the URL: <a href="https://www.paypal.me/DunnLewis">https://www.paypal.me/DunnLewis</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.DunnLewis.Flux_Transform.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.DunnLewis.Flux_Transform)  
+
 ## Dependencies
 
 ## Deploy

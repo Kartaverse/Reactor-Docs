@@ -41,6 +41,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$5.00".  
 You can donate using the URL: <a href="https://www.paypal.me/AsherRoland">https://www.paypal.me/AsherRoland</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AsherRoland.AnimUtility.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AsherRoland.AnimUtility)  
+
 ## Dependencies
 
 ## Deploy

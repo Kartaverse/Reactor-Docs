@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 06.22 PM
+Atom to Markdown.py - v1.6 2024-07-06 09.00 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -23,6 +23,7 @@ Todo
 - List if there is an InstallScript/UninstallScript
 - Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
 - Parse description content for a file:// based "Reactor:" URL path.
+- Update the "Atomz Expand.py" script to handle GitLab repo directly package zipped files
 """
 
 import os, shutil, datetime, math, re, csv, platform
@@ -214,6 +215,10 @@ def MarkdownCreate(folder):
 									except Exception as error:
 										print("\t[Error]", error)
 
+
+							fAtom.write("## Download\n\n")
+							fAtom.write("Download a zipped atom package for offline installation:\n")
+							fAtom.write("> [" + str(dirName + ".zip") + "](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/" + dirName + ")  \n\n")
 
 							fAtom.write("## Dependencies\n\n")
 							#print("\n[Deploy][All]")

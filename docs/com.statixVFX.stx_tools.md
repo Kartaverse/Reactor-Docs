@@ -20,6 +20,11 @@ https://github.com/statixVFX/stx_tools</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.statixVFX.stx_tools.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.statixVFX.stx_tools)  
+
 ## Dependencies
 
 ## Deploy

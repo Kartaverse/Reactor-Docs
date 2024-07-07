@@ -24,6 +24,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "5.00".  
 You can donate using the URL: <a href="https://paypal.me/BryanRayVFX">https://paypal.me/BryanRayVFX</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.BryanRay.SetTimeCode.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.BryanRay.SetTimeCode)  
+
 ## Dependencies
 
 ## Deploy

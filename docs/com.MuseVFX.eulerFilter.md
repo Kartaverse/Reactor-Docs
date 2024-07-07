@@ -28,6 +28,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="https://www.paypal.com/paypalme/BryanRayVFX">https://www.paypal.com/paypalme/BryanRayVFX</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.MuseVFX.eulerFilter.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.MuseVFX.eulerFilter)  
+
 ## Dependencies
 
 ## Deploy

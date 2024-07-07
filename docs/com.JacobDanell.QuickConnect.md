@@ -32,6 +32,11 @@ Make sure you arrange your nodes to the grid as the nodes has to be horisontal o
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JacobDanell.QuickConnect.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JacobDanell.QuickConnect)  
+
 ## Dependencies
 
 ## Deploy

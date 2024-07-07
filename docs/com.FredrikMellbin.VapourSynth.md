@@ -65,6 +65,11 @@ FatCow free icons, distributed under Creative Commons Attribution 3.0 License.</
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.FredrikMellbin.VapourSynth.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.FredrikMellbin.VapourSynth)  
+
 ## Dependencies
 
 ## Deploy

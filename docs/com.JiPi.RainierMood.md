@@ -60,6 +60,11 @@ If you can use it very well, it would be great if you supporte WSL ( <a href="ht
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JiPi.RainierMood.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JiPi.RainierMood)  
+
 ## Dependencies
 
 ## Deploy

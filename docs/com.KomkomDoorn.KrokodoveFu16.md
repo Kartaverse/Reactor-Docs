@@ -50,6 +50,11 @@ To uninstall, follow the removal instructions below.</h3>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.KomkomDoorn.KrokodoveFu16.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.KomkomDoorn.KrokodoveFu16)  
+
 ## Dependencies
 
 ## Deploy

@@ -29,6 +29,11 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?p=13229#p13229</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.Atomizer.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.Atomizer)  
+
 ## Dependencies
 
 ## Deploy

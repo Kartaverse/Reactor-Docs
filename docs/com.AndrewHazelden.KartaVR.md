@@ -59,6 +59,11 @@ The Kartaverse plug-in works inside of Blackmagic Design's Resolve and Fusion so
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.KartaLink.MediaCommand](com.AndrewHazelden.KartaLink.MediaCommand.md)  

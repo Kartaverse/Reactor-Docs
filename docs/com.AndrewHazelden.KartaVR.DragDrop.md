@@ -32,6 +32,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.DragDrop.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.DragDrop)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.KartaVR.Scripts.Stitching](com.AndrewHazelden.KartaVR.Scripts.Stitching.md)  

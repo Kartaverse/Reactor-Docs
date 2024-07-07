@@ -17,6 +17,11 @@ Testing platform specific deploy.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.WindowsOnly.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.WindowsOnly)  
+
 ## Dependencies
 
 ## Deploy

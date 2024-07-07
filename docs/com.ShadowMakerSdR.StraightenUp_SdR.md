@@ -27,6 +27,11 @@ https://www.youtube.com/watch?v=y2nWTsthVnQ</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.ShadowMakerSdR.StraightenUp_SdR.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.ShadowMakerSdR.StraightenUp_SdR)  
+
 ## Dependencies
 
 ## Deploy

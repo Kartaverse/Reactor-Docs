@@ -17,6 +17,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.NyanCat.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.NyanCat)  
+
 ## Dependencies
 
 > [com.wesuckless.Switch](com.wesuckless.Switch.md)  

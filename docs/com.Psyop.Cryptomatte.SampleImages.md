@@ -40,6 +40,11 @@ By <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Psyop.Cryptomatte.SampleImages.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Psyop.Cryptomatte.SampleImages)  
+
 ## Dependencies
 
 ## Deploy

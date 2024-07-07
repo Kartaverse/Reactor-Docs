@@ -100,6 +100,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "5".  
 You can donate using the URL: <a href="https://paypal.me/danell">https://paypal.me/danell</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JacobDanell.STMapper.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JacobDanell.STMapper)  
+
 ## Dependencies
 
 ## Deploy

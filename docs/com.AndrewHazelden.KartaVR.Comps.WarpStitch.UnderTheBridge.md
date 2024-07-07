@@ -25,6 +25,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.Comps.WarpStitch.UnderTheBridge.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.UnderTheBridge)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.KartaVR.Tools.Reframe360](com.AndrewHazelden.KartaVR.Tools.Reframe360.md)  

@@ -20,6 +20,11 @@ Change the range slider to get a broader selection of colors.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JacobDanell.SoloColor.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JacobDanell.SoloColor)  
+
 ## Dependencies
 
 ## Deploy

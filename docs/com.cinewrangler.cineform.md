@@ -71,6 +71,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="http://www.paypal.me/cinewrangler">http://www.paypal.me/cinewrangler</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.cinewrangler.cineform.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.cinewrangler.cineform)  
+
 ## Dependencies
 
 ## Deploy

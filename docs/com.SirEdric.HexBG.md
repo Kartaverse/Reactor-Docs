@@ -27,6 +27,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "€1.00 EUR".  
 You can donate using the URL: <a href="https://www.paypal.me/SirEdric">https://www.paypal.me/SirEdric</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.SirEdric.HexBG.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.SirEdric.HexBG)  
+
 ## Dependencies
 
 ## Deploy

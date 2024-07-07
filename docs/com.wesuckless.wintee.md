@@ -43,6 +43,11 @@ The Wintee atom was packaged by Andrew Hazelden.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.wintee.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.wintee)  
+
 ## Dependencies
 
 ## Deploy

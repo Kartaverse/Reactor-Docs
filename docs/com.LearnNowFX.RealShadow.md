@@ -28,6 +28,11 @@ A Tool to Create Realistic Soft Long Shadows for use in 2D Motion Graphics
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.LearnNowFX.RealShadow.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.LearnNowFX.RealShadow)  
+
 ## Dependencies
 
 ## Deploy

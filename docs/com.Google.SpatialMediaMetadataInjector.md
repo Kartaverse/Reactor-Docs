@@ -24,6 +24,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Google.SpatialMediaMetadataInjector.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Google.SpatialMediaMetadataInjector)  
+
 ## Dependencies
 
 ## Deploy

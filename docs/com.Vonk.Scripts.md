@@ -21,6 +21,11 @@ The Vonk scripts are licensed under a GPL v3 license.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Vonk.Scripts.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Vonk.Scripts)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.JSONFromFile.DragDrop](com.AndrewHazelden.JSONFromFile.DragDrop.md)  

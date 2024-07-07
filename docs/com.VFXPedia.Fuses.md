@@ -85,6 +85,11 @@ https://www.steakunderwater.com/VFXPedia/96.0.243.189/index8be6.html?title=Eyeon
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.VFXPedia.Fuses.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.VFXPedia.Fuses)  
+
 ## Dependencies
 
 ## Deploy

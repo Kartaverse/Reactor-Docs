@@ -29,6 +29,11 @@ Created by Dominic Letz of Exosite, based upon js-lua</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Exosite.LuaYAML.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Exosite.LuaYAML)  
+
 ## Dependencies
 
 ## Deploy

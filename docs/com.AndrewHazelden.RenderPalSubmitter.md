@@ -28,6 +28,11 @@ https://www.renderpal.com/download/renderpal-v2
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.RenderPalSubmitter.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.RenderPalSubmitter)  
+
 ## Dependencies
 
 ## Deploy

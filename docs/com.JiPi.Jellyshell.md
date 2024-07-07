@@ -62,6 +62,11 @@ If you can use it very well, it would be great if you supported WSL ( <a href="h
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.JiPi.Jellyshell.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.JiPi.Jellyshell)  
+
 ## Dependencies
 
 ## Deploy

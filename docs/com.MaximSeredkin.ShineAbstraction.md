@@ -28,6 +28,11 @@ https://vimeo.com/252500998</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.MaximSeredkin.ShineAbstraction.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.MaximSeredkin.ShineAbstraction)  
+
 ## Dependencies
 
 > [com.KomkomDoorn.Krokodove](com.KomkomDoorn.Krokodove.md)  

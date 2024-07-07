@@ -17,6 +17,11 @@ Creates a colorful transformation effect, very suitable for chromatic aberration
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.StefanIhringer.XfChroma.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.StefanIhringer.XfChroma)  
+
 ## Dependencies
 
 ## Deploy

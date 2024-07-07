@@ -20,6 +20,11 @@ https://github.com/statixVFX/nuke2fusion</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.statixVFX.nuke2fusion.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.statixVFX.nuke2fusion)  
+
 ## Dependencies
 
 ## Deploy

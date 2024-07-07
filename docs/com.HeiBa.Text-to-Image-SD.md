@@ -35,6 +35,11 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "2".  
 You can donate using the URL: <a href="https://www.paypal.me/HEIBAWK">https://www.paypal.me/HEIBAWK</a>
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.HeiBa.Text-to-Image-SD.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.HeiBa.Text-to-Image-SD)  
+
 ## Dependencies
 
 ## Deploy

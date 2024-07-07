@@ -48,6 +48,11 @@ The Resolve Essentials atom package provides a collection of scripts, macros, an
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.ResolveEssentials.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.ResolveEssentials)  
+
 ## Dependencies
 
 ## Deploy

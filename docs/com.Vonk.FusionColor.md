@@ -28,6 +28,11 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Vonk.FusionColor.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Vonk.FusionColor)  
+
 ## Dependencies
 
 > [com.MichaelLutz.LuaMatrix](com.MichaelLutz.LuaMatrix.md)  

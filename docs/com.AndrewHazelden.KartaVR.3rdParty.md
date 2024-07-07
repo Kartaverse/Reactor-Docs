@@ -56,6 +56,11 @@ Technical support for Kartaverse/KartaVR is handled by the official <a href="htt
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.3rdParty.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.3rdParty)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.LifeSaver](com.AndrewHazelden.LifeSaver.md)  

@@ -32,6 +32,11 @@ The <a href="https://docs.google.com/document/d/1DXnF47CK7dteF7lidwek5-lwy5qB75n
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.OCA.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.OCA)  
+
 ## Dependencies
 
 ## Deploy

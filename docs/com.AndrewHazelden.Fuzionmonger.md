@@ -17,6 +17,11 @@ This script is a re-make of the classic Eyeon Fusion "FUZIONMONGER" easter egg d
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.Fuzionmonger.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.Fuzionmonger)  
+
 ## Dependencies
 
 ## Deploy

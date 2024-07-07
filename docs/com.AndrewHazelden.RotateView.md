@@ -21,6 +21,11 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?p=14255#p14255</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.RotateView.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.RotateView)  
+
 ## Dependencies
 
 ## Deploy

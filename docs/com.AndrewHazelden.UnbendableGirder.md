@@ -17,6 +17,11 @@ This Bender3D macro is a re-make of the classic Eyeon Fusion "Unbendable Girder"
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.UnbendableGirder.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.UnbendableGirder)  
+
 ## Dependencies
 
 ## Deploy

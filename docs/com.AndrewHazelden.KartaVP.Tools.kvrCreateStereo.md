@@ -28,6 +28,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo)  
+
 ## Dependencies
 
 ## Deploy

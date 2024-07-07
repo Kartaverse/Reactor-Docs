@@ -22,6 +22,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.EgorSkriptunoff.WindowsANSICodePage.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.EgorSkriptunoff.WindowsANSICodePage)  
+
 ## Dependencies
 
 ## Deploy

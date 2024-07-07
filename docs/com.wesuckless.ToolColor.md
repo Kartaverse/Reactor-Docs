@@ -17,6 +17,11 @@ A script that allows you to set the color of tools as you add them.
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.ToolColor.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.ToolColor)  
+
 ## Dependencies
 
 ## Deploy

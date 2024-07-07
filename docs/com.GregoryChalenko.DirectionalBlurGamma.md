@@ -20,6 +20,11 @@ http://www.compositing.ru</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.GregoryChalenko.DirectionalBlurGamma.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.GregoryChalenko.DirectionalBlurGamma)  
+
 ## Dependencies
 
 ## Deploy

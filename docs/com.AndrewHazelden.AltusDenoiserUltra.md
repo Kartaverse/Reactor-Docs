@@ -87,6 +87,11 @@ https://www.innobright.com/about-altus/</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.AltusDenoiserUltra.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.AltusDenoiserUltra)  
+
 ## Dependencies
 
 > [com.wesuckless.SwitchElse](com.wesuckless.SwitchElse.md)  

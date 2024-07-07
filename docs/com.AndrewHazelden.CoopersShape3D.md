@@ -27,6 +27,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.CoopersShape3D.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.CoopersShape3D)  
+
 ## Dependencies
 
 ## Deploy

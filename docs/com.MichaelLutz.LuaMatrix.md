@@ -30,6 +30,11 @@ Bug fixes/comments: Geoff Richards, SatheeshJM, Martin Ossmann, and others.</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.MichaelLutz.LuaMatrix.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.MichaelLutz.LuaMatrix)  
+
 ## Dependencies
 
 ## Deploy

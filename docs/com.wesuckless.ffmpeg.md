@@ -62,6 +62,11 @@ sudo pacman -S ffmpeg
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.ffmpeg.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.ffmpeg)  
+
 ## Dependencies
 
 ## Deploy

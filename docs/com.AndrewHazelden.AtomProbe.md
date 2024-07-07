@@ -25,6 +25,11 @@ fuscript -x 'fusion = bmd.scriptapp("Fusion", "localhost");if fusion ~= nil then
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.AtomProbe.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.AtomProbe)  
+
 ## Dependencies
 
 ## Deploy

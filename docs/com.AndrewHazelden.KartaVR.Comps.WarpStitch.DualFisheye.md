@@ -30,6 +30,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye)  
+
 ## Dependencies
 
 > [com.AndrewHazelden.KartaVP.Tools.kvrCropStereo](com.AndrewHazelden.KartaVP.Tools.kvrCropStereo.md)  

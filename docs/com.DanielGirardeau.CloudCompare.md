@@ -24,6 +24,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.DanielGirardeau.CloudCompare.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.DanielGirardeau.CloudCompare)  
+
 ## Dependencies
 
 ## Deploy

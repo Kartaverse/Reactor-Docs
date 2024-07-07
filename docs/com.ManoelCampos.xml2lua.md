@@ -23,6 +23,11 @@ By <a href="http://about.me/manoelcampos">Manoel Campos da Silva Filho</a> and <
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.ManoelCampos.xml2lua.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.ManoelCampos.xml2lua)  
+
 ## Dependencies
 
 ## Deploy

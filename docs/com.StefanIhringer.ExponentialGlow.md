@@ -30,6 +30,11 @@ http://pigsfly.com/index.php?/topic/8208-lightswoosh/?hl=exponentialglow</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.StefanIhringer.ExponentialGlow.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.StefanIhringer.ExponentialGlow)  
+
 ## Dependencies
 
 ## Deploy

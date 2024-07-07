@@ -17,6 +17,11 @@ This Fuse uses Dimension's motion vectors to auto-stabilize an image or smooth t
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.StefanIhringer.SmoothCam.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.StefanIhringer.SmoothCam)  
+
 ## Dependencies
 
 ## Deploy

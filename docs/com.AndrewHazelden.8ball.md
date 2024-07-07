@@ -25,6 +25,11 @@ or
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.8ball.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.8ball)  
+
 ## Dependencies
 
 ## Deploy

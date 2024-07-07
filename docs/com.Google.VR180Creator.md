@@ -25,6 +25,11 @@ ___
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.Google.VR180Creator.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.Google.VR180Creator)  
+
 ## Dependencies
 
 ## Deploy

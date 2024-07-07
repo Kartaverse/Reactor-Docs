@@ -39,6 +39,11 @@ You can also access the Krokodove Showcase Fusion .comp files using the &quot;Re
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.KomkomDoorn.Krokodove.Showcase.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.KomkomDoorn.Krokodove.Showcase)  
+
 ## Dependencies
 
 ## Deploy

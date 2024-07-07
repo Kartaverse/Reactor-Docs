@@ -77,6 +77,11 @@ cam4.mp4    Sm2MpVideoClip  97841817-6456-4784-9362-7455e835197b
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AndrewHazelden.Sqlite3.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.Sqlite3)  
+
 ## Dependencies
 
 ## Deploy

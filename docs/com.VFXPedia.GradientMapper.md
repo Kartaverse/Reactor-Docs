@@ -24,6 +24,11 @@ https://www.steakunderwater.com/VFXPedia/96.0.243.189/index0127.html?title=Setti
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.VFXPedia.GradientMapper.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.VFXPedia.GradientMapper)  
+
 ## Dependencies
 
 ## Deploy

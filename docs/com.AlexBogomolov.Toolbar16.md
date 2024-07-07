@@ -73,6 +73,11 @@ Launch script with shortcut, the window position will be saved in Fusion data, a
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.AlexBogomolov.Toolbar16.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AlexBogomolov.Toolbar16)  
+
 ## Dependencies
 
 ## Deploy

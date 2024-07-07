@@ -20,6 +20,11 @@ https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=799</p>
 
 ___
 
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.wesuckless.CubeToLatLong.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.wesuckless.CubeToLatLong)  
+
 ## Dependencies
 
 ## Deploy
