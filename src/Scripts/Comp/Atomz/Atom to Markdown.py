@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-06 09.00 PM
+Atom to Markdown.py - v1.6 2024-07-07 01.27 AM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -147,6 +147,8 @@ def MarkdownCreate(folder):
 		with open(mdSidebar, "w", encoding="utf-8") as fBar:
 			fBar.write("""<!-- docs/_sidebar.md -->
 - [Home](/)
+- [Reactor](reactor.md)
+- **Atoms**
 """)
 
 			# Generate the atom package list
@@ -176,7 +178,7 @@ def MarkdownCreate(folder):
 						html = GetValue("Description", atomDict, "")
 
 						# Sidebar atom entry
-						fBar.write("- [" + name + "](" + mdFileName + ")\n")
+						fBar.write("  - [" + name + "](" + mdFileName + ")\n")
 
 						# Create the atom markdown file
 						with open(mdFilepath, "w", encoding="utf-8") as fAtom:
@@ -297,6 +299,12 @@ def MarkdownCreate(folder):
 					timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
 					#print(atomFilepath, "->", mdFilepath, timeFormatted)
 					print(mdFileName, timeFormatted)
+			# Sidebar atom entry
+			fBar.write("""- **Links**
+  - [WSL Forum](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067)
+  - [Reactor Atoms Repo](https://gitlab.com/WeSuckLess/Reactor)
+  - [Reactor Docs Repo](https://github.com/Kartaverse/Reactor-Docs)
+""")
 	print("-------------------------------------")
 
 if __name__ == "__main__":
