@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>This macro performs an iterative Merge operation. Useful for increasing the opacity of translucent elements such as smoke. Find it in Macros &gt; Effect.</p>
-	
+
 
 ___
 

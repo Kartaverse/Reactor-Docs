@@ -22,8 +22,8 @@ ___
 <h2>DCTL Fuse Support Requirements</h2>
 
 <ul>
-	<li>An OpenCL, CUDA, or Metal based GPU</li>
-	<li>Fusion Studio 17-19+ or Resolve 17-19+</li>
+<li>An OpenCL, CUDA, or Metal based GPU</li>
+<li>Fusion Studio 17-19+ or Resolve 17-19+</li>
 </ul>
 
 <h2>Open Source Software License</h2>
@@ -31,7 +31,6 @@ ___
 
 <h2>Under the Bridge Example</h2>
 <p>The "Under the Bridge" example stitching comp is now available as a separate atom package in Reactor. This streamlines the installation of the WarpStitch Ultra fuse.</p>
-
 
 ___
 

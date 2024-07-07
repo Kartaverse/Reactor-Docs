@@ -25,7 +25,6 @@ ___
 <p><strong>Trim End:</strong> It is not uncommon for an animation to not entirely fill out a sprite sheet, leaving one or more empty frames in the last row. This control can be used to trim those empty frames off, allowing for a seamless loop.
 
 
-
 ___
 
 ## Download

@@ -30,7 +30,6 @@ Get GhostScript:<br>
 https://www.ghostscript.com/download.html<br>
 
 
-
 ___
 
 ## Donation

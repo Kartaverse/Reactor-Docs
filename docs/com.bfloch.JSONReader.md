@@ -19,9 +19,9 @@ ___
 
 <p>Given a JSON dataset like:</p>
 <pre>{
-   "dataset": {
-        "metadata": &#91;"Hello", "World"&#93;
-   }
+"dataset": {
+"metadata": &#91;"Hello", "World"&#93;
+}
 }</pre>
 <p>... loaded from a file, and a Key set to:</p>
 <pre>dataset.metadata.2</pre>
@@ -36,7 +36,6 @@ ___
 
 <p>In order to access keys with . the separator can be changed.</p>
 <p>If the JSON file can not be loaded, or the field is not found a default value can be supplied. It will be returned as fallback by the modifier.</p>
-
 
 
 

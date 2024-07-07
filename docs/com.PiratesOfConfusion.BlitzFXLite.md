@@ -18,7 +18,7 @@ ___
 This is only the Lite version with very basic functionality and some limitations. New features will be added in the upcoming months.<br><br>
 Blitz Fx is and will be completely free for you to use commercially as you please.<br>
 No gold donation needed, although a bottle of Rum is always welcome.<br><br>
-Beta builds will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty: 
+Beta builds will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty:
 <a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
 
 ___

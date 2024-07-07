@@ -18,7 +18,6 @@ ___
 <p>Open-Source License<br>
 The Vonk scripts are licensed under a GPL v3 license.</p>
 
-
 ___
 
 ## Download

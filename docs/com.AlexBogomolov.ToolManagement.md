@@ -14,7 +14,7 @@ ___
 
 ## Description
 <h1>Tool Management scripts</h1>
-<p>This submission installs two scripts that allow to manage multiple tools at once. They essentially do the same job, but internally work differently, so you can choose, which tool to use. 
+<p>This submission installs two scripts that allow to manage multiple tools at once. They essentially do the same job, but internally work differently, so you can choose, which tool to use.
 The main difference between them: <code>Tool Tagger</code> uses comp data to store tool tags and select them based on this data. <code>Tool Comment Manager</code> works on a per-tool basis and stores tags in a tool's comments section. Thus, you can have a visible representation of the tagged tools in a flow (if you hover with the mouse over the tool, you'll see the tag, assigned to it, prepended with <code>%</code> symbol). This tool will erase any comment already assigned to the tagged tool, so don't use it if you want them to be intact.</p>
 <p>Either of these scripts is a great companion to a recently released to Reactor <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=35321#p35321">Attribute Spreadseet script</a>. Tag some tools with a Tool Management script and select these tools to adjust inputs with the <code>Attribute spreadsheet</code>. This is a very convenient workflow once you get used to it.</p>
 <h2>Tool Tagger</h2>
@@ -30,7 +30,7 @@ The main difference between them: <code>Tool Tagger</code> uses comp data to sto
 <li>Click <code>Set Tag</code> or hit <code>Enter</code> to add tag to selected tools. The tag will appear in comments list.</li>
 <li>Now click Disable, and only tools with assigned tag will be disabled.</li>
 <li>Press <code>Delete Tag</code> button to delete the tag from the list and from the comp data.</li>
-<li>You can Exclude the tool(s) from particular tag with the dedicated button. 
+<li>You can Exclude the tool(s) from particular tag with the dedicated button.
 <li>Doubleclick on a tag to select tha tagged tools</li>
 <li>Use Refresh button to load tags in a different comp without relaunching the script</li>
 </ol>
@@ -53,7 +53,6 @@ The main difference between them: <code>Tool Tagger</code> uses comp data to sto
 <p><em>License:</em> <a href="https://mit-license.org/">MIT</a></p>
 <p><em>Version:</em> v.1.3 - &#91;2020/12/08&#93;</p>
 <i>update v1.31</i>: fix Resolve 17 compatibility (omit __flags data)<li>
-
 
 
 ___

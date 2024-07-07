@@ -27,10 +27,10 @@ To uninstall, follow the removal instructions below.</h3>
 
 <p>While Fusion is running, plugin files are write protected by the OS. Please follow these steps if you are updating Krokodove through Reactor:</p>
 <ol>
-	<li>Select the <strong>Reactor > Advanced > Show Reactor Folder</strong> menu item. An Explorer folder browsing window will appear.</li>
-	<li>Quit Fusion so the plugin file is not write locked.</li>
-	<li>Navigate to the <strong>"<a href="Reactor:/Deploy/Plugins/">Reactor:/Deploy/Plugins/</a>"</strong> folder using the Explorer folder browsing window and manually throw out the <strong>"KrokodoveFu17.plugin"</strong> file.</li>
-	<li>Fusion can be restarted and the new KKD plugin can be installed using Reactor.</li>
+<li>Select the <strong>Reactor > Advanced > Show Reactor Folder</strong> menu item. An Explorer folder browsing window will appear.</li>
+<li>Quit Fusion so the plugin file is not write locked.</li>
+<li>Navigate to the <strong>"<a href="Reactor:/Deploy/Plugins/">Reactor:/Deploy/Plugins/</a>"</strong> folder using the Explorer folder browsing window and manually throw out the <strong>"KrokodoveFu17.plugin"</strong> file.</li>
+<li>Fusion can be restarted and the new KKD plugin can be installed using Reactor.</li>
 </ol>
 
 <h2>Krokodove on macOS</h2>
@@ -38,7 +38,7 @@ To uninstall, follow the removal instructions below.</h3>
 <p>The Krokodove plugin is a universal binary release that includes ARM64 and Intel64 architecture support. macOS Big Sur 10.15 is the minimum OS requirement to be able to use the KKD plugin.</p>
 
 <h2>License</h2>
-<p>Krokodove is distributed for free.<br> 
+<p>Krokodove is distributed for free.<br>
 
 <h2>Krokodove Blog:</h2>
 <p>http://www.krokodove.com</p>

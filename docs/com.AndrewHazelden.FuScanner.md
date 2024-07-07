@@ -21,7 +21,6 @@ ___
 
 <p>Single click on a row to copy the filepath to your clipboard. Double click on a row to open the containing folder. Scroll the Tree view horizontally to the right to see the extra columns.</p>
 
-
 ___
 
 ## Download

@@ -35,7 +35,6 @@ TouchDesigner provides HMD connectivity support, the ability to have multiple li
 <a href="file://Reactor:/Deploy/Scripts/Comp/KartaVR/Send Media to/">Reactor:/Deploy/Scripts/Comp/KartaVR/Send Media to/</a></p>
 
 
-
 ___
 
 ## Download

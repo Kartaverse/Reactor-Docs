@@ -16,9 +16,9 @@ ___
 <p>Tracker Plus is a Tracker node with added functionality:</p>
 
 <pre>
-	tracking of single frames forward and backward
-	setting and changing a reference frame (!)
-	exporting linked or baked Transform nodes from the Tracker
+tracking of single frames forward and backward
+setting and changing a reference frame (!)
+exporting linked or baked Transform nodes from the Tracker
 </pre>
 
 <h2>For More Information:</h2>

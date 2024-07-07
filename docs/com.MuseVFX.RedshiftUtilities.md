@@ -17,10 +17,10 @@ ___
 
 
 <ul>
-	<li>Redshift Camera Extractor. Makes it easy to control a Camera3D using image metadata from a Redshift render.</li>
-	<li>A Camera3D Default file for use with the Camera Extractor. </li>
-	<li>Redshift Photographic Exposure. Match the appearance of the Redshift post-processing in comp.</li>
-	<li>Redshift Vector Flipper. Conform normals and position AOVs to Fusion's preferred format.</li>
+<li>Redshift Camera Extractor. Makes it easy to control a Camera3D using image metadata from a Redshift render.</li>
+<li>A Camera3D Default file for use with the Camera Extractor. </li>
+<li>Redshift Photographic Exposure. Match the appearance of the Redshift post-processing in comp.</li>
+<li>Redshift Vector Flipper. Conform normals and position AOVs to Fusion's preferred format.</li>
 </ul>
 
 <h3>Usage</h3>

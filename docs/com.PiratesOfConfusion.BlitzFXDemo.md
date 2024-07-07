@@ -17,7 +17,7 @@ ___
 <p><b>This is a demo Fusion Composite for the Pirates of Confusion Blitz FX Fuse.</b></p>
 
 This Comp uses the Blitz FX Lite Fuse which will be automatically installed with this package.<br>
-Beta builds of the Blitz Fuse will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty: 
+Beta builds of the Blitz Fuse will be available to Patrons of Confusion, accompanied by exclusive in-depth tutorials and more booty:
 <a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
 
 ___

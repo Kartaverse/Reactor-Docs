@@ -20,7 +20,7 @@ ___
 <p>The Transfer Atom Settings file is written to the Desktop folder:</p>
 
 <ul>
-	<li>$HOME/Desktop/com.Local.Reactor.TransferAtomSettings.atom</li>
+<li>$HOME/Desktop/com.Local.Reactor.TransferAtomSettings.atom</li>
 </ul>
 
 <h2>Usage Note</h2>

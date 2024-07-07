@@ -14,9 +14,9 @@ ___
 
 ## Description
 <p>Simple linear-to-sRGB and linear-to-Rec709 viewshaders with Nuke-like gain/gamma sliders.</p>
-    <p>Updated to universal fuse with Fusion/Resolve 17+ support by Alexey Bogomolov</p>
+<p>Updated to universal fuse with Fusion/Resolve 17+ support by Alexey Bogomolov</p>
 
-	
+
 
 ___
 

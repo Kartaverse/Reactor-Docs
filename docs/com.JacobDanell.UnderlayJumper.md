@@ -18,9 +18,9 @@ ___
 <p>Quickly jump to any underlay inside your comp</p>
 
 <ul>
-	<li>Move up and down in the list with your arrow keys</li>
-	<li>Search for your wanted underlay</li>
-	<li>Overview the names, colors and comments of your underlays</li>
+<li>Move up and down in the list with your arrow keys</li>
+<li>Search for your wanted underlay</li>
+<li>Overview the names, colors and comments of your underlays</li>
 </ul>
 
 <p>For more info, please check:

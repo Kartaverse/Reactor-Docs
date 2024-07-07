@@ -27,12 +27,12 @@ https://www.innobright.com/about-altus/</p>
 <p>Altus requires the following EXR image channels to be enabled in V-Ray's render settings:</p>
 
 <ul>
-	<li>rgb</li>
-	<li>DiffuseFilter</li>
-	<li>MatteShadow</li>
-	<li>Reflection</li>
-	<li>WorldNormals</li>
-	<li>WorldPositions</li>
+<li>rgb</li>
+<li>DiffuseFilter</li>
+<li>MatteShadow</li>
+<li>Reflection</li>
+<li>WorldNormals</li>
+<li>WorldPositions</li>
 </ul>
 
 <p>The fastest way to generate these render elements is to turn on the V-Ray "vrayRE_Denoiser" and "vrayRE_Matte_shadow" render elements.</p>
@@ -44,16 +44,16 @@ https://www.innobright.com/about-altus/</p>
 <p>The Altus Buffer 0 Vray for Maya MEL setting is:</p>
 
 <pre>
-	setAttr "vraySettings.dmcs_timeDependent" 0;
-	setAttr "vraySettings.dmcs_randomSeed" 0;"
+setAttr "vraySettings.dmcs_timeDependent" 0;
+setAttr "vraySettings.dmcs_randomSeed" 0;"
 </pre>
 
 
 <p>The Altus Buffer 1 Vray for Maya MEL setting is:</p>
 
 <pre>
-	setAttr "vraySettings.dmcs_timeDependent" 0;
-	setAttr "vraySettings.dmcs_randomSeed" 50000;"
+setAttr "vraySettings.dmcs_timeDependent" 0;
+setAttr "vraySettings.dmcs_randomSeed" 50000;"
 </pre>
 
 
@@ -76,7 +76,7 @@ https://www.innobright.com/about-altus/</p>
 
 <p>Step 5. Select the "AltusDenoiserUltra" macro and view its attributes in the Tools view. You can use the onscreen DoD crop handles to reduce the amount of processing Altus has to do down to a smaller cropped region.</p>
 
-<p>Step 6. The "Output Mode" control lets you switch between viewing the original "Input Image", and the "Denoised Result". When the Output Mode is seto to "Input Image" you are able to use the "Buffer" ComboControl menu to switch between viewing B0 and B1. The "Channels" ComboControl menu lets you view each of the Altus formatted EXR image channels that were extracted from your V-Ray render elements.</p> 
+<p>Step 6. The "Output Mode" control lets you switch between viewing the original "Input Image", and the "Denoised Result". When the Output Mode is seto to "Input Image" you are able to use the "Buffer" ComboControl menu to switch between viewing B0 and B1. The "Channels" ComboControl menu lets you view each of the Altus formatted EXR image channels that were extracted from your V-Ray render elements.</p>
 
 
 <h2>Notes</h2>

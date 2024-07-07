@@ -33,7 +33,6 @@ ___
 <h3>Kartaverse PT Docs</h3>
 <p><a href="https://github.com/Kartaverse/PT-Data-Nodes-Docs">https://github.com/Kartaverse/PT-Data-Nodes-Docs</a></p>
 
-
 ___
 
 ## Download

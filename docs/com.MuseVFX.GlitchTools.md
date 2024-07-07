@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>A collection of macros to simulate transmission glitches in analog and digital signals. Find them in Macros &gt; Effect &gt; Glitch.</p>
-	
+
 
 ___
 

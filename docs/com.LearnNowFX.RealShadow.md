@@ -25,7 +25,6 @@ A Tool to Create Realistic Soft Long Shadows for use in 2D Motion Graphics
 <br>Thank you</br>
 <br>Learn Now FX</br>
 
-
 ___
 
 ## Download

@@ -24,11 +24,11 @@ Digital Fusion version by Raf Schoenmakers &lt;raf@komkomdoorn.com&gt;</p>
 
 <h2>Copyright</h2>
 <ul>
-	<li>flame Copyright (C) 1992 Scott Draves.</li>
-	<li>AEFlame Copyright (C) 1999 Andrew B. Davidson.</li>
-	<li>Vlam Copyright (C) 2001 Raf Schoenmaekers.</li>
-	<li>Vlam Copyright (C) 2007 Raf Schoenmaekers (update for Fusion 5).</li>
-	<li>Vlam Copyright (C) 2018 Raf Schoenmaekers (update for Fusion 9).</li>
+<li>flame Copyright (C) 1992 Scott Draves.</li>
+<li>AEFlame Copyright (C) 1999 Andrew B. Davidson.</li>
+<li>Vlam Copyright (C) 2001 Raf Schoenmaekers.</li>
+<li>Vlam Copyright (C) 2007 Raf Schoenmaekers (update for Fusion 5).</li>
+<li>Vlam Copyright (C) 2018 Raf Schoenmaekers (update for Fusion 9).</li>
 </ul>
 
 <h2>License</h2>

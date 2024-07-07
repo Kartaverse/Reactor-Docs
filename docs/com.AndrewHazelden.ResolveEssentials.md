@@ -45,7 +45,6 @@ The Resolve Essentials atom package provides a collection of scripts, macros, an
 <h2>Resources Menu</h2>
 <p>The Resources menu allows you to quickly jump to the supporting resources that are needed to maximise your use of the Resolve Fusion page.</p>
 
-
 ___
 
 ## Download

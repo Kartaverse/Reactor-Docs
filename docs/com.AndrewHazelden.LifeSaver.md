@@ -99,7 +99,6 @@ Comp:/${COMP}/${COMP}_${NODE}.$06d.exr</p>
 <p>This would result in a rendered EXR image filename like:<br>
 /Volumes/VFX/MultiChannel/MultiChannel_LifeSaver1.000000.exr</p>
 
-
 ___
 
 ## Download

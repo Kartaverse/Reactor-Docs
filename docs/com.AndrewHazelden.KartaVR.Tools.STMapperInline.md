@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>The STMapperInline macro is a companion macro that works alongside Jacob Dannel's excellent STMapper.fuse (which is also available in Reactor). STMapperInline was implemented as an Effects Template for the Resolve Edit page. Now you can do ST Map/UV Pass warping live on the Resolve Edit page by dropping the macro onto a clip in your timeline.</p>
-	
+
 <h2>For More Information</h2>
 
 <p>There is a markdown formatted guide "STMapperInline.md" for STMapperInline that can be found on disk at:<br>
@@ -22,7 +22,6 @@ ___
 
 <p>To learn more about Jacob Dannell's original STMapper fuse:<br>
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=4429">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=4429</a></p>
-
 
 
 ___

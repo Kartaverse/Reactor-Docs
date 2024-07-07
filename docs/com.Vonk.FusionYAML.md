@@ -28,7 +28,6 @@ The example .yaml files that are used with the Fusion "Demo YAML.comp" example c
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 
-
 ___
 
 ## Download

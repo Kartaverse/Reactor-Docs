@@ -35,7 +35,7 @@ ___
 
 <p><strong>Glow Only:</strong> Turns off the Merge onto the original source image, leaving only the glows.</p>
 
-WSL Development thread: 
+WSL Development thread:
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=17&t=3275</a>
 
 ___

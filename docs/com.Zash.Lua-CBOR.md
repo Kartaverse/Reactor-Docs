@@ -25,7 +25,6 @@ Lua-CBOR is licensed using the MIT license.</p>
 
 <p><a href="http://cbor.io/">http://cbor.io/</a></p>
 
-
 ___
 
 ## Download

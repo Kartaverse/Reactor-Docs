@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>Creates elliptical blur effect with adjustable aspect and angle, so there is no need in pre/postscaling or auxiliary angular transformations of your source picture. There is also a possibility of creating squeezed zoom blur.</p>
-	
+
 <p>This tool may be especially useful to simulate fast spin of aircraft propellers and car wheels</p>
 
 <p>VFXPedia Thread:<br>

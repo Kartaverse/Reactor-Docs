@@ -33,21 +33,21 @@ ___
 <h2>Stereo Format (ComboControl)</h2>
 
 <ul>
-	<li>Mono 2D</li>
-	<li>Stereo 3D Over Under</li>
-	<li>Stereo 3D Side By Side</li>
+<li>Mono 2D</li>
+<li>Stereo 3D Over Under</li>
+<li>Stereo 3D Side By Side</li>
 </ul>
 
 
 <h2>Image Projection (ComboControl)</h2>
 
 <ul>
-	<li>None</li>
-	<li>LatLong</li>
-	<li>Vertical Cross</li>
-	<li>Horizontal Cross</li>
-	<li>Vertical Strip</li>
-	<li>Horizontal Strip</li>
+<li>None</li>
+<li>LatLong</li>
+<li>Vertical Cross</li>
+<li>Horizontal Cross</li>
+<li>Vertical Strip</li>
+<li>Horizontal Strip</li>
 </ul>
 
 

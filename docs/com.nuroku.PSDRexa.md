@@ -86,7 +86,6 @@ Also, it seems that there are cases where it does not work properly when using t
 <h1>License</h1>
 <p>This project is licensed under the GNU General Public License v3.0 (GPL-3.0) license.</p>
 
-
 ___
 
 ## Donation

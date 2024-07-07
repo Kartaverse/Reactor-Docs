@@ -35,7 +35,7 @@ https://gist.github.com/tylerneylon/59f4bcf316be525b30ab</p>
 
 <p>Download the desired .json file from the 3D-Section of any compound on that site.<br>
 Run the Script to import that structure into Fusion.</p>
-	
+
 <p>Beware! This might create humongous amounts of tools on your flow!
 Especially with interesting looking structures like:<br>
 https://pubchem.ncbi.nlm.nih.gov/compound/186342#section=2D-Structure</p>
@@ -47,9 +47,9 @@ a LineThickness of 10 and MaterialBoost of at least 2 is recommended.</p>
 
 <p>Version 1.1 changes:</p>
 <ul>
-	<li>Massive improvements for the materials and modification options.</li>
-	<li>Option to create text-labels on the atoms.</li>
-	<li>General improvements.</li>
+<li>Massive improvements for the materials and modification options.</li>
+<li>Option to create text-labels on the atoms.</li>
+<li>General improvements.</li>
 </ul>
 
 ___

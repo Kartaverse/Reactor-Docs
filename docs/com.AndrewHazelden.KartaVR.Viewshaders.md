@@ -14,9 +14,9 @@ ___
 
 ## Description
 <p>The KartaVR Viewshaders allow the Fusion Viewer window LUT system to preview immersive imagery via a novel MacroLUT based panoramic image projection transform implementation.</p>
-	
+
 <p>These nodes are relevant for Fusion 9 users. Newer versions of Fusion do not have a working "macroLUT" capability in the Fusion viewer windows.</p
-	
+
 
 ___
 

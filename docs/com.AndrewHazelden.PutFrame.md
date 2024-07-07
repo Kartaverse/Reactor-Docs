@@ -24,14 +24,13 @@ ___
 <p>If fuse writing TDs ever wanted to access external CLI based image denoiser libraries, OpenCV, Tensor AI/machine learning tools, hardware video I/O tools, NDI network frame sharing tools, Syphon, Imagemagick, FFmpeg, or anything else that takes an image input and generates an image output, you'd need this special GetFrame and PutFrame combo of techniques.</p>
 
 <h2>Fusion/Resolve Requirements</h2>
-	
+
 <p>This fuse is compatible with Fusion Standalone 16+ and Resolve 16+.</p>
 
 <p>Unfortunately, the "PutFrame.fuse" can't be used in Fusion 9 Standalone since the required Fuse API functionality did not exist yet.</p>
 
 <h2>Email Andrew Hazelden</h2>
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
-
 
 ___
 

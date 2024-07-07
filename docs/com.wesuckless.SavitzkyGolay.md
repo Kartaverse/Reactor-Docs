@@ -24,7 +24,6 @@ This tool smoothes point data</p>
 <p>For more information on the Savitzky Golay filter:<br>
 <a href="https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter">https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter</a>
 
-
 ___
 
 ## Download

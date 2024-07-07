@@ -14,13 +14,12 @@ ___
 
 ## Description
 <h1>Under the Bridge Stitching Comp</h1>
-	
+
 <p>This WarpStitch example project stitches three fisheye camera views into a monoscopic 2D LatLong output. The footage was captured using a Sony A7SII camera with a Peleng 8mm circular fisheye lens.</p>
 
 <h2>Example Fusion Comp</h2>
 <p>When this atom package is installed you can explore the example Fusion composites in this folder:</p>
 <pre><a href="file://Reactor:/Deploy/Comps/Kartaverse/WarpStitch/">Reactor:/Deploy/Comps/Kartaverse/WarpStitch/</a></pre>
-
 
 
 ___

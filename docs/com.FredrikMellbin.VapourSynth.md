@@ -43,25 +43,24 @@ FatCow free icons, distributed under Creative Commons Attribution 3.0 License.</
 <p>Programs:</p>
 
 <ul>
-	<li>Python 3.6.8 Portable</li>
-	<li>VapourSynth Portable R44</li>
-	<li>VapourSynthEditor R19</li>
+<li>Python 3.6.8 Portable</li>
+<li>VapourSynth Portable R44</li>
+<li>VapourSynthEditor R19</li>
 </ul>
 
 
 <p>Libraries:</p>
 
 <ul>
-	<li>ffms2 2.40 msvc</li>
-	<li>fmtconv r22</li>
-	<li>vapoursynth mvtools v23 win64</li>
-	<li>vapoursynth nnedi3 v12 win64</li>
-	<li>havsfunc r33</li>
-	<li>mvsfunc r8</li>
-	<li>vapoursynth adjust v1</li>
-	<li>VapourSynth script master-v1</li>
+<li>ffms2 2.40 msvc</li>
+<li>fmtconv r22</li>
+<li>vapoursynth mvtools v23 win64</li>
+<li>vapoursynth nnedi3 v12 win64</li>
+<li>havsfunc r33</li>
+<li>mvsfunc r8</li>
+<li>vapoursynth adjust v1</li>
+<li>VapourSynth script master-v1</li>
 </ul>
-
 
 ___
 

@@ -19,12 +19,11 @@ ___
 
 <p>The kvrAppleScript node as has a Text data type based input connection named "Script". This input connection supports the use of external Vonk nodes like "TextCreateMultiline" or "vTextSubFormatMultiline" as the source of the code that will be executed when the node is rendered.If you only want Apple Script code run when a Fusion batch render is occurring, uncheck the "Interactive Render" checkbox.</p>
 
-<p>The first time the macro is run, you need to approve a macOS security message that says: 
+<p>The first time the macro is run, you need to approve a macOS security message that says:
 
 <blockquote>"Fusion.app" wants access to control "System Events.app". Allowing control will provide access to documents and data in "System Events.app" and to perform actions within that app.</blockquote></p>
 
 <p>If you want to learn more about scriptable programs, open the Apple Script Editor and then select the "File > Open Dictionary..." menu item. You could also use the "Record" button to save a series of interactions into the script editor window. Copy/Paste this code back into the "kvrAppleScript" fuse's interface in the Resolve/Fusion Inspector view.</p>
-
 
 
 ___

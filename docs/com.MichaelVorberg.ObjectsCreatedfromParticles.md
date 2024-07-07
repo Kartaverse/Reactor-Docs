@@ -17,7 +17,6 @@ ___
 
 <p>The example works by using the pEmitter node as the Region's "Mesh" option, and the Region Type is set to "Surface". If you keyframe animate the particle emittter's "Number" setting on the pEmitter1 node to only run on the first frame for your comp, then the amount of particles will stay constant for the whole time range.</p>
 
-
 ___
 
 ## Download

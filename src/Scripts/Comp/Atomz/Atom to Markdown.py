@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-07 01.27 AM
+Atom to Markdown.py - v1.6 2024-07-07 01.49 AM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -176,6 +176,7 @@ def MarkdownCreate(folder):
 						date = GetValue("Date", atomDict,"")
 						author = GetValue("Author", atomDict, "")
 						html = GetValue("Description", atomDict, "")
+						htmlClean = "\n".join([line.strip() for line in html.splitlines()])
 
 						# Sidebar atom entry
 						fBar.write("  - [" + name + "](" + mdFileName + ")\n")
@@ -197,7 +198,8 @@ def MarkdownCreate(folder):
 							fAtom.write("___\n\n")
 
 							fAtom.write("## Description\n")
-							fAtom.write(str(html))
+							#fAtom.write(str(html))
+							fAtom.write(str(htmlClean))
 
 							#print("[Atomz][Info]", name, "v" + str(version), "by", author)
 							#print("[Atom][Dict Contents]")

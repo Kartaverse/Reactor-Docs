@@ -14,7 +14,7 @@ ___
 
 ## Description
 <h2>Time Machine Fuse</h2>
-	
+
 <p>A tool designed to greatly simplify very complex retiming of just about anything in Fusion.</p>
 
 <h3>New features in version 2.11</h3>
@@ -25,7 +25,7 @@ ___
 Now you can use Time Machine to retime that motion, effectively looping, reversing, or do any kind of crazy retimes <i>on the sample data itself</i>.</p>
 
 <p>It's the ultimate tool for motion graphics projects and animation.</p>
-	
+
 <h3>A quick rundown of the available modes:</h3>
 
 <ul>
@@ -41,16 +41,16 @@ Now you can use Time Machine to retime that motion, effectively looping, reversi
 <li>Trigger: repeatedly runs through your frames, based on thresholds.</li>
 <li>XSheet: retime your source frames using an exposure sheet with a mini scripting engine.</li>
 <li>Switch: easily switch to user definable starting points. (requires Fusion 7.7 or later).</li>
-</ul>	
+</ul>
 
 <h4>If you love what we are doing on We Suck Less and would like to show your appreciation, please consider becoming a WSL Patron.</h4>
 
 <h3>New features in version 2.2</h3>
 <p>General performance and stability improvements</p>
-	
+
 <h3>We Suck Less companion topic:</h3>
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=74</p>
-	
+
 
 ___
 

@@ -21,7 +21,6 @@ ___
 <h2>CLI Documentation</h2>
 <p>http://www.cloudcompare.org/doc/wiki/index.php?title=Command_line_mode</p>
 
-
 ___
 
 ## Download

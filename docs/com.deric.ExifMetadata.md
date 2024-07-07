@@ -18,7 +18,7 @@ EXIF metadata synchronization tool, allows fetching metatada from filesystem and
 Requiremets:
 
 <ul>
-  <li><pre>exiftool</pre></li> installed on PATH
+<li><pre>exiftool</pre></li> installed on PATH
 </ul>
 
 <strong>Debian/Ubuntu</strong>
@@ -27,7 +27,6 @@ sudo apt install libimage-exiftool-perl
 </pre>
 
 <a href="https://github.com/deric/DaVinciResolve-metadata/issues">Issues tracker</a>
-
 
 ___
 

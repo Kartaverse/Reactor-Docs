@@ -27,7 +27,6 @@ ___
 
 <p>In the inspector view, if you click the little magic wand icon next to the right of the heading "kvrDualFisheye" you can hop into the Fusion page to customize the macro node. Double clicking on the "kvrDualFisheye" node in the Fusion page allows you to expand the group to access the nodes that are stored inside the group object.</p>
 
-
 ___
 
 ## Download

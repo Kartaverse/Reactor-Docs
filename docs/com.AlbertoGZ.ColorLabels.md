@@ -13,8 +13,8 @@ AlbertoGZ
 ___
 
 ## Description
-Color Labels is a tool to assign quickly a color to 
-TileColor and TextColor for items on the flow. Tool is based on 
+Color Labels is a tool to assign quickly a color to
+TileColor and TextColor for items on the flow. Tool is based on
 the code of ui.ColorPicker snippet example from Greg Bovine.
 
 
@@ -23,8 +23,8 @@ the code of ui.ColorPicker snippet example from Greg Bovine.
 
 <p>Usage:
 <ol>
-	<li>Run the script, then select nodes what you want assign color and hit the button Assign Color. You can assign colors from presets palette directly by hit its colored button.</li>
-	<li>Press Store Mode button to enter in store mode, then you can store the color selected in the color picker simply pressing the colored button where you want store the color. </li>
+<li>Run the script, then select nodes what you want assign color and hit the button Assign Color. You can assign colors from presets palette directly by hit its colored button.</li>
+<li>Press Store Mode button to enter in store mode, then you can store the color selected in the color picker simply pressing the colored button where you want store the color. </li>
 </ol>
 
 ___

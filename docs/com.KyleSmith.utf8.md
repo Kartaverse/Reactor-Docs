@@ -18,7 +18,6 @@ ___
 <h2>Open Source License</h2>
 <p>BSD License</p>
 
-
 ___
 
 ## Download

@@ -17,7 +17,6 @@ ___
 
 <p>This package is relevant for Fusion v9 (Free) and Fusion Studio v9 users. If you are running Fusion Studio v17-19+, or Resolve v17-19+ you should consider using the newer "kvrViewer" DCTL fuse that is available in Reactor.</p>
 
-
 ___
 
 ## Download

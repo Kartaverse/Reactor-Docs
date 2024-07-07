@@ -17,7 +17,6 @@ ___
 
 <p>The "AddLoader.lua" script allows you to configure the Deadline Monitor program's "Image Viewer" feature to use Fusion Studio as the media playback tool. This makes it a single click operation to add Deadline rendered images to the currently open Fusion Studio composite.</p>
 
-
 ___
 
 ## Download

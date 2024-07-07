@@ -22,12 +22,11 @@ Make sure you arrange your nodes to the grid as the nodes has to be horisontal o
 
 <p>Changelog:
 <br>v1.1 - 2021-01-13:
-<br>* Now also works with masks 
+<br>* Now also works with masks
 <br>
 <br>v1.0 - 2020-08-18:
 <br>* First release!
 </p>
-
 
 
 ___

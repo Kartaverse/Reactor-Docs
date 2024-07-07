@@ -31,7 +31,6 @@ ___
 
 <p>3. Drag the .atom file to the Fusion Nodes view. The Reactor atom document will be opened up automatically in the "Atom Package Editor" window for editing and review.</p>
 
-
 ___
 
 ## Download

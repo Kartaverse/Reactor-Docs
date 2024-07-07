@@ -18,14 +18,14 @@ ___
 <p>This toolbar is based on Andrew Hazelden UI Toolbar sample script, I just mapped some buttons. Hope now your Fusion16 workflow will be less painful</p>
 <p>For screenshots see WSL forum topic: <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=3071">https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=3071</a></p>
 <ul>
-    <li>The script works in Fusion16 and Resolve16 on Windows or Mac</li>
-	<li>You can start the script even if nothing is loaded to the viewer. You still can add masks and polys</li>
-	<li>To use viewer features you still need to load any 2D tool to the viewer</li>
-	<li>UI is drawn at the mouse pointer</li>
-	<li>The window is borderless by default</li>
-	<li>Optional setting is available to render script UI on top of all windows, so you can use it on second monitor too. Set <code>show_on_top</code> to <code>true</code> on line 13 of Toolbar16.lua (this probably works on Windows only)</li>
-	<li>checkerboard and gamma/gain sliders buttons are not supported in Fu9</li>
-	<li>IsDoDShown(), IsCheckerEnabled() and IsShowGainGamma() are not working properly in Fu9, so default state is set to false</li>
+<li>The script works in Fusion16 and Resolve16 on Windows or Mac</li>
+<li>You can start the script even if nothing is loaded to the viewer. You still can add masks and polys</li>
+<li>To use viewer features you still need to load any 2D tool to the viewer</li>
+<li>UI is drawn at the mouse pointer</li>
+<li>The window is borderless by default</li>
+<li>Optional setting is available to render script UI on top of all windows, so you can use it on second monitor too. Set <code>show_on_top</code> to <code>true</code> on line 13 of Toolbar16.lua (this probably works on Windows only)</li>
+<li>checkerboard and gamma/gain sliders buttons are not supported in Fu9</li>
+<li>IsDoDShown(), IsCheckerEnabled() and IsShowGainGamma() are not working properly in Fu9, so default state is set to false</li>
 </ul>
 <p>v 1.55: </p>
 add save window position:<br>
@@ -61,7 +61,7 @@ Launch script with shortcut, the window position will be saved in Fusion data, a
 -- add disable JIT for macOS on 16.2, reposition on toggle UI
 -- automatic viewer detection: toolbar will operate currently active viewer. If no viewer is active, buttons are used to switch viewers.
 -- fix toolbar offset position if native toolbar is enabled
--- add toggle console button in preferences 
+-- add toggle console button in preferences
 <p> v 2.8 </p>
 -- add BufferLUT button to toggle in a 3D Viewer (same as go to Global Options -- Buffer LUT -- Enable)
 -- no need to refresh Toolbar when adding masks if switched to another comp
@@ -69,7 +69,6 @@ Launch script with shortcut, the window position will be saved in Fusion data, a
 -- catch incorrect window dimensions
 <p> v 2.8.2 </p>
 -- add some consistency to the code, add an option to disable verbose output
-
 
 ___
 

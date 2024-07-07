@@ -14,19 +14,18 @@ ___
 
 ## Description
 <p>The Kartaverse "kvrCropStereo" DCTL fuse allows you to crop stereo 3D imagery with individual control over the left and right eye views. You can also do per-eye rotation corrections to adjust for camera body positioning on a tripod with presets for 0&deg;, 90&deg;, 180&deg;, and 270&deg; image orientations.</p>
-	
+
 <p>This node makes quick work of 180VR to 360VR frame size conversions by padding out the empty area. You can also go from 360VR (360&deg;x180&deg;) to cropped down 180VR (180&deg;x180&deg;) output as well.</p>
 
 <h2>DCTL Fuse Support Requirements</h2>
 
 <ul>
-	<li>An OpenCL, CUDA, or Metal based GPU</li>
-	<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
+<li>An OpenCL, CUDA, or Metal based GPU</li>
+<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
 </ul>
 
 <h2>Open Source Software License</h2>
 <p>LGPL 3.0 License</p>
-
 
 
 ___

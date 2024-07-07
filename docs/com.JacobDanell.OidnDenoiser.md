@@ -14,7 +14,7 @@ ___
 
 ## Description
 <center><h2>Intel(R) Open Image Denoise (Oidn)</h2></center>
-	Minimum = 16,
+Minimum = 16,
 
 <p>TL:DR: Use this plugin to denoise your ray traced 3D renders using only the Beauty pass or together with an Albedo and a Normal pass for even better results.
 <br>The AI is trained on ray traced renders (HDR and SDR) but also HDR lightmaps.</br></p>

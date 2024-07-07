@@ -20,7 +20,6 @@ ___
 
 <p>Note: <i>The media assets that included in this atom package are used extensively in the Kartaverse example Fusion .comp files.</p>
 
-
 ___
 
 ## Download

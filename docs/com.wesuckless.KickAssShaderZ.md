@@ -33,7 +33,6 @@ ___
 <p>(<i>If you would like to take part in the KickAss ShaderZ project, check out the WSL forum page for the shader collection.</i>)</p>
 
 
-
 ___
 
 ## Download

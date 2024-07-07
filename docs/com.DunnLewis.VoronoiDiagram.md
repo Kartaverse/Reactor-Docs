@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>The Voronoi Diagram Fuse is a a quick code doodle that was translated from a Rosetta Code example:</p>
-	
+
 <p>http://rosettacode.org/wiki/Voronoi_diagram#Lua</p>
 
 <h2>For More Information:</h2>

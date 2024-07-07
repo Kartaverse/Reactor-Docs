@@ -14,9 +14,9 @@ ___
 
 ## Description
 <p>This is a simple macro which generates a checker texture.</p>
-	
-	<p>by Gregory Chalenko<br>
-	http://www.compositing.ru</p>
+
+<p>by Gregory Chalenko<br>
+http://www.compositing.ru</p>
 
 ___
 

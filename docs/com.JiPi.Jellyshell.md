@@ -27,9 +27,9 @@ ___
 
 <p>V0.2</p>
 <ul>
-	<li>Bugfix OpenCL ( layers++ )</li>
-	<li>Scale upside down</li>
-	<li>debug parameter hidden</li>
+<li>Bugfix OpenCL ( layers++ )</li>
+<li>Scale upside down</li>
+<li>debug parameter hidden</li>
 </ul>
 
 <p>V0.3</p>
@@ -38,14 +38,14 @@ ___
 <li>added Info about Shadertoy and JiPi Logo </li>
 </ul>
 
- 
+
 <p>See also my post in WSL "/Projects and Development/We suck less Lab:    </p>
 <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=45&t=4464#p34674">&#91;RC&#93; Jellyshell</a>
 <p>And a short Youtube Preview: </p>
 <a href="https://youtu.be/QbDWr8hG2KE">WebGl to DCTL: Jellyshell</a>
 
 
-<p><font color="fuchsia"> If you like this fuse, I would be happy to receive a message ( <a href="https://www.steakunderwater.com/wesuckless/memberlist.php?mode=viewprofile&u=4700">JiiPii</a> ). 
+<p><font color="fuchsia"> If you like this fuse, I would be happy to receive a message ( <a href="https://www.steakunderwater.com/wesuckless/memberlist.php?mode=viewprofile&u=4700">JiiPii</a> ).
 If you can use it very well, it would be great if you supported WSL ( <a href="https://www.steakunderwater.com">WeSuckLess</a> ).
 </font><p>
 
@@ -54,10 +54,10 @@ If you can use it very well, it would be great if you supported WSL ( <a href="h
 
 
 <ul>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ul>
 
 ___

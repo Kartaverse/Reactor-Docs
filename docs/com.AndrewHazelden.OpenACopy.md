@@ -19,7 +19,6 @@ ___
 
 <p>When the copy is made, the file is automatically created with a unique filename. If the current comp was called "Example.comp" it would become "Example Copy.comp". If the destination filename already exists on disk then the filename is incremented to the next available unique filename like "Example Copy 2.comp", or "Example Copy 3.comp", etc...</p>
 
-
 ___
 
 ## Download

@@ -13,14 +13,13 @@ We Suck Less
 ___
 
 ## Description
-<h2>Reactor Documentation</h2> 
+<h2>Reactor Documentation</h2>
 
 <p>This package includes HTML and Markdown (.md) format documentation that covers Reactor usage and atom package creation.</p>
 <p>These guides are installed to "<a href="file://Reactor:/Deploy/Docs/ReactorDocs/">Reactor:/Deploy/Docs/ReactorDocs/</a>"</p>
 
 <p>You can also view this same content on the Reactor GitLab Repository:<br>
 <a href="https://gitlab.com/WeSuckLess/Reactor/blob/master/README.md">https://gitlab.com/WeSuckLess/Reactor/blob/master/README.md</a></p>
-
 
 ___
 

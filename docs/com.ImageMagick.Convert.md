@@ -14,8 +14,8 @@ ___
 
 ## Description
 <p>This package includes a ready to run Windows build of the "ImageMagick" command line based image processing toolkit that is placed at "Reactor:/Deploy/Bin/imagemagick/bin/imconvert.exe".</p>
-	
-<p>Also included with the package is a zipped copy of the ImageMagick for macOS installer pkg file which can be found at 
+
+<p>Also included with the package is a zipped copy of the ImageMagick for macOS installer pkg file which can be found at
 "Reactor:/Deploy/Bin/imagemagick/ImageMagick-6.9.1-0.pkg.zip".</p>
 
 <h2>Open Source License:</h2>
@@ -27,7 +27,6 @@ ___
 <h2>ImageMagick Command Line Docs:</h2>
 <p>https://www.imagemagick.org/script/command-line-processing.php<br>
 https://www.imagemagick.org/Usage/</p>
-
 
 ___
 

@@ -18,12 +18,12 @@ ___
 
 <h3>How to Use</h3>
 <ol>
-	<li>Simply Select a node</li>
-	<li>Open Anim Utility</li>
-	<li>Find the control you want to animate</li>
-	<li>You can select sliders, screws and "point" controls</li>
-	<li>Make a custom name, or keep the automatic name it creates</li>
-	<li>Paste into your comp and head to Modifiers. You will need to click off and click back onto your node, and BAM Instant Animations!</li>
+<li>Simply Select a node</li>
+<li>Open Anim Utility</li>
+<li>Find the control you want to animate</li>
+<li>You can select sliders, screws and "point" controls</li>
+<li>Make a custom name, or keep the automatic name it creates</li>
+<li>Paste into your comp and head to Modifiers. You will need to click off and click back onto your node, and BAM Instant Animations!</li>
 </ol>
 
 <p>You Can add this to Modifier Controls too! Just dont choose a control to paste to, and it will just add it to your comp, and then you connect it manually!</p>
@@ -32,9 +32,8 @@ ___
 <h3>More Info Here:</h3>
 
 <ul>
-	<li><a href="">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=6624</a></li>
+<li><a href="">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=6624</a></li>
 </ul>
-
 
 ___
 

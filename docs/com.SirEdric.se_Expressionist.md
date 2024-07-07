@@ -14,7 +14,7 @@ ___
 
 ## Description
 <h3 align="center"><sup>&#91;se&#93;</sup>Expressionist</h3><p align="center"><strong>Add or modify Expressions on multiple tools simultaneously.</strong>
-	<br>When doing MotionGraphics one often has to animate many (many!) tools,<br>
+<br>When doing MotionGraphics one often has to animate many (many!) tools,<br>
 or connect certain Inputs of those tools to a designated Input of a master tool.
 Sometimes one even needs incremental values, <br>so that Tool1 rotates twice as fast as the master tool,
 Tool2 rotates three times the speed, Tool3 four times the speed, etc., you get the point...:-)<br>
@@ -28,7 +28,6 @@ To assign Expressions to an Input, first select the desired Input(s) in the tree
 Then type the actual Expression in the associated field.<br><br>
 
 Thread on WeSuckLess: https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=2592&p=20006</p>
-
 
 ___
 

@@ -18,13 +18,12 @@ ___
 <h2>Fuse Support Requirements</h2>
 
 <ul>
-	<li>A macOS system with a Metal based GPU</li>
-	<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
+<li>A macOS system with a Metal based GPU</li>
+<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
 </ul>
 
 <h2>Open Source Software License</h2>
 <p>LGPL 3.0 License</p>
-
 
 
 ___

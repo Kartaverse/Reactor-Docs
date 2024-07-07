@@ -18,11 +18,10 @@ ___
 
 <hr>
 
-<p>Version 3.2: Fixed Atom dependency error.	
+<p>Version 3.2: Fixed Atom dependency error.
 <p>Version 3.1: Added Matrix lua libraries.
 <p>Version 3: Added 3DS Max support. Added a Camera3D Default setting file. Added a text-only second output for Vonk FusionMatrix support.
 <p>Version 2: At some point prior to version 2.6.15, Redshift's metadata format changed. The Fuse has been updated to detect and account for the change.</p>
-
 
 
 ___

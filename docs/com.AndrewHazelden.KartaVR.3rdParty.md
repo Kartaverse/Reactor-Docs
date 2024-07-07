@@ -53,7 +53,6 @@ Technical support for Kartaverse/KartaVR is handled by the official <a href="htt
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
 
 
-
 ___
 
 ## Download

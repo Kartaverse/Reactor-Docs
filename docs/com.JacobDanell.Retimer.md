@@ -20,9 +20,9 @@ ___
 
 <p>The fuse contains three settings:</p>
 <ol>
-	<li>Nearest - The fuse gets the nearest whole frame</li>
-	<li>Blend (for 2D images only) - If you end up at frame 10.5 you will get 50% of frame 10 and 50% of frame 11</li>
-	<li>Subframe - If your footage contains subframes, this option will show these subframes. It does NOT generate subframes itself.</li>
+<li>Nearest - The fuse gets the nearest whole frame</li>
+<li>Blend (for 2D images only) - If you end up at frame 10.5 you will get 50% of frame 10 and 50% of frame 11</li>
+<li>Subframe - If your footage contains subframes, this option will show these subframes. It does NOT generate subframes itself.</li>
 </ol>
 
 <p>For 2D images you can enable <strong><i>Show frame in metadata</i></strong> to add the current retimed frame in the metadata. You can later see this in your SubViewer.</p>

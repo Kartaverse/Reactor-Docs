@@ -15,9 +15,9 @@ ___
 ## Description
 <h1 align="center"><sup>&#91;se&#93;</sup>SrciptScript </h1> <h3 align="center"> Comp Script Framework</h3>
 <p>Many times one has to do *really* simple things in script. Like setting all Loaders to postMultiply by Alpha.
-Normally, this are just three lines like 
+Normally, this are just three lines like
 <pre>if tool.PostMultiplyByAlpha then
-    tool.PostMultiplyByAlpha&#91;1&#93; = 1
+tool.PostMultiplyByAlpha&#91;1&#93; = 1
 end
 </pre>
 But to actually share stuff like that with a larger team, one has to write all that shizbang for comp:, toollist(), flow, maybe a Dialog, and of course an Undo event.

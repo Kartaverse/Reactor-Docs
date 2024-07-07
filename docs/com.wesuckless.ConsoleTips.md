@@ -18,7 +18,6 @@ ___
 <h2>For More Information</h2>
 <p><a href="https://www.steakunderwater.com/wesuckless/quotescollection?mode=all">https://www.steakunderwater.com/wesuckless/quotescollection?mode=all</a></p>
 
-
 ___
 
 ## Download

@@ -18,7 +18,6 @@ ___
 <p>This macro was prepared as part of the Macro Building Essentials tutorial series on Steakunderwater:<br>
 https://www.steakunderwater.com/wesuckless/viewtopic.php?p=14255#p14255</p>
 
-
 ___
 
 ## Download

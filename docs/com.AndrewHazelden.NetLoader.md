@@ -37,17 +37,17 @@ ___
 <p>Lets you define the file type of the Download.</p>
 
 <ul>
-	<li>JPEG</li>
-	<li>PNG</li>
-	<li>BMP</li>
-	<li>EXR</li>
-	<li>FUSEPIC</li>
-	<li>RAW</li>
-	<li>TGA</li>
-	<li>TIFF</li>
-	<li>PSD</li>
-	<li>MP4</li>
-	<li>MOV</li>
+<li>JPEG</li>
+<li>PNG</li>
+<li>BMP</li>
+<li>EXR</li>
+<li>FUSEPIC</li>
+<li>RAW</li>
+<li>TGA</li>
+<li>TIFF</li>
+<li>PSD</li>
+<li>MP4</li>
+<li>MOV</li>
 </ul>
 
 

@@ -14,21 +14,20 @@ ___
 
 ## Description
 <p>StickyWriter is a macro that makes it easy to create tiny sticky notepad messages in Fusion Standalone and the Resolve Fusion Page.</p>
-	
+
 <h2>7 Exciting Note Colors</h2>
 
 <p>StickyWriter's "Note Color" attribute lets you change the background color of your note to any of the following color presets:</p>
 
 <ul>
-	<li>Yellow</li>
-	<li>Green</li>
-	<li>Blue</li>
-	<li>Pink</li>
-	<li>Purple</li>
+<li>Yellow</li>
+<li>Green</li>
+<li>Blue</li>
+<li>Pink</li>
+<li>Purple</li>
 </ul>
 
 <p>StickyWriter was created based upon a suggestion from ShadowmakerSDR.</p>
-
 
 ___
 

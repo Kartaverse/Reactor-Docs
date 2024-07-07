@@ -24,21 +24,21 @@ ___
 <p>This Tree view has information sourced from the fuse FuRegisterClass function settings like:</p>
 
 <pre>
-  FuRegisterClass (fuseID), (regClass)
-  REGS_Name
-  REG_Version
-  REGS_Category
-  REGS_OpIconString
-  REGS_OpDescription
-  REGS_Company
-  REGS_URL
-  REGS_HelpTopic
-  REG_TimeVariant
-  REG_SupportsDoD
-  REG_NoMotionBlurCtrls
-  REG_NoObjMatCtrls
-  REG_NoBlendCtrls
-  REG_OpNoMask
+FuRegisterClass (fuseID), (regClass)
+REGS_Name
+REG_Version
+REGS_Category
+REGS_OpIconString
+REGS_OpDescription
+REGS_Company
+REGS_URL
+REGS_HelpTopic
+REG_TimeVariant
+REG_SupportsDoD
+REG_NoMotionBlurCtrls
+REG_NoObjMatCtrls
+REG_NoBlendCtrls
+REG_OpNoMask
 </pre>
 
 ___

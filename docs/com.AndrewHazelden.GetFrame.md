@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>GetFrame.fuse allows you to load RGBA channel based BMP/GIF/JPEG/PNG/TGA/TIFF/ imagery from a filepath on disk using the Fuse API's Clip:GetFrame() functionality. This fuse can be used as a learning tool should you need to re-create Loader node like approaches in your own fuses. The source code is kept to an absolute minimum to make this fuse easier to re-integrate into your own custom fuse based tools.</p>
-	
+
 <p>The Filename control supports the use of PathMaps.</p>
 
 <h2>Why does this fuse exist?</h2>
@@ -32,7 +32,6 @@ ___
 
 <h2>Email Andrew Hazelden</h2>
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
-
 
 ___
 

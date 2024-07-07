@@ -27,7 +27,6 @@ COLMAP was created by Johannes L. Schönberger, Enliang Zheng, Jan-Michael Frahm
 <p>Sample COLMAP datasets are available for download:<br>
 <a href="https://colmap.github.io/datasets.html">https://colmap.github.io/datasets.html</a></p>
 
-
 ___
 
 ## Download

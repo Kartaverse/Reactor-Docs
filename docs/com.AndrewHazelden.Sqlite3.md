@@ -51,9 +51,9 @@ ProjectName
 -----------
 Ozo Stitch
 
-Name        MediaFilePath                                             Start       Duration  
+Name        MediaFilePath                                             Start       Duration
 ----------  --------------------------------------------------------  ----------  ----------
-cam8.mp4    /Production/VFX/Resolve/Nokia Ozo+ Video Stitch/cam8.mp4  86400       268      
+cam8.mp4    /Production/VFX/Resolve/Nokia Ozo+ Video Stitch/cam8.mp4  86400       268
 </pre>
 
 <p>Example 2 - List the Resolve Media Pool Video Clips</p>
@@ -63,7 +63,7 @@ cam8.mp4    /Production/VFX/Resolve/Nokia Ozo+ Video Stitch/cam8.mp4  86400     
 <p>Example 2 Output:</p>
 
 <pre>
-Name        DbType          UniqueMediaPoolItemId               
+Name        DbType          UniqueMediaPoolItemId
 ----------  --------------  ------------------------------------
 cam3.mp4    Sm2MpVideoClip  2027c029-5a32-48be-9d94-9665090c37a5
 cam6.mp4    Sm2MpVideoClip  c8017708-2d00-4a65-90dd-e33cd0408e88

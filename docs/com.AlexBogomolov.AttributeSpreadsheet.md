@@ -67,7 +67,6 @@ ___
 <p><em>Copyright:</em> 2011-2013, Sven Neve (House of Secrets); 2019-2023 additions by Alexey Bogomolov</p>
 <p><em>License:</em> <a href="https://mit-license.org/">MIT</a></p>
 
-
 ___
 
 ## Download

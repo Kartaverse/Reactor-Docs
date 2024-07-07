@@ -18,10 +18,10 @@ ___
 
 <p>Current working input-types:
 <ul>
-	<li>Image</li>
-	<li>Mask</li>
-	<li>3D</li>
-	<li>Material</li>
+<li>Image</li>
+<li>Mask</li>
+<li>3D</li>
+<li>Material</li>
 </ul>
 </p>
 <p>If any other type of input is needed, simply add them under InMode in the code.</p>

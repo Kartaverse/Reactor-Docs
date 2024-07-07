@@ -16,7 +16,7 @@ ___
 <p>The KartaVR &quot;Virtual Production&quot; atom allows you optimize your on-set VFX workflows and interact with match moving department provided information like camera data, point clouds, and stand-in models. This is essential for effective scene integration and virtual produciton efforts in Fusion.
 
 <p>The scripts in this atom package are the rare and exotic &quot;rosetta stone&quot; like tools that will allow your pipeline to interchange Fusion matchmoving data with external DCC apps, and make it a painless process to export PIXAR USD ASCII and Maya ASCII formatted copies of your Fusion 3D scene graph based nodes.</p>
-	
+
 <h2>Export Point Clouds</h2>
 
 <p>The &quot;Export Point Cloud&quot; script is an alpha grade tool that allows you to export XYZ ASCII (.xyz), PLY ASCII (.ply), PIXAR USD ASCII (.usda), Maya ASCII 2019 (.ma), and Maya MOVE ASCII (.mov) format.</p>
@@ -29,7 +29,6 @@ ___
 
 <p>If you would like find out how to extract the IMU metadata information from an video file, check out the Gyroflow toolset and its new motion data export options:<br>
 <a href="http://gyroflow.xyz/">http://gyroflow.xyz/</a></p>
-
 
 
 ___

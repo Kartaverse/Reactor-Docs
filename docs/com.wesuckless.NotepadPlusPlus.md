@@ -30,46 +30,46 @@ ___
 The following Fusion centric document formats are automatically syntax highlighted in Notepad++:
 
 <ul>
-	<li>atom</li>
-	<li>blocklist</li>
-	<li>comp</li>
-	<li>cfg</li>
-	<li>dfq</li>
-	<li>def</li>
-	<li>eyeonscript</li>
-	<li>flt</li>
-	<li>fu</li>
-	<li>fuse</li>
-	<li>guide</li>
-	<li>library</li>
-	<li>layout</li>
-	<li>setting</li>
-	<li>toolbars</li>
-	<li>prefs</li>
-	<li>scriptlib</li>
+<li>atom</li>
+<li>blocklist</li>
+<li>comp</li>
+<li>cfg</li>
+<li>dfq</li>
+<li>def</li>
+<li>eyeonscript</li>
+<li>flt</li>
+<li>fu</li>
+<li>fuse</li>
+<li>guide</li>
+<li>library</li>
+<li>layout</li>
+<li>setting</li>
+<li>toolbars</li>
+<li>prefs</li>
+<li>scriptlib</li>
 </ul>
 
 
 <h2>Installed Notepad++ Plugins</h2>
 
 <ul>
-	<li>ComparePlugin</li>
-	<li>CustomizeToolbar</li>
-	<li>DSpellCheck</li>
-	<li>Explorer</li>
-	<li>LuaScript</li>
-	<li>MenuIcons</li>
-	<li>mimeTools</li>
-	<li>NppConverter</li>
-	<li>NppExport</li>
-	<li>NPPJSONViewer</li>
-	<li>NppMarkdownPanel</li>
-	<li>NppSnippets</li>
-	<li>NppTextFX</li>
-	<li>NppToolBucket</li>
-	<li>PreviewHTML</li>
-	<li>PythonScript</li>
-	<li>XMLTools</li>
+<li>ComparePlugin</li>
+<li>CustomizeToolbar</li>
+<li>DSpellCheck</li>
+<li>Explorer</li>
+<li>LuaScript</li>
+<li>MenuIcons</li>
+<li>mimeTools</li>
+<li>NppConverter</li>
+<li>NppExport</li>
+<li>NPPJSONViewer</li>
+<li>NppMarkdownPanel</li>
+<li>NppSnippets</li>
+<li>NppTextFX</li>
+<li>NppToolBucket</li>
+<li>PreviewHTML</li>
+<li>PythonScript</li>
+<li>XMLTools</li>
 </ul>
 
 
@@ -84,7 +84,6 @@ The following Fusion centric document formats are automatically syntax highlight
 
 <p>https://notepad-plus-plus.org</p>
 <p>http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central</p>
-
 
 ___
 

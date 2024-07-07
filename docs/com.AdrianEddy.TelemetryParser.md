@@ -26,7 +26,6 @@ ___
 <p>A telemetry-parser <a href="https://github.com/AdrianEddy/telemetry-parser/tree/master/bin/python-module">Python module</a> is also available via the PyPi package installer:</p>
 <pre>pip3 install telemetry-parser</pre>
 
-
 ___
 
 ## Download

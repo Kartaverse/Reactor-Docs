@@ -24,10 +24,10 @@ ___
 <p>If you are on MacOS you need to adjust the MacOS permissions for FFmpeg using the following Lua command in the Fusion Console tab:</p>
 
 <pre>
-	-- Set the FFmpeg program on MacOS to have executable permissions so the ffmpeg command line tool can be used:
-	command = 'chmod -R 755 "' .. comp:MapPath('Reactor:/Deploy/Bin/ffmpeg/bin/') .. '"'
-	print("[Permissions Update] " .. command)
-	os.execute(command)
+-- Set the FFmpeg program on MacOS to have executable permissions so the ffmpeg command line tool can be used:
+command = 'chmod -R 755 "' .. comp:MapPath('Reactor:/Deploy/Bin/ffmpeg/bin/') .. '"'
+print("[Permissions Update] " .. command)
+os.execute(command)
 </pre>
 
 <h3>Linux Tip</h3>
@@ -36,7 +36,6 @@ ___
 
 <h2>Copyright Notice</h2>
 <p>This script was originally created as a custom pipeline tool that was included with the KartaVR for Fusion toolset. It is not authorized for public re-distribution outside of WSL Reactor.</p>
-
 
 ___
 

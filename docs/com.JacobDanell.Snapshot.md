@@ -17,10 +17,10 @@ ___
 
 <p><strong>How to use Snapshot:</strong>
 <ol>
-	<li>Press the Snap button!</li>
-	<li>The text below the button will update to the time you pressed the button to indicate that you have taken a new snap</li>
-	<li>Activate "Show Snap" to show your saved snap</li>
-	<li>Activate Difference to compared your snapped imaged with the current frame with the difference mode</li>
+<li>Press the Snap button!</li>
+<li>The text below the button will update to the time you pressed the button to indicate that you have taken a new snap</li>
+<li>Activate "Show Snap" to show your saved snap</li>
+<li>Activate Difference to compared your snapped imaged with the current frame with the difference mode</li>
 </ol>
 </p>
 

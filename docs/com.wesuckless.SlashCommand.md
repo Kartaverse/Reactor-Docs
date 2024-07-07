@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>Allows custom script-based console commands to be executed simply by prefixing them with a slash (/)</p>
-	
+
 <h2>Usage</h2>
 
 <p>SlashCommand based scripts are installed in the Fusion user prefs "Scripts:/SlashCommand/" folder.</p>

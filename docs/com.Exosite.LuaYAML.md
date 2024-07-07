@@ -26,7 +26,6 @@ Created by Dominic Letz of Exosite, based upon js-lua</p>
 <p>For More Information<br>
 <a href="https://github.com/exosite/lua-yaml">https://github.com/exosite/lua-yaml</a></p>
 
-
 ___
 
 ## Download

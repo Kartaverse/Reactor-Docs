@@ -17,11 +17,11 @@ ___
 </p>
 <h3>Changelog:</h3>
 
-	
+
 <ul>
-	<li>v1.2: Fixed bug where the first value was clamped to 0-1 range. Added handling for some circumstances where the tool is undefined.</li>
-	<li>v1.1: Added error handling for tools with no color controls.</li>
-	<li>v1.0: Initial public release.</li>
+<li>v1.2: Fixed bug where the first value was clamped to 0-1 range. Added handling for some circumstances where the tool is undefined.</li>
+<li>v1.1: Added error handling for tools with no color controls.</li>
+<li>v1.0: Initial public release.</li>
 </ul>
 
 ___

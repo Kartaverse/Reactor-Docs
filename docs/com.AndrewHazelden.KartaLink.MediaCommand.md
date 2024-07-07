@@ -29,7 +29,6 @@ ___
 
 <p>Step 4. Choose a script you would like to run on the selected media using the "Command Script" ComboMenu, then press the "Go" button.</p>
 
-
 ___
 
 ## Download

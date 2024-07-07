@@ -33,7 +33,6 @@ You can use the "File &gt; Close Comps To Left" menu item.
 
 You can use the "File &gt; Close Comps To Right" menu item.
 
-
 ___
 
 ## Download

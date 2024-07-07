@@ -34,15 +34,15 @@ ___
 <h2>For More Info</h2>
 <h3>NVIDIA Resources</h3>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=DJ2hcC1orc4">YouTube | NVIDIA Instant NeRF: NVIDIA Research Turns 2D Photos Into 3D Scenes in the Blink of an AI</a></li>
-  <li><a href="https://github.com/NVlabs/instant-ngp">GitHub | NVIDIA InstantNGP Repo</a></li>
-  <li><a href="https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/">NVIDIA | Getting Started with NVIDIA Instant NeRFs</a></li>
+<li><a href="https://www.youtube.com/watch?v=DJ2hcC1orc4">YouTube | NVIDIA Instant NeRF: NVIDIA Research Turns 2D Photos Into 3D Scenes in the Blink of an AI</a></li>
+<li><a href="https://github.com/NVlabs/instant-ngp">GitHub | NVIDIA InstantNGP Repo</a></li>
+<li><a href="https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/">NVIDIA | Getting Started with NVIDIA Instant NeRFs</a></li>
 </ul>
 <h3>3rd Party NeRF Resources</h3>
 <ul>
-  <li><a href="https://docs.nerf.studio/en/latest/">NeRF Studio</a> + <a href="https://docs.nerf.studio/en/latest/quickstart/blender_addon.html">Blender VFX add-on<</a></li>
-  <li><a href="https://docs.google.com/document/d/1vouz5gYpIw7bUBAGfAvPNcvNQoAfY_E7BhUJOGtV2cw/edit">Google Docs | Kartaverse Workflows | Creating Volumetric NeRFs</a></li>
-  <li><a href="https://docs.google.com/document/d/15nnPfSXPTwNpovGxr_mRZncRoSfjmYqFoh08CHbNVVY/edit">Google Docs | InstantNGP | Best Practices For Desktop-Based NeRF Workflows</a></li>
+<li><a href="https://docs.nerf.studio/en/latest/">NeRF Studio</a> + <a href="https://docs.nerf.studio/en/latest/quickstart/blender_addon.html">Blender VFX add-on<</a></li>
+<li><a href="https://docs.google.com/document/d/1vouz5gYpIw7bUBAGfAvPNcvNQoAfY_E7BhUJOGtV2cw/edit">Google Docs | Kartaverse Workflows | Creating Volumetric NeRFs</a></li>
+<li><a href="https://docs.google.com/document/d/15nnPfSXPTwNpovGxr_mRZncRoSfjmYqFoh08CHbNVVY/edit">Google Docs | InstantNGP | Best Practices For Desktop-Based NeRF Workflows</a></li>
 </ul>
 
 ___

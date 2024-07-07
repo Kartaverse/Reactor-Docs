@@ -15,23 +15,23 @@ ___
 ## Description
 <p>Bookmarking script for your flow.</p>
 <p>Add bookmarks for selected or active tool. Set custom bookmark name or use default tool's name. Then invoke jump script and switch instantly to the desired node on your huge comp.</p>
-<p>Use <code>SHIFT+A</code> to add bookmark and <code>SHIFT+J</code> to jump between bookmarks. Windows users can additionally jump with <code>DOWN/UP</code> or open bookmarks dropdown with <code>ALT+DOWN</code>.</p>   
+<p>Use <code>SHIFT+A</code> to add bookmark and <code>SHIFT+J</code> to jump between bookmarks. Windows users can additionally jump with <code>DOWN/UP</code> or open bookmarks dropdown with <code>ALT+DOWN</code>.</p>
 <p>Bookmarks are stored in comp metadata, so they will remain after Fusion restart. The script requires 64-bit Python (v2.7.+ or v3.6.+).
 Suggestions and PR's are appreciated: https://github.com/movalex/fusion</p>
 <p>Features:</p>
 <p>Requests and issues: <a href="https://gitlab.com/WeSuckLess/Reactor/tree/movalex/Atoms/com.AlexBogomolov.Bookmarker">https://gitlab.com/WeSuckLess/Reactor/tree/movalex/Atoms/com.AlexBogomolov.Bookmarker</a></p>
 <p>STU topic and discussion, feature requests and updates: <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?f=33&t=2858">.../wesuckless/viewtopic.php?f=33&t=2858</a></p>
 <ul>
-	<li>bookmarks can be sorted by name or tool type</li>
-	<li>delete single bookmark, multiple bookmarks selected with shift/cmd or reset all with ALT+reset button</li>
-	<li>submit bookmark addition on <code>Enter</code></li>
-	<li>close window on <code>ESC</code></li>
-	<li>tool position is preserved for each bookmark (on Fusion 17)</li>
-	<li>rename bookmark (add the same tool with different name)</li>
-	<li>refresh bookmarks list if some was added while Jump UI is still running</li>
-    <li>move selected tools to a bookmark position</li>
-    <li>try to find a bookmarked tool if it was renamed</li>
-    <li>refresh bookmarks if you switch comps</li>
+<li>bookmarks can be sorted by name or tool type</li>
+<li>delete single bookmark, multiple bookmarks selected with shift/cmd or reset all with ALT+reset button</li>
+<li>submit bookmark addition on <code>Enter</code></li>
+<li>close window on <code>ESC</code></li>
+<li>tool position is preserved for each bookmark (on Fusion 17)</li>
+<li>rename bookmark (add the same tool with different name)</li>
+<li>refresh bookmarks list if some was added while Jump UI is still running</li>
+<li>move selected tools to a bookmark position</li>
+<li>try to find a bookmarked tool if it was renamed</li>
+<li>refresh bookmarks if you switch comps</li>
 <p>update 2.5:</p>
 <ul>
 <li> add checkbox 'move selected to bookmark'. Move multiple selected nodes available</li>
@@ -64,7 +64,6 @@ Suggestions and PR's are appreciated: https://github.com/movalex/fusion</p>
 <ul>
 <li>fix Resolve 17+ compatibility (omit __flags data)</li>
 </ul>
-
 
 
 ___

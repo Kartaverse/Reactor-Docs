@@ -30,7 +30,6 @@ ___
 <h2>License</h2>
 <p>VahanaVR is an MIT-licensed open-source project. A license key is not required to run the software. The software was originally developed by VideoStitch SAS. After the company folded in 2018, the source code was acquired by the newly founded non-profit organization stitchEm, to publish it under a free software license.</p>
 
-
 ___
 
 ## Download

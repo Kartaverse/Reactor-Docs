@@ -20,18 +20,18 @@ ___
 <pre>&gt; /for
 Usage: /for (selected|visible|all) &#91;tooltype&#91;,tooltype...&#93;&#93; &#91;where &lt;condition&gt;&#93; &lt;command&gt; &#91; & &lt;command&gt;...&#93;
 Supported commands:
-	animate &lt;input&gt; &#91;(with &lt;modifier&gt;|remove)&#93; &#91;force&#93;
-	color &#91;tile &lt;color&gt;&#93; &#91;text &lt;color&gt;&#93; &#91;fill &lt;color&gt;&#93;
-	get &lt;input&gt; (&#91;at &lt;time&gt;&#93;)
-	render &#91;step &lt;value&gt;&#93; &#91;proxy &lt;value&gt;&#93;
-	getattrs &lt;attribute&gt;
-	id
-	select &#91;(add|remove)&#93;
-	set &lt;input&gt; (&#91;at &lt;time&gt;&#93; to &lt;value&gt;|expression &lt;exp&gt;)
-	setattrs &lt;attribute&gt; (to &lt;value&gt;)
-	setclip (to &lt;value&gt;)
-	setname (to &lt;value&gt;)
-	version &#91;(up|down|to &lt;value&gt;)&#93;</pre>
+animate &lt;input&gt; &#91;(with &lt;modifier&gt;|remove)&#93; &#91;force&#93;
+color &#91;tile &lt;color&gt;&#93; &#91;text &lt;color&gt;&#93; &#91;fill &lt;color&gt;&#93;
+get &lt;input&gt; (&#91;at &lt;time&gt;&#93;)
+render &#91;step &lt;value&gt;&#93; &#91;proxy &lt;value&gt;&#93;
+getattrs &lt;attribute&gt;
+id
+select &#91;(add|remove)&#93;
+set &lt;input&gt; (&#91;at &lt;time&gt;&#93; to &lt;value&gt;|expression &lt;exp&gt;)
+setattrs &lt;attribute&gt; (to &lt;value&gt;)
+setclip (to &lt;value&gt;)
+setname (to &lt;value&gt;)
+version &#91;(up|down|to &lt;value&gt;)&#93;</pre>
 
 <br><h3>Examples:</h3>
 

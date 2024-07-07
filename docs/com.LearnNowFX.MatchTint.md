@@ -27,7 +27,6 @@ ___
 <br>
 <a href="https://learnnowfx.com">Learn Now FX</a></br>
 
-
 ___
 
 ## Download

@@ -28,10 +28,10 @@ The FFmpeg Shared Linking 64-bit for Windows/MacOS atom was packaged by Andrew H
 <p>If you are on MacOS you need to adjust the MacOS permissions for FFmpeg using the following Lua command in the Fusion Console tab:</p>
 
 <pre>
-	-- Set the FFmpeg program on MacOS to have executable permissions so the ffmpeg command line tool can be used:
-	command = 'chmod -R 755 "' .. app:MapPath('Reactor:/Deploy/Bin/ffmpeg/bin/') .. '"'
-	print("[Permissions Update] " .. command)
-	os.execute(command)
+-- Set the FFmpeg program on MacOS to have executable permissions so the ffmpeg command line tool can be used:
+command = 'chmod -R 755 "' .. app:MapPath('Reactor:/Deploy/Bin/ffmpeg/bin/') .. '"'
+print("[Permissions Update] " .. command)
+os.execute(command)
 </pre>
 
 
@@ -58,7 +58,6 @@ sudo apt-get -y install ffmpeg
 <pre>
 sudo pacman -S ffmpeg
 </pre>
-
 
 ___
 

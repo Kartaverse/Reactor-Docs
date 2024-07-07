@@ -16,7 +16,7 @@ ___
 <p>The KartaVR legacy stereoscopic nodes allow you to use Fusion (Free) and Fusion Studio to quickly work with stereo footage and display anaglyph, over/under, and side by side stereo media.</p>
 
 <p>This package is relevant for Fusion v9 (Free) and Fusion Studio v9 users. If you are running Fusion Studio v17-19+, or Resolve v17-19+ you should consider using the newer "kvrCreateStereo" fuse that is available in Reactor.</p>
-	
+
 
 ___
 

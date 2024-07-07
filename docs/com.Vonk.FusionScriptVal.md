@@ -27,7 +27,6 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 
-
 ___
 
 ## Download

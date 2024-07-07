@@ -14,7 +14,7 @@ ___
 
 ## Description
 <p>A Commodore 64 themed Console Fuse that works in the Fusion Console tab. Typing in 'LOAD "*",8,1' or 'LOAD "$",8,1' or 'LIST' will run a detailed simulation of a Commodore 64 computer.</p>
-	
+
 <p>Each time you open a new Fusion composite and switch to the Console tab you will see the following text printed at the top of the view:</p>
 
 <pre>

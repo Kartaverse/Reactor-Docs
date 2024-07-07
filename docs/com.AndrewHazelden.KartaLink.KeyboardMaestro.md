@@ -19,10 +19,9 @@ ___
 
 <p>The kvrKeyboardMaestro node as has a Text data type based input connection named "Macro". This input connection supports the use of external Vonk nodes like "TextCreate" as the source of the macro name that will be launched when this node is rendered. If you only want Keyboard Maestro launched when a Fusion batch render is occurring, uncheck the "Interactive Render" checkbox.</p>
 
-<p>The fuses require the installation of "Keyboard Maestro" for macOS. The first time the macro is run, you need to approve a macOS security message that says: 
+<p>The fuses require the installation of "Keyboard Maestro" for macOS. The first time the macro is run, you need to approve a macOS security message that says:
 
 <blockquote>"Fusion.app" wants access to control "Keyboard Maestro.app". Allowing control will provide access to documents and data in "Keyboard Maestro.app" and to perform actions within that app.</blockquote></p>
-
 
 
 ___

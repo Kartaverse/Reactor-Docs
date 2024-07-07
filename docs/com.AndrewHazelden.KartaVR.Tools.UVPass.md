@@ -16,7 +16,7 @@ ___
 <p>The KartaVR Legacy UV Pass (ST Map) warping tools allow you to use pre-computed panoramic transforms to stitch panormamic imagery quickly.</p>
 
 <p>It is suggested to use Jacob Danell's STMapper fuse in Reactor in place of these nodes. The only usecase where the Legacy UV Pass tools are relevant is inside of Fusion v9 (free) or Fusion Studio v9.</p>
-	
+
 
 ___
 

@@ -16,7 +16,7 @@ ___
 <p>The KartaVR viewer scripts allow you to send your panoramic imagery to external media viewer tools, HMDs, and web browsers for review. You can also list a directory tree of all the assets in your current Fusion comp folder.</p>
 
 <p>The "Directory Tree" script displays a tree view that allows you to browse through and quickly import the media assets stored in the same folder hierarchy as your .comp file.</p>
-	
+
 
 ___
 

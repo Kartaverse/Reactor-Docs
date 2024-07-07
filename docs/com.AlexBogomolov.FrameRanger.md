@@ -13,7 +13,7 @@ Alexey Bogomolov
 ___
 
 ## Description
-    
+
 <h1>Frame Ranger for Fusion</h1>
 <p>This is a script for managing ranges based on given frames offset.
 Set amout of frame handles to offset in/out points.  Set frame handles with a shortcut.
@@ -30,7 +30,6 @@ Save multiple IN/OUT render ranges and switch with doubleclick.</p>
 </ul>
 <p><em>Copyright:</em> Alexey Bogomolov (mail@abogomolov.com)</p>
 <p><em>License:</em> <a href="https://mit-license.org/">MIT</a></p>
-
 
 ___
 

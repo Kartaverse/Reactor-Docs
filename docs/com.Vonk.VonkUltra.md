@@ -41,7 +41,6 @@ The <a href="https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7Ty
 <p>If you would like to provide feedback on the evolution of the Vonk data nodes, please check out the <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=41165#p41165">development thread on the Steakunderwater forum</a>.</p>
 
 
-
 ___
 
 ## Download

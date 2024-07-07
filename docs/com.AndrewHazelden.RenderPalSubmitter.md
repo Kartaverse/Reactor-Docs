@@ -25,7 +25,6 @@ https://www.renderpal.com/download/renderpal-v2
 
 <p>The Fusion 9 based "RenderPal" menu entry that you can customize is located at "Reactor:/Deploy/Config/Submit to RenderPal.fu".</p>
 
-
 ___
 
 ## Download

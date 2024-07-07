@@ -16,7 +16,7 @@ ___
 <p>The KartaVR Legacy Source Compositions are the raw node based composites that were used to make all of the macro nodes in KartaVR. There is a corresponding text file included next to each source comp to let you know how to bundle up the GUI controls.</p>
 
 <p>These comps will give you insight into how to use Fusion's built-in nodes to acheive a wide range of tasks.</p>
-	
+
 
 ___
 

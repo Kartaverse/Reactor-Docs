@@ -16,13 +16,12 @@ ___
 <p>UI script for basic saver management:</p>
 <p><i>Features:</i></p>
 <ul>
-	<li>disable unselected savers</li>
-	<li>enable all</li>
-	<li>select all savers</li>
-	<li>create loaders from savers button</li>
-	<li>set saver in/out</li>
+<li>disable unselected savers</li>
+<li>enable all</li>
+<li>select all savers</li>
+<li>create loaders from savers button</li>
+<li>set saver in/out</li>
 </ul>
-
 
 
 ___

@@ -15,7 +15,7 @@ ___
 ## Description
 <p>A Tool script that converts a Macro to a Group and vice versa, depending on what type of operator/tool is selected</p>
 
-	
+
 
 ___
 

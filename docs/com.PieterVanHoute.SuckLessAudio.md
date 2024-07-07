@@ -14,7 +14,7 @@ ___
 
 ## Description
 <h2>Suck Less Audio Modifier</h2>
-	
+
 <p>A modifier Fuse that allows Fusion to read WAV (Microsoft) signed 16-bit PCM audio files and modify parameters with them.</p>
 <p>New since v2.0 is support for Point parameters, like the Center of a Tranform.<br>
 Try using a soundfile to create a natural feeling camera shake, for example!</p>
@@ -30,23 +30,22 @@ You can insert Suck Less Audio after any other modifier!</p>
 
 <h3>New features in version 2.7 by JiiPii</h3>
 <ul>
-	<li> WAV-File with Junk Chunk</li>
-	<li> Optimise "sampleRead"</li>
-	<li> Filterstring in Loadfile</li>
-	<li> Tooltips of Modeoptions changed</li>
-	<li> Show Errors in Label</li>
-	<li> Infos about bitrate and count of frames</li>
-	<li> Function getHeader optimized</li>
-	<li> Add Filter (LP,BP,HP) for Slot1</li>
-	<li> Add MapPath to readAll</li>
-	<li> Errordetect: Wrong bit-depth</li>
+<li> WAV-File with Junk Chunk</li>
+<li> Optimise "sampleRead"</li>
+<li> Filterstring in Loadfile</li>
+<li> Tooltips of Modeoptions changed</li>
+<li> Show Errors in Label</li>
+<li> Infos about bitrate and count of frames</li>
+<li> Function getHeader optimized</li>
+<li> Add Filter (LP,BP,HP) for Slot1</li>
+<li> Add MapPath to readAll</li>
+<li> Errordetect: Wrong bit-depth</li>
 </ul>
-<p>V2.71 Corrected a Bug</p>	
+<p>V2.71 Corrected a Bug</p>
 
 
 <h3>We Suck Less companion topic:</h3>
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=496</p>
-	
 
 
 

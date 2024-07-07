@@ -14,12 +14,12 @@ ___
 
 ## Description
 <p>Yankee is a macro that allows for adjusting the position of vertex selections in 3D geometry, based on their associated UV position</p>
-	
-	<p>I've named it Yankee. Because you can yank vertices with it. Get it?</p>
-	
-	<p>Thanks to Chad Capeland for insight and inspiration.</p>
-	
-	
+
+<p>I've named it Yankee. Because you can yank vertices with it. Get it?</p>
+
+<p>Thanks to Chad Capeland for insight and inspiration.</p>
+
+
 
 ___
 

@@ -56,7 +56,6 @@ The Kartaverse plug-in works inside of Blackmagic Design's Resolve and Fusion so
 <p><a href="mailto:andrew@andrewhazelden.com">andrew@andrewhazelden.com</a></p>
 
 
-
 ___
 
 ## Download

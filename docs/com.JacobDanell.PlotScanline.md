@@ -19,9 +19,9 @@ ___
 
 <br>
 <ul>
-	<li>Plot the RBG or Luminance</li>
-	<li>Set white and black-point (and show their values on image if wanted)</li>
-	<li>Add a background grid if wanted</li>
+<li>Plot the RBG or Luminance</li>
+<li>Set white and black-point (and show their values on image if wanted)</li>
+<li>Add a background grid if wanted</li>
 </ul>
 <br>
 
