@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-07 01.49 AM
+Atom to Markdown.py - v1.6 2024-07-09 03.39 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -15,7 +15,7 @@ Requirements
 
 Script Usage
 ------------
-Step 1. Open the "Script > Atomz > Markdown Create" menu item. The Console window displays the atoms package conversion process.
+Step 1. Open the "Script > Atomz > Atom to Markdown" menu item. The Console window displays the atoms package conversion process.
 
 Todo
 -----
@@ -139,7 +139,6 @@ def MarkdownCreate(folder):
 			except OSError as error:
 				print("\t[Markdown][Make Directory Error]", mdPath)
 
-
 		# Docisfy sidebar file
 		mdSidebar = os.path.join(mdPath, "_sidebar.md")
 
@@ -149,6 +148,138 @@ def MarkdownCreate(folder):
 - [Home](/)
 - [Reactor](reactor.md)
 - **Atoms**
+""")
+
+			# Create the menu structure
+			def AddMenuItems(menu, segments):
+				if segments:
+					# Split the category into segments to build the sidebar hierarchy
+					head, *tail = segments
+					if head not in menu:
+						menu[head] = {}
+					AddMenuItems(menu[head], tail)
+
+			def BuildMenu(cat):
+				menu = {}
+				# Split the category into segments based on the slash separator
+				for c in cat:
+					segments = c.strip().split("/")
+					AddMenuItems(menu, segments)
+				return menu
+
+			def GetAtomName(atomsPath, atomFilename):
+				dirName = atomFilename.replace(".atom", "")
+				atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
+				atomDict = bmd.readfile(atomFilepath)
+				if atomDict is None:
+					print("[Atom][Get Atom Name][Atom Parsing Error]")
+					return ""
+				else:
+					name = GetValue("Name", atomDict, "")
+					return name
+			
+			def GetAtomNameFromMD(atomsPath, mdFilename):
+				atomFilename = mdFilename.replace(".md", ".atom")
+				dirName = mdFilename.replace(".md", "")
+				atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
+				atomDict = bmd.readfile(atomFilepath)
+				if atomDict is None:
+					print("[Atom][Get Atom Name][Atom Parsing Error]")
+					return ""
+				else:
+					name = GetValue("Name", atomDict, "")
+					return name
+
+			def BuildCategories(mdPath, atomsPath):
+				category = []
+				# Generate the atom menu list
+				for dirName in sorted(os.listdir(atomsPath)):
+					# Ignore hidden files starting with a periopd
+					if not dirName.startswith("."):
+						# Build the filenames
+						# Atom file
+						atomFilepath = os.path.join(atomsPath, dirName, dirName + ".atom")
+	
+						# Markdown file
+						mdFilepath = os.path.join(mdPath, dirName + ".md")
+						mdFileName = dirName + ".md"
+						mdAtomName = dirName
+	
+						atomDict = bmd.readfile(atomFilepath)
+						if atomDict is None:
+							print("[Atom][Build Categories][Atom Parsing Error]")
+						else:
+							name = GetValue("Name", atomDict, "")
+							cat = GetValue("Category", atomDict, "")
+							catItem = (cat + "/" + mdFileName)
+							category.append(catItem)
+				return category
+
+			menus = {}
+			category = {}
+
+			# Add the menu items
+			category = BuildCategories(mdPath, atomsPath)
+			menus = BuildMenu(category)
+			# print(category)
+			# print(menus)
+
+			for i in menus.keys():
+				print("- [" + i + "](/ ':disabled')")
+				fBar.write("- [" + i + "](/ ':disabled')\n")
+				for j in menus[i].keys():
+					if j.endswith(".md"):
+						cleanName = GetAtomNameFromMD(atomsPath, j)
+						print("  - [" + cleanName + "](" + j + ")")
+						fBar.write("  - [" + cleanName + "](" + j + ")\n")
+					else:
+						print("  - [" + j + "](/ ':disabled')")
+						fBar.write("  - [" + j + "](/ ':disabled')\n")
+						for k in menus[i][j].keys():
+							if k.endswith(".md"):
+								cleanName = GetAtomNameFromMD(atomsPath, k)
+								print("    - [" + cleanName + "](" + k + ")")
+								fBar.write("    - [" + cleanName + "](" + k + ")\n")
+							else:
+								print("    - [" + k + "](/ ':disabled')")
+								fBar.write("    - [" + k + "](/ ':disabled')\n")
+								for l in menus[i][j][k].keys():
+									if l.endswith(".md"):
+										cleanName = GetAtomNameFromMD(atomsPath, l)
+										print("      - [" + cleanName + "](" + l + ")")
+										fBar.write("      - [" + cleanName + "](" + l + ")\n")
+									else:
+										print("      - [" + l + "](/ ':disabled')")
+										fBar.write("      - [" + l + "](/ ':disabled')\n")
+
+			# Generate the atom package list
+			for dirName in sorted(os.listdir(atomsPath)):
+				# Ignore hidden files starting with a periopd
+				if not dirName.startswith("."):
+					# Build the filenames
+					# Atom file
+					atomFilepath = os.path.join(atomsPath, dirName, dirName + ".atom")
+
+					# Markdown file
+					mdFilepath = os.path.join(mdPath, dirName + ".md")
+					mdFileName = dirName + ".md"
+					mdAtomName = dirName
+
+					atomDict = bmd.readfile(atomFilepath)
+					if atomDict is None:
+						print("[Atom][Atom Parsing Error]")
+					else:
+						name = GetValue("Name", atomDict, "")
+						cat = GetValue("Category", atomDict, "")
+
+						# Sidebar atom entry
+						#fBar.write("  - [" + name + "](" + mdFileName + ")\n")
+
+			# Sidebar atom entry
+			fBar.write("""- **Links**
+  - [WSL Forum](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067)
+  - [Reactor Atoms Repo](https://gitlab.com/WeSuckLess/Reactor)
+  - [Reactor Docs Repo](https://github.com/Kartaverse/Reactor-Docs)
 """)
 
 			# Generate the atom package list
@@ -177,9 +308,6 @@ def MarkdownCreate(folder):
 						author = GetValue("Author", atomDict, "")
 						html = GetValue("Description", atomDict, "")
 						htmlClean = "\n".join([line.strip() for line in html.splitlines()])
-
-						# Sidebar atom entry
-						fBar.write("  - [" + name + "](" + mdFileName + ")\n")
 
 						# Create the atom markdown file
 						with open(mdFilepath, "w", encoding="utf-8") as fAtom:
@@ -301,12 +429,6 @@ def MarkdownCreate(folder):
 					timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
 					#print(atomFilepath, "->", mdFilepath, timeFormatted)
 					print(mdFileName, timeFormatted)
-			# Sidebar atom entry
-			fBar.write("""- **Links**
-  - [WSL Forum](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3067)
-  - [Reactor Atoms Repo](https://gitlab.com/WeSuckLess/Reactor)
-  - [Reactor Docs Repo](https://github.com/Kartaverse/Reactor-Docs)
-""")
 	print("-------------------------------------")
 
 if __name__ == "__main__":
