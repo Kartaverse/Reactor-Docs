@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-09 03.56 PM
+Atom to Markdown.py - v1.6 2024-07-09 04.09 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -19,7 +19,6 @@ Step 1. Open the "Script > Atomz > Atom to Markdown" menu item. The Console wind
 
 Todo
 -----
-- Add collapsible "sidebar" Reactor category hierarchies
 - List if there is an InstallScript/UninstallScript
 - Possibly use the Reactor package manager CSS theme for the atom description html content formatting?
 - Parse description content for a file:// based "Reactor:" URL path.
@@ -196,6 +195,12 @@ def MarkdownCreate(folder):
 				else:
 					return mdFilename
 
+			def SortMenus(file):
+				if file.endswith(".md"):
+					return 1
+				else:
+					return 0
+
 			def BuildCategories(mdPath, atomsPath):
 				category = []
 				# Generate the atom menu list
@@ -229,10 +234,10 @@ def MarkdownCreate(folder):
 			menus = BuildMenu(category)
 			# print(category)
 			# print(menus)
-			for i in sorted(menus.keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
+			for i in sorted(menus.keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
 				print("- [" + i + "](/ ':disabled')")
 				fBar.write("- [" + i + "](/ ':disabled')\n")
-				for j in sorted(menus[i].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
+				for j in sorted(menus[i].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
 					if j.endswith(".md"):
 						cleanName = GetAtomNameFromMD(atomsPath, j)
 						print("  - [" + cleanName + "](" + j + ")")
@@ -240,7 +245,7 @@ def MarkdownCreate(folder):
 					else:
 						print("  - [" + j + "](/ ':disabled')")
 						fBar.write("  - [" + j + "](/ ':disabled')\n")
-						for k in sorted(menus[i][j].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
+						for k in sorted(menus[i][j].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
 							if k.endswith(".md"):
 								cleanName = GetAtomNameFromMD(atomsPath, k)
 								print("    - [" + cleanName + "](" + k + ")")
@@ -248,7 +253,7 @@ def MarkdownCreate(folder):
 							else:
 								print("    - [" + k + "](/ ':disabled')")
 								fBar.write("    - [" + k + "](/ ':disabled')\n")
-								for l in sorted(menus[i][j][k].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
+								for l in sorted(menus[i][j][k].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
 									if l.endswith(".md"):
 										cleanName = GetAtomNameFromMD(atomsPath, l)
 										print("      - [" + cleanName + "](" + l + ")")
