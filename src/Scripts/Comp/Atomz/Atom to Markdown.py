@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-09 03.39 PM
+Atom to Markdown.py - v1.6 2024-07-09 03.56 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -168,27 +168,33 @@ def MarkdownCreate(folder):
 				return menu
 
 			def GetAtomName(atomsPath, atomFilename):
-				dirName = atomFilename.replace(".atom", "")
-				atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
-				atomDict = bmd.readfile(atomFilepath)
-				if atomDict is None:
-					print("[Atom][Get Atom Name][Atom Parsing Error]")
-					return ""
+				if atomFilename.endswith(".atom"):
+					dirName = atomFilename.replace(".atom", "")
+					atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
+					atomDict = bmd.readfile(atomFilepath)
+					if atomDict is None:
+						print("[Atom][Get Atom Name][Atom Parsing Error]")
+						return ""
+					else:
+						name = GetValue("Name", atomDict, "")
+						return name
 				else:
-					name = GetValue("Name", atomDict, "")
-					return name
-			
+					return atomFilename
+
 			def GetAtomNameFromMD(atomsPath, mdFilename):
-				atomFilename = mdFilename.replace(".md", ".atom")
-				dirName = mdFilename.replace(".md", "")
-				atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
-				atomDict = bmd.readfile(atomFilepath)
-				if atomDict is None:
-					print("[Atom][Get Atom Name][Atom Parsing Error]")
-					return ""
+				if mdFilename.endswith(".md"):
+					atomFilename = mdFilename.replace(".md", ".atom")
+					dirName = mdFilename.replace(".md", "")
+					atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
+					atomDict = bmd.readfile(atomFilepath)
+					if atomDict is None:
+						print("[Atom][Get Atom Name][Atom Parsing Error]")
+						return ""
+					else:
+						name = GetValue("Name", atomDict, "")
+						return name
 				else:
-					name = GetValue("Name", atomDict, "")
-					return name
+					return mdFilename
 
 			def BuildCategories(mdPath, atomsPath):
 				category = []
@@ -223,11 +229,10 @@ def MarkdownCreate(folder):
 			menus = BuildMenu(category)
 			# print(category)
 			# print(menus)
-
-			for i in menus.keys():
+			for i in sorted(menus.keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
 				print("- [" + i + "](/ ':disabled')")
 				fBar.write("- [" + i + "](/ ':disabled')\n")
-				for j in menus[i].keys():
+				for j in sorted(menus[i].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
 					if j.endswith(".md"):
 						cleanName = GetAtomNameFromMD(atomsPath, j)
 						print("  - [" + cleanName + "](" + j + ")")
@@ -235,7 +240,7 @@ def MarkdownCreate(folder):
 					else:
 						print("  - [" + j + "](/ ':disabled')")
 						fBar.write("  - [" + j + "](/ ':disabled')\n")
-						for k in menus[i][j].keys():
+						for k in sorted(menus[i][j].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
 							if k.endswith(".md"):
 								cleanName = GetAtomNameFromMD(atomsPath, k)
 								print("    - [" + cleanName + "](" + k + ")")
@@ -243,7 +248,7 @@ def MarkdownCreate(folder):
 							else:
 								print("    - [" + k + "](/ ':disabled')")
 								fBar.write("    - [" + k + "](/ ':disabled')\n")
-								for l in menus[i][j][k].keys():
+								for l in sorted(menus[i][j][k].keys(), key=lambda item: GetAtomNameFromMD(atomsPath, item)):
 									if l.endswith(".md"):
 										cleanName = GetAtomNameFromMD(atomsPath, l)
 										print("      - [" + cleanName + "](" + l + ")")
