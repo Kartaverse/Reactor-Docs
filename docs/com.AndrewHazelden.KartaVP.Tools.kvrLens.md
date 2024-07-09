@@ -8,14 +8,14 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.73
+5.7301
 
 ___
 
 ## Description
-<p>The Kartaverse "kvrLens" and "kvrLensStereo" DCTL fuses allows you to distort your imagery using either the "Brown-Conrady", "Panotools", or "SynthEyes" lens distortion models. The "kvrSTMapGenerator" DCTL fuse allows you to generate an initial STMap template.</p>
+<p>The Kartaverse "kvrLens" and "kvrLensStereo" DCTL fuses allows you to distort your imagery using either the "Brown-Conrady", "Panotools", or "SynthEyes" lens distortion models. The "kvrSTMapGenerator" DCTL fuse allows you to generate an initial STMap template gradient.</p>
 
-<p>Brown-Conrady is popular with computer vision tools like OpenCV, and photogrammetry/NeRF tools. Panotools is used with 360VR panoramic imagery. SynthEyes is used for camera tracking/match moving.</p>
+<p>Brown-Conrady is a popular lens model to use with computer vision tools like OpenCV, and photogrammetry/NeRF tools. Panotools is a lens model used with 360VR panoramic imagery. The SynthEyes lens model is used for camera tracking/match moving.</p>
 
 <p>Bonus DCTLs: Resolve Edit and Color page compatible DCTL files are included in the folder:<br>
 Reactor:/Deploy/Bin/Kartaverse/LUT/</p>
