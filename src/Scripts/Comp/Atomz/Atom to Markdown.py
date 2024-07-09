@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-09 04.09 PM
+Atom to Markdown.py - v1.6 2024-07-09 04.17 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -197,9 +197,9 @@ def MarkdownCreate(folder):
 
 			def SortMenus(file):
 				if file.endswith(".md"):
-					return 1
-				else:
 					return 0
+				else:
+					return 1
 
 			def BuildCategories(mdPath, atomsPath):
 				category = []
@@ -234,10 +234,10 @@ def MarkdownCreate(folder):
 			menus = BuildMenu(category)
 			# print(category)
 			# print(menus)
-			for i in sorted(menus.keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
+			for i in sorted(menus.keys(), key=lambda item: (SortMenus(item), GetAtomNameFromMD(atomsPath, item).lower())):
 				print("- [" + i + "](/ ':disabled')")
 				fBar.write("- [" + i + "](/ ':disabled')\n")
-				for j in sorted(menus[i].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
+				for j in sorted(menus[i].keys(), key=lambda item: (SortMenus(item), GetAtomNameFromMD(atomsPath, item).lower())):
 					if j.endswith(".md"):
 						cleanName = GetAtomNameFromMD(atomsPath, j)
 						print("  - [" + cleanName + "](" + j + ")")
@@ -245,7 +245,7 @@ def MarkdownCreate(folder):
 					else:
 						print("  - [" + j + "](/ ':disabled')")
 						fBar.write("  - [" + j + "](/ ':disabled')\n")
-						for k in sorted(menus[i][j].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
+						for k in sorted(menus[i][j].keys(), key=lambda item: (SortMenus(item), GetAtomNameFromMD(atomsPath, item).lower())):
 							if k.endswith(".md"):
 								cleanName = GetAtomNameFromMD(atomsPath, k)
 								print("    - [" + cleanName + "](" + k + ")")
@@ -253,7 +253,7 @@ def MarkdownCreate(folder):
 							else:
 								print("    - [" + k + "](/ ':disabled')")
 								fBar.write("    - [" + k + "](/ ':disabled')\n")
-								for l in sorted(menus[i][j][k].keys(), key=lambda item: (GetAtomNameFromMD(atomsPath, item), SortMenus(item))):
+								for l in sorted(menus[i][j][k].keys(), key=lambda item: (SortMenus(item), GetAtomNameFromMD(atomsPath, item).lower())):
 									if l.endswith(".md"):
 										cleanName = GetAtomNameFromMD(atomsPath, l)
 										print("      - [" + cleanName + "](" + l + ")")
