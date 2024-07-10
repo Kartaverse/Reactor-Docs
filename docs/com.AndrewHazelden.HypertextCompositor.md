@@ -8,16 +8,16 @@ Docs
 Andrew Hazelden
 
 ## Version
-1.2
+1.3
 
 ___
 
 ## Description
 <h2>Overview</h2>
 
-<p>The Hypertext Compositor script looks for an HTML formatted sidecar .htm webpage file in the same folder as a .comp file. This allows you to pass along an illustrated guide about the composite to other users. Hypertext Compositor supports the use of custom Fusion comp based HTML "a href" anchor codes to create guided tutorials that can control the Fusion timeline, adjust comp settings, add nodes/macros/media/3D models, run scripts, and display content in the viewer window when you click on the hyperlinks in Fusion 16-17+/Resolve 16-17+. If you "Shift+Click" on a hyperlink a preview of the URL will be displayed.</p>
+<p>The Hypertext Compositor script looks for an HTML formatted sidecar .htm webpage file in the same folder as a .comp file. This allows you to pass along an illustrated guide about the composite to other users. Hypertext Compositor supports the use of custom Fusion comp based HTML "a href" anchor codes to create guided tutorials that can control the Fusion timeline, adjust comp settings, add nodes/macros/media/3D models, run scripts, and display content in the viewer window when you click on the hyperlinks in Fusion Studio 16-19+, and Resolve 16-19+. If you "Shift+Click" on a hyperlink a preview of the URL will be displayed.</p>
 
-<p>In Fusion Standalone/Resolve v16-17+ you can also drag an .htm file from your desktop and drop it in the Nodes view and the webpage will be displayed in a new window.<p>
+<p>In Fusion Standalone/Resolve v16-19+ you can also drag an .htm file from your desktop and drop it in the Nodes view and the webpage will be displayed in a new window.<p>
 
 <p>If you would like to learn how to use the custom "a href" anchor codes, look in the header of the "<a href="Reactor:/Deploy/Config/HypertextCompositor/">Reactor:/Deploy/Config/HypertextCompositor/</a>" folder based scripts for more information.</p>
 
