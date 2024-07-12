@@ -88,6 +88,7 @@
       - [KartaLink | Deadline Image Viewer](com.AndrewHazelden.KartaLink.DeadlineImageViewer.md)
       - [KartaLink | HQueue Render](com.AndrewHazelden.KartaLink.HQueueRender.md)
       - [KartaLink | Media Command](com.AndrewHazelden.KartaLink.MediaCommand.md)
+      - [KartaLink | Spatial Metadata](com.AndrewHazelden.KartaLink.Scripts.SpatialMetadata.md)
   - [KartaVP](/ ':disabled')
     - [Comps](/ ':disabled')
       - [KartaVP Example | Caguas VP](com.AndrewHazelden.KartaVP.CaguasVP.md)

@@ -8,7 +8,7 @@ Tools/Miscellaneous
 Jacob Danell
 
 ## Version
-1.2
+1.21
 
 ___
 
@@ -34,7 +34,10 @@ ___
 
 <p>
 Changelog:<br/>
-1.2, 2020-10-12:<br/>
+v1.2.1, 2024-07-12:<br/>
+* Fixed negative speed not allowed issue<br/>
+<br/>
+v1.2, 2020-10-12:<br/>
 * Fixed problem for Retimer inside of Resolve Fusion<br/>
 <br/>
 v1.1, 2020-03-05:<br/>
