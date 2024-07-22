@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.7301
+5.7302
 
 ___
 
@@ -25,7 +25,7 @@ ___
 </ul>
 
 <h2>Open Source Software License</h2>
-<p>LGPL 3.0 License</p>
+<p>LGPL 3.0</p>
 
 
 ___
