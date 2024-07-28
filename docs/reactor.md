@@ -35,7 +35,7 @@ Step 3. When the Reactor Installer starts you are presented with the following d
 
 ### Custom Install Path Button
 
-When installing Reactor you also have the option to choose a "Custom Install Path". This button allows you to select a custom location where you would like to have the Reactor content installed. Reactor content installed to. This could be a location like your user account's home folder, or another hard drive on your system, or a mapped network drive mount point for shared usage of Reactor content. 
+When installing Reactor you also have the option to choose a "Custom Install Path". This button allows you to select a custom location where you would like to have the Reactor content installed. This could be a location like your user account's home folder, or another hard drive on your system, or a mapped network drive mount point for shared usage of Reactor content. 
 
 You can change the installed Reactor location later on by modifying the Fusion "PathMap" preferences and pointing the "Reactor:" PathMap at a new folder path.
 
