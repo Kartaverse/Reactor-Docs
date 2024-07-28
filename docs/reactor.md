@@ -51,3 +51,14 @@ If there was an issue installing Reactor, the Console window will show useful di
 
 Note: Reactor content is sourced from the [GitLab Reactor repository](https://gitlab.com/WeSuckLess/Reactor) website. If you are using an outgoing firewall rule to block Resolve/Fusion based network traffic, this firewall rule will typically block Fusion from downloading Reactor content, too.
 
+## Manually Installing Reactor
+
+If you have difficulty installing Reactor using the standard installation process, there is a zipped download of the core Reactor files available here:
+- [reactor-manual-install.zip](https://kartaverse.github.io/Reactor-Docs/Downloads/reactor-manual-install.zip)  (875KB Download)
+
+Included with the download is a minimal setup of Reactor's supporting files which can help you get the package manager working on systems with non-English-US localization settings.
+
+Pre-installed with the Reactor manual install resources is the "hos_SplitEXRUltra.lua" script for multi-channel/multi-part EXR image access, the "SlashFor" toolset for batch settings changing in the Console window, and the zipped atom package workflow scripts "Atomz Expand"/"Atomz Create" that are used to support 100% air-gapped offline Reactor usage inside a LAN.
+
+Please check out the included help guide named "Manual Reactor Installation for BMD Resolve.txt" that is included with the reactor manual install zip archive for more details.
+
