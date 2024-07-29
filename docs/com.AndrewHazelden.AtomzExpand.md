@@ -8,7 +8,7 @@ Scripts/Reactor
 Andrew Hazelden
 
 ## Version
-1.6
+1.7
 
 ___
 

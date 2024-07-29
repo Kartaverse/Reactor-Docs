@@ -8,7 +8,7 @@ Scripts/Comp
 House of Secrets
 
 ## Version
-4.1
+4.2
 
 ___
 

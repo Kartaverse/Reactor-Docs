@@ -62,3 +62,57 @@ Pre-installed with the Reactor manual install resources is the "hos_SplitEXRUltr
 
 Please check out the included help guide named "Manual Reactor Installation for BMD Resolve.txt" that is included with the reactor manual install zip archive for more details.
 
+### Installation Steps
+
+If you have non-ASCII (accented or Unicode characters) in your user account's home folder name you can try installing Reactor manually into a custom location that avoids the use of extended characters in the filepath.
+
+1. Manually create the following "Reactor" folder using the Windows Explorer/macOS Finder folder browsing window at a location like:
+
+		Windows:
+		C:\Reactor\
+
+		macOS:
+		/Users/Shared/Reactor/
+
+		Linux:
+		/opt/Reactor/
+
+	Note - You need to ensure the base Reactor folder has writable disk-permissions.
+
+	Note - You will still have Reactor usage issues if you are using a localized language (like on a Japanese based computer system) that represents the operating system's folder separator "slash" character with a multi-byte character instead of a typical ASCII forward or back slash. If the folder separator is shown as symbol like "¥" you will not be able to use the Reactor installation techniques presented in this guide.
+
+2. Download a zipped copy of a working Reactor Package Manager folder named "`reactor-manual-install.zip`".
+
+3. Expand the contents of the "`reactor-manual-install.zip`" archive into the Reactor folder you created in step 1.
+
+4. Add the Reactor Pathmaps to the "PathMap" section in the Fusion Settings/Preferences window:
+
+		From: Scripts:
+		To: UserPaths:Scripts;Reactor:System/Scripts
+
+		From: UserPaths:
+		To: UserData:;AllData:;Fusion:;Reactor:Deploy
+
+		From: Reactor:
+		(Windows) To: C:\Reactor\
+		(macOS) To: /Users/Shared/Reactor/
+		(Linux) To: /opt/Reactor/
+
+	Note - Make sure to include a final trailing slash on the end of the filepath you enter for "`To:`" PathMap!
+
+5. In Resolve/Resolve Studio you should be able to open the Reactor window using the "`Workspace > Scripts > Reactor > Open Reactor...`" menu item.
+
+	In Fusion Studio you should be able to open the Reactor window using the "`Script > Reactor > Open Reactor...`" menu item.
+
+6. If you want to explore 100% offline "air-gapped" Reactor atom package installs, then check out the zipped atom package workflow which goes by the name of "atomz". This technique allows zipped atom files to be dragged from the desktop folder into the Nodes view work area.
+	
+	The Atomz workflows are supported through the "Scripts:/Comp/Atomz/Atomz Expand.py" and "Comfig:/DragDrop/Atomz Expand DragDrop.fu" files that are included with the manual reactor install.
+	
+	You require a copy of Python v3.x to be installed and working with Resolve Studio/Fusion Studio to be able to use the Atomz Expand tools. This should typically be a copy of Python v3.6 - v3.10 that you downloaded from the official Python org's website. You need to make sure Python is added to the system's PATH environment variable on Windows.
+
+	To learn more about Atomz zipped packages check out:  
+	[Steakunderwater Forum | [DEV] Reactor Zipped Atomz Thread](https://www.steakunderwater.com/wesuckless/viewtopic.php?p=44883#p44883)
+
+	Note -  If you do not have Python installed, you will likely see drag and drop functionality is reduced in Resolve. The solution to this is to either install Python, or to remove the "Config:/DragDrop/Atomz Expand DragDrop.fu" file which depends on Python existing on the system to operate.
+
+	Note - The Reactor Online atoms package listing website has a "Download" section for each of the atoms. You can use this zipped archive with the "Atomz Expand" scripts to install your atom content later on, in an offline fashion.
