@@ -93,6 +93,7 @@
     - [Comps](/ ':disabled')
       - [KartaVP Example | Caguas VP](com.AndrewHazelden.KartaVP.CaguasVP.md)
       - [KartaVP Example | Dual Fisheye](com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye.md)
+      - [KartaVP Example | Lens Profiles](com.AndrewHazelden.KartaVP.LensProfiles.md)
     - [Scripts](/ ':disabled')
       - [KartaVP Scripts | Light Editor](com.AndrewHazelden.KartaVP.Scripts.LightEditor.md)
       - [KartaVP Scripts | USD Outliner](com.AndrewHazelden.KartaVP.Scripts.USDOutliner.md)
