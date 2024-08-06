@@ -8,7 +8,7 @@ Tools/Tracking
 Pieter Van Houte
 
 ## Version
-1.21
+2.0
 
 ___
 
@@ -19,6 +19,11 @@ ___
 tracking of single frames forward and backward
 setting and changing a reference frame (!)
 exporting linked or baked Transform nodes from the Tracker
+</pre>
+
+<p>Version 2.0<p>
+<pre>
+support for new Point and IntelliTrack tracker types in Fusion 19
 </pre>
 
 <h2>For More Information:</h2>

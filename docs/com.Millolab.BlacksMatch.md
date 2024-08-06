@@ -14,8 +14,7 @@ ___
 
 ## Description
 <p>Inspired by Tony Lyons's tool for Nuke. You can use a single color or an image to match black values fo the background image</p>
-
-
+<p>We Suck Less helpful topic: <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3419">https://www.steakunderwater.com/wesuckless/viewtopic.php?t=3419</a></p>
 
 ___
 

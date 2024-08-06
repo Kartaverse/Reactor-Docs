@@ -8,7 +8,7 @@ Modifiers
 Pieter Van Houte
 
 ## Version
-2.71
+2.72
 
 ___
 
@@ -42,7 +42,7 @@ You can insert Suck Less Audio after any other modifier!</p>
 <li> Errordetect: Wrong bit-depth</li>
 </ul>
 <p>V2.71 Corrected a Bug</p>
-
+<p>V2.72 Now shows up as 'Suck Less Audio (WAV)"</p>
 
 <h3>We Suck Less companion topic:</h3>
 <p>https://www.steakunderwater.com/wesuckless/viewtopic.php?f=6&t=496</p>
