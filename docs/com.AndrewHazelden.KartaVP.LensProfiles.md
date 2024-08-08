@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Comps
 Andrew Hazelden
 
 ## Version
-5.7302
+5.7304
 
 ___
 
@@ -24,17 +24,18 @@ ___
 
 <h2>About the Footage</h2>
 <ul>
-<li>Canon R5C + RF5.2mm dual fisheye lens media provided by Mike Veasey</li>
-<li>Canon R5C + RF5.2mm dual fisheye lens media provided by DrQuads</li>
-<li>Canon R7 + RF-S3.9mm dual fisheye lens media provided by Hugh Hou</li>
-<li>Canon R6 + RF-S3.9mm dual fisheye lens media provided by Lloyd Ambrose</li>
+<li>Canon R5C + Canon RF5.2mm dual fisheye lens media provided by Mike Veasey</li>
+<li>Canon R5C + Canon RF5.2mm dual fisheye lens media provided by DrQuads</li>
+<li>Canon R6 + Canon RF-S3.9mm dual fisheye lens media provided by Lloyd Ambrose</li>
+<li>Canon R7 + Canon RF-S3.9mm dual fisheye lens media provided by Hugh Hou</li>
+<li>RED V-Raptor 8K + Canon RF5.2mm dual fisheye lens media provided by Hugh Hou</li>
 </ul>
 
 <h2>Requirements</h2>
 
 <ul>
 <li>Kartaverse "KartaVP" nodes from the Reactor Package Manager</li>
-<li>STMapper.fuse from the Reactor Package Manager</li>
+<li>EmberlightVFX "STMapper.fuse" from the Reactor Package Manager</li>
 <li>Resolve Studio/Fusion Studio based GlobalAlign node (not available in Resolve Free)</li>
 </ul>
 
@@ -85,6 +86,9 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/Media/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_Hugh_Hou_Backyard.cr3?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/Media/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_Hugh_Hou_Backyard.cr3</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/Media/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_Hugh_Hou_Backyard.jpg?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/Media/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_Hugh_Hou_Backyard.jpg</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_DST_8192x4096_Hugh_Hou_Backyard_v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/Canon/R7/STMap_Canon_R7_RF-S3.9mm_DF_SRC_6960x4640_DST_8192x4096_Hugh_Hou_Backyard_v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/Media/Credits.txt?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/Media/Credits.txt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/Media/RED_Digital_V-Raptor_RF5.2mm_DF_SRC_7680x4320_Hugh_Hou_LivingRoom.jpg?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/Media/RED_Digital_V-Raptor_RF5.2mm_DF_SRC_7680x4320_Hugh_Hou_LivingRoom.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/STMap_RED_Digital_V-Raptor_RF5.2mm_DF_SRC_7680x4320_DST_8192x4096_Hugh_Hou_LivingRoom_v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/Lens Profiles/RED/V-Raptor/STMap_RED_Digital_V-Raptor_RF5.2mm_DF_SRC_7680x4320_DST_8192x4096_Hugh_Hou_LivingRoom_v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Macros/KartaVP/Warp/kvrFisheyeStereo.png?ref_type=heads">Macros/KartaVP/Warp/kvrFisheyeStereo.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Macros/KartaVP/Warp/kvrFisheyeStereo.setting?ref_type=heads">Macros/KartaVP/Warp/kvrFisheyeStereo.setting</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.LensProfiles/Templates/Edit/Effects/KartaVP/Warp/kvrFisheyeStereo.png?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrFisheyeStereo.png</a></li>
