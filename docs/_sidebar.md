@@ -485,6 +485,7 @@
     - [CubeToLatLong](com.wesuckless.CubeToLatLong.md)
     - [ml_stMap](com.Millolab.ml_stMap.md)
     - [Nudge](com.PieterVanHoute.Nudge.md)
+    - [Smart Vector](com.JacobDanell.SmartVector.md)
     - [STMapper](com.JacobDanell.STMapper.md)
 - [Viewshaders](/ ':disabled')
   - [Linear to sRGB and Rec709 Viewshaders](com.StefanIhringer.srgb_rec709_viewshaders.md)
