@@ -15,7 +15,7 @@ ___
 ## Description
 <h1>Krokodove Showcase</h1>
 
-<p>Krokodove Showcase includes 35 Fusion comp file examples. You can check out the results on the <a href="https://vimeo.com/channels/krokodove">Krokodove Vimeo Channel</a>.</p>
+<p>Krokodove Showcase includes 35 Fusion comp file examples that use the KKD plugin. You can check out the results on the <a href="https://vimeo.com/channels/krokodove">Krokodove Vimeo Channel</a>.</p>
 
 <p>After this atom package is installed, the Krokodove Showcase content is found on disk at:<br>
 &quot;<a href="file://Reactor:/Deploy/Comps/Krokodove/">Reactor:/Deploy/Comps/Krokodove/</a>&quot;</p>
@@ -26,13 +26,10 @@ You can also access the Krokodove Showcase Fusion .comp files using the &quot;Re
 <p><a href="http://www.krokodove.com/wordpress/showcase/">http://www.krokodove.com/wordpress/showcase/</a></p>
 
 <h2>Krokodove Blog:</h2>
-<p><a href="http://www.krokodove.com">http://www.krokodove.com</a></p>
+<p><a href="http://www.komkomdoorn.com/krokodove/">http://www.komkomdoorn.com/krokodove/</a></p>
 
 <h2>Krokodove Vimeo:</h2>
 <p><a href="https://vimeo.com/channels/krokodove">https://vimeo.com/channels/krokodove</a></p>
-
-<h2>Krokodove Facebook:</h2>
-<p><a href="https://www.facebook.com/krokodove">https://www.facebook.com/krokodove</a></p>
 
 <h2>Email:</h2>
 <p><a href="mailto:raf@komkomdoorn.com">raf@komkomdoorn.com</a></p>

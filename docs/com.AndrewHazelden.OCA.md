@@ -8,7 +8,7 @@ Kartaverse/OCA
 Andrew Hazelden
 
 ## Version
-1.02
+1.03
 
 ___
 
@@ -67,6 +67,8 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Comp/OCA/Open/Show Comps Folder.lua?ref_type=heads">Scripts/Comp/OCA/Open/Show Comps Folder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Comp/OCA/Open/Show Docs Online.lua?ref_type=heads">Scripts/Comp/OCA/Open/Show Docs Online.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Comp/OCA/Open/Show Fuses Folder.lua?ref_type=heads">Scripts/Comp/OCA/Open/Show Fuses Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Comp/OCA/Render Current Frame.lua?ref_type=heads">Scripts/Comp/OCA/Render Current Frame.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Comp/OCA/Render Selected.lua?ref_type=heads">Scripts/Comp/OCA/Render Selected.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Tool/OCA/Render Current Frame.lua?ref_type=heads">Scripts/Tool/OCA/Render Current Frame.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.OCA/Scripts/Tool/OCA/Render Selected.lua?ref_type=heads">Scripts/Tool/OCA/Render Selected.lua</a></li>
 </ul>

@@ -41,16 +41,13 @@ To uninstall, follow the removal instructions below.</h3>
 <p>Krokodove is distributed for free.<br>
 
 <h2>Krokodove Blog:</h2>
-<p>http://www.krokodove.com</p>
+<p><a href="http://www.komkomdoorn.com/krokodove/">http://www.komkomdoorn.com/krokodove/</a></p>
 
 <h2>Krokodove Vimeo:</h2>
-<p>https://vimeo.com/channels/krokodove</p>
-
-<h2>Krokodove Facebook:</h2>
-<p>https://www.facebook.com/krokodove</p>
+<p><a href="https://vimeo.com/channels/krokodove">https://vimeo.com/channels/krokodove</a></p>
 
 <h2>Email:</h2>
-<p>raf@komkomdoorn.com</p>
+<p><a href="mailto:raf@komkomdoorn.com">raf@komkomdoorn.com</a></p>
 
 ___
 
