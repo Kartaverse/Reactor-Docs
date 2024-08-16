@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Andrew
 
 ## Version
-1.7
+1.8
 
 ___
 

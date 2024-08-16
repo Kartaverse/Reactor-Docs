@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Andrew Hazelden
 
 ## Version
-1.711
+1.8
 
 ___
 
