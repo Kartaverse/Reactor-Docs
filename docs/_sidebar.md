@@ -462,6 +462,7 @@
     - [Time Machine Fuse](com.PieterVanHoute.TimeMachine.md)
     - [Time3D Fuse](com.wesuckless.Time3D.md)
     - [TimeStretcherPlus](com.Millolab.TimeStretcherPlus.md)
+    - [Xpress It](com.JustCropIt.XpressIt.md)
   - [Optical Flow](/ ':disabled')
     - [SmoothCam Fuse](com.StefanIhringer.SmoothCam.md)
   - [Particles](/ ':disabled')
