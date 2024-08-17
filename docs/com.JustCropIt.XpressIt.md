@@ -36,7 +36,7 @@ ___
 
 <center><h2 style="color:#FF8000;">For More Info</h2></center>
 <p>Check out the Xpress It thread on the WSL forums:<br>
-< a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=50134#p50134">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=50134#p50134</a></p>
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=50134#p50134">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=50134#p50134</a></p>
 
 ___
 
