@@ -8,7 +8,7 @@ Tools/Effect
 Pieter Van Houte
 
 ## Version
-0.3
+0.41
 
 ___
 
@@ -23,8 +23,14 @@ ___
 
 <p>With many thanks to Peter Loveday and Eric Westphal for support and inspiration.</p>
 
+<p>v0.41 adds a control for Apply Mode<br>
+v0.3 initial Reactor release</p>
+
 ___
 
+## Donation
+The author of the atom has suggested a donation of "".  
+You can donate using the URL: <a href="https://www.steakunderwater.com/wesuckless/donate">https://www.steakunderwater.com/wesuckless/donate</a>
 ## Download
 
 Download a zipped atom package for offline installation:

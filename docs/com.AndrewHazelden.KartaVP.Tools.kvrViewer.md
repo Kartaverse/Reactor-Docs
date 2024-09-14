@@ -8,12 +8,12 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.7304
+5.74
 
 ___
 
 ## Description
-<p>The Kartaverse "kvrViewer" node allows you to quickly view flat, 360VR, 180VR, and fisheye panoramic videos in Resolve/Fusion. It supports cross-platform hardware accelerated rendering on your OpenCL, CUDA, or Metal based GPU using the DCTL fuse API.</p>
+<p>The Kartaverse "kvrViewer" node allows you to quickly view flat, 360VR, 180VR, and fisheye panoramic videos in Resolve/Fusion. It supports cross-platform hardware accelerated rendering on your OpenCL, CUDA, or Metal based GPU using the DCTL fuse API. A new "Effects Template" is available which allows this node to work on clips in an Edit page timeline.</p>
 
 <h2>DCTL Fuse Support Requirements</h2>
 
@@ -42,4 +42,5 @@ Download a zipped atom package for offline installation:
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Templates/Edit/Effects/KartaVP/Warp/kvrViewer.setting?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrViewer.setting</a></li>
 </ul>
