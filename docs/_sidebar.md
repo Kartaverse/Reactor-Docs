@@ -107,7 +107,7 @@
       - [KartaVP Tools | kvrPlane](com.AndrewHazelden.KartaVP.Tools.kvrPlane.md)
       - [KartaVP Tools | kvrSuperSTMap](com.AndrewHazelden.KartaVP.kvrSuperSTMap.md)
       - [KartaVP Tools | kvrViewer](com.AndrewHazelden.KartaVP.Tools.kvrViewer.md)
-      - [KartaVP Tools | kvrVingette](com.AndrewHazelden.KartaVP.kvrVingette.md)
+      - [KartaVP Tools | kvrVignette](com.AndrewHazelden.KartaVP.kvrVignette.md)
       - [KartaVP Tools | PT Data Nodes](com.AndrewHazelden.KartaVP.PT.md)
   - [KartaVR](/ ':disabled')
     - [KartaVR](com.AndrewHazelden.KartaVR.md)
