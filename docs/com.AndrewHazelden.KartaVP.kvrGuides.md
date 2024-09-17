@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.743
+5.75
 
 ___
 
@@ -36,6 +36,12 @@ ___
 <p>When this atom package is installed you can explore the example Fusion composites in this folder:</p>
 <pre><a href="file://Reactor:/Deploy/Comps/Kartaverse/KartaVP/kvrGuides/">Reactor:/Deploy/Comps/Kartaverse/KartaVP/kvrGuides/</a></pre>
 
+<h2>Requirements</h2>
+
+<ul>
+<li>Kartaverse "Vonk Ultra" nodes from the Reactor Package Manager</li>
+</ul>
+
 
 ___
 
@@ -54,6 +60,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Comps/Kartaverse/KartaVP/kvrGuides/kvrGuides_v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrGuides/kvrGuides_v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Docs/Kartaverse/KartaVP/kvrGuides/Images/fusion_viewer_guides_menu.png?ref_type=heads">Docs/Kartaverse/KartaVP/kvrGuides/Images/fusion_viewer_guides_menu.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Docs/Kartaverse/KartaVP/kvrGuides/Images/kvrguides_example_comp.png?ref_type=heads">Docs/Kartaverse/KartaVP/kvrGuides/Images/kvrguides_example_comp.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Docs/Kartaverse/KartaVP/kvrGuides/kvrGuides.html?ref_type=heads">Docs/Kartaverse/KartaVP/kvrGuides/kvrGuides.html</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Docs/Kartaverse/KartaVP/kvrGuides/kvrGuides.md?ref_type=heads">Docs/Kartaverse/KartaVP/kvrGuides/kvrGuides.md</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Guides/kvrGuides_OU.guide?ref_type=heads">Guides/kvrGuides_OU.guide</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrGuides/Guides/kvrGuides_SBS.guide?ref_type=heads">Guides/kvrGuides_SBS.guide</a></li>
