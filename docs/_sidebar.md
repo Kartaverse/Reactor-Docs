@@ -228,6 +228,7 @@
   - [Wave](com.wesuckless.Wave.md)
 - [Modules](/ ':disabled')
   - [Lua](/ ':disabled')
+    - [Flux](com.RXI.Flux.md)
     - [Lua Matrix](com.MichaelLutz.LuaMatrix.md)
     - [Lua YAML](com.Exosite.LuaYAML.md)
     - [Lua-CBOR](com.Zash.Lua-CBOR.md)

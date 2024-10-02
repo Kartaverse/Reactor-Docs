@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.7401
+5.5
 
 ___
 
@@ -18,7 +18,9 @@ ___
 <h2>Overview</h2>
 <p>The kvrVignette node allows you to quickly and easily generate a 180VR stereo 3D compatible dual fisheye lens masking pattern.</p>
 
-<p>A radial vignetting effect can be used with a "multiply" transfer mode to fade out the perimeter edge-zone area of an 180VR dual fisheye video clip. This technique masks the edges of the left and right eye views so you can guide the viewer's attention to where it matters most. Most importantly, using a vignetting process on your 180VR immersive media is an affordable way to hide the lens element that is visible in the opposite eye view of a dual fisheye lens based camera rig.</p>
+<p>A new Resolve Edit page "Generator" macro version of the kvrVignette tool is available. Select Edit page the Effects tab's "Toolbox &gt; Generators &gt; KartaVP &gt; Color &gt; kvrVignette" entry and drag it to a video track above your 180VR video content.
+
+<p>Note: A radial vignetting effect can be used with a "multiply" transfer mode to fade out the perimeter edge-zone area of an 180VR dual fisheye video clip. This technique masks the edges of the left and right eye views so you can guide the viewer's attention to where it matters most. Most importantly, using a vignetting process on your 180VR immersive media is an affordable way to hide the lens element that is visible in the opposite eye view of a dual fisheye lens based camera rig.</p>
 
 
 ___
@@ -36,4 +38,6 @@ Download a zipped atom package for offline installation:
 
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Fuses/Kartaverse/KartaVP/Color/kvrVignette.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Color/kvrVignette.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Generators/KartaVP/Color/kvrVignette.png?ref_type=heads">Templates/Generators/KartaVP/Color/kvrVignette.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Generators/KartaVP/Color/kvrVignette.setting?ref_type=heads">Templates/Generators/KartaVP/Color/kvrVignette.setting</a></li>
 </ul>

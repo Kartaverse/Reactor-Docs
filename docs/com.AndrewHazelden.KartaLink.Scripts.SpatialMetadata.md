@@ -8,7 +8,7 @@ Kartaverse/KartaLink/Scripts
 Andrew Hazelden
 
 ## Version
-5.7301
+5.7501
 
 ___
 
@@ -41,6 +41,20 @@ ___
 brew install spatial
 </pre>
 
+<h2>Resolve Deliver Page Script</h2>
+
+<p>A Resolve Deliver page script can be used to automatically create an MV-HEVC encoded video for the current render job.</p>
+
+<h3>Script Usage:</h3>
+
+<p>1. Switch to the Deliver page.</p>
+
+<p>2. In the Render Settings dialog, click on the "Video" tab. Expand the "Advanced Settings" section.</p>
+
+<p>3. Enable the "&#91;x&#93; Trigger script at" checkbox and set it to "&#91;End&#93; of render job". In the Script combobox menu select the "Spatial Metadata" entry.</p>
+
+<p>4. On the Deliver page, press the "Add to Render Queue" button.</p>
+
 
 ___
 
@@ -61,5 +75,6 @@ Download a zipped atom package for offline installation:
 
 ### macOS
 
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.Scripts.SpatialMetadata/Mac/Scripts/Deliver/Spatial Metadata.lua?ref_type=heads">Scripts/Deliver/Spatial Metadata.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.Scripts.SpatialMetadata/Mac/Scripts/MediaCommand/Metadata/Spatial Metadata.lua?ref_type=heads">Scripts/MediaCommand/Metadata/Spatial Metadata.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaLink.Scripts.SpatialMetadata/Mac/Scripts/Support/Kartaverse/KartaVR_Logo.png?ref_type=heads">Scripts/Support/Kartaverse/KartaVR_Logo.png</a></li>
