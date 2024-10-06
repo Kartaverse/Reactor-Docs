@@ -8,7 +8,7 @@ Tools/Miscellaneous
 JiPi
 
 ## Version
-1.9
+2.0
 
 ___
 
@@ -95,6 +95,7 @@ The seed frames are output directly, the "missing" are calculated.<p>
 <tr><td>1.7</td><td> Bugfix</td></tr>
 <tr><td>1.8</td><td> Shadertoy Audio (more Information: <a href="https://nmbr73.github.io/Shaderfuse/Audio/">ShaderfuseAudio</a>) </td></tr>
 <tr><td>1.9</td><td> Bugfix "Input Texture", Small Changes, Logo, 200MB Limit</td></tr>
+<tr><td>2.0</td><td> Changes for Fusion19</td></tr>
 </table>
 
 
