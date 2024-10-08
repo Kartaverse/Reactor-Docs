@@ -85,6 +85,7 @@
       - [KartaLink | Apple Script](com.AndrewHazelden.KartaLink.AppleScript.md)
       - [KartaLink | Keyboard Maestro](com.AndrewHazelden.KartaLink.KeyboardMaestro.md)
     - [Scripts](/ ':disabled')
+      - [KartaLink | Comp Sessions](com.AndrewHazelden.KartaLink.Sessions.md)
       - [KartaLink | Deadline Image Viewer](com.AndrewHazelden.KartaLink.DeadlineImageViewer.md)
       - [KartaLink | HQueue Render](com.AndrewHazelden.KartaLink.HQueueRender.md)
       - [KartaLink | Media Command](com.AndrewHazelden.KartaLink.MediaCommand.md)
