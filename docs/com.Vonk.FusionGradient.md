@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Andrew
 
 ## Version
-1.8
+1.9
 
 ___
 
@@ -69,6 +69,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientMerge.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientMerge.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientNormalizePosition.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientNormalizePosition.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSlice.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSlice.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSort.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSort.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSwatchViewer.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientSwatchViewer.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionGradient/Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientViewer.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Gradient/Utility/vGradientViewer.fuse</a></li>
 </ul>
