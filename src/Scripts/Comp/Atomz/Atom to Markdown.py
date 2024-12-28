@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.6 2024-07-09 04.17 PM
+Atom to Markdown.py - v1.7 2024-12-28 11.10 AM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -356,7 +356,7 @@ def MarkdownCreate(folder):
 											fAtom.write("You can donate using the URL: <a href=\"" + donate["URL"] + "\">" + donate["URL"]  + "</a>\n")
 									except Exception as error:
 										print("\t[Error]", error)
-
+									fAtom.write("\n")
 
 							fAtom.write("## Download\n\n")
 							fAtom.write("Download a zipped atom package for offline installation:\n")

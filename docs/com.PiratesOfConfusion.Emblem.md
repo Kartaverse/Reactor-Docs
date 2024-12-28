@@ -32,6 +32,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "".  
 You can donate using the URL: <a href="https://www.patreon.com/piratesofconfusion/">https://www.patreon.com/piratesofconfusion/</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:

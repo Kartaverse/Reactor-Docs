@@ -33,6 +33,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$5 USD".  
 You can donate using the URL: <a href="bc1qks84de8jearwchf5l5x2tfcn8e8erhk2t4a3kx?amount=0.00038692&message=resolve">bc1qks84de8jearwchf5l5x2tfcn8e8erhk2t4a3kx?amount=0.00038692&message=resolve</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:

@@ -35,6 +35,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$5.00 USD".  
 You can donate using the URL: <a href="https://ko-fi.com/asherroland">https://ko-fi.com/asherroland</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:

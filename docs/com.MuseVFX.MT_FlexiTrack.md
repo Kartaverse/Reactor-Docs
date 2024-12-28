@@ -27,6 +27,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "2".  
 You can donate using the URL: <a href="http://paypal.me/BryanRayVFX">http://paypal.me/BryanRayVFX</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:

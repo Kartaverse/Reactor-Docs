@@ -25,6 +25,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "$5".  
 You can donate using the URL: <a href="https://ko-fi.com/shadowmakersdr">https://ko-fi.com/shadowmakersdr</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:

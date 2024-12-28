@@ -47,6 +47,7 @@ ___
 ## Donation
 The author of the atom has suggested a donation of "3".  
 You can donate using the URL: <a href="https://paypal.me/danell">https://paypal.me/danell</a>
+
 ## Download
 
 Download a zipped atom package for offline installation:
