@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to JSON.py - v1.6 2025-01-24 12.43 PM
+Atom to JSON.py - v1.6 2025-01-26 11.52 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -295,22 +295,21 @@ def JSONCreate(folder):
 			atomJumboDict = {}
 			atomJumboIndex = 0
 			jsonJumboFilepath = os.path.join(jsonPath, "Reactor.json")
+			startTimer = datetime.datetime.now()
 
 			# Generate the atom package list
 			for dirName in sorted(os.listdir(atomsPath)):
 				# Ignore hidden files starting with a periopd
 				if not dirName.startswith("."):
-					startTimer = datetime.datetime.now()
-
 					# Build the filenames
 					# Atom file
 					atomFilepath = os.path.join(atomsPath, dirName, dirName + ".atom")
 
 					# JSON file
-					jsonFilepath = os.path.join(jsonPath, dirName + ".json")
-					jsonFilename = dirName + ".json"
+					#jsonFilepath = os.path.join(jsonPath, dirName + ".json")
+					#jsonFilename = dirName + ".json"
 					jsonAtomName = dirName
-					
+
 					atomDict = bmd.readfile(atomFilepath)
 					if atomDict is None:
 						print("[Atom][Atom Parsing Error]")
@@ -326,24 +325,27 @@ def JSONCreate(folder):
 						# Add the GitLab Reactor repo zipped package URL
 						atomDict.update({"Zipfile":  "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/" + str(dirName)})
 
+						# Add an ID entry
+						atomDict.update({"ID": dirName})
+
 						# Write the individual atom json files
-						with open(jsonFilepath, "w", encoding="utf-8") as fAtom:
-							json.dump(atomDict, fAtom, indent = 4)
-							
+						# with open(jsonFilepath, "w", encoding="utf-8") as fAtom:
+						#	json.dump(atomDict, fAtom, indent = 4)
+
 						# Append the dict to the composite json file
 						atomJumboIndex += 1
 						atomJumboDict.update({str(atomJumboIndex): atomDict})
 
-					endTimer = datetime.datetime.now()
-					elapsedTime = (endTimer - startTimer).total_seconds()
-					mins, secs = divmod(elapsedTime, 60)
-					timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
-					#print(atomFilepath, "->", jsonFilepath, timeFormatted)
-					print(jsonFilename, timeFormatted)
 			# Write the composite json file
 			with open(jsonJumboFilepath, "w", encoding="utf-8") as fAtom:
 				json.dump(atomJumboDict, fAtom, indent = 4)
 
+			endTimer = datetime.datetime.now()
+			elapsedTime = (endTimer - startTimer).total_seconds()
+			mins, secs = divmod(elapsedTime, 60)
+			timeFormatted = "(" + str(math.ceil(mins)).zfill(2) + " Minutes " + str(math.ceil(secs)).zfill(2) + " Seconds)"
+			print("\nWrite JSON file:")
+			print(jsonJumboFilepath, timeFormatted)
 	print("-------------------------------------")
 
 if __name__ == "__main__":
