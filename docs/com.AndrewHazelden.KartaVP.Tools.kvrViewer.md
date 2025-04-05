@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.74
+5.76
 
 ___
 
@@ -42,5 +42,6 @@ Download a zipped atom package for offline installation:
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp?ref_type=heads">Comps/Kartaverse/KartaVP/kvrViewer/kvrViewer v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Warp/kvrViewer.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Templates/Edit/Effects/KartaVP/Warp/kvrViewer.png?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrViewer.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.Tools.kvrViewer/Templates/Edit/Effects/KartaVP/Warp/kvrViewer.setting?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrViewer.setting</a></li>
 </ul>

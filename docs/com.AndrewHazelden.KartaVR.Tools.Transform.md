@@ -8,7 +8,7 @@ Legacy/Tools/VR
 Andrew Hazelden
 
 ## Version
-5.73
+5.76
 
 ___
 
@@ -29,22 +29,28 @@ Download a zipped atom package for offline installation:
 ### Common (No Architecture)
 
 <ul>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/Offset.bmp?ref_type=heads">Macros/KartaVR/Transform/Offset.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/Offset.png?ref_type=heads">Macros/KartaVR/Transform/Offset.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/Offset.setting?ref_type=heads">Macros/KartaVR/Transform/Offset.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateCubicFaces.bmp?ref_type=heads">Macros/KartaVR/Transform/RotateCubicFaces.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateCubicFaces.png?ref_type=heads">Macros/KartaVR/Transform/RotateCubicFaces.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateCubicFaces.setting?ref_type=heads">Macros/KartaVR/Transform/RotateCubicFaces.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateEquirectangular.bmp?ref_type=heads">Macros/KartaVR/Transform/RotateEquirectangular.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateEquirectangular.png?ref_type=heads">Macros/KartaVR/Transform/RotateEquirectangular.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateEquirectangular.setting?ref_type=heads">Macros/KartaVR/Transform/RotateEquirectangular.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRMono.bmp?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRMono.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRMono.png?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRMono.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRMono.setting?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRMono.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRStereo.bmp?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRStereo.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRStereo.png?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRStereo.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateGearVRStereo.setting?ref_type=heads">Macros/KartaVR/Transform/RotateGearVRStereo.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateView.bmp?ref_type=heads">Macros/KartaVR/Transform/RotateView.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateView.png?ref_type=heads">Macros/KartaVR/Transform/RotateView.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Macros/KartaVR/Transform/RotateView.setting?ref_type=heads">Macros/KartaVR/Transform/RotateView.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/Offset.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/Offset.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/Offset.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/Offset.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateCubicFaces.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateCubicFaces.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateCubicFaces.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateCubicFaces.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateEquirectangular.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateEquirectangular.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateEquirectangular.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateEquirectangular.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateGearVRMono.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateGearVRMono.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateGearVRMono.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateGearVRMono.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateGearVRStereo.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateGearVRStereo.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateGearVRStereo.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateGearVRStereo.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateView.png?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateView.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Transform/Templates/Fusion/KartaVR/Transform/RotateView.setting?ref_type=heads">Templates/Fusion/KartaVR/Transform/RotateView.setting</a></li>
 </ul>

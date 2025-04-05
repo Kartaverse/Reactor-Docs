@@ -8,7 +8,7 @@ Legacy/Tools/VR
 Andrew Hazelden
 
 ## Version
-5.73
+5.76
 
 ___
 
@@ -32,28 +32,36 @@ Download a zipped atom package for offline installation:
 ### Common (No Architecture)
 
 <ul>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.png?ref_type=heads">Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.png?ref_type=heads">Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.png?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.png?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVGradientMap.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVGradientMap.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVGradientMap.png?ref_type=heads">Macros/KartaVR/UV Pass/UVGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVGradientMap.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVGradientMap.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImage.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImage.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImage.png?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImage.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImage.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImage.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.png?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.bmp?ref_type=heads">Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.png?ref_type=heads">Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.setting?ref_type=heads">Macros/KartaVR/UV Pass/UVPassVideoStitchingTemplate.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVAngular2EquirectangularGradientMap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVDomemaster2EquirectangularGradientMap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2AngularGradientMap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVEquirectangular2DomemasterGradientMap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVGradientMap.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVGradientMap.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVGradientMap.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVGradientMap.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImage.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImage.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImage.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImage.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassFromRGBImageOnDisk.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassVideoStitchingTemplate.png?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassVideoStitchingTemplate.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.UVPass/Templates/Fusion/KartaVR/UV Pass/UVPassVideoStitchingTemplate.setting?ref_type=heads">Templates/Fusion/KartaVR/UV Pass/UVPassVideoStitchingTemplate.setting</a></li>
 </ul>

@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Scripts
 Andrew Hazelden
 
 ## Version
-1.8
+1.9
 
 ___
 
@@ -48,8 +48,10 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/List Fuses in Comp.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/List Fuses in Comp.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Rename Vonk Nodes.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Rename Vonk Nodes.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Split Keys.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Split Keys.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Edit Selected Fuses.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Edit Selected Fuses.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Rename Vonk Nodes.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Rename Vonk Nodes.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Render Current Frame.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Render Current Frame.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Render Selected.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Render Selected.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Reveal Selected Fuses.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Reveal Selected Fuses.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Split Keys.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Split Keys.lua</a></li>
 </ul>

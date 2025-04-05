@@ -8,7 +8,7 @@ Kartaverse/KartaVR/Tools
 Andrew Hazelden
 
 ## Version
-5.73
+5.76
 
 ___
 
@@ -53,6 +53,8 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Fuses/Kartaverse/KartaVR/Warp/kvrReframe360Ultra.fuse?ref_type=heads">Fuses/Kartaverse/KartaVR/Warp/kvrReframe360Ultra.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Macros/KartaVR/Images/latlong_barrens_sunset.jpg?ref_type=heads">Macros/KartaVR/Images/latlong_barrens_sunset.jpg</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Macros/KartaVR/Images/latlong_nightsky_in_forest.jpg?ref_type=heads">Macros/KartaVR/Images/latlong_nightsky_in_forest.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.png?ref_type=heads">Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.setting?ref_type=heads">Templates/Edit/Effects/KartaVR/Warp/kvrReframe360Ultra.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.png?ref_type=heads">Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.Reframe360/Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.setting?ref_type=heads">Templates/Fusion/KartaVR/Warp/kvrReframe360Ultra.setting</a></li>
 </ul>

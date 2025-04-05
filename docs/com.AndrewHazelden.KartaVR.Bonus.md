@@ -8,7 +8,7 @@ Kartaverse/KartaVR
 Andrew Hazelden
 
 ## Version
-5.73
+5.77
 
 ___
 
@@ -33,6 +33,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/FFMPEG Encoding Intool Script/FFMPEG Encoding Saver Intool Script.comp?ref_type=heads">Bin/KartaVR/bonus/FFMPEG Encoding Intool Script/FFMPEG Encoding Saver Intool Script.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/KartaVR Desktop Pattern 1920x1080.png?ref_type=heads">Bin/KartaVR/bonus/KartaVR Desktop Pattern 1920x1080.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/KartaVR Desktop Pattern 3440x1440.png?ref_type=heads">Bin/KartaVR/bonus/KartaVR Desktop Pattern 3440x1440.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/Kartaverse Atomz List.lst?ref_type=heads">Bin/KartaVR/bonus/Kartaverse Atomz List.lst</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/icons/128x128/kartavr.png?ref_type=heads">Bin/KartaVR/bonus/icons/128x128/kartavr.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/icons/16x16/kartavr.png?ref_type=heads">Bin/KartaVR/bonus/icons/16x16/kartavr.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Bonus/Bin/KartaVR/bonus/icons/192x192/kartavr.png?ref_type=heads">Bin/KartaVR/bonus/icons/192x192/kartavr.png</a></li>

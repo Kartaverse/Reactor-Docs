@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.5
+5.76
 
 ___
 
@@ -38,6 +38,6 @@ Download a zipped atom package for offline installation:
 
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Fuses/Kartaverse/KartaVP/Color/kvrVignette.fuse?ref_type=heads">Fuses/Kartaverse/KartaVP/Color/kvrVignette.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Generators/KartaVP/Color/kvrVignette.png?ref_type=heads">Templates/Generators/KartaVP/Color/kvrVignette.png</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Generators/KartaVP/Color/kvrVignette.setting?ref_type=heads">Templates/Generators/KartaVP/Color/kvrVignette.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Edit/Generators/KartaVP/Color/kvrVignette.png?ref_type=heads">Templates/Edit/Generators/KartaVP/Color/kvrVignette.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.kvrVignette/Templates/Edit/Generators/KartaVP/Color/kvrVignette.setting?ref_type=heads">Templates/Edit/Generators/KartaVP/Color/kvrVignette.setting</a></li>
 </ul>

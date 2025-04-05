@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Cédric
 
 ## Version
-1.9
+1.92
 
 ___
 
@@ -46,6 +46,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Comps/Kartaverse/Vonk Ultra/Demo JSON/JSON/Test_Write.json?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo JSON/JSON/Test_Write.json</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Defaults/Fuse.vJSONDoString_vJSONDoString.setting.bak?ref_type=heads">Defaults/Fuse.vJSONDoString_vJSONDoString.setting.bak</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Docs/Kartaverse/Vonk Ultra/com.Vonk.FusionJSON.md?ref_type=heads">Docs/Kartaverse/Vonk Ultra/com.Vonk.FusionJSON.md</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Fuses/Kartaverse/Vonk Ultra/JSON/Array/vJSONFromArray.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/JSON/Array/vJSONFromArray.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Fuses/Kartaverse/Vonk Ultra/JSON/Flow/vJSONSwitch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/JSON/Flow/vJSONSwitch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Fuses/Kartaverse/Vonk Ultra/JSON/Flow/vJSONWireless.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/JSON/Flow/vJSONWireless.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionJSON/Fuses/Kartaverse/Vonk Ultra/JSON/IO/vJSONFromFile.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/JSON/IO/vJSONFromFile.fuse</a></li>

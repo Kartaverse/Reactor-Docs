@@ -8,7 +8,7 @@ Tools/Warp
 Jacob Danell
 
 ## Version
-1.2
+1.3
 
 ___
 
@@ -30,6 +30,7 @@ ___
 <li>Works with DoD in the texture and STMap</li>
 <li>Get the size from the Texture or the STmap</li>
 <li>Different tiling options</li>
+<li>Different anti-aliasing and super sampling options</li>
 </ul>
 </p>
 
@@ -47,6 +48,10 @@ ___
 
 <p>
 Changelog:<br/>
+v1.3: 2025-03-17:<br/>
+- Added anti-aliasing and super sampling options<br/>
+<br/>
+
 v1.2: 2023-11-01:<br/>
 - Select the image size, window size and clipping to get the exact image you need<br/>
 - STMapper can now read the DoD from the stmap and write out data in the outputs DoD correctly<br/>

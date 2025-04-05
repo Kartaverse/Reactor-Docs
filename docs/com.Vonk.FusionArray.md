@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Cédric
 
 ## Version
-1.9
+1.912
 
 ___
 
@@ -43,6 +43,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Defaults/Fuse.vArrayDoString_vArrayDoString.setting.bak?ref_type=heads">Defaults/Fuse.vArrayDoString_vArrayDoString.setting.bak</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromCSV.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromCSV.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromDataWindow.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromDataWindow.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromJSON.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromJSON.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromLuaTable.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromLuaTable.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromMediaIn.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromMediaIn.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromMetadata.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Create/vArrayFromMetadata.fuse</a></li>
@@ -60,6 +61,8 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Temporal/vArrayTimeSpeed.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Temporal/vArrayTimeSpeed.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Temporal/vArrayTimeStretch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Temporal/vArrayTimeStretch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayConcatenate.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayConcatenate.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayCountElement.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayCountElement.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayCountSubElements.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayCountSubElements.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayJoin.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayJoin.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayMatch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArrayMatch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionArray/Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArraySize.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Array/Utility/vArraySize.fuse</a></li>

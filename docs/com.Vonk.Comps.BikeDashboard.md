@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Comps
 Andrew Hazelden and Misocko
 
 ## Version
-1.0
+1.1
 
 ___
 
@@ -38,5 +38,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Comps.BikeDashboard/Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Docs/3 Vonk Bike Dashboard Nodes.png?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Docs/3 Vonk Bike Dashboard Nodes.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Comps.BikeDashboard/Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Docs/Readme.txt?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Docs/Readme.txt</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Comps.BikeDashboard/Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Media/pixabay-nature-cyclists-bike-trail-sport-1792422.jpg?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Vonk Bike Dashboard/Media/pixabay-nature-cyclists-bike-trail-sport-1792422.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Comps.BikeDashboard/Templates/Edit/Effects/Vonk Ultra/Bike Dashboard HD.png?ref_type=heads">Templates/Edit/Effects/Vonk Ultra/Bike Dashboard HD.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Comps.BikeDashboard/Templates/Edit/Effects/Vonk Ultra/Bike Dashboard HD.setting?ref_type=heads">Templates/Edit/Effects/Vonk Ultra/Bike Dashboard HD.setting</a></li>
 </ul>

@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Comps
 Andrew Hazelden
 
 ## Version
-5.7302
+5.76
 
 ___
 
@@ -58,4 +58,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye/Macros/KartaVR/Warp/kvrDualFisheye.setting?ref_type=heads">Macros/KartaVR/Warp/kvrDualFisheye.setting</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye/Templates/Edit/Effects/KartaVP/Warp/kvrDualFisheye.png?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrDualFisheye.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye/Templates/Edit/Effects/KartaVP/Warp/kvrDualFisheye.setting?ref_type=heads">Templates/Edit/Effects/KartaVP/Warp/kvrDualFisheye.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye/Templates/Fusion/KartaVP/Warp/kvrDualFisheye.png?ref_type=heads">Templates/Fusion/KartaVP/Warp/kvrDualFisheye.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye/Templates/Fusion/KartaVP/Warp/kvrDualFisheye.setting?ref_type=heads">Templates/Fusion/KartaVP/Warp/kvrDualFisheye.setting</a></li>
 </ul>

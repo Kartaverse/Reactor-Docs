@@ -8,7 +8,7 @@ Scripts/Comp
 Alexey Bogomolov
 
 ## Version
-1.93
+1.941
 
 ___
 
@@ -30,6 +30,8 @@ ___
 <li><i>v1.9</i>: fix Resolve 17 compatibility (omit __flags data)</li>
 <li><i>v1.92</i>: add fix name serialization button</li>
 <li><i>v1.93</i>: add batch rename options</li>
+<li><i>v1.94</i>: added prefix and suffix functionality</li>
+<li><i>v1.941</i>: remove underscores from pre/suffix default</li>
 </ul>
 
 

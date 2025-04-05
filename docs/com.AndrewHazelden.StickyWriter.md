@@ -8,7 +8,7 @@ Tools/Creator
 Andrew Hazelden
 
 ## Version
-1.1
+1.2
 
 ___
 
@@ -45,10 +45,10 @@ Download a zipped atom package for offline installation:
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Comps/Creator/StickyWriter.comp?ref_type=heads">Comps/Creator/StickyWriter.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Config/Creator/StickyWriter_menus.fu?ref_type=heads">Config/Creator/StickyWriter_menus.fu</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Macros/Creator/StickyWriter.bmp?ref_type=heads">Macros/Creator/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Macros/Creator/StickyWriter.png?ref_type=heads">Macros/Creator/StickyWriter.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Macros/Creator/StickyWriter.setting?ref_type=heads">Macros/Creator/StickyWriter.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Edit/Titles/StickyWriter.bmp?ref_type=heads">Templates/Edit/Titles/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Edit/Titles/StickyWriter.png?ref_type=heads">Templates/Edit/Titles/StickyWriter.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Edit/Titles/StickyWriter.setting?ref_type=heads">Templates/Edit/Titles/StickyWriter.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Fusion/StickyWriter/StickyWriter.bmp?ref_type=heads">Templates/Fusion/StickyWriter/StickyWriter.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Fusion/StickyWriter/StickyWriter.png?ref_type=heads">Templates/Fusion/StickyWriter/StickyWriter.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.StickyWriter/Templates/Fusion/StickyWriter/StickyWriter.setting?ref_type=heads">Templates/Fusion/StickyWriter/StickyWriter.setting</a></li>
 </ul>

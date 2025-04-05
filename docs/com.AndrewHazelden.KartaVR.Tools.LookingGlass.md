@@ -8,7 +8,7 @@ Legacy/Tools/VR
 Andrew Hazelden
 
 ## Version
-5.73
+5.76
 
 ___
 
@@ -29,7 +29,8 @@ Download a zipped atom package for offline installation:
 ### Common (No Architecture)
 
 <ul>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.bmp?ref_type=heads">Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.bmp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.png?ref_type=heads">Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.setting?ref_type=heads">Macros/KartaVR/Looking Glass/LookingGlassRenderer3D.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.png?ref_type=heads">Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVR.Tools.LookingGlass/Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.setting?ref_type=heads">Templates/Fusion/KartaVR/Looking Glass/LookingGlassRenderer3D.setting</a></li>
 </ul>
