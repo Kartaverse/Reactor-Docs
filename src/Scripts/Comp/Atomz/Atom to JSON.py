@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to JSON.py - v1.6 2025-01-26 11.52 PM
+Atom to JSON.py - v2.0 2025-04-20 05.50 AM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -11,7 +11,7 @@ The "Atom to JSON" Fusion comp script generates (.json) documents from Reactor P
 
 Requirements
 ------------
-- Python v3.6 to v3.10 64-bit
+- Python v3.6 to v3.11 64-bit
 
 Script Usage
 ------------

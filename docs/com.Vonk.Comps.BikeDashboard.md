@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Comps
 Andrew Hazelden and Misocko
 
 ## Version
-1.1
+2.0
 
 ___
 

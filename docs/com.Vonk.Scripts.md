@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Scripts
 Andrew Hazelden
 
 ## Version
-1.9
+2.0
 
 ___
 
@@ -46,6 +46,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Add Vonk Switch Node.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Add Vonk Switch Node.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Create All Data Nodes.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Create All Data Nodes.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/List Fuses in Comp.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/List Fuses in Comp.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/List Node Inputs and Outputs.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/List Node Inputs and Outputs.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Rename Vonk Nodes.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Rename Vonk Nodes.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Split Keys.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Split Keys.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Tool/Vonk Ultra/Edit Selected Fuses.lua?ref_type=heads">Scripts/Tool/Vonk Ultra/Edit Selected Fuses.lua</a></li>

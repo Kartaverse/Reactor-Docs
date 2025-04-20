@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v1.7 2024-12-28 11.10 AM
+Atom to Markdown.py - v2.0 2025-04-20 05.50 AM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -11,7 +11,7 @@ The "Atom to Markdown" Fusion comp script generates markdown (.md) documentation
 
 Requirements
 ------------
-- Python v3.6 to v3.10 64-bit
+- Python v3.6 to v3.11 64-bit
 
 Script Usage
 ------------
@@ -145,7 +145,8 @@ def MarkdownCreate(folder):
 		with open(mdSidebar, "w", encoding="utf-8") as fBar:
 			fBar.write("""<!-- docs/_sidebar.md -->
 - [Home](/)
-- [Reactor](reactor.md)
+- [Reactor](reactor)
+	- [Reactor SPEED BOOST](reactor-speed-boost)
 - **Atoms**
 """)
 

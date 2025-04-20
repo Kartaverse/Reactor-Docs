@@ -1,6 +1,7 @@
 <!-- docs/_sidebar.md -->
 - [Home](/)
-- [Reactor](reactor.md)
+- [Reactor](reactor)
+	- [Reactor SPEED BOOST](reactor-speed-boost)
 - **Atoms**
 - [Bin](/ ':disabled')
   - [CloudCompare](com.DanielGirardeau.CloudCompare.md)
@@ -166,6 +167,7 @@
       - [Vonk | FusionJSON](com.Vonk.FusionJSON.md)
       - [Vonk | FusionMatrix](com.Vonk.FusionMatrix.md)
       - [Vonk | FusionMeta](com.Vonk.FusionMeta.md)
+      - [Vonk | FusionMograph](com.Vonk.FusionMograph.md)
       - [Vonk | FusionMTLX](com.Vonk.FusionMTLX.md)
       - [Vonk | FusionNumber](com.Vonk.FusionNumber.md)
       - [Vonk | FusionPoint](com.Vonk.FusionPoint.md)
@@ -294,6 +296,8 @@
     - [Unlock Comp](com.MuseVFX.unlockComp.md)
     - [Update Comp Data](com.MuseVFX.updateData.md)
     - [VectorSnapshot](com.AndrewHazelden.VectorSnapshot.md)
+  - [Flow](/ ':disabled')
+    - [Expression Editor HUD](com.DominikBargiel.ExpressionEditorHUD.md)
   - [Reactor](/ ':disabled')
     - [Atom Probe](com.AndrewHazelden.AtomProbe.md)
     - [Atomizer](com.AndrewHazelden.Atomizer.md)
@@ -340,6 +344,7 @@
     - [Arrooows_3D](com.JurajKral.Arrooows_3D.md)
     - [Gain 3D](com.LearnNowFX.Gain3D.md)
     - [SdR_3PointAverageXF](com.ShadowMakerSdR.SdR_3PointAverageXF.md)
+    - [vRayCameraExtractor](com.DominikBargiel.vRayCameraExtractor.md)
     - [Yankee](com.PieterVanHoute.Yankee.md)
   - [Blur](/ ':disabled')
     - [Defocus Gamma](com.GregoryChalenko.DefocusGamma.md)

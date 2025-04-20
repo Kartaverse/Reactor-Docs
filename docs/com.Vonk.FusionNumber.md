@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Cédric
 
 ## Version
-1.9
+2.0
 
 ___
 
@@ -112,7 +112,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcCosine.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcCosine.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcSine.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcSine.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcTangent.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcTangent.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcTangent2.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberArcTangent2.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberCosine.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberCosine.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberDegreesToRadians.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberDegreesToRadians.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberHyperbolicCosine.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberHyperbolicCosine.fuse</a></li>
@@ -121,6 +120,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberRadiansToDegrees.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberRadiansToDegrees.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberSine.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberSine.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberTangent.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberTangent.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberTwoArgumentArcTangent.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Trigonometry/vNumberTwoArgumentArcTangent.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberDelay.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberDelay.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberEndPID.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberEndPID.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionNumber/Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberViewer.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Number/Utility/vNumberViewer.fuse</a></li>

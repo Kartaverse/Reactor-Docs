@@ -5,10 +5,10 @@ ___
 Tools/Color
 
 ## Author
-Bryan Ray, Sam Treadway & David Kohen
+Bryan Ray, Sam Treadway, David Kohen & Dominic Bargiel
 
 ## Version
-1.5
+1.6
 
 ___
 

@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra
 Andrew Hazelden
 
 ## Version
-1.9
+2.0
 
 ___
 
@@ -32,14 +32,17 @@ The original Spicy Acorn Vonk toolset was created by<br>
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>
 
-<p>Documentation<br>
-The <a href="https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7TyHG2vKMi2I7v8/edit?usp=sharing">Vonk Ultra documentation</a> is accessible on Google Docs.</p>
+<h2>For More Info</h2>
+<p>Check out the <a href="https://www.instagram.com/vonkultra/">Vonk Ultra Instagram channel</a> for inspiration!</p>
+
+<p>The <a href="https://kartaverse.github.io/VonkUltra/">Vonk Ultra Mograph documentation</a> is accessible on GitHub.</p>
+
+The original <a href="https://docs.google.com/document/d/1U9WfdHlE1AZHdU6_ZQCB1I2nSa5I7TyHG2vKMi2I7v8/edit?usp=sharing">Vonk Ultra documentation</a> is accessible on Google Docs.</p>
 
 <p>Local PDF formatted Vonk documentation can be read on disk at:<br>
 <a href="file://Reactor:/Deploy/Docs/Kartaverse/Vonk Ultra/Vonk Ultra Data Nodes.pdf">Reactor:/Deploy/Docs/Kartaverse/Vonk Ultra/Vonk Ultra Data Nodes.pdf</p>
 
 <p>If you would like to provide feedback on the evolution of the Vonk data nodes, please check out the <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=41165#p41165">development thread on the Steakunderwater forum</a>.</p>
-
 
 ___
 

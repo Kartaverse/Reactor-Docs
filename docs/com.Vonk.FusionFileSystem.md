@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Andrew Hazelden
 
 ## Version
-1.9
+2.0
 
 ___
 
@@ -43,6 +43,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemColorTags.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemColorTags.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemCreateDir.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemCreateDir.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemDirExists.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemDirExists.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemExtendedAttributes.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemExtendedAttributes.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileCopy.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileCopy.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileExists.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileExists.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionFileSystem/Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileOpen.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/FileSystem/vFileSystemFileOpen.fuse</a></li>
