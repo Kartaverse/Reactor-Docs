@@ -113,6 +113,7 @@
       - [KartaVP Tools | kvrSuperSTMap](com.AndrewHazelden.KartaVP.kvrSuperSTMap.md)
       - [KartaVP Tools | kvrViewer](com.AndrewHazelden.KartaVP.Tools.kvrViewer.md)
       - [KartaVP Tools | kvrVignette](com.AndrewHazelden.KartaVP.kvrVignette.md)
+      - [KartaVP Tools | MultiView](com.AndrewHazelden.KartaVP.MultiView.md)
       - [KartaVP Tools | PT Data Nodes](com.AndrewHazelden.KartaVP.PT.md)
   - [KartaVR](/ ':disabled')
     - [KartaVR](com.AndrewHazelden.KartaVR.md)
