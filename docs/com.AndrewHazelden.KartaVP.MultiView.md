@@ -53,7 +53,19 @@ Download a zipped atom package for offline installation:
 ### Common (No Architecture)
 
 <ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/MaterialX PBR v001.comp?ref_type=heads">Comps/Kartaverse/MultiView/MaterialX PBR v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/BeebleScene.usda?ref_type=heads">Comps/Kartaverse/MultiView/Media/BeebleScene.usda</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/BeebleShaderAlpha.mtlx?ref_type=heads">Comps/Kartaverse/MultiView/Media/BeebleShaderAlpha.mtlx</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/BeebleShaderNoAlpha.mtlx?ref_type=heads">Comps/Kartaverse/MultiView/Media/BeebleShaderNoAlpha.mtlx</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/Greenscreen-Silver-Mask.mp4?ref_type=heads">Comps/Kartaverse/MultiView/Media/Greenscreen-Silver-Mask.mp4</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/Imageplane.usda?ref_type=heads">Comps/Kartaverse/MultiView/Media/Imageplane.usda</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/alpha/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/alpha/0000.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/basecolor/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/basecolor/0000.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/hdri/StinsonBeach.hdr?ref_type=heads">Comps/Kartaverse/MultiView/Media/hdri/StinsonBeach.hdr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/normal/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/normal/0000.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/roughness/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/roughness/0000.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/source/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/source/0000.png</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Media/specular/0000.png?ref_type=heads">Comps/Kartaverse/MultiView/Media/specular/0000.png</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/Render/PBR-Silver-Mask.0001.zip?ref_type=heads">Comps/Kartaverse/MultiView/Render/PBR-Silver-Mask.0001.zip</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Comps/Kartaverse/MultiView/kvrCreatePBR v001.comp?ref_type=heads">Comps/Kartaverse/MultiView/kvrCreatePBR v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Docs/Kartaverse/MultiView/Images/kvrCreatePBR-Inspector-Color.png?ref_type=heads">Docs/Kartaverse/MultiView/Images/kvrCreatePBR-Inspector-Color.png</a></li>

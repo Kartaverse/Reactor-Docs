@@ -449,7 +449,7 @@
     - [Billboard](com.SamTreadway.Billboard.md)
     - [Interactive Render Switch Fuse](com.AndrewHazelden.InteractiveRenderSwitch.md)
     - [Loop](com.PieterVanHoute.Loop.md)
-    - [Pipe_EXR_Management](com.DominikBargiel.Pipe_EXR_Management.md)
+    - [Pipe EXR Management](com.DominikBargiel.Pipe_EXR_Management.md)
     - [Switch Anything](com.JacobDanell.SwitchAnything.md)
     - [Switch Fuse](com.wesuckless.Switch.md)
     - [SwitchElse Fuse](com.wesuckless.SwitchElse.md)
