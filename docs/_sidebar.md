@@ -276,6 +276,7 @@
     - [Loader from Saver](com.AlexBogomolov.LoaderFromSaver.md)
     - [MultiMerge Selected](com.AndrewHazelden.MultiMergeSelected.md)
     - [NodeColorChanger](com.ShadowMakerSdR.NodeColorChanger.md)
+    - [Paste Nusion](com.AndrewHazelden.PasteNusion.md)
     - [Python Script Snippets for Fusion TDs](com.AndrewHazelden.PythonScriptSnippetsForFusionTDs.md)
     - [Quick Connect](com.JacobDanell.QuickConnect.md)
     - [ReloadLoaders](com.AlbertoGZ.ReloadLoaders.md)
