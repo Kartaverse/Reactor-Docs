@@ -98,6 +98,7 @@
       - [KartaVP Example | Caguas VP](com.AndrewHazelden.KartaVP.CaguasVP.md)
       - [KartaVP Example | Dual Fisheye](com.AndrewHazelden.KartaVR.Comps.WarpStitch.DualFisheye.md)
       - [KartaVP Example | Lens Profiles](com.AndrewHazelden.KartaVP.LensProfiles.md)
+      - [KartaVP Example | STMap Templates](com.AndrewHazelden.KartaVP.STMapTemplates.md)
     - [Scripts](/ ':disabled')
       - [KartaVP Scripts | Light Editor](com.AndrewHazelden.KartaVP.Scripts.LightEditor.md)
       - [KartaVP Scripts | Render Time Profiler](com.AndrewHazelden.KartaVP.Scripts.RenderTimeProfiler.md)

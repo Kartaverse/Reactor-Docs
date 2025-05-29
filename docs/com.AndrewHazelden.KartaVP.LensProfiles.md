@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Comps
 Andrew Hazelden
 
 ## Version
-5.76
+5.8
 
 ___
 
@@ -39,7 +39,7 @@ ___
 <h2>Requirements</h2>
 
 <ul>
-<li>Kartaverse "KartaVP" nodes from the Reactor Package Manager</li>
+<li>Kartaverse "KartaVP" and Vonk Ultra nodes from the Reactor Package Manager. This includes the Reactor atom packages for: kvrCreateStereo, kvrCropStereo, kvrGrade, kvrLens, kvrViewer, KartaVR DragDrop, and Vonk Ultra</li>
 <li>EmberlightVFX "STMapper.fuse" from the Reactor Package Manager</li>
 <li>Resolve Studio/Fusion Studio based GlobalAlign node (not available in Resolve Free)</li>
 </ul>
@@ -53,14 +53,6 @@ Download a zipped atom package for offline installation:
 
 ## Dependencies
 
-> [com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo](com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo.md)  
-> [com.AndrewHazelden.KartaVP.Tools.kvrCropStereo](com.AndrewHazelden.KartaVP.Tools.kvrCropStereo.md)  
-> [com.AndrewHazelden.KartaVP.Tools.kvrGrade](com.AndrewHazelden.KartaVP.Tools.kvrGrade.md)  
-> [com.AndrewHazelden.KartaVP.Tools.kvrLens](com.AndrewHazelden.KartaVP.Tools.kvrLens.md)  
-> [com.AndrewHazelden.KartaVP.Tools.kvrViewer](com.AndrewHazelden.KartaVP.Tools.kvrViewer.md)  
-> [com.AndrewHazelden.KartaVR.DragDrop](com.AndrewHazelden.KartaVR.DragDrop.md)  
-> [com.JacobDanell.STMapper](com.JacobDanell.STMapper.md)  
-> [com.Vonk.VonkUltra](com.Vonk.VonkUltra.md)  
 ## Deploy
 
 ### Common (No Architecture)

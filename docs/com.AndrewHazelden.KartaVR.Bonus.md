@@ -8,7 +8,7 @@ Kartaverse/KartaVR
 Andrew Hazelden
 
 ## Version
-5.77
+5.8
 
 ___
 

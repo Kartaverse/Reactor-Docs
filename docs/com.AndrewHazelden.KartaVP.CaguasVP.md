@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Comps
 Andrew Hazelden and Robert Moreno
 
 ## Version
-5.76
+5.8
 
 ___
 
