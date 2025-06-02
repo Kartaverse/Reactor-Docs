@@ -178,6 +178,7 @@
       - [Vonk | FusionText](com.Vonk.FusionText.md)
       - [Vonk | FusionUSD](com.Vonk.FusionUSD.md)
       - [Vonk | FusionVector](com.Vonk.FusionVector.md)
+      - [Vonk | FusionXML](com.Vonk.FusionXML.md)
       - [Vonk | FusionYAML](com.Vonk.FusionYAML.md)
     - [Scripts](/ ':disabled')
       - [Vonk Scripts](com.Vonk.Scripts.md)
