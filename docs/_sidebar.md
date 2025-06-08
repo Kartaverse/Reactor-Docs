@@ -153,6 +153,7 @@
     - [Comps](/ ':disabled')
       - [Vonk Example | Bike Dashboard](com.Vonk.Comps.BikeDashboard.md)
       - [Vonk Example | Mission Control](com.Vonk.Comps.MissionControl.md)
+      - [Vonk Example | Workflows](com.Vonk.Comps.Workflows.md)
     - [DragDrop](/ ':disabled')
       - [Vonk DragDrop | vJSONFromFile](com.AndrewHazelden.JSONFromFile.DragDrop.md)
       - [Vonk DragDrop | vTextFromFile](com.AndrewHazelden.vTextFromFile.DragDrop.md)
