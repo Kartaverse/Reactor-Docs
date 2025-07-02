@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.8
+5.81
 
 ___
 
@@ -20,7 +20,7 @@ ___
 
 Nodes:
 <ul>
-<li>The "kvrCreatePBR" fuse generates a PBR texture map set from an image using the Beeble Switchlight API. </li>
+<li>The "kvrCreatePBR" fuse generates a PBR texture map set from an image using the Beeble Switchlight API. Now includes Windows OS support.</li>
 
 </ul>
 
@@ -75,6 +75,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Docs/Kartaverse/MultiView/README.html?ref_type=heads">Docs/Kartaverse/MultiView/README.html</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Docs/Kartaverse/MultiView/README.md?ref_type=heads">Docs/Kartaverse/MultiView/README.md</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Docs/Kartaverse/MultiView/setenv.KVR_BEEBLE_SWITCHLIGHT_API.plist?ref_type=heads">Docs/Kartaverse/MultiView/setenv.KVR_BEEBLE_SWITCHLIGHT_API.plist</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Fuses/Kartaverse/Fuses/Kartaverse/MultiView/PBR/kvrCreatePBR.fuse?ref_type=heads">Fuses/Kartaverse/Fuses/Kartaverse/MultiView/PBR/kvrCreatePBR.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Fuses/Kartaverse/MultiView/PBR/kvrCreatePBR.fuse?ref_type=heads">Fuses/Kartaverse/MultiView/PBR/kvrCreatePBR.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.MultiView/Scripts/Comp/MultiView/Open/Show Comps Folder.lua?ref_type=heads">Scripts/Comp/MultiView/Open/Show Comps Folder.lua</a></li>
 </ul>

@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-5.8
+5.81
 
 ___
 
@@ -18,8 +18,8 @@ ___
 <h2>Fuse Support Requirements</h2>
 
 <ul>
-<li>A macOS system with a Metal based GPU</li>
-<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
+<li>Metal/OpenCL/CUDA based GPU</li>
+<li>Fusion Studio 16-20+ or Resolve 16-20+</li>
 </ul>
 
 <h2>Open Source Software License</h2>
