@@ -8,7 +8,7 @@ Kartaverse/KartaVP/Tools
 Andrew Hazelden
 
 ## Version
-1.3
+2.01
 
 ___
 
@@ -55,15 +55,24 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Demo PT Mask v001.comp?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Demo PT Mask v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Demo PT Optimal Output Image Size v001.comp?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Demo PT Optimal Output Image Size v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Demo PT Output Image v001.comp?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Demo PT Output Image v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Demo PT STMap Creation v001.comp?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Demo PT STMap Creation v001.comp</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Demo PT STMap Usage v001.comp?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Demo PT STMap Usage v001.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraA.0001.jpg?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraA.0001.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraA.0001.stmap.0001.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraA.0001.stmap.0001.exr</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraB.0001.jpg?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraB.0001.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraB.0001.stmap.0001.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraB.0001.stmap.0001.exr</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraC.0001.jpg?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraC.0001.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/CameraC.0001.stmap.0001.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/CameraC.0001.stmap.0001.exr</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Media/pts_media.ifl?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Media/pts_media.ifl</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/Camera3D.fbx?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/Camera3D.fbx</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge.jpg?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge.jpg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_0.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_0.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_1.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_1.exr</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_2.exr?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/Under the Bridge_layer_2.exr</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Render/pt.csv?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Render/pt.csv</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Samyang_8mm_v001.pts?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Samyang_8mm_v001.pts</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Under the Bridge PTGui v12.pts?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Under the Bridge PTGui v12.pts</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Comps/Kartaverse/PT/Demo PT/Under the Bridge STMap.pts?ref_type=heads">Comps/Kartaverse/PT/Demo PT/Under the Bridge STMap.pts</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Docs/Kartaverse/PT/README.html?ref_type=heads">Docs/Kartaverse/PT/README.html</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Docs/Kartaverse/PT/README.md?ref_type=heads">Docs/Kartaverse/PT/README.md</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Docs/Kartaverse/PT/images/pt-nodes-splash.png?ref_type=heads">Docs/Kartaverse/PT/images/pt-nodes-splash.png</a></li>
@@ -71,6 +80,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/Flow/ptSwitch.fuse?ref_type=heads">Fuses/Kartaverse/PT/Flow/ptSwitch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/Flow/ptWireless.fuse?ref_type=heads">Fuses/Kartaverse/PT/Flow/ptWireless.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/IO/ptLoader.fuse?ref_type=heads">Fuses/Kartaverse/PT/IO/ptLoader.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/IO/ptSTMap.fuse?ref_type=heads">Fuses/Kartaverse/PT/IO/ptSTMap.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/IO/ptSaver.fuse?ref_type=heads">Fuses/Kartaverse/PT/IO/ptSaver.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/Image/ptImage.fuse?ref_type=heads">Fuses/Kartaverse/PT/Image/ptImage.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.KartaVP.PT/Fuses/Kartaverse/PT/Image/ptOutputImage.fuse?ref_type=heads">Fuses/Kartaverse/PT/Image/ptOutputImage.fuse</a></li>
