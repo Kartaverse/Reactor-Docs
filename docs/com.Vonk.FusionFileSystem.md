@@ -20,7 +20,7 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 
 <p>The original Spicy Acorn Vonk toolset was created by<br>
 <a href="mailto:xmnr0x23@gmail.com">Kristof Indeherberge</a><br>
-<a href="mailto:duriau.cedric@live.be">Cédric Duriau</a></p>
+<a href="mailto:duriau.cedric@live.be">C&eacute;dric Duriau</a></p>
 
 <p>The Vonk Ultra fork is maintained by:<br>
 <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>

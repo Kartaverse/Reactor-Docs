@@ -5,7 +5,7 @@ ___
 Tools/Matte
 
 ## Author
-Cédric Duriau & Kristof Indeherberge
+C&eacute;dric Duriau & Kristof Indeherberge
 
 ## Version
 1.4
@@ -24,7 +24,7 @@ Cryptomatte is licensed using the BSD 3-clause license.</p>
 Cryptomatte v1.4 works with Fusion v9.0.2-17.1.1+ and Resolve v15.1-17.1.1+.</p>
 
 <p>Cryptomatte Fusion Support<br>
-By <a href="mailto:duriau.cedric@live.be">Cédric Duriau</a> and <a href="mailto:xmnr0x23@gmail.com">Kristof Indeherberge</a></p>
+By <a href="mailto:duriau.cedric@live.be">C&eacute;dric Duriau</a> and <a href="mailto:xmnr0x23@gmail.com">Kristof Indeherberge</a></p>
 
 <p>Reactor Atom Packaging<br>
 By <a href="mailto:andrew@andrewhazelden.com">Andrew Hazelden</a></p>

@@ -20,7 +20,7 @@ The Vonk fuses are licensed under a GPL v3 license.</p>
 
 <p>The original Spicy Acorn Vonk toolset was created by<br>
 <a href="mailto:xmnr0x23@gmail.com">Kristof Indeherberge</a><br>
-<a href="mailto:duriau.cedric@live.be">Cédric Duriau</a></p>
+<a href="mailto:duriau.cedric@live.be">C&eacute;dric Duriau</a></p>
 
 <p>Example YAML Files<br>
 The example .yaml files that are used with the Fusion "Demo YAML.comp" example come from the Exosite "Lua YAML" GitHub repository. The .yaml documents are covered by an MIT open-source license.</p>
