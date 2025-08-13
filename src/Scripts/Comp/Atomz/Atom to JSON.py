@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to JSON.py - 2025-08-13 12.28 PM
+Atom to JSON.py - 2025-08-13 12.36 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -167,6 +167,11 @@ def JSONCreate(folder):
 					author = GetValue("Author", atomDict, "")
 					html = GetValue("Description", atomDict, "")
 					htmlClean = "\n".join([line.strip() for line in html.splitlines()])
+
+					# Escape accent
+					#author = author.replace(u"\u00e9", "é")
+					#atomDict.update({"Author": author})
+					#print(author)
 
 					# Add the GitLab Reactor repo zipped package URL
 					atomDict.update({"Zipfile":  "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/" + str(dirName)})
