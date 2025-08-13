@@ -5,7 +5,7 @@ ___
 Tools/Metadata
 
 ## Author
-YourName
+Bryan Ray
 
 ## Version
 3.1

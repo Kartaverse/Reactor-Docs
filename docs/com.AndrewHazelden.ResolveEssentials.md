@@ -8,7 +8,7 @@ Resolve
 Andrew Hazelden
 
 ## Version
-4.0
+5.0
 
 ___
 
@@ -62,21 +62,19 @@ Download a zipped atom package for offline installation:
 ### Common (No Architecture)
 
 <ul>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fusion/Macros/IO/FBXExporterUltra.setting?ref_type=heads">Fusion/Macros/IO/FBXExporterUltra.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/Copy Metadata.fuse?ref_type=heads">Fuses/Fusion/Blackmagic/Copy Metadata.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/Duplicate.Fuse?ref_type=heads">Fuses/Fusion/Blackmagic/Duplicate.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/External Matte Saver.fuse?ref_type=heads">Fuses/Fusion/Blackmagic/External Matte Saver.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/Frame Average.Fuse?ref_type=heads">Fuses/Fusion/Blackmagic/Frame Average.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/LUTCubeAnalyzer.fuse?ref_type=heads">Fuses/Fusion/Blackmagic/LUTCubeAnalyzer.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/MetaTimeCode.fuse?ref_type=heads">Fuses/Fusion/Blackmagic/MetaTimeCode.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/Set Metadata.fuse?ref_type=heads">Fuses/Fusion/Blackmagic/Set Metadata.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/Blackmagic/Wireless.Fuse?ref_type=heads">Fuses/Fusion/Blackmagic/Wireless.Fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/ViewShaders/OverlayVS.fuse?ref_type=heads">Fuses/Fusion/ViewShaders/OverlayVS.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Fuses/Fusion/ViewShaders/ZebraVS.fuse?ref_type=heads">Fuses/Fusion/ViewShaders/ZebraVS.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Macros/Flow/PipeRouter.setting?ref_type=heads">Macros/Flow/PipeRouter.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/Copy Metadata.fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/Copy Metadata.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/Duplicate.Fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/Duplicate.Fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/External Matte Saver.fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/External Matte Saver.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/Frame Average.Fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/Frame Average.Fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/LUTCubeAnalyzer.fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/LUTCubeAnalyzer.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/MetaTimeCode.fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/MetaTimeCode.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/Set Metadata.fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/Set Metadata.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/Blackmagic/Wireless.Fuse?ref_type=heads">Resolve/Fuses/Fusion/Blackmagic/Wireless.Fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/ViewShaders/OverlayVS.fuse?ref_type=heads">Resolve/Fuses/Fusion/ViewShaders/OverlayVS.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Fuses/Fusion/ViewShaders/ZebraVS.fuse?ref_type=heads">Resolve/Fuses/Fusion/ViewShaders/ZebraVS.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Macros/IO/FBXExporterUltra.setting?ref_type=heads">Resolve/Macros/IO/FBXExporterUltra.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Macros/IO/MediaOutUltra.setting?ref_type=heads">Resolve/Macros/IO/MediaOutUltra.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Resolve/Scripts/bmd.scriptlib?ref_type=heads">Resolve/Scripts/bmd.scriptlib</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Macros/IO/FBXExporterUltra.setting?ref_type=heads">Macros/IO/FBXExporterUltra.setting</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Macros/IO/MediaOutUltra.setting?ref_type=heads">Macros/IO/MediaOutUltra.setting</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Comp/Resolve Essentials/Customize Toolbars.lua?ref_type=heads">Scripts/Comp/Resolve Essentials/Customize Toolbars.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Comp/Resolve Essentials/Fusion Credits.lua?ref_type=heads">Scripts/Comp/Resolve Essentials/Fusion Credits.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Comp/Resolve Essentials/Fusion Hotkey Manager.lua?ref_type=heads">Scripts/Comp/Resolve Essentials/Fusion Hotkey Manager.lua</a></li>
@@ -157,4 +155,5 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Tool/Resolve Essentials/Open Containing Folder.lua?ref_type=heads">Scripts/Tool/Resolve Essentials/Open Containing Folder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Tool/Resolve Essentials/Render Current Frame.lua?ref_type=heads">Scripts/Tool/Resolve Essentials/Render Current Frame.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/Tool/Resolve Essentials/Render Selected.lua?ref_type=heads">Scripts/Tool/Resolve Essentials/Render Selected.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.ResolveEssentials/Scripts/bmd.scriptlib?ref_type=heads">Scripts/bmd.scriptlib</a></li>
 </ul>

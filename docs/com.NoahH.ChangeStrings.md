@@ -1,4 +1,4 @@
-# Change Strings
+# ChangeStrings
 ___
 
 ## Category
@@ -8,34 +8,34 @@ Scripts/Comp
 Noah Hähnel
 
 ## Version
-2.06
+3.0
 
 ___
 
 ## Description
-<strong>Change Strings</strong> is a Search and Replace Tool designed for Fusion. This can help you to quickly change selected Loader filepaths, increase versions, and stay organized. <a href="https://noahhaehnel.com/blog/manual-changestrings/">You can see it in action and read all about it here.</a>
-<br> <br>
-This script can be used to <strong>batch replace</strong> strings (text) in:
+<strong>Change Strings</strong> is a Search and Replace Tool designed for Fusion. This can help you to quickly change selected filepaths, increase versions, and stay organized. <a href="https://noahhaehnel.com/blog/manual-changestrings/">See it in action and read about it here.</a>
+
+This tool can be used to <strong>batch</strong> replace strings (text) in:
 
 <ul>
-<li>Loader, Saver, and FBX/Alembic Filepaths</li>
+<li>All file path inputs on all selected nodes</li>
 <li>Node Names</li>
 <li>Expressions</li>
-<li>Text+/Text3D</li>
+<li>StyledText (Text+, Text3D, MultiText)</li>
+<li>Any other text Inputs (including CUstom Tools, Layer Muxer, Render Scripts)</li>
 </ul>
-It also contains many more features. Including:
+
+It is also packed with more features to make your life easier:
 
 <ul>
-<li>Increase or Decrease Versions</li>
-<li>Switch Text Patterns around (enable Space Splitter)</li>
-<li>QuickSelect Buttons for Loaders, Savers, FBX/ABC tools</li>
-<li>QuickSelect by Search</li>
-<li>A Textbox to use Change Strings for Text from outside of Fusion</li>
-<li>A proven UI with many Quality of Life enhancements</li>
+<li>Simple Version increases and decreases (Versioning Tab)</li>
+<li>Add Prefixes or Postfixes, version by the current date and more using dynamic Variables (%all, %toolName, %date2Y...)</li>
+<li>QuickSelect Buttons</li>
+<li>Toolbox tab for quick script launching</li>
+<li>Including a relatify paths script</li>
 </ul>
 
-Any isues, feature requests or other messages can be reported to me by contacting me through any of the channels listed on my
-<a href="https://noahhaehnel.com/">website.</a> I hope this script saves you as much time as it has saved me.
+Any isues, feature requests or other messages can be reported to me by contacting me through any of the channels listed on my <a href="https://noahhaehnel.com/">website.</a> I hope this script saves you as much time as it has saved me.
 
 ___
 

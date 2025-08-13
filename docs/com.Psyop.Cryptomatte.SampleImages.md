@@ -5,7 +5,7 @@ ___
 Tools/Matte
 
 ## Author
-C&eacute;dric Duriau & Kristof Indeherberge
+Cédric Duriau & Kristof Indeherberge
 
 ## Version
 1.4

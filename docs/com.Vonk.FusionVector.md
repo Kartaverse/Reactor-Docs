@@ -5,7 +5,7 @@ ___
 Kartaverse/Vonk Ultra/Modifiers
 
 ## Author
-Kristof & C&eacute;dric
+Kristof & Cédric
 
 ## Version
 2.1

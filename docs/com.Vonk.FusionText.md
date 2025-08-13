@@ -5,10 +5,10 @@ ___
 Kartaverse/Vonk Ultra/Modifiers
 
 ## Author
-Kristof & C&eacute;dric
+Kristof & Cédric
 
 ## Version
-2.101
+2.12
 
 ___
 
@@ -80,6 +80,8 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Flow/vTextSwitch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Flow/vTextSwitch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Flow/vTextWireless.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Flow/vTextWireless.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Font/vTextFontMetrics.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Font/vTextFontMetrics.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Fusion/vTextRenderComp.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Fusion/vTextRenderComp.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Fusion/vTextRenderManager.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Fusion/vTextRenderManager.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromClipboard.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromClipboard.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromComp.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromComp.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromFile.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/IO/vTextFromFile.fuse</a></li>
@@ -98,7 +100,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextDoString.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextDoString.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextExecute.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextExecute.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextProcessOpen.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextProcessOpen.fuse</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextRenderComp.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextRenderComp.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextRunScript.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextRunScript.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextShellBG.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextShellBG.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextSlashCommand.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Script/vTextSlashCommand.fuse</a></li>

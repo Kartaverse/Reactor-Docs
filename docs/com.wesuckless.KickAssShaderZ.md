@@ -28,7 +28,7 @@ ___
 <p>If you'd like to explore how the KickAss Shaders were created, simply expand the group to peek inside the shader.</p>
 
 <p>KickAss ShaderZ is a project that is hosted on the WeSuckLess Fusion community forum:<br>
-<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949</p>
+<a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949">https://www.steakunderwater.com/wesuckless/viewtopic.php?p=27949#p27949</a></p>
 
 <p>(<i>If you would like to take part in the KickAss ShaderZ project, check out the WSL forum page for the shader collection.</i>)</p>
 

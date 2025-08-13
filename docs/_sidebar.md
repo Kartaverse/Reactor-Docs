@@ -262,7 +262,7 @@
     - [Bookmarker](com.AlexBogomolov.Bookmarker.md)
     - [Camera Sensor Database](com.JacobDanell.CameraSensorDatabase.md)
     - [Change Paths](com.wesuckless.ChangePaths.md)
-    - [Change Strings](com.NoahH.ChangeStrings.md)
+    - [ChangeStrings](com.NoahH.ChangeStrings.md)
     - [Chemical](com.SirEdric.Chemical.md)
     - [Class Browser](com.RogerMagnusson.ClassBrowser.md)
     - [CleanFlow](com.DcTurner.CleanFlow.md)
