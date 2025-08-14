@@ -8,7 +8,7 @@ Kartaverse/KartaVR
 Andrew Hazelden
 
 ## Version
-5.8
+5.81
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 <p>The list of installed Reactor "Bin" Cateogry packages include the following high-quality open-source programs:</p>
 
-<p><a href="http://ffmpeg.org/download.html#get-sources">ffmpeg</a> (<a href="https://ffmpeg.org/ffmpeg.html">ffmpeg</a>, <a href="https://ffmpeg.org/ffplay.html">ffplay</a>, <a href="https://ffmpeg.org/ffprobe.html">ffprobe</a>), <a href="https://www.imagemagick.org/script/command-line-processing.php">imagemagick</a> (<a href="https://imagemagick.org/script/animate.php">animate</a>, <a href="https://imagemagick.org/script/compare.php">compare</a>, <a href="https://imagemagick.org/script/animate.php">composite</a>, <a href="https://imagemagick.org/script/conjure.php">conjure</a>, <a href="https://imagemagick.org/script/convert.php">convert</a>, <a href="https://imagemagick.org/script/display.php">display</a>, <a href="https://imagemagick.org/script/identify.php">identify</a>, <a href="https://imagemagick.org/script/import.php">import</a>, <a href="https://imagemagick.org/script/mogrify.php">mogrify</a>, <a href="https://imagemagick.org/script/montage.php">montage</a>, <a href="https://imagemagick.org/script/stream.php">stream</a>), <a href="https://curl.haxx.se/">cURL</a>, <a href="http://hugin.sourceforge.net/">PanoTools CLI</a></a> (<a href="http://hugin.sourceforge.net/">Hugin</a>, <a href="http://enblend.sourceforge.net/">enfuse</a>, <a href="http://enblend.sourceforge.net/">enblend</a>, <a href="http://hugin.sourceforge.net/">nona</a>), <a href="https://en.wikipedia.org/wiki/Potrace">potrace</a> (potrace, mkbitmap), pfmtopsd, <a href="http://cygwin.com/git.html">cygwin</a> (<a href="http://www.gnu.org/software/coreutils/">base64</a>, <a href="https://www.gnu.org/software/gzip/">gunzip</a>, <a href="https://www.gnu.org/software/gzip/">gzip</a>, <a href="http://www.gnu.org/">zip</a>), <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">exiftool</a>, <a href="file://Reactor:/Deploy/Bin/wintee/source/">wintee</a>, <a href="http://djv.sourceforge.net/">DJV View</a>, <a href="http://www.meshlab.net/">MeshLab</a> (<a href="http://www.meshlab.net/#references">MeshLab</a>, <a href="https://github.com/cnr-isti-vclab/meshlab/blob/master/docs/meshlabserver.1">meshlabserver</a>), <a href="http://www.cloudcompare.org">CloudCompare</a>, <a href="http://www.cloudcompare.org">CloudCompare Viewer</a>, <a href="https://github.com/wjakob/instant-meshes">Instant Meshes</a>, <a href="https://github.com/google/spatial-media">Spatial Media Metadata Injector</a>..</p>
+<p><a href="http://ffmpeg.org/download.html#get-sources">ffmpeg</a> (<a href="https://ffmpeg.org/ffmpeg.html">ffmpeg</a>, <a href="https://ffmpeg.org/ffplay.html">ffplay</a>, <a href="https://ffmpeg.org/ffprobe.html">ffprobe</a>), <a href="https://www.imagemagick.org/script/command-line-processing.php">imagemagick</a> (<a href="https://imagemagick.org/script/animate.php">animate</a>, <a href="https://imagemagick.org/script/compare.php">compare</a>, <a href="https://imagemagick.org/script/animate.php">composite</a>, <a href="https://imagemagick.org/script/conjure.php">conjure</a>, <a href="https://imagemagick.org/script/convert.php">convert</a>, <a href="https://imagemagick.org/script/display.php">display</a>, <a href="https://imagemagick.org/script/identify.php">identify</a>, <a href="https://imagemagick.org/script/import.php">import</a>, <a href="https://imagemagick.org/script/mogrify.php">mogrify</a>, <a href="https://imagemagick.org/script/montage.php">montage</a>, <a href="https://imagemagick.org/script/stream.php">stream</a>), <a href="https://curl.haxx.se/">cURL</a>, <a href="http://hugin.sourceforge.net/">PanoTools CLI</a></a> (<a href="http://hugin.sourceforge.net/">Hugin</a>, <a href="http://enblend.sourceforge.net/">enfuse</a>, <a href="http://enblend.sourceforge.net/">enblend</a>, <a href="http://hugin.sourceforge.net/">nona</a>), <a href="https://en.wikipedia.org/wiki/Potrace">potrace</a> (potrace, mkbitmap), pfmtopsd, <a href="http://cygwin.com/git.html">cygwin</a> (<a href="http://www.gnu.org/software/coreutils/">base64</a>, <a href="https://www.gnu.org/software/gzip/">gunzip</a>, <a href="https://www.gnu.org/software/gzip/">gzip</a>, <a href="http://www.gnu.org/">zip</a>), <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">exiftool</a>, <a href="file://Reactor:/Deploy/Bin/wintee/source/">wintee</a>, <a href="https://github.com/google/spatial-media">Spatial Media Metadata Injector</a>..</p>
 
 
 <h2>Atom Package InstallScripts</h2>
@@ -70,20 +70,16 @@ Download a zipped atom package for offline installation:
 > [com.AndrewHazelden.RotateView](com.AndrewHazelden.RotateView.md)  
 > [com.AndrewHazelden.VectorSnapshot](com.AndrewHazelden.VectorSnapshot.md)  
 > [com.Cygwin.Zip](com.Cygwin.Zip.md)  
-> [com.DanielGirardeau.CloudCompare](com.DanielGirardeau.CloudCompare.md)  
 > [com.DanielStenberg.cURL](com.DanielStenberg.cURL.md)  
-> [com.DarbyJohnston.DJV](com.DarbyJohnston.DJV.md)  
 > [com.Google.SpatialMediaMetadataInjector](com.Google.SpatialMediaMetadataInjector.md)  
 > [com.Google.VR180Creator](com.Google.VR180Creator.md)  
 > [com.HouseOfSecrets.hos_SplitEXR_Ultra](com.HouseOfSecrets.hos_SplitEXR_Ultra.md)  
 > [com.HouseOfSecrets.hos_Tiler](com.HouseOfSecrets.hos_Tiler.md)  
+> [com.AndrewHazelden.KartaVR.Tools.STMapperInline](com.AndrewHazelden.KartaVR.Tools.STMapperInline.md)  
 > [com.Hugin.PanotoolsNG](com.Hugin.PanotoolsNG.md)  
 > [com.ImageMagick.Convert](com.ImageMagick.Convert.md)  
 > [com.StefanIhringer.srgb_rec709_viewshaders](com.StefanIhringer.srgb_rec709_viewshaders.md)  
-> [com.VCG.MeshLab](com.VCG.MeshLab.md)  
-> [com.WenzelJakob.InstantMeshes](com.WenzelJakob.InstantMeshes.md)  
 > [com.wesuckless.ffmpeg](com.wesuckless.ffmpeg.md)  
 > [com.wesuckless.wintee](com.wesuckless.wintee.md)  
-> [com.AndrewHazelden.KartaVR.Tools.STMapperInline](com.AndrewHazelden.KartaVR.Tools.STMapperInline.md)  
 ## Deploy
 
