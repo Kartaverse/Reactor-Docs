@@ -1678,11 +1678,11 @@
         "Date": {
             "__flags": 256,
             "1.0": 2025.0,
-            "2.0": 5.0,
-            "3.0": 29.0
+            "2.0": 8.0,
+            "3.0": 14.0
         },
         "Author": "Andrew Hazelden",
-        "Version": 5.8,
+        "Version": 5.81,
         "Category": "Kartaverse/KartaVR",
         "Dependencies": {
             "1.0": "com.AndrewHazelden.KartaLink.MediaCommand",
@@ -1744,12 +1744,13 @@
             "11.0": "com.Google.VR180Creator",
             "12.0": "com.HouseOfSecrets.hos_SplitEXR_Ultra",
             "13.0": "com.HouseOfSecrets.hos_Tiler",
-            "14.0": "com.AndrewHazelden.KartaVR.Tools.STMapperInline",
-            "15.0": "com.Hugin.PanotoolsNG",
-            "16.0": "com.ImageMagick.Convert",
-            "17.0": "com.StefanIhringer.srgb_rec709_viewshaders",
-            "18.0": "com.wesuckless.ffmpeg",
-            "19.0": "com.wesuckless.wintee"
+            "14.0": "com.JacobDanell.STMapper",
+            "15.0": "com.AndrewHazelden.KartaVR.Tools.STMapperInline",
+            "16.0": "com.Hugin.PanotoolsNG",
+            "17.0": "com.ImageMagick.Convert",
+            "18.0": "com.StefanIhringer.srgb_rec709_viewshaders",
+            "19.0": "com.wesuckless.ffmpeg",
+            "20.0": "com.wesuckless.wintee"
         },
         "Name": "KartaVR 3rd Party Libraries",
         "Zipfile": "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.AndrewHazelden.KartaVR.3rdParty",

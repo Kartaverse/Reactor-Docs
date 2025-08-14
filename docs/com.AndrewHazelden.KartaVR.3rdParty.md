@@ -75,6 +75,7 @@ Download a zipped atom package for offline installation:
 > [com.Google.VR180Creator](com.Google.VR180Creator.md)  
 > [com.HouseOfSecrets.hos_SplitEXR_Ultra](com.HouseOfSecrets.hos_SplitEXR_Ultra.md)  
 > [com.HouseOfSecrets.hos_Tiler](com.HouseOfSecrets.hos_Tiler.md)  
+> [com.JacobDanell.STMapper](com.JacobDanell.STMapper.md)  
 > [com.AndrewHazelden.KartaVR.Tools.STMapperInline](com.AndrewHazelden.KartaVR.Tools.STMapperInline.md)  
 > [com.Hugin.PanotoolsNG](com.Hugin.PanotoolsNG.md)  
 > [com.ImageMagick.Convert](com.ImageMagick.Convert.md)  
