@@ -524,6 +524,7 @@
     - [StraightenUp_SdR](com.ShadowMakerSdR.StraightenUp_SdR.md)
   - [Warp](/ ':disabled')
     - [CubeToLatLong](com.wesuckless.CubeToLatLong.md)
+    - [Inverse STMap](com.JacobDanell.InverseSTMap.md)
     - [ml_stMap](com.Millolab.ml_stMap.md)
     - [ml_TrackerPinTool](com.Millolab.ml_TrackerPinTool.md)
     - [Nudge](com.PieterVanHoute.Nudge.md)
