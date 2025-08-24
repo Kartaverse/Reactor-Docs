@@ -1,8 +1,12 @@
 # Reactor Git Repo Location
 repoPath = "$HOME/Documents/Git/Reactor/"
 
+# Zip Package Download URL
+# ZipFile = "https://gitlab.com/AndrewHazelden/Vonk/-/archive/master/Vonk-master.zip?path=Atoms/"
+ZipFile = "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/"
+
 """
-Atom to JSON.py - 2025-08-13 12.36 PM
+Atom to JSON.py - 2025-08-24 04.41 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -174,7 +178,7 @@ def JSONCreate(folder):
 					#print(author)
 
 					# Add the GitLab Reactor repo zipped package URL
-					atomDict.update({"Zipfile":  "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/" + str(dirName)})
+					atomDict.update({"Zipfile":  str(ZipFile) + str(dirName)})
 
 					# Add an ID entry
 					atomDict.update({"ID": dirName})
