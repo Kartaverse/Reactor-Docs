@@ -19,7 +19,7 @@ ___
 <p>A colorful jelly shell that spits out drops and catches them again. All three axes can be animated.</p>
 <p>I've added a lot (maybe too many) parameters. So you can change the color, shape and movement of the jelly shell very strongly.
 
-<p>                    </p>
+<p></p>
 
 <p>Without image input, a white background appears as in the original. Alpha can be set for further use, then the background is switched to black. The resolution is adapted to the image input.</p>
 
@@ -48,17 +48,6 @@ ___
 <p><font color="fuchsia"> If you like this fuse, I would be happy to receive a message ( <a href="https://www.steakunderwater.com/wesuckless/memberlist.php?mode=viewprofile&u=4700">JiiPii</a> ).
 If you can use it very well, it would be great if you supported WSL ( <a href="https://www.steakunderwater.com">WeSuckLess</a> ).
 </font><p>
-
-
-
-
-
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
 
 ___
 

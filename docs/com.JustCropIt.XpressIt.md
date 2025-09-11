@@ -8,7 +8,7 @@ Tools/Miscellaneous
 JustCropIt
 
 ## Version
-0.0009
+0.2
 
 ___
 

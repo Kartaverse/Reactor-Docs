@@ -254,6 +254,7 @@
   - [Create Grid Collage](com.DominikBargiel.CreateGridCollage.md)
   - [Eyeon Legacy Scripts](com.wesuckless.EyeonLegacy.md)
   - [Make Local Button Script](com.MuseVFX.Loaders_MakeLocal.md)
+  - [PROPAGATE - change parameters across multiple nodes](com.DominikBargiel.Propagate.md)
   - [Comp](/ ':disabled')
     - [Anim Utility](com.AsherRoland.AnimUtility.md)
     - [Archive Composition](com.wesuckless.ArchiveComposition.md)
