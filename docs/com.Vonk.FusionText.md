@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Kristof & Cédric
 
 ## Version
-3.0
+3.01
 
 ___
 
@@ -41,6 +41,7 @@ Download a zipped atom package for offline installation:
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Comps/Kartaverse/Vonk Ultra/Demo Subtitle/Demo Subtitle.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Subtitle/Demo Subtitle.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Comps/Kartaverse/Vonk Ultra/Demo Subtitle/SRT/Reactor.srt?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Subtitle/SRT/Reactor.srt</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Comps/Kartaverse/Vonk Ultra/Demo Text/Demo Expand Escaped Characters.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Text/Demo Expand Escaped Characters.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Comps/Kartaverse/Vonk Ultra/Demo Text/Demo Text.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Text/Demo Text.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Defaults/Fuse.vTextDoString_vTextDoString.setting?ref_type=heads">Defaults/Fuse.vTextDoString_vTextDoString.setting</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Defaults/Fuse.vTextViewer_vTextViewer.setting?ref_type=heads">Defaults/Fuse.vTextViewer_vTextViewer.setting</a></li>
@@ -118,6 +119,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Temporal/vTextTimeStretch.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Temporal/vTextTimeStretch.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextDelay.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextDelay.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextDump.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextDump.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextExpandEscapedCharacters.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextExpandEscapedCharacters.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextFromCSVViewer.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextFromCSVViewer.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextLength.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextLength.fuse</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionText/Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextLineCount.fuse?ref_type=heads">Fuses/Kartaverse/Vonk Ultra/Text/Utility/vTextLineCount.fuse</a></li>
