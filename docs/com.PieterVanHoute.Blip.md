@@ -8,7 +8,7 @@ Modifiers
 Pieter Van Houte
 
 ## Version
-1.4
+2.12
 
 ___
 
@@ -19,7 +19,7 @@ ___
 
 <p>Simply do those little events by typing in the frames where you want them. Super fast, super easy. </p>
 
-<h3>A quick rundown of the available paraneters:</h3>
+<h3>A quick rundown of the available parameters:</h3>
 
 
 <ul>
@@ -28,6 +28,9 @@ ___
 <li><b>Blip Length</b>: doesn't have to be single frame Blips of course... </li>
 <li><b>Attack/Decay</b>: for Blips longer than single frames, you can fade them in or out.</li>
 <li><b>Blip Frames</b>: the frames where a Blip starts. You can type one frame per line, comma separate them, space, tab, up to you. You can be as sloppy as you damn well like! v1.4+ also supports ranges such as 1-10.</li>
+<li><b>Frame Scale</b>: Scale yor Blip frames, for example Blip frame 10 will become Blip frame 20 with Frame Scale set to 2.</li>
+<li><b>Frame Offset</b>: As above, and following the following order of operations: Frame Scale first, then Frame Offset (and you get a preview of all that so you don't have to count inside your precious head!).</li>
+<li><b>Supports decimal values!</li>
 </ul>
 
 <h4>If you like Blip and the time it saves you, please consider <a href="https://www.patreon.com/wesuckless">becoming a We Suck Less Patron</a></h4>
