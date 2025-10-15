@@ -8,7 +8,7 @@ Tools/Effect
 Stefan Ihringer
 
 ## Version
-1.6
+1.7
 
 ___
 

@@ -8,7 +8,7 @@ Scripts/Reactor
 Andrew Hazelden
 
 ## Version
-1.7
+4.0
 
 ___
 
@@ -17,7 +17,7 @@ ___
 
 <h2>Requirements</h2>
 <ul>
-<li>Python v3.6 to v3.10+ 64-bit</li>
+<li>Python v3.6 to v3.11+ 64-bit</li>
 <li>Fusion Studio 16-20+ or Resolve 16-20+</li>
 </ul>
 
@@ -38,5 +38,11 @@ Download a zipped atom package for offline installation:
 
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/Atomz Create.py?ref_type=heads">Scripts/Comp/Atomz/Atomz Create.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/Fusion Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/Fusion Atom to JSON.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/Houdini Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/Houdini Atom to JSON.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/JangaFX Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/JangaFX Atom to JSON.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/LightWave Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/LightWave Atom to JSON.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/OpenFX Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/OpenFX Atom to JSON.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/Markdown/Atom to Markdown.py?ref_type=heads">Scripts/Comp/Atomz/Markdown/Atom to Markdown.py</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Support/Atomz Create CLI.py?ref_type=heads">Scripts/Support/Atomz Create CLI.py</a></li>
 </ul>

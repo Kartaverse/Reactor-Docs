@@ -511,6 +511,7 @@
     - [Krokodove for Fusion/Resolve Studio 16](com.KomkomDoorn.KrokodoveFu16.md)
     - [Krokodove for Fusion/Resolve Studio 17](com.KomkomDoorn.KrokodoveFu17.md)
     - [Krokodove for Fusion/Resolve Studio 19](com.KomkomDoorn.KrokodoveFu19.md)
+    - [Stress Reducer](com.wesuckless.StressReducer.md)
     - [Vlam](com.KomkomDoorn.Vlam.md)
   - [Tracking](/ ':disabled')
     - [FlexiTrack](com.MuseVFX.MT_FlexiTrack.md)

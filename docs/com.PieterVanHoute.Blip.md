@@ -8,7 +8,7 @@ Modifiers
 Pieter Van Houte
 
 ## Version
-2.12
+2.52
 
 ___
 
@@ -31,6 +31,23 @@ ___
 <li><b>Frame Scale</b>: Scale yor Blip frames, for example Blip frame 10 will become Blip frame 20 with Frame Scale set to 2.</li>
 <li><b>Frame Offset</b>: As above, and following the following order of operations: Frame Scale first, then Frame Offset (and you get a preview of all that so you don't have to count inside your precious head!).</li>
 <li><b>Supports decimal values!</li>
+</ul>
+
+<font color=#ffd100><h2>Blip 2.5 -- massive overhaul!</h2></font>
+
+<h3>Thanks to <a href="https://www.steakunderwater.com/wesuckless/viewtopic.php?p=57799#p57799">input of the mighty JustCropIt</a>, version 2.5 introduces Repeats!</h3>
+
+<p>Rather than trying to explain exactly what it does, it's really worth reading the topic.</p>
+
+<h3>A quick rundown of the added parameters:</h3>
+
+
+<ul>
+<li><b>Repeat Blip</b>: how many times the blips defined in Blip Frames will be repeated - works with ranges too! </li>
+<li><b>Repeat Offset</b>: inserts an Offset between the repeats (in whole frames). </li>
+<li><b>Value Multiplier</b>: at 1 it does nothing, at 0.5 it halves the Blip Value of every repeated Blip (at 2 it doubles it). So with a Repeat Blip set to 2 instead of the Blip values being 1, 1, 1 they'd be 1, 0.5, 0.25. </li>
+<li><b>Multiplier Curve</b>: controls the Value Multiplier, Linear is as the example above, Expo is exponential allowing for easing in/out, and Spline is just wild - play with it! </li>
+<li><b>Value Overlap</b>: what happens when repeated blips are starting to overlap - keep the original Blip Value, Replace the Blip Value with the value of the repetition (post multiplier curve) or add both values together. </li>
 </ul>
 
 <h4>If you like Blip and the time it saves you, please consider <a href="https://www.patreon.com/wesuckless">becoming a We Suck Less Patron</a></h4>
