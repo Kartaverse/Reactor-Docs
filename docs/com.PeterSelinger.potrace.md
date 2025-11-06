@@ -2,7 +2,7 @@
 ___
 
 ## Category
-Bin
+Bin/Vector
 
 ## Author
 Peter Selinger

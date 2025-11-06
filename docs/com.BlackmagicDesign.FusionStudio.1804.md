@@ -1,0 +1,38 @@
+# BMD Fusion Studio 18.0.4
+___
+
+## Category
+Bin/BMD
+
+## Author
+Blackmagic Design
+
+## Version
+18.04
+
+___
+
+## Description
+<h2>Fusion Studio 18.0.4</h2>
+<p>For your convenience, here are download links to Fusion Standalone full version releases that are available on the Blackmagic Design support page.</p>
+<h2>What's new</h2>
+<p>The following features have been added or updated.</p>
+<ul>
+<li>Support for Blackmagic RAW SDK 2.7.</li>
+<li>Addressed an issue with text+ follower and motionblur.</li>
+<li>Addressed issues with the select points menu in keyframes view.</li>
+<li>General performance and stability improvements.</li>
+</ul>
+
+
+___
+
+## Download
+
+Download a zipped atom package for offline installation:
+> [com.BlackmagicDesign.FusionStudio.1804.zip](https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/com.BlackmagicDesign.FusionStudio.1804)  
+
+## Dependencies
+
+## Deploy
+

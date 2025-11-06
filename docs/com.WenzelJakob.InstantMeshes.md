@@ -2,7 +2,7 @@
 ___
 
 ## Category
-Bin
+Bin/Geo
 
 ## Author
 Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung

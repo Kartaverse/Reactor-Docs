@@ -2,7 +2,7 @@
 repoPath = "$HOME/Documents/Git/Reactor/"
 
 """
-Atom to Markdown.py - v2.0 2025-04-20 05.50 AM
+Atom to Markdown.py - v4.0 2025-10-21
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
@@ -188,7 +188,7 @@ def MarkdownCreate(folder):
 					atomFilepath = os.path.join(atomsPath, dirName, atomFilename)
 					atomDict = bmd.readfile(atomFilepath)
 					if atomDict is None:
-						print("[Atom][Get Atom Name][Atom Parsing Error]")
+						print("[Atom][Get Atom Name][Atom Parsing Error]", atomFilename)
 						return ""
 					else:
 						name = GetValue("Name", atomDict, "")
@@ -219,7 +219,7 @@ def MarkdownCreate(folder):
 	
 						atomDict = bmd.readfile(atomFilepath)
 						if atomDict is None:
-							print("[Atom][Build Categories][Atom Parsing Error]")
+							print("[Atom][Build Categories][Atom Parsing Error]", mdFileName)
 						else:
 							name = GetValue("Name", atomDict, "")
 							cat = GetValue("Category", atomDict, "")

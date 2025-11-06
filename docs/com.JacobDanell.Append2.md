@@ -19,7 +19,7 @@ ___
 <ul>
 <li>Connect up to 64 shots and append them after each other.</li>
 <li>Fade between shots</li>
-<li> Loop infinitely</li>
+<li>Loop infinitely</li>
 </ul>
 
 <p>A new version of my Append fuse! This time it works as a tool instead of a generator.</p>

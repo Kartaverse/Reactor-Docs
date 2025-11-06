@@ -2,7 +2,7 @@
 ___
 
 ## Category
-Bin
+Bin/Media
 
 ## Author
 Fredrik Mellbin

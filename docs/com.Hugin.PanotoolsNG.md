@@ -2,7 +2,7 @@
 ___
 
 ## Category
-Bin
+Bin/XR
 
 ## Author
 Hugin

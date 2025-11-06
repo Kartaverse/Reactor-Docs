@@ -8,7 +8,7 @@ Kartaverse/Vonk Ultra/Modifiers
 Dunn Lewis
 
 ## Version
-3.0
+3.1
 
 ___
 
@@ -18,7 +18,7 @@ ___
 <p>The vMograph tools are the next generation of Vonk Ultra technology that help power dynamic motion graphics. Create data driven graphics with the help of a large collection of modifier nodes, and a fuse-based 2D and 3D vector rendering engine.</p>
 
 <p>Open-Source License<br>
-The Vonk fuses are licensed under a GPL v3 license.</p>
+The Vonk fuses are licensed under a LGPL/GPL v3 license.</p>
 
 <h2>For More Info</h2>
 <p>Check out the <a href="https://www.instagram.com/vonkultra/">Vonk Ultra Instagram channel</a> for inspiration!</p>
@@ -82,6 +82,9 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/MeetMat.obj?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/MeetMat.obj</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/RubberDucky.obj?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/RubberDucky.obj</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/cubemap3x2.obj?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/Mesh/cubemap3x2.obj</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/SVG/WireframeRender.0000.svg?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/SVG/WireframeRender.0000.svg</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/ScriptVal/Airplane.table?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/ScriptVal/Airplane.table</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/TF31_USD_Import_V01.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/TF31_USD_Import_V01.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/USDA/RubberDucky.usda?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/USDA/RubberDucky.usda</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/__VONK_ALL_CREATE_NODES.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/__VONK_ALL_CREATE_NODES.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.FusionMograph/Comps/Kartaverse/Vonk Ultra/Demo Mograph/__VONK_ALL_MODiFY_NODES.comp?ref_type=heads">Comps/Kartaverse/Vonk Ultra/Demo Mograph/__VONK_ALL_MODiFY_NODES.comp</a></li>

@@ -1,17 +1,16 @@
 # Reactor Git Repo Location
-repoPath = "$HOME/Documents/Git/Reactor/"
+repoPath = "$HOME/Documents/Git/Reactor-for-OpenFX/"
 
 # Zip Package Download URL
-# ZipFile = "https://gitlab.com/AndrewHazelden/Vonk/-/archive/master/Vonk-master.zip?path=Atoms/"
-ZipFile = "https://gitlab.com/WeSuckLess/Reactor/-/archive/master/Reactor-master.zip?path=Atoms/"
+ZipFile = "https://gitlab.com/WeSuckLess/Reactor-for-OpenFX/-/archive/main/Reactor-for-OpenFX-main.zip?path=Atoms/"
 
 """
-Atom to JSON.py - 2025-08-24 04.41 PM
+OpenFX Atom to JSON.py - v4.0 2025-10-29 02.59 PM
 By Andrew Hazelden <andrew@andrewhazelden.com>
 
 Overview
 ---------
-The "Atom to JSON" Fusion comp script generates (.json) documents from Reactor Package Manager "atom" package descriptions. This allows external tools to work with atoms.
+The "OpenFX Atom to JSON" Fusion comp script generates (.json) documents from OpenFX plugin based Reactor Package Manager "atom" package descriptions. This allows external tools to work with atoms.
 
 Requirements
 ------------
@@ -19,7 +18,7 @@ Requirements
 
 Script Usage
 ------------
-Step 1. Open the "Script > Atomz > Atom to JSON" menu item. The Console window displays the atoms package conversion process.
+Step 1. Open the "Script > Atomz > OpenFX Atom to JSON" menu item. The Console window displays the atoms package conversion process.
 
 Todo
 -----
@@ -162,7 +161,7 @@ def JSONCreate(folder):
 
 				atomDict = bmd.readfile(atomFilepath)
 				if atomDict is None:
-					print("[Atom][Atom Parsing Error]")
+					print("[Atom][Atom Parsing Error]", jsonAtomName)
 				else:
 					name = GetValue("Name", atomDict, "")
 					cat = GetValue("Category", atomDict, "")
