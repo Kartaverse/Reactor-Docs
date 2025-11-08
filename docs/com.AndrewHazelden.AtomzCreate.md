@@ -38,6 +38,7 @@ Download a zipped atom package for offline installation:
 
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/Atomz Create.py?ref_type=heads">Scripts/Comp/Atomz/Atomz Create.py</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/Assimilate Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/Assimilate Atom to JSON.py</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/Fusion Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/Fusion Atom to JSON.py</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/Houdini Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/Houdini Atom to JSON.py</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.AtomzCreate/Scripts/Comp/Atomz/JSON/JangaFX Atom to JSON.py?ref_type=heads">Scripts/Comp/Atomz/JSON/JangaFX Atom to JSON.py</a></li>

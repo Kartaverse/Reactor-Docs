@@ -53,6 +53,7 @@ Download a zipped atom package for offline installation:
 
 ## Dependencies
 
+> [com.AndrewHazelden.vScriptValFromFile.DragDrop](com.AndrewHazelden.vScriptValFromFile.DragDrop.md)  
 > [com.AndrewHazelden.JSONFromFile.DragDrop](com.AndrewHazelden.JSONFromFile.DragDrop.md)  
 > [com.AndrewHazelden.vTextFromFile.DragDrop](com.AndrewHazelden.vTextFromFile.DragDrop.md)  
 > [com.Exosite.LuaYAML](com.Exosite.LuaYAML.md)  
