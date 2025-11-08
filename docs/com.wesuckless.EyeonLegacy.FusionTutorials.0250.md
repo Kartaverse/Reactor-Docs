@@ -26,7 +26,7 @@ ___
 
 <div style="max-height: 650px; max-width: 1160px; display: flex; justify-content: center; overflow: hidden;">
 <video style="max-height: 100%; width: auto;" autoplay muted loop>
-<source src="https://gitlab.com/WeSuckLess/Reactor/-/raw/master/Atoms/com.wesuckless.EyeonLegacy.FusionTutorials.0250/Docs/Eyeon%20Legacy/Digital%20Fusion%202.5%20Tutorials/Media/EyeonLogo.mp4?ref_type=heads" type="video/mp4">
+<source src="https://gitlab.com/WeSuckLess/Reactor/-/raw/master/Atoms/com.wesuckless.EyeonLegacy.FusionTutorials.0250/Docs/Eyeon%20Legacy/Digital%20Fusion%202.5%20Tutorials/Media/FusionLogo.mp4?ref_type=heads" type="video/mp4">
 <p>Video Embed - Watch the <a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.wesuckless.EyeonLegacy.FusionTutorials.0250/Docs/Eyeon%20Legacy/Digital%20Fusion%202.5%20Tutorials/Media/FusionLogo.mp4?ref_type=heads">FusionLogo.mp4</a> video in your web browser.</p>
 </video>
 </div>
