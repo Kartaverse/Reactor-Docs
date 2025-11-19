@@ -15,6 +15,8 @@ ___
 ## Description
 <p>The "Vonk vJSONFromFile DragDrop.fu" file allows you to import a .json file by dragging it into the Nodes view from a desktop Explorer/Finder/Linux folder browsing window. This is a quick way to bring external data records into your Resolve/Fusion composite. The DragDrop file supports dragging in multiple JSON elements at the same time, and each item will be imported into a separate vJSONFromFile node.</p>
 
+<p>If the JSON file is a TVPaint .json then a TVPaintLoader node is added automatically, and the TVPaint Comp Builder script it run.</p>
+
 <p>If the JSON file is a Kartaverse Lens Profile .json then a kvrFisheyeStereo node is added automatically.</p>
 
 <p>If the JSON file is a Kartaverse Comp Session .json then a pre-existing MDI (multi-document interface) compositing workspace session is restored where the .comp files are loaded automatically and the active node based selection is restored.</p>

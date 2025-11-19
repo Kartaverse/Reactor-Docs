@@ -28,13 +28,14 @@ Download a zipped atom package for offline installation:
 ## Dependencies
 
 > [com.AndrewHazelden.JSONFromFile.DragDrop](com.AndrewHazelden.JSONFromFile.DragDrop.md)  
-> [com.AndrewHazelden.vTextFromFile.DragDrop](com.AndrewHazelden.vTextFromFile.DragDrop.md)  
 > [com.AndrewHazelden.vScriptValFromFile.DragDrop](com.AndrewHazelden.vScriptValFromFile.DragDrop.md)  
+> [com.AndrewHazelden.vTextFromFile.DragDrop](com.AndrewHazelden.vTextFromFile.DragDrop.md)  
 ## Deploy
 
 ### Common (No Architecture)
 
 <ul>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Invert Node Selection.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Invert Node Selection.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Comps Folder.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Comps Folder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Docs Local.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Docs Local.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Docs Online.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Docs Online.lua</a></li>
@@ -42,6 +43,7 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Lua Modules Folder.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Lua Modules Folder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Macros Folder.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Macros Folder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Open/Show Temp Folder.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Open/Show Temp Folder.lua</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Remove Unselected Nodes.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Remove Unselected Nodes.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Render Current Frame.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Render Current Frame.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Render Selected.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Render Selected.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Vonk.Scripts/Scripts/Comp/Vonk Ultra/Tools/Add Vonk Switch Node.lua?ref_type=heads">Scripts/Comp/Vonk Ultra/Tools/Add Vonk Switch Node.lua</a></li>

@@ -8,18 +8,23 @@ Tools/IO
 Andrew Hazelden
 
 ## Version
-2.2
+3.0
 
 ___
 
 ## Description
-<p>LifeSaver is a fuse based replacement for the traditional Saver or MediaOut nodes. This fuse uses EXRIO for the file output and supports multi-channel and multi-part EXR image saving. This node is special in that you can use the same node in comps that are created inside of both Resolve's Fusion page and inside of Fusion Standalone.</p>
+<h1>LifeSaver Fuse</h1>
 
-<p>Fusion 9-18 or Resolve 15-18 is required.</p>
+<p>LifeSaver is a fuse based replacement for the traditional Saver or MediaOut nodes. This fuse uses EXRIO for the file output and supports multi-channel and multi-part EXR image saving. This node is special in that you can use the same node in comps that are created inside of both Resolve's Fusion page and inside of Fusion Standalone.</p>
 
 <p>Now includes customizable EXR compression format support.</p>
 
-<h1>Usage</h1>
+<p>There is a handy "Script&gt;LifeSaver Selected" script that inserts a new LifeSaver node and auto-connects the selected nodes as input connections.</p>
+
+<h2>Requirements</h2>
+<p>Fusion v9-20+ or Resolve v15-20+ is required.</p>
+
+<h2>Usage</h2>
 
 <p>Enter the filename for your image sequence into the Filename field.</p>
 
@@ -37,7 +42,7 @@ ___
 
 <p>Note: Currently the EXR image format is the only supported output format in the LifeSaver fuse. In the future, it is (theoretically) possible to use the fuse based Clip() function to write out each of the individual flat image channels to disk using other image formats if that was a popular and frequently requested feature.</p>
 
-<h1>Tokens</h1>
+<h2>Tokens</h2>
 
 <p>LifeSaver supports the use of the following pre-defined token values in the Filename field. If any other value is written inside the ${} token format it will be looked up as if it was an environment variable.</p>
 
@@ -74,7 +79,7 @@ The current unpadded frame number (1001).
 
 <h3>0000</h3>
 
-The number you type in at the end of the filename before the file extension can be used as a frame padding indicator. The number of digits you add define how much padding is added. You can also type a number other then '0000' like '1001' and this value will be used along side the 'Sequence Offset' value on the node when you have the [x] Saver Relative Numbering checkbox enabled.
+The number you type in at the end of the filename before the file extension can be used as a frame padding indicator. The number of digits you add define how much padding is added. You can also type a number other then '0000' like '1001' and this value will be used along side the 'Sequence Offset' value on the node when you have the &#91;x&#93; Saver Relative Numbering checkbox enabled.
 
 <h3>&#37;04d</h3>
 
@@ -115,4 +120,5 @@ Download a zipped atom package for offline installation:
 <ul>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.LifeSaver/Config/IO/LifeSaver.fu?ref_type=heads">Config/IO/LifeSaver.fu</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.LifeSaver/Fuses/IO/LifeSaver.fuse?ref_type=heads">Fuses/IO/LifeSaver.fuse</a></li>
+<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AndrewHazelden.LifeSaver/Scripts/Comp/LifeSaver Selected.lua?ref_type=heads">Scripts/Comp/LifeSaver Selected.lua</a></li>
 </ul>

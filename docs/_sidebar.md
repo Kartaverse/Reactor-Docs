@@ -532,6 +532,7 @@
     - [se_RollerCaster](com.SirEdric.se_RollerCaster.md)
     - [sMerge Selected](com.AndrewHazelden.sMergeSelected.md)
     - [SplitComp](com.SirEdric.se_SplitComp.md)
+    - [Swizzle Selected](com.AndrewHazelden.SwizzleSelected.md)
     - [Text-to-Image-SD](com.HeiBa.Text-to-Image-SD.md)
     - [Toggle Tracker Paths](com.MuseVFX.toggleTrackerPaths.md)
     - [Tool Color Script](com.wesuckless.ToolColor.md)
