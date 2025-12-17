@@ -346,6 +346,7 @@
       - [KartaVP Scripts | Render Time Profiler](com.AndrewHazelden.KartaVP.Scripts.RenderTimeProfiler.md)
       - [KartaVP Scripts | USD Outliner](com.AndrewHazelden.KartaVP.Scripts.USDOutliner.md)
     - [Tools](/ ':disabled')
+      - [KartaVP Tools | ILPD Metadata](com.AndrewHazelden.KartaVP.ILPDMetadata.md)
       - [KartaVP Tools | kvrCreateStereo](com.AndrewHazelden.KartaVP.Tools.kvrCreateStereo.md)
       - [KartaVP Tools | kvrCropStereo](com.AndrewHazelden.KartaVP.Tools.kvrCropStereo.md)
       - [KartaVP Tools | kvrCubic](com.AndrewHazelden.KartaVP.Tools.kvrCubic.md)
