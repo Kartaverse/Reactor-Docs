@@ -8,7 +8,7 @@ Scripts
 Dominik Bargiel
 
 ## Version
-1.0
+1.2
 
 ___
 

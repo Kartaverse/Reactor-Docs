@@ -21,20 +21,16 @@ ___
 Nodes:
 <ul>
 <li>The "kvrCreatePBR" fuse generates a PBR texture map set from an image using the Beeble Switchlight API. Now includes Windows OS support.</li>
-
 </ul>
 
 <h2>Requirements</h2>
 <p>The MultiView data nodes depend on the installation of Vonk Ultra from the Reactor Package Manager. The kvrCreatePBR fuse requires the use of a <a href="https://www.switchlight.beeble.ai/">Beeble SwitchLight Account</a> with active credits.</p>
 
 <h2>Example Comps:</h2>
-
 <p>The Kartaverse MultiView example comps are installed on your system in the "AllData:/Reactor/" PathMap folder path of:<br>
 <a href="file://Reactor:/Deploy/Comps/Kartaverse/MultiView/">Reactor:/Deploy/Comps/Kartaverse/MultiView/</a></p>
 
-
 <h2>Documentation:</h2>
-
 <p>The Kartaverse MultiView docs are installed on your system in the "AllData:/Reactor/" PathMap folder path of:<br>
 <a href="file://Reactor:/Deploy/Docs/Kartaverse/MultiView/README.html">Reactor:/Deploy/Docs/Kartaverse/MultiView/README.html</a></p>
 

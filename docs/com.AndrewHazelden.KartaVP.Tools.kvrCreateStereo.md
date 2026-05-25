@@ -18,7 +18,7 @@ ___
 <h2>Fuse Support Requirements</h2>
 
 <ul>
-<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
+<li>Fusion Studio 16-20+ or Resolve 16-20+</li>
 </ul>
 
 <h2>Open Source Software License</h2>

@@ -23,7 +23,7 @@ ___
 
 <p>PointCloud3D node based points or FBXMesh3D node OBJ mesh vertices can be exported to XYZ ASCII (.xyz), PLY ASCII (.ply), and JSON Array (.json), formats. Camera3D nodes with per-frame Keyframe animated XYZ translation/rotation keys can be exported to the PIXAR USD ASCII (.usda), and Maya MOVE ASCII (.mov) format. Static (non-animated) Camera3D nodes can be exported to the Maya ASCII 2019 (.ma) format. Keyframe animated FBXMesh3D nodes with per-frame XYZ translation/rotation keys can be exported to the Maya MOVE ASCII (.mov) format. AlembicMesh3D nodes can be exported to the PIXAR USD ASCII (.usda), Maya ASCII 2019 (.ma), and Maya MOVE ASCII (.mov) format.</p>
 
-<p>Note: <i>There is a &quot;KartaVR DragDrop&quot; atom package in Reactor that provides a matching .xyz point cloud importer functionality via dragging the .xyz file from your desktop folder into the Fusion/Resolve v16+ nodes views.</i></p>
+<p>Note: <i>There is a &quot;KartaVR DragDrop&quot; atom package in Reactor that provides a matching .xyz point cloud importer functionality via dragging the .xyz file from your desktop folder into the Fusion/Resolve v16-20+ nodes views.</i></p>
 
 <h2>For More Information About Camera Metadata</h2>
 

@@ -18,7 +18,7 @@ ___
 <p>If a light is set to PassThrough mode then it is listed in the Tree view with a "disabled" shading tint for informational purposes. You can still edit the light's parameters and toggle its PassThrough state.</p>
 
 <p>Requirements:<br>
-Resolve/Fusion v16-19+ is required to use this script due to the use of icon resources in the ui.Tree list view.<br>
+Resolve/Fusion v16-20+ is required to use this script due to the use of icon resources in the ui.Tree list view.<br>
 Python v3.6+ is required as well.</p>
 
 ___

@@ -29,7 +29,7 @@ Nusion is MIT licensed open-source software.
 
 <h2>For More Info</h2>
 
-To get started using Nusion, make sure to check out the <a href="https://github.com/AndrewHazelden/NusionConverter">NusionConverter GitHub repo</a>.
+<p>To get started using Nusion, make sure to check out the NusionConverter GitHub repo: <a href="https://github.com/AndrewHazelden/NusionConverter">https://github.com/AndrewHazelden/NusionConverter</a></p>
 
 <p>The "Paste Nusion" comp script/menu item uses the NodeJS/Python based "Nusion" flask appication that is able to run locally on your system, or on a server that is accessible to workstations on your local LAN. The NusionConverter GitHub repo provides details on the local webapp installation process.</p>
 

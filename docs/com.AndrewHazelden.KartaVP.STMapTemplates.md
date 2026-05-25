@@ -32,7 +32,6 @@ ___
 <p>If for any reason, you need to create your own custom STMap warping templates from scratch, make sure to check out the Kartaverse "<a href="https://kartaverse.github.io/Kartaverse-Docs/#/kvrFisheyeStereo">Lens Profiles</a>" atom package in Reactor. This is where you will find the kvrFisheyeStereo node that streamlines a VR180 lens profiling task when you need to work with new cameras and lens combinations.</p>
 
 <h2>Requirements</h2>
-
 <ul>
 <li>Kartaverse "kvrSuperSTMap" macro from the Reactor Package Manager</li>
 <li>EmberlightVFX "STMapper.fuse" from the Reactor Package Manager</li>

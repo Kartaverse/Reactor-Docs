@@ -22,7 +22,6 @@ ___
 <p>The "ILPD" data nodes depend on the installation of Vonk Ultra from the Reactor Package Manager.</p>
 
 <h2>Example Comps:</h2>
-
 <p>The Kartaverse ILPD example comp is installed on your system in the "AllData:/Reactor/" PathMap folder path of:<br>
 <a href="file://Reactor:/Deploy/Comps/Kartaverse/KartaVP/ILPD/">Reactor:/Deploy/Comps/Kartaverse/KartaVP/ILPD/</a></p>
 

@@ -8,7 +8,7 @@ Tools/3D
 Dominik Bargiel
 
 ## Version
-1.0
+1.1
 
 ___
 

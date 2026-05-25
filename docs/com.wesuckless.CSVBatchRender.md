@@ -8,7 +8,7 @@ Scripts/Comp
 Eyeon
 
 ## Version
-1.0
+2.0
 
 ___
 

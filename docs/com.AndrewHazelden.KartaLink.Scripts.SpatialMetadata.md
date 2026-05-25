@@ -22,7 +22,7 @@ ___
 <ul>
 <li>macOS 14 Sonoma+</li>
 <li>Apple Silicon ARM64 CPU</li>
-<li>Resolve Studio v18.5-19+</li>
+<li>Resolve Studio v18.5-20+</li>
 <li>Spatial CLI program from the Homebrew Package Manager</li>
 </ul>
 
@@ -33,7 +33,6 @@ ___
 </ul>
 
 <h2>Spatial CLI Install Process:</h2>
-
 <pre># Install Homebrew using the macOS terminal:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
@@ -42,11 +41,9 @@ brew install spatial
 </pre>
 
 <h2>Resolve Deliver Page Script</h2>
-
 <p>A Resolve Deliver page script can be used to automatically create an MV-HEVC encoded video for the current render job.</p>
 
 <h3>Script Usage:</h3>
-
 <p>1. Switch to the Deliver page.</p>
 
 <p>2. In the Render Settings dialog, click on the "Video" tab. Expand the "Advanced Settings" section.</p>

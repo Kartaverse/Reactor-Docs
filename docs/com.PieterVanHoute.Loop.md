@@ -8,7 +8,7 @@ Tools/Flow
 Pieter Van Houte
 
 ## Version
-1.02
+1.1
 
 ___
 
@@ -53,7 +53,6 @@ Download a zipped atom package for offline installation:
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Comps/Loop/Trails.comp?ref_type=heads">Comps/Loop/Trails.comp</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Macros/Loop/LoopEnd.setting?ref_type=heads">Macros/Loop/LoopEnd.setting</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Macros/Loop/LoopStart.setting?ref_type=heads">Macros/Loop/LoopStart.setting</a></li>
-<li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Modules/Lua/SuckLessDialogs.lua?ref_type=heads">Modules/Lua/SuckLessDialogs.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Scripts/Support/Loop/AbortLoop.lua?ref_type=heads">Scripts/Support/Loop/AbortLoop.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Scripts/Support/Loop/OpenCacheFolder.lua?ref_type=heads">Scripts/Support/Loop/OpenCacheFolder.lua</a></li>
 <li><a href="https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.PieterVanHoute.Loop/Scripts/Support/Loop/RunLoop.lua?ref_type=heads">Scripts/Support/Loop/RunLoop.lua</a></li>

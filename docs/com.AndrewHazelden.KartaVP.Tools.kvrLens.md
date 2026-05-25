@@ -24,7 +24,7 @@ Reactor:/Deploy/Bin/Kartaverse/LUT/</p>
 
 <ul>
 <li>An OpenCL, CUDA, or Metal based GPU</li>
-<li>Fusion Studio 16-19+ or Resolve 16-19+</li>
+<li>Fusion Studio 16-20+ or Resolve 16-20+</li>
 </ul>
 
 <h2>Open Source Software License</h2>

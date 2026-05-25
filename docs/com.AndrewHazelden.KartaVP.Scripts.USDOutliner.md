@@ -16,7 +16,7 @@ ___
 <p>This script allows to you to browse the disk-based OpenUSD stage hierarchy in Fusion based uLoader nodes.</p>
 
 <p>Requirements:<br>
-Resolve/Fusion v18.5-19+ is required to use this script since it relies on the USD nodes.</p>
+Resolve/Fusion v18.5-20+ is required to use this script since it relies on the USD nodes.</p>
 
 ___
 

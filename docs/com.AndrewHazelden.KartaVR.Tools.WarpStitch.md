@@ -23,7 +23,7 @@ ___
 
 <ul>
 <li>An OpenCL, CUDA, or Metal based GPU</li>
-<li>Fusion Studio 17-19+ or Resolve 17-19+</li>
+<li>Fusion Studio 17-20+ or Resolve 17-20+</li>
 </ul>
 
 <h2>Open Source Software License</h2>

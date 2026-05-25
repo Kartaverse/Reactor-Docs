@@ -42,7 +42,6 @@ ___
 <p>The "Close Sessions" menu item closes all of the open comp tabs. You are asked to save each .comp file if there are any changes.</p>
 
 <h2>Session Files</h2>
-
 <p>Comp session files are saved in a .json file format. The default comp session document storage path is:<br>
 <a href="file://Reactor:/Deploy/Scripts/Support/Kartaverse/Sessions/">Reactor://Deploy/Scripts/Support/Kartaverse/Sessions/</a></p>
 

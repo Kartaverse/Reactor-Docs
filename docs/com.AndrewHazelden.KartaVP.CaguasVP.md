@@ -20,7 +20,6 @@ ___
 <p>Finally, rest of the example composite shows how to create a simulated virtual production LED video stage wall using Fusion's 3D workspace. The panoramic imagery is automatically placed onto this LED video wall surface. A Camera3D node can then be flown around inside the virtual production stage filming volume to create previz versions of shots with the wrap-around live-action background plate visible.</p>
 
 <h2>About the Footage</h2>
-
 <p>The "Nighttime View of Caguas, Puerto Rico (Dec 2021)" media was filmed by <a href="https://www.instagram.com/cave_manpr/">Robert Moreno</a>. Robert's photographic process helped produced a cylindrical image projection output, with plenty of overlap to allow for precise artist-controlled blending and masking of each view.</p>
 
 <p>This sample footage was captured using a Nikon D750 Camera with an AF DX Fisheye-Nikkor 10.5mm F/2.8 ED lens. A Nodal Ninja panoramic head was adjusted to an indexed rotation value of 15 degrees per view rotation increment, and 12 view angles were captured in the Nikon RAW NEF image format starting at 1:30 AM, local time on 2021-12-08. The pictures had an average of a 30 second exposure time, ISO 1600, aperture F/8, and the content was captured using a manual exposure mode.</p>
