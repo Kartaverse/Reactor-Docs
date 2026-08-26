@@ -1,5 +1,5 @@
 """
-AtomzCreate - v4.0 2025-10-14
+AtomzCreate - v4.0 2026-05-22
 By Andrew Hazelden <andrew@andrewhazelden.com
 
 Convert a GitLab Reactor repository folder into individually zipped atomz packaged archives. The zipped packages are easier to use and manage with a NAS-based offline Reactor Package installation approach.
